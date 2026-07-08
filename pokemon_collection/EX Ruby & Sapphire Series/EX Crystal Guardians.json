@@ -1,0 +1,4971 @@
+{
+  "title": "EX Crystal Guardians Set",
+  "link": "/EX-Crystal-Guardians-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.logo.65.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.symbol.65.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Banette",
+      "title": "Banette - EX Crystal Guardians #1",
+      "link": "/EX-Crystal-Guardians-Expansion/Banette-Card-1",
+      "image": "https://den-cards.pokellector.com/65/Banette.CG.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Banette.CG.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "1/100",
+      "card_number": "1",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Banette.CG.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fbanette"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.79",
+          "link": "http://www.trollandtoad.com/p156838.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Banette+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Banette+-+1%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/cg-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Blastoise  (delta species)",
+      "title": "Blastoise  (delta species) - EX Crystal Guardians #2",
+      "link": "/EX-Crystal-Guardians-Expansion/Blastoise-delta-species-Card-2",
+      "image": "https://den-cards.pokellector.com/65/Blastoise-delta-species.CG.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Blastoise-delta-species.CG.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "2/100",
+      "card_number": "2",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Blastoise-delta-species.CG.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$250.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fblastoise-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$64.99",
+          "link": "http://www.trollandtoad.com/p156856.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Blastoise++%28delta+species%29+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$18.95",
+          "link": "http://stop2shop.com/cg-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Camerupt",
+      "title": "Camerupt - EX Crystal Guardians #3",
+      "link": "/EX-Crystal-Guardians-Expansion/Camerupt-Card-3",
+      "image": "https://den-cards.pokellector.com/65/Camerupt.CG.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Camerupt.CG.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "3/100",
+      "card_number": "3",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Camerupt.CG.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.87",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcamerupt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p156871.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Camerupt+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Camerupt+-+3%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/cg-003.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Charizard  (delta species)",
+      "title": "Charizard  (delta species) - EX Crystal Guardians #4",
+      "link": "/EX-Crystal-Guardians-Expansion/Charizard-delta-species-Card-4",
+      "image": "https://den-cards.pokellector.com/65/Charizard-.CG.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Charizard-.CG.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "4/100",
+      "card_number": "4",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Charizard-.CG.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$379.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcharizard-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1754114.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$105.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Charizard++%28delta+species%29+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$69.95",
+          "link": "http://stop2shop.com/cg-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Dugtrio",
+      "title": "Dugtrio - EX Crystal Guardians #5",
+      "link": "/EX-Crystal-Guardians-Expansion/Dugtrio-Card-5",
+      "image": "https://den-cards.pokellector.com/65/Dugtrio.CG.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Dugtrio.CG.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "5/100",
+      "card_number": "5",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Dugtrio.CG.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdugtrio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p156984.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Dugtrio+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dugtrio+-+5%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/cg-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Ludicolo  (delta species)",
+      "title": "Ludicolo  (delta species) - EX Crystal Guardians #6",
+      "link": "/EX-Crystal-Guardians-Expansion/Ludicolo-delta-species-Card-6",
+      "image": "https://den-cards.pokellector.com/65/Ludicolo-.CG.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Ludicolo-.CG.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "6/100",
+      "card_number": "6",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Ludicolo-.CG.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fludicolo-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p157193.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Ludicolo++%28delta+species%29+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/cg-006.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Luvdisc",
+      "title": "Luvdisc - EX Crystal Guardians #7",
+      "link": "/EX-Crystal-Guardians-Expansion/Luvdisc-Card-7",
+      "image": "https://den-cards.pokellector.com/65/Luvdisc.CG.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Luvdisc.CG.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "7/100",
+      "card_number": "7",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Luvdisc.CG.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fluvdisc"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p157197.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Luvdisc+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luvdisc+-+7%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Manectric",
+      "title": "Manectric - EX Crystal Guardians #8",
+      "link": "/EX-Crystal-Guardians-Expansion/Manectric-Card-8",
+      "image": "https://den-cards.pokellector.com/65/Manectric.CG.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Manectric.CG.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "8/100",
+      "card_number": "8",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Manectric.CG.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmanectric"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p157214.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Manectric+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Manectric+-+8%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-008.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Mawile",
+      "title": "Mawile - EX Crystal Guardians #9",
+      "link": "/EX-Crystal-Guardians-Expansion/Mawile-Card-9",
+      "image": "https://den-cards.pokellector.com/65/Mawile.CG.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Mawile.CG.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "9/100",
+      "card_number": "9",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Mawile.CG.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmawile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.19",
+          "link": "http://www.trollandtoad.com/p157230.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Mawile+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mawile+-+9%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-009.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Sableye",
+      "title": "Sableye - EX Crystal Guardians #10",
+      "link": "/EX-Crystal-Guardians-Expansion/Sableye-Card-10",
+      "image": "https://den-cards.pokellector.com/65/Sableye.CG.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Sableye.CG.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "10/100",
+      "card_number": "10",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Sableye.CG.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fsableye"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.59",
+          "link": "http://www.trollandtoad.com/p1123984.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Sableye+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/cg-010.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sableye+-+10%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Swalot",
+      "title": "Swalot - EX Crystal Guardians #11",
+      "link": "/EX-Crystal-Guardians-Expansion/Swalot-Card-11",
+      "image": "https://den-cards.pokellector.com/65/Swalot.CG.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Swalot.CG.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "11/100",
+      "card_number": "11",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Swalot.CG.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fswalot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p157518.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Swalot+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-011.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swalot+-+11%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Tauros",
+      "title": "Tauros - EX Crystal Guardians #12",
+      "link": "/EX-Crystal-Guardians-Expansion/Tauros-Card-12",
+      "image": "https://den-cards.pokellector.com/65/Tauros.CG.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Tauros.CG.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "12/100",
+      "card_number": "12",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Tauros.CG.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ftauros"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.39",
+          "link": "http://www.trollandtoad.com/p157530.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Tauros+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tauros+-+12%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/cg-012.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Wigglytuff",
+      "title": "Wigglytuff - EX Crystal Guardians #13",
+      "link": "/EX-Crystal-Guardians-Expansion/Wigglytuff-Card-13",
+      "image": "https://den-cards.pokellector.com/65/Wigglytuff.CG.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Wigglytuff.CG.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "13/100",
+      "card_number": "13",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Wigglytuff.CG.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwigglytuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p1124004.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Wigglytuff+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wigglytuff+-+13%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/cg-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Blastoise",
+      "title": "Blastoise - EX Crystal Guardians #14",
+      "link": "/EX-Crystal-Guardians-Expansion/Blastoise-Card-14",
+      "image": "https://den-cards.pokellector.com/65/Blastoise.CG.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Blastoise.CG.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "14/100",
+      "card_number": "14",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Blastoise.CG.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fblastoise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.59",
+          "link": "http://www.trollandtoad.com/p156855.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Blastoise+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blastoise+-+14%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.95",
+          "link": "http://stop2shop.com/cg-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Cacturne  (delta species)",
+      "title": "Cacturne  (delta species) - EX Crystal Guardians #15",
+      "link": "/EX-Crystal-Guardians-Expansion/Cacturne-delta-species-Card-15",
+      "image": "https://den-cards.pokellector.com/65/Cacturne-.CG.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Cacturne-.CG.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "15/100",
+      "card_number": "15",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Cacturne-.CG.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcacturne-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p156868.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Cacturne++%28delta+species%29+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Combusken",
+      "title": "Combusken - EX Crystal Guardians #16",
+      "link": "/EX-Crystal-Guardians-Expansion/Combusken-Card-16",
+      "image": "https://den-cards.pokellector.com/65/Combusken.CG.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Combusken.CG.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "16/100",
+      "card_number": "16",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Combusken.CG.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.72",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcombusken-16"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p156914.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Combusken+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combusken+-+16%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-016.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Dusclops",
+      "title": "Dusclops - EX Crystal Guardians #17",
+      "link": "/EX-Crystal-Guardians-Expansion/Dusclops-Card-17",
+      "image": "https://den-cards.pokellector.com/65/Dusclops.CG.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Dusclops.CG.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "17/100",
+      "card_number": "17",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Dusclops.CG.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.46",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdusclops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p156986.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Dusclops+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/cg-017.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusclops+-+17%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Fearow  (delta species)",
+      "title": "Fearow  (delta species) - EX Crystal Guardians #18",
+      "link": "/EX-Crystal-Guardians-Expansion/Fearow-delta-species-Card-18",
+      "image": "https://den-cards.pokellector.com/65/Fearow-.CG.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Fearow-.CG.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "18/100",
+      "card_number": "18",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Fearow-.CG.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ffearow-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157018.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Fearow++%28delta+species%29+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/cg-018.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Grovyle  (delta species)",
+      "title": "Grovyle  (delta species) - EX Crystal Guardians #19",
+      "link": "/EX-Crystal-Guardians-Expansion/Grovyle-delta-species-Card-19",
+      "image": "https://den-cards.pokellector.com/65/Grovyle-.CG.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Grovyle-.CG.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "19/100",
+      "card_number": "19",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Grovyle-.CG.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fgrovyle-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p157072.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Grovyle++%28delta+species%29+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Grumpig",
+      "title": "Grumpig - EX Crystal Guardians #20",
+      "link": "/EX-Crystal-Guardians-Expansion/Grumpig-Card-20",
+      "image": "https://den-cards.pokellector.com/65/Grumpig.CG.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Grumpig.CG.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "20/100",
+      "card_number": "20",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Grumpig.CG.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fgrumpig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157074.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Grumpig+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grumpig+-+20%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Igglybuff",
+      "title": "Igglybuff - EX Crystal Guardians #21",
+      "link": "/EX-Crystal-Guardians-Expansion/Igglybuff-Card-21",
+      "image": "https://den-cards.pokellector.com/65/Igglybuff.CG.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Igglybuff.CG.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "21/100",
+      "card_number": "21",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Igglybuff.CG.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.53",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Figglybuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p157122.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Igglybuff+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Igglybuff+-+21%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Kingler  (delta species)",
+      "title": "Kingler  (delta species) - EX Crystal Guardians #22",
+      "link": "/EX-Crystal-Guardians-Expansion/Kingler-delta-species-Card-22",
+      "image": "https://den-cards.pokellector.com/65/Kingler-delta-species.CG.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Kingler-delta-species.CG.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "22/100",
+      "card_number": "22",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Kingler-delta-species.CG.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fkingler-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157147.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Kingler++%28delta+species%29+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-022.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Loudred",
+      "title": "Loudred - EX Crystal Guardians #23",
+      "link": "/EX-Crystal-Guardians-Expansion/Loudred-Card-23",
+      "image": "https://den-cards.pokellector.com/65/Loudred.CG.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Loudred.CG.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "23/100",
+      "card_number": "23",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Loudred.CG.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Floudred"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157191.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Loudred+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Loudred+-+23%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-023.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Marshtomp",
+      "title": "Marshtomp - EX Crystal Guardians #24",
+      "link": "/EX-Crystal-Guardians-Expansion/Marshtomp-Card-24",
+      "image": "https://den-cards.pokellector.com/65/Marshtomp.CG.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Marshtomp.CG.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "24/100",
+      "card_number": "24",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Marshtomp.CG.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmarshtomp-24"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157221.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Marshtomp+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marshtomp+-+24%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Medicham",
+      "title": "Medicham - EX Crystal Guardians #25",
+      "link": "/EX-Crystal-Guardians-Expansion/Medicham-Card-25",
+      "image": "https://den-cards.pokellector.com/65/Medicham.CG.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Medicham.CG.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "25/100",
+      "card_number": "25",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Medicham.CG.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmedicham"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157232.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Medicham+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Medicham+-+25%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Pelipper  (delta species)",
+      "title": "Pelipper  (delta species) - EX Crystal Guardians #26",
+      "link": "/EX-Crystal-Guardians-Expansion/Pelipper-delta-species-Card-26",
+      "image": "https://den-cards.pokellector.com/65/Pelipper-delta-species.CG.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Pelipper-delta-species.CG.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "26/100",
+      "card_number": "26",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Pelipper-delta-species.CG.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fpelipper-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157314.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Pelipper++%28delta+species%29+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.95",
+          "link": "http://stop2shop.com/cg-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Swampert",
+      "title": "Swampert - EX Crystal Guardians #27",
+      "link": "/EX-Crystal-Guardians-Expansion/Swampert-Card-27",
+      "image": "https://den-cards.pokellector.com/65/Swampert.CG.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Swampert.CG.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "27/100",
+      "card_number": "27",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Swampert.CG.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fswampert"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.29",
+          "link": "http://www.trollandtoad.com/p157520.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Swampert+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.95",
+          "link": "http://stop2shop.com/cg-027.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swampert+-+27%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Venusaur",
+      "title": "Venusaur - EX Crystal Guardians #28",
+      "link": "/EX-Crystal-Guardians-Expansion/Venusaur-Card-28",
+      "image": "https://den-cards.pokellector.com/65/Venusaur.CG.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Venusaur.CG.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "28/100",
+      "card_number": "28",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Venusaur.CG.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fvenusaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.09",
+          "link": "http://www.trollandtoad.com/p157603.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Venusaur+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Venusaur+-+28%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/cg-028.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Charmeleon",
+      "title": "Charmeleon - EX Crystal Guardians #29",
+      "link": "/EX-Crystal-Guardians-Expansion/Charmeleon-Card-29",
+      "image": "https://den-cards.pokellector.com/65/Charmeleon.CG.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Charmeleon.CG.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "29/100",
+      "card_number": "29",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Charmeleon.CG.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcharmeleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p156890.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Charmeleon+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmeleon+-+29%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-029.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Charmeleon  (delta species)",
+      "title": "Charmeleon  (delta species) - EX Crystal Guardians #30",
+      "link": "/EX-Crystal-Guardians-Expansion/Charmeleon-delta-species-Card-30",
+      "image": "https://den-cards.pokellector.com/65/Charmeleon-.CG.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Charmeleon-.CG.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "30/100",
+      "card_number": "30",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Charmeleon-.CG.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcharmeleon-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p156891.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Charmeleon++%28delta+species%29+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Combusken",
+      "title": "Combusken - EX Crystal Guardians #31",
+      "link": "/EX-Crystal-Guardians-Expansion/Combusken-Card-31",
+      "image": "https://den-cards.pokellector.com/65/Combusken.CG.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Combusken.CG.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "31/100",
+      "card_number": "31",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Combusken.CG.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.51",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcombusken-31"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156916.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Combusken+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combusken+-+31%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Grovyle",
+      "title": "Grovyle - EX Crystal Guardians #32",
+      "link": "/EX-Crystal-Guardians-Expansion/Grovyle-Card-32",
+      "image": "https://den-cards.pokellector.com/65/Grovyle.CG.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Grovyle.CG.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "32/100",
+      "card_number": "32",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Grovyle.CG.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fgrovyle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157073.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Grovyle+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-032.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grovyle+-+32%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Gulpin",
+      "title": "Gulpin - EX Crystal Guardians #33",
+      "link": "/EX-Crystal-Guardians-Expansion/Gulpin-Card-33",
+      "image": "https://den-cards.pokellector.com/65/Gulpin.CG.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Gulpin.CG.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "33/100",
+      "card_number": "33",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Gulpin.CG.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fgulpin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157076.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Gulpin+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gulpin+-+33%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Ivysaur",
+      "title": "Ivysaur - EX Crystal Guardians #34",
+      "link": "/EX-Crystal-Guardians-Expansion/Ivysaur-Card-34",
+      "image": "https://den-cards.pokellector.com/65/Ivysaur.CG.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Ivysaur.CG.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "34/100",
+      "card_number": "34",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Ivysaur.CG.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fivysaur-34"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p157128.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Ivysaur+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-034.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ivysaur+-+34%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Ivysaur",
+      "title": "Ivysaur - EX Crystal Guardians #35",
+      "link": "/EX-Crystal-Guardians-Expansion/Ivysaur-Card-35",
+      "image": "https://den-cards.pokellector.com/65/Ivysaur.CG.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Ivysaur.CG.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "35/100",
+      "card_number": "35",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Ivysaur.CG.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fivysaur-35"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p157129.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Ivysaur+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ivysaur+-+35%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-035.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Lairon",
+      "title": "Lairon - EX Crystal Guardians #36",
+      "link": "/EX-Crystal-Guardians-Expansion/Lairon-Card-36",
+      "image": "https://den-cards.pokellector.com/65/Lairon.CG.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Lairon.CG.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "36/100",
+      "card_number": "36",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Lairon.CG.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Flairon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157162.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Lairon+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lairon+-+36%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Lombre",
+      "title": "Lombre - EX Crystal Guardians #37",
+      "link": "/EX-Crystal-Guardians-Expansion/Lombre-Card-37",
+      "image": "https://den-cards.pokellector.com/65/Lombre.CG.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Lombre.CG.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "37/100",
+      "card_number": "37",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Lombre.CG.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Flombre"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157189.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Lombre+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lombre+-+37%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Marshtomp",
+      "title": "Marshtomp - EX Crystal Guardians #38",
+      "link": "/EX-Crystal-Guardians-Expansion/Marshtomp-Card-38",
+      "image": "https://den-cards.pokellector.com/65/Marshtomp.CG.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Marshtomp.CG.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "38/100",
+      "card_number": "38",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Marshtomp.CG.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmarshtomp-38"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157222.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Marshtomp+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marshtomp+-+38%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Nuzleaf",
+      "title": "Nuzleaf - EX Crystal Guardians #39",
+      "link": "/EX-Crystal-Guardians-Expansion/Nuzleaf-Card-39",
+      "image": "https://den-cards.pokellector.com/65/Nuzleaf.CG.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Nuzleaf.CG.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "39/100",
+      "card_number": "39",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Nuzleaf.CG.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fnuzleaf"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157301.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Nuzleaf+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-039.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nuzleaf+-+39%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Shuppet",
+      "title": "Shuppet - EX Crystal Guardians #40",
+      "link": "/EX-Crystal-Guardians-Expansion/Shuppet-Card-40",
+      "image": "https://den-cards.pokellector.com/65/Shuppet.CG.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Shuppet.CG.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "40/100",
+      "card_number": "40",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Shuppet.CG.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fshuppet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157450.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Shuppet+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuppet+-+40%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Skitty",
+      "title": "Skitty - EX Crystal Guardians #41",
+      "link": "/EX-Crystal-Guardians-Expansion/Skitty-Card-41",
+      "image": "https://den-cards.pokellector.com/65/Skitty.CG.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Skitty.CG.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "41/100",
+      "card_number": "41",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Skitty.CG.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fskitty"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157458.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Skitty+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skitty+-+41%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/cg-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Wartortle",
+      "title": "Wartortle - EX Crystal Guardians #42",
+      "link": "/EX-Crystal-Guardians-Expansion/Wartortle-Card-42",
+      "image": "https://den-cards.pokellector.com/65/Wartortle.CG.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Wartortle.CG.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "42/100",
+      "card_number": "42",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Wartortle.CG.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwartortle-42"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157622.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Wartortle+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-042.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wartortle+-+42%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Wartortle",
+      "title": "Wartortle - EX Crystal Guardians #43",
+      "link": "/EX-Crystal-Guardians-Expansion/Wartortle-Card-43",
+      "image": "https://den-cards.pokellector.com/65/Wartortle.CG.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Wartortle.CG.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "43/100",
+      "card_number": "43",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Wartortle.CG.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwartortle-43"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157623.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Wartortle+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-043.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wartortle+-+43%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Aron",
+      "title": "Aron - EX Crystal Guardians #44",
+      "link": "/EX-Crystal-Guardians-Expansion/Aron-Card-44",
+      "image": "https://den-cards.pokellector.com/65/Aron.CG.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Aron.CG.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "44/100",
+      "card_number": "44",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Aron.CG.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Faron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p156824.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Aron+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-044.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aron+-+44%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - EX Crystal Guardians #45",
+      "link": "/EX-Crystal-Guardians-Expansion/Bulbasaur-Card-45",
+      "image": "https://den-cards.pokellector.com/65/Bulbasaur.CG.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Bulbasaur.CG.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "45/100",
+      "card_number": "45",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Bulbasaur.CG.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fbulbasaur-45"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p156865.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Bulbasaur+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bulbasaur+-+45%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - EX Crystal Guardians #46",
+      "link": "/EX-Crystal-Guardians-Expansion/Bulbasaur-Card-46",
+      "image": "https://den-cards.pokellector.com/65/Bulbasaur.CG.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Bulbasaur.CG.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "46/100",
+      "card_number": "46",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Bulbasaur.CG.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fbulbasaur-46"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p156864.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Bulbasaur+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bulbasaur+-+46%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-046.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Cacnea",
+      "title": "Cacnea - EX Crystal Guardians #47",
+      "link": "/EX-Crystal-Guardians-Expansion/Cacnea-Card-47",
+      "image": "https://den-cards.pokellector.com/65/Cacnea.CG.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Cacnea.CG.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "47/100",
+      "card_number": "47",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Cacnea.CG.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcacnea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156867.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Cacnea+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cacnea+-+47%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Charmander",
+      "title": "Charmander - EX Crystal Guardians #48",
+      "link": "/EX-Crystal-Guardians-Expansion/Charmander-Card-48",
+      "image": "https://den-cards.pokellector.com/65/Charmander.CG.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Charmander.CG.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "48/100",
+      "card_number": "48",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Charmander.CG.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcharmander"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156887.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Charmander+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmander+-+48%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Charmander  (delta species)",
+      "title": "Charmander  (delta species) - EX Crystal Guardians #49",
+      "link": "/EX-Crystal-Guardians-Expansion/Charmander-delta-species-Card-49",
+      "image": "https://den-cards.pokellector.com/65/Charmander-.CG.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Charmander-.CG.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "49/100",
+      "card_number": "49",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Charmander-.CG.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcharmander-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.59",
+          "link": "http://www.trollandtoad.com/p156888.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Charmander++%28delta+species%29+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Diglett",
+      "title": "Diglett - EX Crystal Guardians #50",
+      "link": "/EX-Crystal-Guardians-Expansion/Diglett-Card-50",
+      "image": "https://den-cards.pokellector.com/65/Diglett.CG.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Diglett.CG.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "50/100",
+      "card_number": "50",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Diglett.CG.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdiglett"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156956.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Diglett+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Diglett+-+50%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Duskull",
+      "title": "Duskull - EX Crystal Guardians #51",
+      "link": "/EX-Crystal-Guardians-Expansion/Duskull-Card-51",
+      "image": "https://den-cards.pokellector.com/65/Duskull.CG.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Duskull.CG.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "51/100",
+      "card_number": "51",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Duskull.CG.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156988.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Duskull+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Duskull+-+51%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Electrike",
+      "title": "Electrike - EX Crystal Guardians #52",
+      "link": "/EX-Crystal-Guardians-Expansion/Electrike-Card-52",
+      "image": "https://den-cards.pokellector.com/65/Electrike.CG.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Electrike.CG.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "52/100",
+      "card_number": "52",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Electrike.CG.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Felectrike"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156996.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Electrike+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-052.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrike+-+52%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - EX Crystal Guardians #53",
+      "link": "/EX-Crystal-Guardians-Expansion/Jigglypuff-Card-53",
+      "image": "https://den-cards.pokellector.com/65/Jigglypuff.CG.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Jigglypuff.CG.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "53/100",
+      "card_number": "53",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Jigglypuff.CG.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fjigglypuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157130.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Jigglypuff+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-053.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jigglypuff+-+53%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Krabby",
+      "title": "Krabby - EX Crystal Guardians #54",
+      "link": "/EX-Crystal-Guardians-Expansion/Krabby-Card-54",
+      "image": "https://den-cards.pokellector.com/65/Krabby.CG.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Krabby.CG.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "54/100",
+      "card_number": "54",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Krabby.CG.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fkrabby"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157155.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Krabby+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Krabby+-+54%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Lotad",
+      "title": "Lotad - EX Crystal Guardians #55",
+      "link": "/EX-Crystal-Guardians-Expansion/Lotad-Card-55",
+      "image": "https://den-cards.pokellector.com/65/Lotad.CG.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Lotad.CG.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "55/100",
+      "card_number": "55",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Lotad.CG.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Flotad"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157190.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Lotad+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lotad+-+55%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-055.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Meditite",
+      "title": "Meditite - EX Crystal Guardians #56",
+      "link": "/EX-Crystal-Guardians-Expansion/Meditite-Card-56",
+      "image": "https://den-cards.pokellector.com/65/Meditite.CG.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Meditite.CG.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "56/100",
+      "card_number": "56",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Meditite.CG.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmeditite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157236.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.66",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Meditite+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meditite+-+56%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Mudkip",
+      "title": "Mudkip - EX Crystal Guardians #57",
+      "link": "/EX-Crystal-Guardians-Expansion/Mudkip-Card-57",
+      "image": "https://den-cards.pokellector.com/65/Mudkip.CG.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Mudkip.CG.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "57/100",
+      "card_number": "57",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Mudkip.CG.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmudkip-57"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157275.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Mudkip+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mudkip+-+57%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Mudkip",
+      "title": "Mudkip - EX Crystal Guardians #58",
+      "link": "/EX-Crystal-Guardians-Expansion/Mudkip-Card-58",
+      "image": "https://den-cards.pokellector.com/65/Mudkip.CG.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Mudkip.CG.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "58/100",
+      "card_number": "58",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Mudkip.CG.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.56",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmudkip-58"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157276.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Mudkip+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mudkip+-+58%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-058.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Numel",
+      "title": "Numel - EX Crystal Guardians #59",
+      "link": "/EX-Crystal-Guardians-Expansion/Numel-Card-59",
+      "image": "https://den-cards.pokellector.com/65/Numel.CG.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Numel.CG.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "59/100",
+      "card_number": "59",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Numel.CG.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fnumel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157298.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Numel+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Numel+-+59%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Seedot",
+      "title": "Seedot - EX Crystal Guardians #60",
+      "link": "/EX-Crystal-Guardians-Expansion/Seedot-Card-60",
+      "image": "https://den-cards.pokellector.com/65/Seedot.CG.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Seedot.CG.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "60/100",
+      "card_number": "60",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Seedot.CG.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fseedot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157432.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.05",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Seedot+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-060.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seedot+-+60%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Spearow",
+      "title": "Spearow - EX Crystal Guardians #61",
+      "link": "/EX-Crystal-Guardians-Expansion/Spearow-Card-61",
+      "image": "https://den-cards.pokellector.com/65/Spearow.CG.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Spearow.CG.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "61/100",
+      "card_number": "61",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Spearow.CG.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fspearow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157481.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Spearow+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-061.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spearow+-+61%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Spoink",
+      "title": "Spoink - EX Crystal Guardians #62",
+      "link": "/EX-Crystal-Guardians-Expansion/Spoink-Card-62",
+      "image": "https://den-cards.pokellector.com/65/Spoink.CG.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Spoink.CG.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "62/100",
+      "card_number": "62",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Spoink.CG.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fspoink"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157488.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Spoink+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+62%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-062.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Squirtle",
+      "title": "Squirtle - EX Crystal Guardians #63",
+      "link": "/EX-Crystal-Guardians-Expansion/Squirtle-Card-63",
+      "image": "https://den-cards.pokellector.com/65/Squirtle.CG.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Squirtle.CG.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "63/100",
+      "card_number": "63",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Squirtle.CG.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fsquirtle-63"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157490.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Squirtle+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Squirtle+-+63%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Squirtle",
+      "title": "Squirtle - EX Crystal Guardians #64",
+      "link": "/EX-Crystal-Guardians-Expansion/Squirtle-Card-64",
+      "image": "https://den-cards.pokellector.com/65/Squirtle.CG.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Squirtle.CG.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "64/100",
+      "card_number": "64",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Squirtle.CG.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fsquirtle-64"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p157489.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Squirtle+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Squirtle+-+64%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/cg-064.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Torchic",
+      "title": "Torchic - EX Crystal Guardians #65",
+      "link": "/EX-Crystal-Guardians-Expansion/Torchic-Card-65",
+      "image": "https://den-cards.pokellector.com/65/Torchic.CG.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Torchic.CG.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "65/100",
+      "card_number": "65",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Torchic.CG.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ftorchic-65"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157538.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Torchic+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torchic+-+65%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-065.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Torchic",
+      "title": "Torchic - EX Crystal Guardians #66",
+      "link": "/EX-Crystal-Guardians-Expansion/Torchic-Card-66",
+      "image": "https://den-cards.pokellector.com/65/Torchic.CG.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Torchic.CG.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "66/100",
+      "card_number": "66",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Torchic.CG.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ftorchic-66"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.48",
+          "link": "http://www.trollandtoad.com/p157539.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Torchic+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torchic+-+66%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Treecko",
+      "title": "Treecko - EX Crystal Guardians #67",
+      "link": "/EX-Crystal-Guardians-Expansion/Treecko-Card-67",
+      "image": "https://den-cards.pokellector.com/65/Treecko.CG.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Treecko.CG.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "67/100",
+      "card_number": "67",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Treecko.CG.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ftreecko"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157553.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.82",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Treecko+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Treecko+-+67%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Treecko  (delta species)",
+      "title": "Treecko  (delta species) - EX Crystal Guardians #68",
+      "link": "/EX-Crystal-Guardians-Expansion/Treecko-delta-species-Card-68",
+      "image": "https://den-cards.pokellector.com/65/Treecko-delta-species.CG.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Treecko-delta-species.CG.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "68/100",
+      "card_number": "68",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Treecko-delta-species.CG.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Ftreecko-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157554.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Treecko++%28delta+species%29+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-068.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Whismur",
+      "title": "Whismur - EX Crystal Guardians #69",
+      "link": "/EX-Crystal-Guardians-Expansion/Whismur-Card-69",
+      "image": "https://den-cards.pokellector.com/65/Whismur.CG.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Whismur.CG.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "69/100",
+      "card_number": "69",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Whismur.CG.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwhismur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157629.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Whismur+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Whismur+-+69%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Wingull",
+      "title": "Wingull - EX Crystal Guardians #70",
+      "link": "/EX-Crystal-Guardians-Expansion/Wingull-Card-70",
+      "image": "https://den-cards.pokellector.com/65/Wingull.CG.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Wingull.CG.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "70/100",
+      "card_number": "70",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Wingull.CG.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwingull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157640.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Wingull+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wingull+-+70%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/cg-070.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Bill's Maintenance",
+      "title": "Bill's Maintenance - EX Crystal Guardians #71",
+      "link": "/EX-Crystal-Guardians-Expansion/Bills-Maintenance-Card-71",
+      "image": "https://den-cards.pokellector.com/65/Bills-Maintenance.CG.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Bills-Maintenance.CG.71.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "71/100",
+      "card_number": "71",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Bills-Maintenance.CG.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fbills-maintenance"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p156853.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.66",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Bill%27s+Maintenance+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bill%27s+Maintenance+-+71%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Castaway",
+      "title": "Castaway - EX Crystal Guardians #72",
+      "link": "/EX-Crystal-Guardians-Expansion/Castaway-Card-72",
+      "image": "https://den-cards.pokellector.com/65/Castaway.CG.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Castaway.CG.72.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "72/100",
+      "card_number": "72",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Castaway.CG.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcastaway"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p156874.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Castaway+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Castaway+-+72%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.95",
+          "link": "http://stop2shop.com/cg-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Celio's Network",
+      "title": "Celio's Network - EX Crystal Guardians #73",
+      "link": "/EX-Crystal-Guardians-Expansion/Celios-Network-Card-73",
+      "image": "https://den-cards.pokellector.com/65/Celios-Network.CG.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Celios-Network.CG.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "73/100",
+      "card_number": "73",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Celios-Network.CG.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcelios-network"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p156880.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Celio%27s+Network+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celio%27s+Network+-+73%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/cg-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Cessation Crystal",
+      "title": "Cessation Crystal - EX Crystal Guardians #74",
+      "link": "/EX-Crystal-Guardians-Expansion/Cessation-Crystal-Card-74",
+      "image": "https://den-cards.pokellector.com/65/Cessation-Crystal.CG.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Cessation-Crystal.CG.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "74/100",
+      "card_number": "74",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Cessation-Crystal.CG.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcessation-crystal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.68",
+          "link": "http://www.trollandtoad.com/p156881.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Cessation+Crystal+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-074.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cessation+Crystal+-+74%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Crystal Beach",
+      "title": "Crystal Beach - EX Crystal Guardians #75",
+      "link": "/EX-Crystal-Guardians-Expansion/Crystal-Beach-Card-75",
+      "image": "https://den-cards.pokellector.com/65/Crystal-Beach.CG.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Crystal-Beach.CG.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "75/100",
+      "card_number": "75",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Crystal-Beach.CG.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcrystal-beach"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p156931.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Crystal+Beach+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crystal+Beach+-+75%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-075.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Crystal Shard",
+      "title": "Crystal Shard - EX Crystal Guardians #76",
+      "link": "/EX-Crystal-Guardians-Expansion/Crystal-Shard-Card-76",
+      "image": "https://den-cards.pokellector.com/65/Crystal-Shard.CG.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Crystal-Shard.CG.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "76/100",
+      "card_number": "76",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Crystal-Shard.CG.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcrystal-shard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156932.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Crystal+Shard+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-076.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crystal+Shard+-+76%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Double Full Heal",
+      "title": "Double Full Heal - EX Crystal Guardians #77",
+      "link": "/EX-Crystal-Guardians-Expansion/Double-Full-Heal-Card-77",
+      "image": "https://den-cards.pokellector.com/65/Double-Full-Heal.CG.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Double-Full-Heal.CG.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "77/100",
+      "card_number": "77",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Double-Full-Heal.CG.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdouble-full-heal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156970.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Double+Full+Heal+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Full+Heal+-+77%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Dual Ball",
+      "title": "Dual Ball - EX Crystal Guardians #78",
+      "link": "/EX-Crystal-Guardians-Expansion/Dual-Ball-Card-78",
+      "image": "https://den-cards.pokellector.com/65/Dual-Ball.CG.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Dual-Ball.CG.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "78/100",
+      "card_number": "78",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Dual-Ball.CG.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdual-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p156982.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Dual+Ball+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dual+Ball+-+78%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-078.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Holon Circle",
+      "title": "Holon Circle - EX Crystal Guardians #79",
+      "link": "/EX-Crystal-Guardians-Expansion/Holon-Circle-Card-79",
+      "image": "https://den-cards.pokellector.com/65/Holon-Circle.CG.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Holon-Circle.CG.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "79/100",
+      "card_number": "79",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Holon-Circle.CG.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fholon-circle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157087.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Holon+Circle+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Circle+-+79%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Memory Berry",
+      "title": "Memory Berry - EX Crystal Guardians #80",
+      "link": "/EX-Crystal-Guardians-Expansion/Memory-Berry-Card-80",
+      "image": "https://den-cards.pokellector.com/65/Memory-Berry.CG.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Memory-Berry.CG.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "80/100",
+      "card_number": "80",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Memory-Berry.CG.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmemory-berry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157242.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Memory+Berry+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Memory+Berry+-+80%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-080.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Mysterious Shard",
+      "title": "Mysterious Shard - EX Crystal Guardians #81",
+      "link": "/EX-Crystal-Guardians-Expansion/Mysterious-Shard-Card-81",
+      "image": "https://den-cards.pokellector.com/65/Mysterious-Shard.CG.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Mysterious-Shard.CG.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "81/100",
+      "card_number": "81",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Mysterious-Shard.CG.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fmysterious-shard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157280.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Mysterious+Shard+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mysterious+Shard+-+81%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/cg-081.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Poke Ball",
+      "title": "Poke Ball - EX Crystal Guardians #82",
+      "link": "/EX-Crystal-Guardians-Expansion/Poke-Ball-Card-82",
+      "image": "https://den-cards.pokellector.com/65/Poke-Ball.CG.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Poke-Ball.CG.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "82/100",
+      "card_number": "82",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Poke-Ball.CG.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fpoke-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157334.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Poke+Ball+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Ball+-+82%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/cg-082.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "PokeNav",
+      "title": "PokeNav - EX Crystal Guardians #83",
+      "link": "/EX-Crystal-Guardians-Expansion/PokeNav-Card-83",
+      "image": "https://den-cards.pokellector.com/65/PokeNav.CG.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/PokeNav.CG.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "83/100",
+      "card_number": "83",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/PokeNav.CG.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fpokenav"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157337.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+PokeNav+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pokenav+-+83%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Warp Point",
+      "title": "Warp Point - EX Crystal Guardians #84",
+      "link": "/EX-Crystal-Guardians-Expansion/Warp-Point-Card-84",
+      "image": "https://den-cards.pokellector.com/65/Warp-Point.CG.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Warp-Point.CG.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "84/100",
+      "card_number": "84",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Warp-Point.CG.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwarp-point"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157620.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Warp+Point+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/cg-084.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Warp+Point+-+84%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Windstorm",
+      "title": "Windstorm - EX Crystal Guardians #85",
+      "link": "/EX-Crystal-Guardians-Expansion/Windstorm-Card-85",
+      "image": "https://den-cards.pokellector.com/65/Windstorm.CG.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Windstorm.CG.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "85/100",
+      "card_number": "85",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Windstorm.CG.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fwindstorm"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.29",
+          "link": "http://www.trollandtoad.com/p157639.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.54",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Windstorm+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.95",
+          "link": "http://stop2shop.com/cg-085.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Windstorm+-+85%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Energy Search",
+      "title": "Energy Search - EX Crystal Guardians #86",
+      "link": "/EX-Crystal-Guardians-Expansion/Energy-Search-Card-86",
+      "image": "https://den-cards.pokellector.com/65/Energy-Search.CG.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Energy-Search.CG.86.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "86/100",
+      "card_number": "86",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Energy-Search.CG.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fenergy-search"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157006.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Energy+Search+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Search+-+86%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/cg-086.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Potion",
+      "title": "Potion - EX Crystal Guardians #87",
+      "link": "/EX-Crystal-Guardians-Expansion/Potion-Card-87",
+      "image": "https://den-cards.pokellector.com/65/Potion.CG.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Potion.CG.87.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "87/100",
+      "card_number": "87",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Potion.CG.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fpotion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157351.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Potion+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Potion+-+87%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/cg-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Double Rainbow Energy",
+      "title": "Double Rainbow Energy - EX Crystal Guardians #88",
+      "link": "/EX-Crystal-Guardians-Expansion/Double-Rainbow-Energy-Card-88",
+      "image": "https://den-cards.pokellector.com/65/Double-Rainbow-Energy.CG.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Double-Rainbow-Energy.CG.88.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "88/100",
+      "card_number": "88",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Double-Rainbow-Energy.CG.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdouble-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p156971.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Double+Rainbow+Energy+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/cg-088.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Rainbow+Energy+-+88%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Aggron ex",
+      "title": "Aggron ex - EX Crystal Guardians #89",
+      "link": "/EX-Crystal-Guardians-Expansion/Aggron-ex-Card-89",
+      "image": "https://den-cards.pokellector.com/65/Aggron-ex.CG.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Aggron-ex.CG.89.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "89/100",
+      "card_number": "89",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Aggron-ex.CG.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.81",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Faggron-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$59.99",
+          "link": "http://www.trollandtoad.com/p156803.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Aggron+ex+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aggron+ex+-+89%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/cg-089.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Blaziken ex",
+      "title": "Blaziken ex - EX Crystal Guardians #90",
+      "link": "/EX-Crystal-Guardians-Expansion/Blaziken-ex-Card-90",
+      "image": "https://den-cards.pokellector.com/65/Blaziken-ex.CG.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Blaziken-ex.CG.90.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "90/100",
+      "card_number": "90",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Blaziken-ex.CG.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$95.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fblaziken-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$89.99",
+          "link": "http://www.trollandtoad.com/p156859.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Blaziken+ex+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blaziken+ex+-+90%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/cg-090.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Delcatty ex",
+      "title": "Delcatty ex - EX Crystal Guardians #91",
+      "link": "/EX-Crystal-Guardians-Expansion/Delcatty-ex-Card-91",
+      "image": "https://den-cards.pokellector.com/65/Delcatty-ex.CG.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Delcatty-ex.CG.91.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "91/100",
+      "card_number": "91",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Delcatty-ex.CG.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fdelcatty-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$49.99",
+          "link": "http://www.trollandtoad.com/p156947.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Delcatty+ex+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Delcatty+ex+-+91%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/cg-091.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Exploud ex",
+      "title": "Exploud ex - EX Crystal Guardians #92",
+      "link": "/EX-Crystal-Guardians-Expansion/Exploud-ex-Card-92",
+      "image": "https://den-cards.pokellector.com/65/Exploud-ex.CG.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Exploud-ex.CG.92.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "92/100",
+      "card_number": "92",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Exploud-ex.CG.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fexploud-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.19",
+          "link": "http://www.trollandtoad.com/p157016.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Exploud+ex+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Exploud+ex+-+92%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/cg-092.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Groudon ex",
+      "title": "Groudon ex - EX Crystal Guardians #93",
+      "link": "/EX-Crystal-Guardians-Expansion/Groudon-ex-Card-93",
+      "image": "https://den-cards.pokellector.com/65/Groudon-ex.CG.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Groudon-ex.CG.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "93/100",
+      "card_number": "93",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Groudon-ex.CG.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$91.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fgroudon-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p157070.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$61.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Groudon+ex+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.99",
+          "link": "http://stop2shop.com/cg-093.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+ex+-+93%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Jirachi ex",
+      "title": "Jirachi ex - EX Crystal Guardians #94",
+      "link": "/EX-Crystal-Guardians-Expansion/Jirachi-ex-Card-94",
+      "image": "https://den-cards.pokellector.com/65/Jirachi-ex.CG.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Jirachi-ex.CG.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "94/100",
+      "card_number": "94",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Jirachi-ex.CG.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$250.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fjirachi-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$106.19",
+          "link": "http://www.trollandtoad.com/p157133.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$37.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Jirachi+ex+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jirachi+ex+-+94%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/cg-094.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Kyogre ex",
+      "title": "Kyogre ex - EX Crystal Guardians #95",
+      "link": "/EX-Crystal-Guardians-Expansion/Kyogre-ex-Card-95",
+      "image": "https://den-cards.pokellector.com/65/Kyogre-ex.CG.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Kyogre-ex.CG.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "95/100",
+      "card_number": "95",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Kyogre-ex.CG.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$139.77",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fkyogre-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$71.69",
+          "link": "http://www.trollandtoad.com/p157160.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$45.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Kyogre+ex+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+ex+-+95%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/cg-095.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Sceptile ex",
+      "title": "Sceptile ex - EX Crystal Guardians #96",
+      "link": "/EX-Crystal-Guardians-Expansion/Sceptile-ex-Card-96",
+      "image": "https://den-cards.pokellector.com/65/Sceptile-ex.CG.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Sceptile-ex.CG.96.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "96/100",
+      "card_number": "96",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Sceptile-ex.CG.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fsceptile-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$83.09",
+          "link": "http://www.trollandtoad.com/p157421.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Sceptile+ex+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sceptile+ex+-+96%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/cg-096.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Shiftry ex",
+      "title": "Shiftry ex - EX Crystal Guardians #97",
+      "link": "/EX-Crystal-Guardians-Expansion/Shiftry-ex-Card-97",
+      "image": "https://den-cards.pokellector.com/65/Shiftry-ex.CG.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Shiftry-ex.CG.97.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "97/100",
+      "card_number": "97",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Shiftry-ex.CG.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$41.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fshiftry-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$41.99",
+          "link": "http://www.trollandtoad.com/p157446.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Shiftry+ex+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$18.99",
+          "link": "http://stop2shop.com/cg-097.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shiftry+ex+-+97%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Swampert ex",
+      "title": "Swampert ex - EX Crystal Guardians #98",
+      "link": "/EX-Crystal-Guardians-Expansion/Swampert-ex-Card-98",
+      "image": "https://den-cards.pokellector.com/65/Swampert-ex.CG.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Swampert-ex.CG.98.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "98/100",
+      "card_number": "98",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Swampert-ex.CG.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$127.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fswampert-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$109.59",
+          "link": "http://www.trollandtoad.com/p157521.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Swampert+ex+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swampert+ex+-+98%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/cg-098.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Alakazam *",
+      "title": "Alakazam * - EX Crystal Guardians #99",
+      "link": "/EX-Crystal-Guardians-Expansion/Alakazam--Card-99",
+      "image": "https://den-cards.pokellector.com/65/Alakazam-.CG.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Alakazam-.CG.99.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "99/100",
+      "card_number": "99",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Alakazam-.CG.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$899.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Falakazam-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1746075.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$208.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Alakazam+%2A+99+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$34.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Alakazam+%2A+%28Star%29+-+99%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.99",
+          "link": "http://stop2shop.com/cg-099.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Celebi *",
+      "title": "Celebi * - EX Crystal Guardians #100",
+      "link": "/EX-Crystal-Guardians-Expansion/Celebi--Card-100",
+      "image": "https://den-cards.pokellector.com/65/Celebi-.CG.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/65/Celebi-.CG.100.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Crystal Guardians",
+      "set_link": "/EX-Crystal-Guardians-Expansion/",
+      "position": "100/100",
+      "card_number": "100",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/65/Celebi-.CG.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$975.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcrystal-guardians%2Fcelebi-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$599.99",
+          "link": "http://www.trollandtoad.com/p156878.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$349.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Crystal+Guardians+Celebi+%2A+100+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$32.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celebi+%2A+%28Star%29+-+100%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.99",
+          "link": "http://stop2shop.com/cg-100.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:35:58"
+}

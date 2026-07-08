@@ -1,0 +1,5051 @@
+{
+  "title": "EX Dragon Set",
+  "link": "/EX-Dragon-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Dragon.logo.54.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Dragon.symbol.54.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Absol",
+      "title": "Absol - EX Dragon #1",
+      "link": "/EX-Dragon-Expansion/Absol-Card-1",
+      "image": "https://den-cards.pokellector.com/54/Absol.DR.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Absol.DR.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "1/97",
+      "card_number": "1",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Absol.DR.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$145.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fabsol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$25.89",
+          "link": "http://www.trollandtoad.com/p1121773.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.71",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Absol+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Absol+-+1%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$38.01",
+          "link": "http://stop2shop.com/dragon-1.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Altaria",
+      "title": "Altaria - EX Dragon #2",
+      "link": "/EX-Dragon-Expansion/Altaria-Card-2",
+      "image": "https://den-cards.pokellector.com/54/Altaria.DR.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Altaria.DR.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "2/97",
+      "card_number": "2",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Altaria.DR.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$50.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Faltaria"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p1121774.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.38",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Altaria+2+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$23.49",
+          "link": "http://stop2shop.com/dragon-2.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Altaria+-+2%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Crawdaunt",
+      "title": "Crawdaunt - EX Dragon #3",
+      "link": "/EX-Dragon-Expansion/Crawdaunt-Card-3",
+      "image": "https://den-cards.pokellector.com/54/Crawdaunt.DR.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Crawdaunt.DR.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "3/97",
+      "card_number": "3",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Crawdaunt.DR.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.52",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcrawdaunt-3"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p1121787.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.48",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Crawdaunt+3+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crawdaunt+-+13%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.84",
+          "link": "http://stop2shop.com/dragon-3.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Flygon",
+      "title": "Flygon - EX Dragon #4",
+      "link": "/EX-Dragon-Expansion/Flygon-Card-4",
+      "image": "https://den-cards.pokellector.com/54/Flygon.DR.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Flygon.DR.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "4/97",
+      "card_number": "4",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Flygon.DR.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$47.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fflygon-4"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.99",
+          "link": "http://www.trollandtoad.com/p1121793.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Flygon+4+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flygon+-+4%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.19",
+          "link": "http://stop2shop.com/dragon-4.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Golem",
+      "title": "Golem - EX Dragon #5",
+      "link": "/EX-Dragon-Expansion/Golem-Card-5",
+      "image": "https://den-cards.pokellector.com/54/Golem.DR.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Golem.DR.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "5/97",
+      "card_number": "5",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Golem.DR.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgolem"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.39",
+          "link": "http://www.trollandtoad.com/p1121798.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Golem+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golem+-+5%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.40",
+          "link": "http://stop2shop.com/dragon-5.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Grumpig",
+      "title": "Grumpig - EX Dragon #6",
+      "link": "/EX-Dragon-Expansion/Grumpig-Card-6",
+      "image": "https://den-cards.pokellector.com/54/Grumpig.DR.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Grumpig.DR.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "6/97",
+      "card_number": "6",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Grumpig.DR.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgrumpig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.69",
+          "link": "http://www.trollandtoad.com/p1121803.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.24",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Grumpig+6+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grumpig+-+6%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.53",
+          "link": "http://stop2shop.com/dragon-6.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Minun",
+      "title": "Minun - EX Dragon #7",
+      "link": "/EX-Dragon-Expansion/Minun-Card-7",
+      "image": "https://den-cards.pokellector.com/54/Minun.DR.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Minun.DR.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "7/97",
+      "card_number": "7",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Minun.DR.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$85.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p1121820.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$32.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Minun+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minun+-+7%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.45",
+          "link": "http://stop2shop.com/dragon-7.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Plusle",
+      "title": "Plusle - EX Dragon #8",
+      "link": "/EX-Dragon-Expansion/Plusle-Card-8",
+      "image": "https://den-cards.pokellector.com/54/Plusle.DR.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Plusle.DR.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "8/97",
+      "card_number": "8",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Plusle.DR.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p1121831.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.48",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Plusle+8+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$20.65",
+          "link": "http://stop2shop.com/dragon-8.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Plusle+-+8%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Roselia",
+      "title": "Roselia - EX Dragon #9",
+      "link": "/EX-Dragon-Expansion/Roselia-Card-9",
+      "image": "https://den-cards.pokellector.com/54/Roselia.DR.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Roselia.DR.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "9/97",
+      "card_number": "9",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Roselia.DR.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Froselia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.59",
+          "link": "http://www.trollandtoad.com/p169461.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.52",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Roselia+9+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.60",
+          "link": "http://stop2shop.com/dragon-9.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Roselia+-+9%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Salamence",
+      "title": "Salamence - EX Dragon #10",
+      "link": "/EX-Dragon-Expansion/Salamence-Card-10",
+      "image": "https://den-cards.pokellector.com/54/Salamence.DR.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Salamence.DR.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "10/97",
+      "card_number": "10",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Salamence.DR.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fsalamence-10"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p1121834.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.12",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Salamence+10+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Salamence+-+10%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$43.12",
+          "link": "http://stop2shop.com/dragon-10.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Shedinja",
+      "title": "Shedinja - EX Dragon #11",
+      "link": "/EX-Dragon-Expansion/Shedinja-Card-11",
+      "image": "https://den-cards.pokellector.com/54/Shedinja.DR.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Shedinja.DR.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "11/97",
+      "card_number": "11",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Shedinja.DR.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$98.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fshedinja"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.49",
+          "link": "http://www.trollandtoad.com/p1121837.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.23",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Shedinja+11+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$22.30",
+          "link": "http://stop2shop.com/dragon-11.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shedinja+-+11%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Torkoal",
+      "title": "Torkoal - EX Dragon #12",
+      "link": "/EX-Dragon-Expansion/Torkoal-Card-12",
+      "image": "https://den-cards.pokellector.com/54/Torkoal.DR.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Torkoal.DR.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "12/97",
+      "card_number": "12",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Torkoal.DR.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftorkoal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p1121851.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.65",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Torkoal+12+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$20.34",
+          "link": "http://stop2shop.com/dragon-12.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torkoal+-+12%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Crawdaunt",
+      "title": "Crawdaunt - EX Dragon #13",
+      "link": "/EX-Dragon-Expansion/Crawdaunt-Card-13",
+      "image": "https://den-cards.pokellector.com/54/Crawdaunt.DR.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Crawdaunt.DR.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "13/97",
+      "card_number": "13",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Crawdaunt.DR.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcrawdaunt-13"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169406.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.23",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Crawdaunt+13+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.36",
+          "link": "http://stop2shop.com/dragon-13.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crawdaunt+-+13%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Dragonair",
+      "title": "Dragonair - EX Dragon #14",
+      "link": "/EX-Dragon-Expansion/Dragonair-Card-14",
+      "image": "https://den-cards.pokellector.com/54/Dragonair.DR.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Dragonair.DR.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "14/97",
+      "card_number": "14",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Dragonair.DR.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.79",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fdragonair"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p169408.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Dragonair+14+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonair+-+14%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.47",
+          "link": "http://stop2shop.com/dragon-14.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Flygon",
+      "title": "Flygon - EX Dragon #15",
+      "link": "/EX-Dragon-Expansion/Flygon-Card-15",
+      "image": "https://den-cards.pokellector.com/54/Flygon.DR.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Flygon.DR.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "15/97",
+      "card_number": "15",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Flygon.DR.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fflygon-15"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p169413.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.84",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Flygon+15+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.74",
+          "link": "http://stop2shop.com/dragon-15.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flygon+-+15%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Girafarig",
+      "title": "Girafarig - EX Dragon #16",
+      "link": "/EX-Dragon-Expansion/Girafarig-Card-16",
+      "image": "https://den-cards.pokellector.com/54/Girafarig.DR.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Girafarig.DR.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "16/97",
+      "card_number": "16",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Girafarig.DR.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgirafarig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p169418.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Girafarig+16+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Girafarig+-+16%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/dragon-16.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Magneton",
+      "title": "Magneton - EX Dragon #17",
+      "link": "/EX-Dragon-Expansion/Magneton-Card-17",
+      "image": "https://den-cards.pokellector.com/54/Magneton.DR.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magneton.DR.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "17/97",
+      "card_number": "17",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magneton.DR.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagneton-17"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p169442.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.45",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magneton+17+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.07",
+          "link": "http://stop2shop.com/dragon-17.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+17%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Ninjask",
+      "title": "Ninjask - EX Dragon #18",
+      "link": "/EX-Dragon-Expansion/Ninjask-Card-18",
+      "image": "https://den-cards.pokellector.com/54/Ninjask.DR.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Ninjask.DR.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "18/97",
+      "card_number": "18",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Ninjask.DR.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fninjask-18"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169454.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Ninjask+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninjask+-+18%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/dragon-18.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Salamence",
+      "title": "Salamence - EX Dragon #19",
+      "link": "/EX-Dragon-Expansion/Salamence-Card-19",
+      "image": "https://den-cards.pokellector.com/54/Salamence.DR.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Salamence.DR.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "19/97",
+      "card_number": "19",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Salamence.DR.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fsalamence-19"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p169463.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Salamence+19+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.87",
+          "link": "http://stop2shop.com/dragon-19.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Salamence+-+19%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Shelgon",
+      "title": "Shelgon - EX Dragon #20",
+      "link": "/EX-Dragon-Expansion/Shelgon-Card-20",
+      "image": "https://den-cards.pokellector.com/54/Shelgon.DR.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Shelgon.DR.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "20/97",
+      "card_number": "20",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Shelgon.DR.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fshelgon-20"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169467.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Shelgon+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shelgon+-+20%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.53",
+          "link": "http://stop2shop.com/dragon-20.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Skarmory",
+      "title": "Skarmory - EX Dragon #21",
+      "link": "/EX-Dragon-Expansion/Skarmory-Card-21",
+      "image": "https://den-cards.pokellector.com/54/Skarmory.DR.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Skarmory.DR.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "21/97",
+      "card_number": "21",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Skarmory.DR.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fskarmory"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p169471.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.69",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Skarmory+21+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.52",
+          "link": "http://stop2shop.com/dragon-21.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skarmory+-+21%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Vibrava",
+      "title": "Vibrava - EX Dragon #22",
+      "link": "/EX-Dragon-Expansion/Vibrava-Card-22",
+      "image": "https://den-cards.pokellector.com/54/Vibrava.DR.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Vibrava.DR.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "22/97",
+      "card_number": "22",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Vibrava.DR.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fvibrava-22"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169486.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.73",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Vibrava+22+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vibrava+-+22%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/dragon-22.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Bagon",
+      "title": "Bagon - EX Dragon #23",
+      "link": "/EX-Dragon-Expansion/Bagon-Card-23",
+      "image": "https://den-cards.pokellector.com/54/Bagon.DR.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Bagon.DR.23.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "23/97",
+      "card_number": "23",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Bagon.DR.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fbagon-23"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.39",
+          "link": "http://www.trollandtoad.com/p169391.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.73",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Bagon+23+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.31",
+          "link": "http://stop2shop.com/dragon-23.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bagon+-+23%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Camerupt",
+      "title": "Camerupt - EX Dragon #24",
+      "link": "/EX-Dragon-Expansion/Camerupt-Card-24",
+      "image": "https://den-cards.pokellector.com/54/Camerupt.DR.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Camerupt.DR.24.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "24/97",
+      "card_number": "24",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Camerupt.DR.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcamerupt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169397.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Camerupt+24+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Camerupt+-+24%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.42",
+          "link": "http://stop2shop.com/dragon-24.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Combusken",
+      "title": "Combusken - EX Dragon #25",
+      "link": "/EX-Dragon-Expansion/Combusken-Card-25",
+      "image": "https://den-cards.pokellector.com/54/Combusken.DR.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Combusken.DR.25.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "25/97",
+      "card_number": "25",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Combusken.DR.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcombusken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p169402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.87",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Combusken+25+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.85",
+          "link": "http://stop2shop.com/dragon-25.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combusken+-+25%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Dratini",
+      "title": "Dratini - EX Dragon #26",
+      "link": "/EX-Dragon-Expansion/Dratini-Card-26",
+      "image": "https://den-cards.pokellector.com/54/Dratini.DR.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Dratini.DR.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "26/97",
+      "card_number": "26",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Dratini.DR.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fdratini"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p169410.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Dratini+26+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.47",
+          "link": "http://stop2shop.com/dragon-26.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dratini+-+26%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Flaaffy",
+      "title": "Flaaffy - EX Dragon #27",
+      "link": "/EX-Dragon-Expansion/Flaaffy-Card-27",
+      "image": "https://den-cards.pokellector.com/54/Flaaffy.DR.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Flaaffy.DR.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "27/97",
+      "card_number": "27",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Flaaffy.DR.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fflaaffy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p169412.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Flaaffy+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flaaffy+-+27%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.14",
+          "link": "http://stop2shop.com/dragon-27.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Forretress",
+      "title": "Forretress - EX Dragon #28",
+      "link": "/EX-Dragon-Expansion/Forretress-Card-28",
+      "image": "https://den-cards.pokellector.com/54/Forretress.DR.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Forretress.DR.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "28/97",
+      "card_number": "28",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Forretress.DR.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fforretress"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p169415.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$42.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Forretress+28+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+28%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.06",
+          "link": "http://stop2shop.com/dragon-28.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Graveler",
+      "title": "Graveler - EX Dragon #29",
+      "link": "/EX-Dragon-Expansion/Graveler-Card-29",
+      "image": "https://den-cards.pokellector.com/54/Graveler.DR.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Graveler.DR.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "29/97",
+      "card_number": "29",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Graveler.DR.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgraveler-29"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p169421.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Graveler+29+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Graveler+-+29%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.31",
+          "link": "http://stop2shop.com/dragon-29.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Graveler",
+      "title": "Graveler - EX Dragon #30",
+      "link": "/EX-Dragon-Expansion/Graveler-Card-30",
+      "image": "https://den-cards.pokellector.com/54/Graveler.DR.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Graveler.DR.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "30/97",
+      "card_number": "30",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Graveler.DR.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgraveler-30"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p169422.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Graveler+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Graveler+-+30%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.85",
+          "link": "http://stop2shop.com/dragon-30.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Grovyle",
+      "title": "Grovyle - EX Dragon #31",
+      "link": "/EX-Dragon-Expansion/Grovyle-Card-31",
+      "image": "https://den-cards.pokellector.com/54/Grovyle.DR.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Grovyle.DR.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "31/97",
+      "card_number": "31",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Grovyle.DR.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgrovyle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p169424.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Grovyle+31+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grovyle+-+31%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.22",
+          "link": "http://stop2shop.com/dragon-31.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Gyarados",
+      "title": "Gyarados - EX Dragon #32",
+      "link": "/EX-Dragon-Expansion/Gyarados-Card-32",
+      "image": "https://den-cards.pokellector.com/54/Gyarados.DR.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Gyarados.DR.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "32/97",
+      "card_number": "32",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Gyarados.DR.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgyarados"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p169426.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Gyarados+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.49",
+          "link": "http://stop2shop.com/dragon-32.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gyarados+-+32%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Horsea",
+      "title": "Horsea - EX Dragon #33",
+      "link": "/EX-Dragon-Expansion/Horsea-Card-33",
+      "image": "https://den-cards.pokellector.com/54/Horsea.DR.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Horsea.DR.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "33/97",
+      "card_number": "33",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Horsea.DR.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fhorsea-33"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p169428.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Horsea+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.56",
+          "link": "http://stop2shop.com/dragon-33.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Horsea+-+33%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Houndoom",
+      "title": "Houndoom - EX Dragon #34",
+      "link": "/EX-Dragon-Expansion/Houndoom-Card-34",
+      "image": "https://den-cards.pokellector.com/54/Houndoom.DR.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Houndoom.DR.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "34/97",
+      "card_number": "34",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Houndoom.DR.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fhoundoom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.89",
+          "link": "http://www.trollandtoad.com/p169430.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.87",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Houndoom+34+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+34%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.62",
+          "link": "http://stop2shop.com/dragon-34.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Magneton",
+      "title": "Magneton - EX Dragon #35",
+      "link": "/EX-Dragon-Expansion/Magneton-Card-35",
+      "image": "https://den-cards.pokellector.com/54/Magneton.DR.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magneton.DR.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "35/97",
+      "card_number": "35",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magneton.DR.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagneton-35"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169443.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Magneton+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+35%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/dragon-35.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Marshtomp",
+      "title": "Marshtomp - EX Dragon #36",
+      "link": "/EX-Dragon-Expansion/Marshtomp-Card-36",
+      "image": "https://den-cards.pokellector.com/54/Marshtomp.DR.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Marshtomp.DR.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "36/97",
+      "card_number": "36",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Marshtomp.DR.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmarshtomp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p169445.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Marshtomp+36+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.95",
+          "link": "http://stop2shop.com/dragon-36.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marshtomp+-+36%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Meditite",
+      "title": "Meditite - EX Dragon #37",
+      "link": "/EX-Dragon-Expansion/Meditite-Card-37",
+      "image": "https://den-cards.pokellector.com/54/Meditite.DR.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Meditite.DR.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "37/97",
+      "card_number": "37",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Meditite.DR.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmeditite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p169446.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Meditite+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meditite+-+37%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.07",
+          "link": "http://stop2shop.com/dragon-37.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Ninjask",
+      "title": "Ninjask - EX Dragon #38",
+      "link": "/EX-Dragon-Expansion/Ninjask-Card-38",
+      "image": "https://den-cards.pokellector.com/54/Ninjask.DR.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Ninjask.DR.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "38/97",
+      "card_number": "38",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Ninjask.DR.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fninjask-38"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169455.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.04",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Ninjask+38+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninjask+-+38%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/dragon-38.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Seadra",
+      "title": "Seadra - EX Dragon #39",
+      "link": "/EX-Dragon-Expansion/Seadra-Card-39",
+      "image": "https://den-cards.pokellector.com/54/Seadra.DR.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Seadra.DR.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "39/97",
+      "card_number": "39",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Seadra.DR.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fseadra-39"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169464.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.10",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Seadra+39+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.70",
+          "link": "http://stop2shop.com/dragon-39.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seadra+-+39%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Seadra",
+      "title": "Seadra - EX Dragon #40",
+      "link": "/EX-Dragon-Expansion/Seadra-Card-40",
+      "image": "https://den-cards.pokellector.com/54/Seadra.DR.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Seadra.DR.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "40/97",
+      "card_number": "40",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Seadra.DR.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fseadra-40"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169465.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Seadra+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seadra+-+40%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/dragon-40.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Shelgon",
+      "title": "Shelgon - EX Dragon #41",
+      "link": "/EX-Dragon-Expansion/Shelgon-Card-41",
+      "image": "https://den-cards.pokellector.com/54/Shelgon.DR.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Shelgon.DR.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "41/97",
+      "card_number": "41",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Shelgon.DR.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.81",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fshelgon-41"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169468.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Shelgon+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shelgon+-+41%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.46",
+          "link": "http://stop2shop.com/dragon-41.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Shelgon",
+      "title": "Shelgon - EX Dragon #42",
+      "link": "/EX-Dragon-Expansion/Shelgon-Card-42",
+      "image": "https://den-cards.pokellector.com/54/Shelgon.DR.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Shelgon.DR.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "42/97",
+      "card_number": "42",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Shelgon.DR.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fshelgon-42"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p169469.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.87",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Shelgon+42+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shelgon+-+42%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.10",
+          "link": "http://stop2shop.com/dragon-42.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Shuppet",
+      "title": "Shuppet - EX Dragon #43",
+      "link": "/EX-Dragon-Expansion/Shuppet-Card-43",
+      "image": "https://den-cards.pokellector.com/54/Shuppet.DR.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Shuppet.DR.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "43/97",
+      "card_number": "43",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Shuppet.DR.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fshuppet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p169470.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.58",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Shuppet+43+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuppet+-+43%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.71",
+          "link": "http://stop2shop.com/dragon-43.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Snorunt",
+      "title": "Snorunt - EX Dragon #44",
+      "link": "/EX-Dragon-Expansion/Snorunt-Card-44",
+      "image": "https://den-cards.pokellector.com/54/Snorunt.DR.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Snorunt.DR.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "44/97",
+      "card_number": "44",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Snorunt.DR.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fsnorunt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p169473.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Snorunt+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snorunt+-+44%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.20",
+          "link": "http://stop2shop.com/dragon-44.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Swellow",
+      "title": "Swellow - EX Dragon #45",
+      "link": "/EX-Dragon-Expansion/Swellow-Card-45",
+      "image": "https://den-cards.pokellector.com/54/Swellow.DR.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Swellow.DR.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "45/97",
+      "card_number": "45",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Swellow.DR.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fswellow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p169477.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Swellow+45+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swellow+-+45%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.86",
+          "link": "http://stop2shop.com/dragon-45.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Vibrava",
+      "title": "Vibrava - EX Dragon #46",
+      "link": "/EX-Dragon-Expansion/Vibrava-Card-46",
+      "image": "https://den-cards.pokellector.com/54/Vibrava.DR.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Vibrava.DR.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "46/97",
+      "card_number": "46",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Vibrava.DR.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fvibrava-46"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169487.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.64",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Vibrava+46+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vibrava+-+46%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.02",
+          "link": "http://stop2shop.com/dragon-46.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Vibrava",
+      "title": "Vibrava - EX Dragon #47",
+      "link": "/EX-Dragon-Expansion/Vibrava-Card-47",
+      "image": "https://den-cards.pokellector.com/54/Vibrava.DR.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Vibrava.DR.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "47/97",
+      "card_number": "47",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Vibrava.DR.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fvibrava-47"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169488.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Vibrava+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vibrava+-+47%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/dragon-47.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Whiscash",
+      "title": "Whiscash - EX Dragon #48",
+      "link": "/EX-Dragon-Expansion/Whiscash-Card-48",
+      "image": "https://den-cards.pokellector.com/54/Whiscash.DR.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Whiscash.DR.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "48/97",
+      "card_number": "48",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Whiscash.DR.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fwhiscash"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.19",
+          "link": "http://www.trollandtoad.com/p169489.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Whiscash+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Whiscash+-+48%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.84",
+          "link": "http://stop2shop.com/dragon-48.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Bagon",
+      "title": "Bagon - EX Dragon #49",
+      "link": "/EX-Dragon-Expansion/Bagon-Card-49",
+      "image": "https://den-cards.pokellector.com/54/Bagon.DR.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Bagon.DR.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "49/97",
+      "card_number": "49",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Bagon.DR.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fbagon-49"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169392.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Bagon+49+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.23",
+          "link": "http://stop2shop.com/dragon-49.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bagon+-+49%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Bagon",
+      "title": "Bagon - EX Dragon #50",
+      "link": "/EX-Dragon-Expansion/Bagon-Card-50",
+      "image": "https://den-cards.pokellector.com/54/Bagon.DR.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Bagon.DR.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "50/97",
+      "card_number": "50",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Bagon.DR.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fbagon-50"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169393.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Bagon+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.57",
+          "link": "http://stop2shop.com/dragon-50.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bagon+-+50%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "SCRYE Stamped",
+          "image": "https://den-cards.pokellector.com/54/Bagon.DR.50.37248.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "GenCon Stamped",
+          "image": "https://den-cards.pokellector.com/54/Bagon.DR.50.37249.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "InQuest Stamped",
+          "image": "https://den-cards.pokellector.com/54/Bagon.DR.50.37250.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Barboach",
+      "title": "Barboach - EX Dragon #51",
+      "link": "/EX-Dragon-Expansion/Barboach-Card-51",
+      "image": "https://den-cards.pokellector.com/54/Barboach.DR.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Barboach.DR.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "51/97",
+      "card_number": "51",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Barboach.DR.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.37",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fbarboach"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169395.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Barboach+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Barboach+-+51%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.46",
+          "link": "http://stop2shop.com/dragon-51.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Corphish",
+      "title": "Corphish - EX Dragon #52",
+      "link": "/EX-Dragon-Expansion/Corphish-Card-52",
+      "image": "https://den-cards.pokellector.com/54/Corphish.DR.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Corphish.DR.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "52/97",
+      "card_number": "52",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Corphish.DR.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcorphish-52"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169403.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Corphish+52+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Corphish+-+52%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/dragon-52.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Corphish",
+      "title": "Corphish - EX Dragon #53",
+      "link": "/EX-Dragon-Expansion/Corphish-Card-53",
+      "image": "https://den-cards.pokellector.com/54/Corphish.DR.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Corphish.DR.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "53/97",
+      "card_number": "53",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Corphish.DR.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcorphish-53"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169404.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Corphish+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/dragon-53.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Corphish+-+53%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Corphish",
+      "title": "Corphish - EX Dragon #54",
+      "link": "/EX-Dragon-Expansion/Corphish-Card-54",
+      "image": "https://den-cards.pokellector.com/54/Corphish.DR.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Corphish.DR.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "54/97",
+      "card_number": "54",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Corphish.DR.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.91",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcorphish-54"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169405.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.70",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Corphish+54+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Corphish+-+54%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/dragon-54.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Geodude",
+      "title": "Geodude - EX Dragon #55",
+      "link": "/EX-Dragon-Expansion/Geodude-Card-55",
+      "image": "https://den-cards.pokellector.com/54/Geodude.DR.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Geodude.DR.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "55/97",
+      "card_number": "55",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Geodude.DR.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgeodude-55"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169416.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Geodude+55+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Geodude+-+55%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/dragon-55.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Geodude",
+      "title": "Geodude - EX Dragon #56",
+      "link": "/EX-Dragon-Expansion/Geodude-Card-56",
+      "image": "https://den-cards.pokellector.com/54/Geodude.DR.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Geodude.DR.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "56/97",
+      "card_number": "56",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Geodude.DR.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgeodude-56"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169417.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Geodude+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Geodude+-+56%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/dragon-56.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Grimer",
+      "title": "Grimer - EX Dragon #57",
+      "link": "/EX-Dragon-Expansion/Grimer-Card-57",
+      "image": "https://den-cards.pokellector.com/54/Grimer.DR.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Grimer.DR.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "57/97",
+      "card_number": "57",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Grimer.DR.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgrimer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169423.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.85",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Grimer+57+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grimer+-+57%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/dragon-57.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Horsea",
+      "title": "Horsea - EX Dragon #58",
+      "link": "/EX-Dragon-Expansion/Horsea-Card-58",
+      "image": "https://den-cards.pokellector.com/54/Horsea.DR.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Horsea.DR.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "58/97",
+      "card_number": "58",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Horsea.DR.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fhorsea-58"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169429.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Horsea+58+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Horsea+-+58%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.26",
+          "link": "http://stop2shop.com/dragon-58.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Houndour",
+      "title": "Houndour - EX Dragon #59",
+      "link": "/EX-Dragon-Expansion/Houndour-Card-59",
+      "image": "https://den-cards.pokellector.com/54/Houndour.DR.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Houndour.DR.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "59/97",
+      "card_number": "59",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Houndour.DR.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fhoundour"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169431.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Houndour+59+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+59%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/dragon-59.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Magikarp",
+      "title": "Magikarp - EX Dragon #60",
+      "link": "/EX-Dragon-Expansion/Magikarp-Card-60",
+      "image": "https://den-cards.pokellector.com/54/Magikarp.DR.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magikarp.DR.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "60/97",
+      "card_number": "60",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magikarp.DR.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagikarp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p169438.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magikarp+60+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magikarp+-+60%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/dragon-60.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Magnemite",
+      "title": "Magnemite - EX Dragon #61",
+      "link": "/EX-Dragon-Expansion/Magnemite-Card-61",
+      "image": "https://den-cards.pokellector.com/54/Magnemite.DR.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magnemite.DR.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "61/97",
+      "card_number": "61",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magnemite.DR.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagnemite-61"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169439.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magnemite+61+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+61%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/dragon-61.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Magnemite",
+      "title": "Magnemite - EX Dragon #62",
+      "link": "/EX-Dragon-Expansion/Magnemite-Card-62",
+      "image": "https://den-cards.pokellector.com/54/Magnemite.DR.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magnemite.DR.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "62/97",
+      "card_number": "62",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magnemite.DR.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagnemite-62"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169440.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magnemite+62+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+62%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/dragon-62.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Magnemite",
+      "title": "Magnemite - EX Dragon #63",
+      "link": "/EX-Dragon-Expansion/Magnemite-Card-63",
+      "image": "https://den-cards.pokellector.com/54/Magnemite.DR.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magnemite.DR.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "63/97",
+      "card_number": "63",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magnemite.DR.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagnemite-63"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p169441.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magnemite+63+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.38",
+          "link": "http://stop2shop.com/dragon-63.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+63%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Mareep",
+      "title": "Mareep - EX Dragon #64",
+      "link": "/EX-Dragon-Expansion/Mareep-Card-64",
+      "image": "https://den-cards.pokellector.com/54/Mareep.DR.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Mareep.DR.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "64/97",
+      "card_number": "64",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Mareep.DR.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmareep"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p169444.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Mareep+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mareep+-+64%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.60",
+          "link": "http://stop2shop.com/dragon-64.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Mudkip",
+      "title": "Mudkip - EX Dragon #65",
+      "link": "/EX-Dragon-Expansion/Mudkip-Card-65",
+      "image": "https://den-cards.pokellector.com/54/Mudkip.DR.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Mudkip.DR.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "65/97",
+      "card_number": "65",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Mudkip.DR.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmudkip"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169449.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Mudkip+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.81",
+          "link": "http://stop2shop.com/dragon-65.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mudkip+-+65%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Nincada",
+      "title": "Nincada - EX Dragon #66",
+      "link": "/EX-Dragon-Expansion/Nincada-Card-66",
+      "image": "https://den-cards.pokellector.com/54/Nincada.DR.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Nincada.DR.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "66/97",
+      "card_number": "66",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Nincada.DR.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fnincada-66"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169451.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.04",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Nincada+66+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nincada+-+66%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/dragon-66.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Nincada",
+      "title": "Nincada - EX Dragon #67",
+      "link": "/EX-Dragon-Expansion/Nincada-Card-67",
+      "image": "https://den-cards.pokellector.com/54/Nincada.DR.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Nincada.DR.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "67/97",
+      "card_number": "67",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Nincada.DR.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fnincada-67"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169452.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.72",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Nincada+67+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nincada+-+67%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.36",
+          "link": "http://stop2shop.com/dragon-67.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Nincada",
+      "title": "Nincada - EX Dragon #68",
+      "link": "/EX-Dragon-Expansion/Nincada-Card-68",
+      "image": "https://den-cards.pokellector.com/54/Nincada.DR.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Nincada.DR.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "68/97",
+      "card_number": "68",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Nincada.DR.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fnincada-68"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169453.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.80",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Nincada+68+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/dragon-68.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nincada+-+68%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Numel",
+      "title": "Numel - EX Dragon #69",
+      "link": "/EX-Dragon-Expansion/Numel-Card-69",
+      "image": "https://den-cards.pokellector.com/54/Numel.DR.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Numel.DR.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "69/97",
+      "card_number": "69",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Numel.DR.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fnumel-69"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169456.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Numel+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/dragon-69.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Numel+-+69%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Numel",
+      "title": "Numel - EX Dragon #70",
+      "link": "/EX-Dragon-Expansion/Numel-Card-70",
+      "image": "https://den-cards.pokellector.com/54/Numel.DR.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Numel.DR.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "70/97",
+      "card_number": "70",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Numel.DR.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fnumel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169457.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Numel+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Numel+-+70%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.36",
+          "link": "http://stop2shop.com/dragon-70.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Pineco",
+      "title": "Pineco - EX Dragon #71",
+      "link": "/EX-Dragon-Expansion/Pineco-Card-71",
+      "image": "https://den-cards.pokellector.com/54/Pineco.DR.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Pineco.DR.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "71/97",
+      "card_number": "71",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Pineco.DR.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fpineco"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169458.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Pineco+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.31",
+          "link": "http://stop2shop.com/dragon-71.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pineco+-+71%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Slugma",
+      "title": "Slugma - EX Dragon #72",
+      "link": "/EX-Dragon-Expansion/Slugma-Card-72",
+      "image": "https://den-cards.pokellector.com/54/Slugma.DR.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Slugma.DR.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "72/97",
+      "card_number": "72",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Slugma.DR.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fslugma"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p169472.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Slugma+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slugma+-+72%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/dragon-72.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Spoink",
+      "title": "Spoink - EX Dragon #73",
+      "link": "/EX-Dragon-Expansion/Spoink-Card-73",
+      "image": "https://den-cards.pokellector.com/54/Spoink.DR.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Spoink.DR.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "73/97",
+      "card_number": "73",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Spoink.DR.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fspoink-73"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p169474.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Spoink+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/dragon-73.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+73%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Spoink",
+      "title": "Spoink - EX Dragon #74",
+      "link": "/EX-Dragon-Expansion/Spoink-Card-74",
+      "image": "https://den-cards.pokellector.com/54/Spoink.DR.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Spoink.DR.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "74/97",
+      "card_number": "74",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Spoink.DR.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fspoink-74"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p169475.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Spoink+74+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+74%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.58",
+          "link": "http://stop2shop.com/dragon-74.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Swablu",
+      "title": "Swablu - EX Dragon #75",
+      "link": "/EX-Dragon-Expansion/Swablu-Card-75",
+      "image": "https://den-cards.pokellector.com/54/Swablu.DR.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Swablu.DR.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "75/97",
+      "card_number": "75",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Swablu.DR.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fswablu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169476.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Swablu+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swablu+-+75%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/dragon-75.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Taillow",
+      "title": "Taillow - EX Dragon #76",
+      "link": "/EX-Dragon-Expansion/Taillow-Card-76",
+      "image": "https://den-cards.pokellector.com/54/Taillow.DR.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Taillow.DR.76.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "76/97",
+      "card_number": "76",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Taillow.DR.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftaillow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169478.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Taillow+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Taillow+-+76%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.41",
+          "link": "http://stop2shop.com/dragon-76.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Torchic",
+      "title": "Torchic - EX Dragon #77",
+      "link": "/EX-Dragon-Expansion/Torchic-Card-77",
+      "image": "https://den-cards.pokellector.com/54/Torchic.DR.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Torchic.DR.77.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "77/97",
+      "card_number": "77",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Torchic.DR.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftorchic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p169479.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Torchic+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torchic+-+77%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.41",
+          "link": "http://stop2shop.com/dragon-77.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Trapinch",
+      "title": "Trapinch - EX Dragon #78",
+      "link": "/EX-Dragon-Expansion/Trapinch-Card-78",
+      "image": "https://den-cards.pokellector.com/54/Trapinch.DR.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Trapinch.DR.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "78/97",
+      "card_number": "78",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Trapinch.DR.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftrapinch-78"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169481.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Trapinch+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Trapinch+-+78%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.38",
+          "link": "http://stop2shop.com/dragon-78.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Trapinch",
+      "title": "Trapinch - EX Dragon #79",
+      "link": "/EX-Dragon-Expansion/Trapinch-Card-79",
+      "image": "https://den-cards.pokellector.com/54/Trapinch.DR.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Trapinch.DR.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "79/97",
+      "card_number": "79",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Trapinch.DR.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftrapinch-79"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169482.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Trapinch+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.43",
+          "link": "http://stop2shop.com/dragon-79.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Trapinch+-+79%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Treecko",
+      "title": "Treecko - EX Dragon #80",
+      "link": "/EX-Dragon-Expansion/Treecko-Card-80",
+      "image": "https://den-cards.pokellector.com/54/Treecko.DR.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Treecko.DR.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "80/97",
+      "card_number": "80",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Treecko.DR.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftreecko"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169483.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Treecko+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Treecko+-+80%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/dragon-80.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Wurmple",
+      "title": "Wurmple - EX Dragon #81",
+      "link": "/EX-Dragon-Expansion/Wurmple-Card-81",
+      "image": "https://den-cards.pokellector.com/54/Wurmple.DR.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Wurmple.DR.81.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "81/97",
+      "card_number": "81",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Wurmple.DR.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fwurmple"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169490.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Wurmple+81+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wurmple+-+81%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/dragon-81.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Balloon Berry",
+      "title": "Balloon Berry - EX Dragon #82",
+      "link": "/EX-Dragon-Expansion/Balloon-Berry-Card-82",
+      "image": "https://den-cards.pokellector.com/54/Balloon-Berry.DR.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Balloon-Berry.DR.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "82/97",
+      "card_number": "82",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Balloon-Berry.DR.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fballoon-berry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169394.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Balloon+Berry+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.30",
+          "link": "http://stop2shop.com/dragon-82.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Balloon+Berry+-+82%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Buffer Piece",
+      "title": "Buffer Piece - EX Dragon #83",
+      "link": "/EX-Dragon-Expansion/Buffer-Piece-Card-83",
+      "image": "https://den-cards.pokellector.com/54/Buffer-Piece.DR.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Buffer-Piece.DR.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "83/97",
+      "card_number": "83",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Buffer-Piece.DR.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fbuffer-piece"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169396.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Buffer+Piece+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Buffer+Piece+-+83%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.50",
+          "link": "http://stop2shop.com/dragon-83.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Energy Recycle System",
+      "title": "Energy Recycle System - EX Dragon #84",
+      "link": "/EX-Dragon-Expansion/Energy-Recycle-System-Card-84",
+      "image": "https://den-cards.pokellector.com/54/Energy-Recycle-System.DR.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Energy-Recycle-System.DR.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "84/97",
+      "card_number": "84",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Energy-Recycle-System.DR.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fenergy-recycle-system"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169411.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Energy+Recycle+System+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Recycle+System+-+84%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/dragon-84.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "High Pressure System",
+      "title": "High Pressure System - EX Dragon #85",
+      "link": "/EX-Dragon-Expansion/High-Pressure-System-Card-85",
+      "image": "https://den-cards.pokellector.com/54/High-Pressure-System.DR.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/High-Pressure-System.DR.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "85/97",
+      "card_number": "85",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/High-Pressure-System.DR.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fhigh-pressure-system"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p169427.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+High+Pressure+System+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/High+Pressure+System+-+85%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.36",
+          "link": "http://stop2shop.com/dragon-85.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Low Pressure System",
+      "title": "Low Pressure System - EX Dragon #86",
+      "link": "/EX-Dragon-Expansion/Low-Pressure-System-Card-86",
+      "image": "https://den-cards.pokellector.com/54/Low-Pressure-System.DR.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Low-Pressure-System.DR.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "86/97",
+      "card_number": "86",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Low-Pressure-System.DR.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Flow-pressure-system"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p169436.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Low+Pressure+System+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Low+Pressure+System+-+86%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.32",
+          "link": "http://stop2shop.com/dragon-86.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Mr. Briney's Compassion",
+      "title": "Mr. Briney's Compassion - EX Dragon #87",
+      "link": "/EX-Dragon-Expansion/Mr-Brineys-Compassion-Card-87",
+      "image": "https://den-cards.pokellector.com/54/Mr-Brineys-Compassion.DR.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Mr-Brineys-Compassion.DR.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "87/97",
+      "card_number": "87",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Mr-Brineys-Compassion.DR.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmr-brineys-compassion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p169448.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Mr.+Briney%27s+Compassion+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mr.+Briney%27s+Compassion+-+87%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.14",
+          "link": "http://stop2shop.com/dragon-87.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "TV Reporter",
+      "title": "TV Reporter - EX Dragon #88",
+      "link": "/EX-Dragon-Expansion/TV-Reporter-Card-88",
+      "image": "https://den-cards.pokellector.com/54/TV-Reporter.DR.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/TV-Reporter.DR.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "88/97",
+      "card_number": "88",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/TV-Reporter.DR.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Ftv-reporter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p169484.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+TV+Reporter+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.88",
+          "link": "http://stop2shop.com/dragon-88.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/TV+Reporter+-+88%2F97"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Ampharos EX",
+      "title": "Ampharos EX - EX Dragon #89",
+      "link": "/EX-Dragon-Expansion/Ampharos-EX-Card-89",
+      "image": "https://den-cards.pokellector.com/54/Ampharos-EX.DR.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Ampharos-EX.DR.89.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "89/97",
+      "card_number": "89",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Ampharos-EX.DR.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$129.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fampharos-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$74.99",
+          "link": "http://www.trollandtoad.com/p169390.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.08",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Ampharos+EX+89+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ampharos+ex+-+89%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$50.63",
+          "link": "http://stop2shop.com/dragon-89.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Dragonite EX",
+      "title": "Dragonite EX - EX Dragon #90",
+      "link": "/EX-Dragon-Expansion/Dragonite-EX-Card-90",
+      "image": "https://den-cards.pokellector.com/54/Dragonite-EX.DR.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Dragonite-EX.DR.90.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "90/97",
+      "card_number": "90",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Dragonite-EX.DR.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$401.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fdragonite-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$179.99",
+          "link": "http://www.trollandtoad.com/p169409.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Dragonite+EX+90+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$106.97",
+          "link": "http://stop2shop.com/dragon-90.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonite+ex+-+90%2F97"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Golem ex",
+      "title": "Golem ex - EX Dragon #91",
+      "link": "/EX-Dragon-Expansion/Golem-ex-Card-91",
+      "image": "https://den-cards.pokellector.com/54/Golem-ex.DR.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Golem-ex.DR.91.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "91/97",
+      "card_number": "91",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Golem-ex.DR.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$45.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fgolem-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$50.39",
+          "link": "http://www.trollandtoad.com/p169420.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Golem+ex+91+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golem+ex+-+91%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$26.07",
+          "link": "http://stop2shop.com/dragon-91.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Kingdra EX",
+      "title": "Kingdra EX - EX Dragon #92",
+      "link": "/EX-Dragon-Expansion/Kingdra-EX-Card-92",
+      "image": "https://den-cards.pokellector.com/54/Kingdra-EX.DR.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Kingdra-EX.DR.92.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "92/97",
+      "card_number": "92",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Kingdra-EX.DR.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fkingdra-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$49.99",
+          "link": "http://www.trollandtoad.com/p169432.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Kingdra+EX+92+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$29.41",
+          "link": "http://stop2shop.com/dragon-92.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kingdra+ex+-+92%2F97"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Latias EX",
+      "title": "Latias EX - EX Dragon #93",
+      "link": "/EX-Dragon-Expansion/Latias-EX-Card-93",
+      "image": "https://den-cards.pokellector.com/54/Latias-EX.DR.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Latias-EX.DR.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "93/97",
+      "card_number": "93",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Latias-EX.DR.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$165.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Flatias-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$127.99",
+          "link": "http://www.trollandtoad.com/p169434.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.10",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Latias+EX+93+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latias+ex+-+93%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$51.33",
+          "link": "http://stop2shop.com/dragon-93.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Latios EX",
+      "title": "Latios EX - EX Dragon #94",
+      "link": "/EX-Dragon-Expansion/Latios-EX-Card-94",
+      "image": "https://den-cards.pokellector.com/54/Latios-EX.DR.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Latios-EX.DR.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "94/97",
+      "card_number": "94",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Latios-EX.DR.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Flatios-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$134.49",
+          "link": "http://www.trollandtoad.com/p169435.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Latios+EX+94+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latios+ex+-+94%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$54.86",
+          "link": "http://stop2shop.com/dragon-94.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Magcargo EX",
+      "title": "Magcargo EX - EX Dragon #95",
+      "link": "/EX-Dragon-Expansion/Magcargo-EX-Card-95",
+      "image": "https://den-cards.pokellector.com/54/Magcargo-EX.DR.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Magcargo-EX.DR.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "95/97",
+      "card_number": "95",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Magcargo-EX.DR.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmagcargo-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$33.29",
+          "link": "http://www.trollandtoad.com/p169437.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Magcargo+EX+95+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magcargo+ex+-+95%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$23.73",
+          "link": "http://stop2shop.com/dragon-95.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Muk EX",
+      "title": "Muk EX - EX Dragon #96",
+      "link": "/EX-Dragon-Expansion/Muk-EX-Card-96",
+      "image": "https://den-cards.pokellector.com/54/Muk-EX.DR.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Muk-EX.DR.96.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "96/97",
+      "card_number": "96",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Muk-EX.DR.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fmuk-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$37.99",
+          "link": "http://www.trollandtoad.com/p169450.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.60",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Muk+EX+96+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Muk+ex+-+96%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$33.14",
+          "link": "http://stop2shop.com/dragon-96.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Rayquaza EX",
+      "title": "Rayquaza EX - EX Dragon #97",
+      "link": "/EX-Dragon-Expansion/Rayquaza-EX-Card-97",
+      "image": "https://den-cards.pokellector.com/54/Rayquaza-EX.DR.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Rayquaza-EX.DR.97.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "97/97",
+      "card_number": "97",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Rayquaza-EX.DR.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$192.37",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Frayquaza-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$249.99",
+          "link": "http://www.trollandtoad.com/p169460.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Rayquaza+EX+97+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$143.35",
+          "link": "http://stop2shop.com/dragon-97.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+ex+-+97%2F97"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Charmander",
+      "title": "Charmander - EX Dragon #98",
+      "link": "/EX-Dragon-Expansion/Charmander-Card-98",
+      "image": "https://den-cards.pokellector.com/54/Charmander.DR.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Charmander.DR.98.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "98/97",
+      "card_number": "98",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Charmander.DR.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$235.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcharmander"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p169399.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$103.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Charmander+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmander+-+98%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$86.06",
+          "link": "http://stop2shop.com/dragon-98.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Charmeleon",
+      "title": "Charmeleon - EX Dragon #99",
+      "link": "/EX-Dragon-Expansion/Charmeleon-Card-99",
+      "image": "https://den-cards.pokellector.com/54/Charmeleon.DR.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Charmeleon.DR.99.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "99/97",
+      "card_number": "99",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Charmeleon.DR.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$137.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcharmeleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$68.79",
+          "link": "http://www.trollandtoad.com/p169400.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Charmeleon+99+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmeleon+-+99%2F97"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$77.16",
+          "link": "http://stop2shop.com/dragon-99.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Charizard",
+      "title": "Charizard - EX Dragon #100",
+      "link": "/EX-Dragon-Expansion/Charizard-Card-100",
+      "image": "https://den-cards.pokellector.com/54/Charizard.DR.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/54/Charizard.DR.100.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Dragon",
+      "set_link": "/EX-Dragon-Expansion/",
+      "position": "100/97",
+      "card_number": "100",
+      "total_cards": "97",
+      "image_full": "https://den-cards.pokellector.com/54/Charizard.DR.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$575.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon%2Fcharizard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$399.99",
+          "link": "http://www.trollandtoad.com/p169398.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$198.70",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Charizard+100+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$350.00",
+          "link": "http://stop2shop.com/dragon-100.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charizard+-+100%2F97"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 13:15:14"
+}

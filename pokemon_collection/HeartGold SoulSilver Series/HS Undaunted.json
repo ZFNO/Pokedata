@@ -1,0 +1,4553 @@
+{
+  "title": "HS Undaunted Set",
+  "link": "/HS-Undaunted-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/HS-Undaunted.logo.36.png",
+  "symbol": "https://den-media.pokellector.com/logos/HS-Undaunted.symbol.36.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bellossom",
+      "title": "Bellossom - HS Undaunted #1",
+      "link": "/HS-Undaunted-Expansion/Bellossom-Card-1",
+      "image": "https://den-cards.pokellector.com/36/Bellossom.UD.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Bellossom.UD.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "1/90",
+      "card_number": "1",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Bellossom.UD.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fbellossom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p299560.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Bellossom+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bellossom+-+1%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/hs-undaunted-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Espeon",
+      "title": "Espeon - HS Undaunted #2",
+      "link": "/HS-Undaunted-Expansion/Espeon-Card-2",
+      "image": "https://den-cards.pokellector.com/36/Espeon.UD.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Espeon.UD.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "2/90",
+      "card_number": "2",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Espeon.UD.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$42.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fespeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p1067513.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Espeon+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+2%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/hs-undaunted-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Forretress",
+      "title": "Forretress - HS Undaunted #3",
+      "link": "/HS-Undaunted-Expansion/Forretress-Card-3",
+      "image": "https://den-cards.pokellector.com/36/Forretress.UD.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Forretress.UD.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "3/90",
+      "card_number": "3",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Forretress.UD.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fforretress"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p299562.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Forretress+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.09",
+          "link": "http://stop2shop.com/hs-undaunted-003.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+13%2F90"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Gliscor",
+      "title": "Gliscor - HS Undaunted #4",
+      "link": "/HS-Undaunted-Expansion/Gliscor-Card-4",
+      "image": "https://den-cards.pokellector.com/36/Gliscor.UD.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Gliscor.UD.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "4/90",
+      "card_number": "4",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Gliscor.UD.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fgliscor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p1067519.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Gliscor+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gliscor+-+4%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.09",
+          "link": "http://stop2shop.com/hs-undaunted-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Houndoom",
+      "title": "Houndoom - HS Undaunted #5",
+      "link": "/HS-Undaunted-Expansion/Houndoom-Card-5",
+      "image": "https://den-cards.pokellector.com/36/Houndoom.UD.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Houndoom.UD.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "5/90",
+      "card_number": "5",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Houndoom.UD.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhoundoom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.49",
+          "link": "http://www.trollandtoad.com/p1067527.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Houndoom+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+5%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.07",
+          "link": "http://stop2shop.com/hs-undaunted-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Magcargo",
+      "title": "Magcargo - HS Undaunted #6",
+      "link": "/HS-Undaunted-Expansion/Magcargo-Card-6",
+      "image": "https://den-cards.pokellector.com/36/Magcargo.UD.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Magcargo.UD.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "6/90",
+      "card_number": "6",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Magcargo.UD.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.57",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmagcargo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1067534.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Magcargo+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magcargo+-+6%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.09",
+          "link": "http://stop2shop.com/hs-undaunted-006.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Scizor",
+      "title": "Scizor - HS Undaunted #7",
+      "link": "/HS-Undaunted-Expansion/Scizor-Card-7",
+      "image": "https://den-cards.pokellector.com/36/Scizor.UD.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Scizor.UD.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "7/90",
+      "card_number": "7",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Scizor.UD.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$89.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fscizor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.39",
+          "link": "http://www.trollandtoad.com/p299566.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Scizor+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/hs-undaunted-007.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+-+7%2F90"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Smeargle",
+      "title": "Smeargle - HS Undaunted #8",
+      "link": "/HS-Undaunted-Expansion/Smeargle-Card-8",
+      "image": "https://den-cards.pokellector.com/36/Smeargle.UD.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Smeargle.UD.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "8/90",
+      "card_number": "8",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Smeargle.UD.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fsmeargle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p1067565.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Smeargle+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smeargle+-+8%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/hs-undaunted-008.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Togekiss",
+      "title": "Togekiss - HS Undaunted #9",
+      "link": "/HS-Undaunted-Expansion/Togekiss-Card-9",
+      "image": "https://den-cards.pokellector.com/36/Togekiss.UD.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Togekiss.UD.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "9/90",
+      "card_number": "9",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Togekiss.UD.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Ftogekiss"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.79",
+          "link": "http://www.trollandtoad.com/p299568.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Togekiss+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Togekiss+-+9%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/hs-undaunted-009.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Umbreon",
+      "title": "Umbreon - HS Undaunted #10",
+      "link": "/HS-Undaunted-Expansion/Umbreon-Card-10",
+      "image": "https://den-cards.pokellector.com/36/Umbreon.UD.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Umbreon.UD.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "10/90",
+      "card_number": "10",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Umbreon.UD.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$65.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fumbreon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$30.99",
+          "link": "http://www.trollandtoad.com/p1067574.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Umbreon+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+10%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/hs-undaunted-010.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Dodrio",
+      "title": "Dodrio - HS Undaunted #11",
+      "link": "/HS-Undaunted-Expansion/Dodrio-Card-11",
+      "image": "https://den-cards.pokellector.com/36/Dodrio.UD.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Dodrio.UD.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "11/90",
+      "card_number": "11",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Dodrio.UD.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdodrio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299570.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Dodrio+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-undaunted-011.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dodrio+-+11%2F90"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Drifblim",
+      "title": "Drifblim - HS Undaunted #12",
+      "link": "/HS-Undaunted-Expansion/Drifblim-Card-12",
+      "image": "https://den-cards.pokellector.com/36/Drifblim.UD.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Drifblim.UD.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "12/90",
+      "card_number": "12",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Drifblim.UD.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdrifblim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299571.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Drifblim+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifblim+-+12%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-012.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Forretress",
+      "title": "Forretress - HS Undaunted #13",
+      "link": "/HS-Undaunted-Expansion/Forretress-Card-13",
+      "image": "https://den-cards.pokellector.com/36/Forretress.UD.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Forretress.UD.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "13/90",
+      "card_number": "13",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Forretress.UD.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fforretress"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p299572.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Forretress+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+13%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Hariyama",
+      "title": "Hariyama - HS Undaunted #14",
+      "link": "/HS-Undaunted-Expansion/Hariyama-Card-14",
+      "image": "https://den-cards.pokellector.com/36/Hariyama.UD.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Hariyama.UD.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "14/90",
+      "card_number": "14",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Hariyama.UD.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhariyama"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p299573.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Hariyama+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hariyama+-+14%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Honchkrow",
+      "title": "Honchkrow - HS Undaunted #15",
+      "link": "/HS-Undaunted-Expansion/Honchkrow-Card-15",
+      "image": "https://den-cards.pokellector.com/36/Honchkrow.UD.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Honchkrow.UD.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "15/90",
+      "card_number": "15",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Honchkrow.UD.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhonchkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299574.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Honchkrow+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Honchkrow+-+15%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Honchkrow",
+      "title": "Honchkrow - HS Undaunted #16",
+      "link": "/HS-Undaunted-Expansion/Honchkrow-Card-16",
+      "image": "https://den-cards.pokellector.com/36/Honchkrow.UD.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Honchkrow.UD.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "16/90",
+      "card_number": "16",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Honchkrow.UD.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhonchkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299575.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Honchkrow+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Honchkrow+-+16%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-016.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Leafeon",
+      "title": "Leafeon - HS Undaunted #17",
+      "link": "/HS-Undaunted-Expansion/Leafeon-Card-17",
+      "image": "https://den-cards.pokellector.com/36/Leafeon.UD.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Leafeon.UD.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "17/90",
+      "card_number": "17",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Leafeon.UD.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fleafeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.79",
+          "link": "http://www.trollandtoad.com/p299576.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Leafeon+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+-+17%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/hs-undaunted-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Metagross",
+      "title": "Metagross - HS Undaunted #18",
+      "link": "/HS-Undaunted-Expansion/Metagross-Card-18",
+      "image": "https://den-cards.pokellector.com/36/Metagross.UD.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Metagross.UD.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "18/90",
+      "card_number": "18",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Metagross.UD.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmetagross"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299577.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Metagross+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metagross+-+18%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-undaunted-018.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Mismagius",
+      "title": "Mismagius - HS Undaunted #19",
+      "link": "/HS-Undaunted-Expansion/Mismagius-Card-19",
+      "image": "https://den-cards.pokellector.com/36/Mismagius.UD.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Mismagius.UD.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "19/90",
+      "card_number": "19",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Mismagius.UD.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmismagius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299578.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Mismagius+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mismagius+-+19%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Rotom",
+      "title": "Rotom - HS Undaunted #20",
+      "link": "/HS-Undaunted-Expansion/Rotom-Card-20",
+      "image": "https://den-cards.pokellector.com/36/Rotom.UD.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Rotom.UD.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "20/90",
+      "card_number": "20",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Rotom.UD.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Frotom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299579.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Rotom+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rotom+-+20%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Skarmory",
+      "title": "Skarmory - HS Undaunted #21",
+      "link": "/HS-Undaunted-Expansion/Skarmory-Card-21",
+      "image": "https://den-cards.pokellector.com/36/Skarmory.UD.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Skarmory.UD.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "21/90",
+      "card_number": "21",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Skarmory.UD.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fskarmory"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299580.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$66.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Skarmory+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skarmory+-+21%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Tropius",
+      "title": "Tropius - HS Undaunted #22",
+      "link": "/HS-Undaunted-Expansion/Tropius-Card-22",
+      "image": "https://den-cards.pokellector.com/36/Tropius.UD.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Tropius.UD.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "22/90",
+      "card_number": "22",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Tropius.UD.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Ftropius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299581.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Tropius+22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropius+-+22%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-022.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Vespiquen",
+      "title": "Vespiquen - HS Undaunted #23",
+      "link": "/HS-Undaunted-Expansion/Vespiquen-Card-23",
+      "image": "https://den-cards.pokellector.com/36/Vespiquen.UD.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Vespiquen.UD.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "23/90",
+      "card_number": "23",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Vespiquen.UD.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fvespiquen"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299582.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Vespiquen+23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-023.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vespiquen+-+23%2F90"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Vileplume",
+      "title": "Vileplume - HS Undaunted #24",
+      "link": "/HS-Undaunted-Expansion/Vileplume-Card-24",
+      "image": "https://den-cards.pokellector.com/36/Vileplume.UD.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Vileplume.UD.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "24/90",
+      "card_number": "24",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Vileplume.UD.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fvileplume"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.29",
+          "link": "http://www.trollandtoad.com/p299583.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Vileplume+24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vileplume+-+24%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/hs-undaunted-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Weavile",
+      "title": "Weavile - HS Undaunted #25",
+      "link": "/HS-Undaunted-Expansion/Weavile-Card-25",
+      "image": "https://den-cards.pokellector.com/36/Weavile.UD.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Weavile.UD.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "25/90",
+      "card_number": "25",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Weavile.UD.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fweavile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1067579.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Weavile+25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weavile+-+25%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/hs-undaunted-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Flareon",
+      "title": "Flareon - HS Undaunted #26",
+      "link": "/HS-Undaunted-Expansion/Flareon-Card-26",
+      "image": "https://den-cards.pokellector.com/36/Flareon.UD.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Flareon.UD.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "26/90",
+      "card_number": "26",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Flareon.UD.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fflareon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.71",
+          "link": "http://www.trollandtoad.com/p299585.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Flareon+26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flareon+-+26%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/hs-undaunted-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Gloom",
+      "title": "Gloom - HS Undaunted #27",
+      "link": "/HS-Undaunted-Expansion/Gloom-Card-27",
+      "image": "https://den-cards.pokellector.com/36/Gloom.UD.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Gloom.UD.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "27/90",
+      "card_number": "27",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Gloom.UD.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fgloom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299586.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Gloom+27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gloom+-+27%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Jolteon",
+      "title": "Jolteon - HS Undaunted #28",
+      "link": "/HS-Undaunted-Expansion/Jolteon-Card-28",
+      "image": "https://den-cards.pokellector.com/36/Jolteon.UD.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Jolteon.UD.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "28/90",
+      "card_number": "28",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Jolteon.UD.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fjolteon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p299587.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Jolteon+28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jolteon+-+28%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-028.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Lairon",
+      "title": "Lairon - HS Undaunted #29",
+      "link": "/HS-Undaunted-Expansion/Lairon-Card-29",
+      "image": "https://den-cards.pokellector.com/36/Lairon.UD.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Lairon.UD.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "29/90",
+      "card_number": "29",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Lairon.UD.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Flairon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299588.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Lairon+29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lairon+-+29%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-029.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Metang",
+      "title": "Metang - HS Undaunted #30",
+      "link": "/HS-Undaunted-Expansion/Metang-Card-30",
+      "image": "https://den-cards.pokellector.com/36/Metang.UD.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Metang.UD.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "30/90",
+      "card_number": "30",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Metang.UD.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmetang"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299589.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$62.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Metang+30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metang+-+30%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Muk",
+      "title": "Muk - HS Undaunted #31",
+      "link": "/HS-Undaunted-Expansion/Muk-Card-31",
+      "image": "https://den-cards.pokellector.com/36/Muk.UD.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Muk.UD.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "31/90",
+      "card_number": "31",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Muk.UD.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmuk"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299590.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Muk+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Muk+-+31%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Pinsir",
+      "title": "Pinsir - HS Undaunted #32",
+      "link": "/HS-Undaunted-Expansion/Pinsir-Card-32",
+      "image": "https://den-cards.pokellector.com/36/Pinsir.UD.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Pinsir.UD.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "32/90",
+      "card_number": "32",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Pinsir.UD.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fpinsir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299591.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Pinsir+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pinsir+-+32%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-032.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Raichu",
+      "title": "Raichu - HS Undaunted #33",
+      "link": "/HS-Undaunted-Expansion/Raichu-Card-33",
+      "image": "https://den-cards.pokellector.com/36/Raichu.UD.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Raichu.UD.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "33/90",
+      "card_number": "33",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Raichu.UD.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fraichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p299592.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Raichu+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+33%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Raticate",
+      "title": "Raticate - HS Undaunted #34",
+      "link": "/HS-Undaunted-Expansion/Raticate-Card-34",
+      "image": "https://den-cards.pokellector.com/36/Raticate.UD.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Raticate.UD.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "34/90",
+      "card_number": "34",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Raticate.UD.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fraticate"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1067551.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Raticate+34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raticate+-+34%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Sableye",
+      "title": "Sableye - HS Undaunted #35",
+      "link": "/HS-Undaunted-Expansion/Sableye-Card-35",
+      "image": "https://den-cards.pokellector.com/36/Sableye.UD.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Sableye.UD.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "35/90",
+      "card_number": "35",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Sableye.UD.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fsableye"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299594.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Sableye+35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sableye+-+35%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-035.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Scyther",
+      "title": "Scyther - HS Undaunted #36",
+      "link": "/HS-Undaunted-Expansion/Scyther-Card-36",
+      "image": "https://den-cards.pokellector.com/36/Scyther.UD.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Scyther.UD.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "36/90",
+      "card_number": "36",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Scyther.UD.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fscyther"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p299595.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Scyther+36&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scyther+-+36%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/hs-undaunted-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Skuntank",
+      "title": "Skuntank - HS Undaunted #37",
+      "link": "/HS-Undaunted-Expansion/Skuntank-Card-37",
+      "image": "https://den-cards.pokellector.com/36/Skuntank.UD.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Skuntank.UD.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "37/90",
+      "card_number": "37",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Skuntank.UD.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fskuntank"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299596.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Skuntank+37&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skuntank+-+37%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Slowbro",
+      "title": "Slowbro - HS Undaunted #38",
+      "link": "/HS-Undaunted-Expansion/Slowbro-Card-38",
+      "image": "https://den-cards.pokellector.com/36/Slowbro.UD.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Slowbro.UD.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "38/90",
+      "card_number": "38",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Slowbro.UD.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fslowbro"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299597.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Slowbro+38&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowbro+-+38%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Togetic",
+      "title": "Togetic - HS Undaunted #39",
+      "link": "/HS-Undaunted-Expansion/Togetic-Card-39",
+      "image": "https://den-cards.pokellector.com/36/Togetic.UD.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Togetic.UD.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "39/90",
+      "card_number": "39",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Togetic.UD.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Ftogetic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299598.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Togetic+39&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Togetic+-+39%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-039.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Unown",
+      "title": "Unown - HS Undaunted #40",
+      "link": "/HS-Undaunted-Expansion/Unown-Card-40",
+      "image": "https://den-cards.pokellector.com/36/Unown.UD.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Unown.UD.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "40/90",
+      "card_number": "40",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Unown.UD.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Funown"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p299599.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Unown+40&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+-+40%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Vaporeon",
+      "title": "Vaporeon - HS Undaunted #41",
+      "link": "/HS-Undaunted-Expansion/Vaporeon-Card-41",
+      "image": "https://den-cards.pokellector.com/36/Vaporeon.UD.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Vaporeon.UD.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "41/90",
+      "card_number": "41",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Vaporeon.UD.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fvaporeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.48",
+          "link": "http://www.trollandtoad.com/p299600.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Vaporeon+41&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vaporeon+-+41%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/hs-undaunted-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Aron",
+      "title": "Aron - HS Undaunted #42",
+      "link": "/HS-Undaunted-Expansion/Aron-Card-42",
+      "image": "https://den-cards.pokellector.com/36/Aron.UD.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Aron.UD.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "42/90",
+      "card_number": "42",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Aron.UD.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Faron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299601.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Aron+42&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aron+-+42%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-042.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Beldum",
+      "title": "Beldum - HS Undaunted #43",
+      "link": "/HS-Undaunted-Expansion/Beldum-Card-43",
+      "image": "https://den-cards.pokellector.com/36/Beldum.UD.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Beldum.UD.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "43/90",
+      "card_number": "43",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Beldum.UD.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fbeldum"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299602.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Beldum+43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beldum+-+43%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-043.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Combee",
+      "title": "Combee - HS Undaunted #44",
+      "link": "/HS-Undaunted-Expansion/Combee-Card-44",
+      "image": "https://den-cards.pokellector.com/36/Combee.UD.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Combee.UD.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "44/90",
+      "card_number": "44",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Combee.UD.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fcombee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299603.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Combee+44&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combee+-+44%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-044.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Doduo",
+      "title": "Doduo - HS Undaunted #45",
+      "link": "/HS-Undaunted-Expansion/Doduo-Card-45",
+      "image": "https://den-cards.pokellector.com/36/Doduo.UD.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Doduo.UD.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "45/90",
+      "card_number": "45",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Doduo.UD.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdoduo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299604.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Doduo+45&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Doduo+-+45%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Drifloon",
+      "title": "Drifloon - HS Undaunted #46",
+      "link": "/HS-Undaunted-Expansion/Drifloon-Card-46",
+      "image": "https://den-cards.pokellector.com/36/Drifloon.UD.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Drifloon.UD.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "46/90",
+      "card_number": "46",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Drifloon.UD.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdrifloon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299605.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Drifloon+46&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifloon+-+46%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-046.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Eevee",
+      "title": "Eevee - HS Undaunted #47",
+      "link": "/HS-Undaunted-Expansion/Eevee-Card-47",
+      "image": "https://den-cards.pokellector.com/36/Eevee.UD.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Eevee.UD.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "47/90",
+      "card_number": "47",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Eevee.UD.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p299606.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Eevee+47&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+47%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Eevee",
+      "title": "Eevee - HS Undaunted #48",
+      "link": "/HS-Undaunted-Expansion/Eevee-Card-48",
+      "image": "https://den-cards.pokellector.com/36/Eevee.UD.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Eevee.UD.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "48/90",
+      "card_number": "48",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Eevee.UD.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299607.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Eevee+48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+48%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-undaunted-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Gligar",
+      "title": "Gligar - HS Undaunted #49",
+      "link": "/HS-Undaunted-Expansion/Gligar-Card-49",
+      "image": "https://den-cards.pokellector.com/36/Gligar.UD.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Gligar.UD.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "49/90",
+      "card_number": "49",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Gligar.UD.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fgligar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299608.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Gligar+49&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gligar+-+49%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Grimer",
+      "title": "Grimer - HS Undaunted #50",
+      "link": "/HS-Undaunted-Expansion/Grimer-Card-50",
+      "image": "https://den-cards.pokellector.com/36/Grimer.UD.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Grimer.UD.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "50/90",
+      "card_number": "50",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Grimer.UD.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fgrimer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299609.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$37.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Grimer+50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grimer+-+50%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Hitmonchan",
+      "title": "Hitmonchan - HS Undaunted #51",
+      "link": "/HS-Undaunted-Expansion/Hitmonchan-Card-51",
+      "image": "https://den-cards.pokellector.com/36/Hitmonchan.UD.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Hitmonchan.UD.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "51/90",
+      "card_number": "51",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Hitmonchan.UD.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhitmonchan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299610.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Hitmonchan+51&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonchan+-+51%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Hitmonlee",
+      "title": "Hitmonlee - HS Undaunted #52",
+      "link": "/HS-Undaunted-Expansion/Hitmonlee-Card-52",
+      "image": "https://den-cards.pokellector.com/36/Hitmonlee.UD.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Hitmonlee.UD.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "52/90",
+      "card_number": "52",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Hitmonlee.UD.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhitmonlee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299611.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Hitmonlee+52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonlee+-+52%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-052.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Houndour",
+      "title": "Houndour - HS Undaunted #53",
+      "link": "/HS-Undaunted-Expansion/Houndour-Card-53",
+      "image": "https://den-cards.pokellector.com/36/Houndour.UD.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Houndour.UD.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "53/90",
+      "card_number": "53",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Houndour.UD.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhoundour-53"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299612.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Houndour+53&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+53%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-053.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Houndour",
+      "title": "Houndour - HS Undaunted #54",
+      "link": "/HS-Undaunted-Expansion/Houndour-Card-54",
+      "image": "https://den-cards.pokellector.com/36/Houndour.UD.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Houndour.UD.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "54/90",
+      "card_number": "54",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Houndour.UD.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhoundour-54"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299613.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Houndour+54&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+54%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Makuhita",
+      "title": "Makuhita - HS Undaunted #55",
+      "link": "/HS-Undaunted-Expansion/Makuhita-Card-55",
+      "image": "https://den-cards.pokellector.com/36/Makuhita.UD.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Makuhita.UD.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "55/90",
+      "card_number": "55",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Makuhita.UD.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmakuhita"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299614.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Makuhita+55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Makuhita+-+55%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-055.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Mawile",
+      "title": "Mawile - HS Undaunted #56",
+      "link": "/HS-Undaunted-Expansion/Mawile-Card-56",
+      "image": "https://den-cards.pokellector.com/36/Mawile.UD.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Mawile.UD.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "56/90",
+      "card_number": "56",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Mawile.UD.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmawile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299615.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Mawile+56&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mawile+-+56%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Misdreavus",
+      "title": "Misdreavus - HS Undaunted #57",
+      "link": "/HS-Undaunted-Expansion/Misdreavus-Card-57",
+      "image": "https://den-cards.pokellector.com/36/Misdreavus.UD.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Misdreavus.UD.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "57/90",
+      "card_number": "57",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Misdreavus.UD.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmisdreavus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299616.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Misdreavus+57&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Misdreavus+-+57%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Murkrow",
+      "title": "Murkrow - HS Undaunted #58",
+      "link": "/HS-Undaunted-Expansion/Murkrow-Card-58",
+      "image": "https://den-cards.pokellector.com/36/Murkrow.UD.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Murkrow.UD.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "58/90",
+      "card_number": "58",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Murkrow.UD.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmurkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299617.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Murkrow+58&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Murkrow+-+58%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-058.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Murkrow",
+      "title": "Murkrow - HS Undaunted #59",
+      "link": "/HS-Undaunted-Expansion/Murkrow-Card-59",
+      "image": "https://den-cards.pokellector.com/36/Murkrow.UD.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Murkrow.UD.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "59/90",
+      "card_number": "59",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Murkrow.UD.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmurkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299618.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Murkrow+59&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Murkrow+-+59%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Oddish",
+      "title": "Oddish - HS Undaunted #60",
+      "link": "/HS-Undaunted-Expansion/Oddish-Card-60",
+      "image": "https://den-cards.pokellector.com/36/Oddish.UD.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Oddish.UD.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "60/90",
+      "card_number": "60",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Oddish.UD.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Foddish"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299619.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Oddish+60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oddish+-+60%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-060.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Pikachu",
+      "title": "Pikachu - HS Undaunted #61",
+      "link": "/HS-Undaunted-Expansion/Pikachu-Card-61",
+      "image": "https://den-cards.pokellector.com/36/Pikachu.UD.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Pikachu.UD.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "61/90",
+      "card_number": "61",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Pikachu.UD.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.16",
+          "link": "http://www.trollandtoad.com/p299620.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Pikachu+61&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+61%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Pineco",
+      "title": "Pineco - HS Undaunted #62",
+      "link": "/HS-Undaunted-Expansion/Pineco-Card-62",
+      "image": "https://den-cards.pokellector.com/36/Pineco.UD.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Pineco.UD.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "62/90",
+      "card_number": "62",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Pineco.UD.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fpineco"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1067547.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Pineco+62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pineco+-+62%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-062.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Pineco",
+      "title": "Pineco - HS Undaunted #63",
+      "link": "/HS-Undaunted-Expansion/Pineco-Card-63",
+      "image": "https://den-cards.pokellector.com/36/Pineco.UD.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Pineco.UD.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "63/90",
+      "card_number": "63",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Pineco.UD.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fpineco"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299622.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Pineco+63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pineco+-+63%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Rattata",
+      "title": "Rattata - HS Undaunted #64",
+      "link": "/HS-Undaunted-Expansion/Rattata-Card-64",
+      "image": "https://den-cards.pokellector.com/36/Rattata.UD.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Rattata.UD.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "64/90",
+      "card_number": "64",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Rattata.UD.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Frattata"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299623.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Rattata+64&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rattata+-+64%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-064.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Scyther",
+      "title": "Scyther - HS Undaunted #65",
+      "link": "/HS-Undaunted-Expansion/Scyther-Card-65",
+      "image": "https://den-cards.pokellector.com/36/Scyther.UD.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Scyther.UD.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "65/90",
+      "card_number": "65",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Scyther.UD.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fscyther"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p299624.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Scyther+65&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scyther+-+65%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/hs-undaunted-065.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Slowpoke",
+      "title": "Slowpoke - HS Undaunted #66",
+      "link": "/HS-Undaunted-Expansion/Slowpoke-Card-66",
+      "image": "https://den-cards.pokellector.com/36/Slowpoke.UD.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Slowpoke.UD.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "66/90",
+      "card_number": "66",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Slowpoke.UD.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fslowpoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.19",
+          "link": "http://www.trollandtoad.com/p299625.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.05",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Slowpoke+66&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowpoke+-+66%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Slugma",
+      "title": "Slugma - HS Undaunted #67",
+      "link": "/HS-Undaunted-Expansion/Slugma-Card-67",
+      "image": "https://den-cards.pokellector.com/36/Slugma.UD.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Slugma.UD.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "67/90",
+      "card_number": "67",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Slugma.UD.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fslugma"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299626.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Slugma+67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slugma+-+67%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Sneasel",
+      "title": "Sneasel - HS Undaunted #68",
+      "link": "/HS-Undaunted-Expansion/Sneasel-Card-68",
+      "image": "https://den-cards.pokellector.com/36/Sneasel.UD.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Sneasel.UD.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "68/90",
+      "card_number": "68",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Sneasel.UD.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fsneasel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299627.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Sneasel+68&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/hs-undaunted-068.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sneasel+-+68%2F90"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Stunky",
+      "title": "Stunky - HS Undaunted #69",
+      "link": "/HS-Undaunted-Expansion/Stunky-Card-69",
+      "image": "https://den-cards.pokellector.com/36/Stunky.UD.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Stunky.UD.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "69/90",
+      "card_number": "69",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Stunky.UD.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fstunky"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299628.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Stunky+69&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Stunky+-+69%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Togepi",
+      "title": "Togepi - HS Undaunted #70",
+      "link": "/HS-Undaunted-Expansion/Togepi-Card-70",
+      "image": "https://den-cards.pokellector.com/36/Togepi.UD.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Togepi.UD.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "70/90",
+      "card_number": "70",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Togepi.UD.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Ftogepi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p299629.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Togepi+70&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Togepi+-+70%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-070.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Burned Tower",
+      "title": "Burned Tower - HS Undaunted #71",
+      "link": "/HS-Undaunted-Expansion/Burned-Tower-Card-71",
+      "image": "https://den-cards.pokellector.com/36/Burned-Tower.UD.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Burned-Tower.UD.71.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "71/90",
+      "card_number": "71",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Burned-Tower.UD.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fburned-tower"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299630.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Burned+Tower+71&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Burned+Tower+-+71%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/hs-undaunted-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Defender",
+      "title": "Defender - HS Undaunted #72",
+      "link": "/HS-Undaunted-Expansion/Defender-Card-72",
+      "image": "https://den-cards.pokellector.com/36/Defender.UD.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Defender.UD.72.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "72/90",
+      "card_number": "72",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Defender.UD.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdefender"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1067505.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Defender+72&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Defender+-+72%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/hs-undaunted-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Energy Exchanger",
+      "title": "Energy Exchanger - HS Undaunted #73",
+      "link": "/HS-Undaunted-Expansion/Energy-Exchanger-Card-73",
+      "image": "https://den-cards.pokellector.com/36/Energy-Exchanger.UD.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Energy-Exchanger.UD.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "73/90",
+      "card_number": "73",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Energy-Exchanger.UD.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fenergy-exchanger"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299632.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Energy+Exchanger+73&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Exchanger+-+73%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/hs-undaunted-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Flower Shop Lady",
+      "title": "Flower Shop Lady - HS Undaunted #74",
+      "link": "/HS-Undaunted-Expansion/Flower-Shop-Lady-Card-74",
+      "image": "https://den-cards.pokellector.com/36/Flower-Shop-Lady.UD.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Flower-Shop-Lady.UD.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "74/90",
+      "card_number": "74",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Flower-Shop-Lady.UD.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fflower-shop-lady"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p299633.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.23",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Flower+Shop+Lady+74&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flower+Shop+Lady+-+74%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/hs-undaunted-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Legend Box",
+      "title": "Legend Box - HS Undaunted #75",
+      "link": "/HS-Undaunted-Expansion/Legend-Box-Card-75",
+      "image": "https://den-cards.pokellector.com/36/Legend-Box.UD.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Legend-Box.UD.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "75/90",
+      "card_number": "75",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Legend-Box.UD.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Flegend-box"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p299634.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$31.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Legend+Box+75&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Legend+Box+-+75%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-undaunted-075.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Ruins of Alph",
+      "title": "Ruins of Alph - HS Undaunted #76",
+      "link": "/HS-Undaunted-Expansion/Ruins-of-Alph-Card-76",
+      "image": "https://den-cards.pokellector.com/36/Ruins-of-Alph.UD.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Ruins-of-Alph.UD.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "76/90",
+      "card_number": "76",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Ruins-of-Alph.UD.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fruins-of-alph"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p299635.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Ruins+of+Alph+76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ruins+of+Alph+-+76%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-undaunted-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Sage's Training",
+      "title": "Sage's Training - HS Undaunted #77",
+      "link": "/HS-Undaunted-Expansion/Sages-Training-Card-77",
+      "image": "https://den-cards.pokellector.com/36/Sages-Training.UD.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Sages-Training.UD.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "77/90",
+      "card_number": "77",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Sages-Training.UD.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fsages-training"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Sage%27s+Training+77&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sage%27s+Training+-+77%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-undaunted-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Team Rocket's Trickery",
+      "title": "Team Rocket's Trickery - HS Undaunted #78",
+      "link": "/HS-Undaunted-Expansion/Team-Rockets-Trickery-Card-78",
+      "image": "https://den-cards.pokellector.com/36/Team-Rockets-Trickery.UD.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Team-Rockets-Trickery.UD.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "78/90",
+      "card_number": "78",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Team-Rockets-Trickery.UD.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fteam-rockets-trickery"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.75",
+          "link": "http://www.trollandtoad.com/p299637.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Team+Rocket%27s+Trickery+78&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Rocket%27s+Trickery+-+78%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/hs-undaunted-078.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - HS Undaunted #79",
+      "link": "/HS-Undaunted-Expansion/Darkness-Energy-Card-79",
+      "image": "https://den-cards.pokellector.com/36/Darkness-Energy.UD.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Darkness-Energy.UD.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "79/90",
+      "card_number": "79",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Darkness-Energy.UD.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fdarkness-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.75",
+          "link": "http://www.trollandtoad.com/p299638.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Darkness+Energy+79&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Special+Darkness+Energy+-+79%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-undaunted-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Metal Energy",
+      "title": "Metal Energy - HS Undaunted #80",
+      "link": "/HS-Undaunted-Expansion/Metal-Energy-Card-80",
+      "image": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "80/90",
+      "card_number": "80",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fmetal-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p299639.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Metal+Energy+80&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Special+Metal+Energy+-+80%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/hs-undaunted-080.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.24266.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "League Promo",
+          "image": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.28852.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Espeon",
+      "title": "Espeon - HS Undaunted #81",
+      "link": "/HS-Undaunted-Expansion/Espeon-Card-81",
+      "image": "https://den-cards.pokellector.com/36/Espeon.UD.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Espeon.UD.81.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "81/90",
+      "card_number": "81",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Espeon.UD.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$109.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fespeon-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p299389.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Espeon+81&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+%28Prime%29+-+81%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$118.88",
+          "link": "http://stop2shop.com/hs-undaunted-081.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "82": {
+      "number": "82",
+      "name": "Houndoom",
+      "title": "Houndoom - HS Undaunted #82",
+      "link": "/HS-Undaunted-Expansion/Houndoom-Card-82",
+      "image": "https://den-cards.pokellector.com/36/Houndoom.UD.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Houndoom.UD.82.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "82/90",
+      "card_number": "82",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Houndoom.UD.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$118.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fhoundoom-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$42.89",
+          "link": "http://www.trollandtoad.com/p299640.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Houndoom+82&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+%28Prime%29+-+82%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.49",
+          "link": "http://stop2shop.com/hs-undaunted-082.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "83": {
+      "number": "83",
+      "name": "Raichu",
+      "title": "Raichu - HS Undaunted #83",
+      "link": "/HS-Undaunted-Expansion/Raichu-Card-83",
+      "image": "https://den-cards.pokellector.com/36/Raichu.UD.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Raichu.UD.83.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "83/90",
+      "card_number": "83",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Raichu.UD.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$79.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fraichu-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$54.99",
+          "link": "http://www.trollandtoad.com/p299641.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Raichu+83&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+%28Prime%29+-+83%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.99",
+          "link": "http://stop2shop.com/hs-undaunted-083.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Scizor",
+      "title": "Scizor - HS Undaunted #84",
+      "link": "/HS-Undaunted-Expansion/Scizor-Card-84",
+      "image": "https://den-cards.pokellector.com/36/Scizor.UD.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Scizor.UD.84.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "84/90",
+      "card_number": "84",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Scizor.UD.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$63.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fscizor-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p299642.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Scizor+84&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+%28Prime%29+-+84%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.49",
+          "link": "http://stop2shop.com/hs-undaunted-084.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Slowking",
+      "title": "Slowking - HS Undaunted #85",
+      "link": "/HS-Undaunted-Expansion/Slowking-Card-85",
+      "image": "https://den-cards.pokellector.com/36/Slowking.UD.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Slowking.UD.85.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "85/90",
+      "card_number": "85",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Slowking.UD.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$43.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fslowking-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.49",
+          "link": "http://www.trollandtoad.com/p299643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Slowking+85&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowking+%28Prime%29+-+85%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/hs-undaunted-085.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "86": {
+      "number": "86",
+      "name": "Umbreon",
+      "title": "Umbreon - HS Undaunted #86",
+      "link": "/HS-Undaunted-Expansion/Umbreon-Card-86",
+      "image": "https://den-cards.pokellector.com/36/Umbreon.UD.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Umbreon.UD.86.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "86/90",
+      "card_number": "86",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Umbreon.UD.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$449.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fumbreon-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$123.19",
+          "link": "http://www.trollandtoad.com/p299390.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$81.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Umbreon+86&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+%28Prime%29+-+86%2F90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/hs-undaunted-086.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "87": {
+      "number": "87",
+      "name": "Kyogre & Groudon LEGEND (top)",
+      "title": "Kyogre & Groudon LEGEND (top) - HS Undaunted #87",
+      "link": "/HS-Undaunted-Expansion/Kyogre-Groudon-LEGEND-top-Card-87",
+      "image": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-top.UD.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-top.UD.87.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "87/90",
+      "card_number": "87",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-top.UD.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$160.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fkyogre-and-groudon-legend-top"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Kyogre+%26+Groudon+LEGEND+%28top%29+87&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/hs-undaunted-087.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "88": {
+      "number": "88",
+      "name": "Kyogre & Groudon LEGEND (bottom)",
+      "title": "Kyogre & Groudon LEGEND (bottom) - HS Undaunted #88",
+      "link": "/HS-Undaunted-Expansion/Kyogre-Groudon-LEGEND-bottom-Card-88",
+      "image": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-bottom.UD.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-bottom.UD.88.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "88/90",
+      "card_number": "88",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-bottom.UD.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$150.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Fkyogre-and-groudon-legend-bottom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Kyogre+%26+Groudon+LEGEND+%28bottom%29+88&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/hs-undaunted-088.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "89": {
+      "number": "89",
+      "name": "Rayquaza & Deoxys LEGEND (top)",
+      "title": "Rayquaza & Deoxys LEGEND (top) - HS Undaunted #89",
+      "link": "/HS-Undaunted-Expansion/Rayquaza-Deoxys-LEGEND-top-Card-89",
+      "image": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-top.UD.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-top.UD.89.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "89/90",
+      "card_number": "89",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-top.UD.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$220.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Frayquaza-and-deoxys-legend-top"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299608.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$32.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Rayquaza+%26+Deoxys+LEGEND+%28top%29+89&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.99",
+          "link": "http://stop2shop.com/hs-undaunted-089.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Rayquaza & Deoxys LEGEND (botttom)",
+      "title": "Rayquaza & Deoxys LEGEND (botttom) - HS Undaunted #90",
+      "link": "/HS-Undaunted-Expansion/Rayquaza-Deoxys-LEGEND-botttom-Card-90",
+      "image": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-botttom.UD.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-botttom.UD.90.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "90/90",
+      "card_number": "90",
+      "total_cards": "90",
+      "image_full": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-botttom.UD.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$175.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Frayquaza-and-deoxys-legend-bottom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p299636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Rayquaza+%26+Deoxys+LEGEND+%28botttom%29+90&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$19.99",
+          "link": "http://stop2shop.com/hs-undaunted-090.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "THREE": {
+      "number": "THREE",
+      "name": "Alph Lithograph",
+      "title": "Alph Lithograph - HS Undaunted #0",
+      "link": "/HS-Undaunted-Expansion/Alph-Lithograph-Card-THREE0",
+      "image": "https://den-cards.pokellector.com/36/Alph-Lithograph.UD.0.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/36/Alph-Lithograph.UD.0.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "HS Undaunted",
+      "set_link": "/HS-Undaunted-Expansion/",
+      "position": "THREE",
+      "image_full": "https://den-cards.pokellector.com/36/Alph-Lithograph.UD.0.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$80.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fundaunted%2Falph-lithograph"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p299648.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$34.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Undaunted+Alph+Lithograph+THREE&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/hs-undaunted-000.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:52:47"
+}

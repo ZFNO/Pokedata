@@ -1,0 +1,802 @@
+{
+  "title": "Detective Pikachu Set",
+  "link": "/English-Detective-Pikachu-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Detective-Pikachu.logo.270.png",
+  "symbol": "https://den-media.pokellector.com/logos/Detective-Pikachu.symbol.270.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - Detective Pikachu #1",
+      "link": "/English-Detective-Pikachu-Expansion/Bulbasaur-Card-1",
+      "image": "https://den-cards.pokellector.com/270/Bulbasaur.DET.1.26972.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Bulbasaur.DET.1.26972.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "1/18",
+      "card_number": "1",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Bulbasaur.DET.1.26972.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fbulbasaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1472996.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bulbasaur+Detective+Pikachu+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Bulbasaur-Find-a-Friend?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/bulbasaur__118__holo_common/613854"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Ludicolo",
+      "title": "Ludicolo - Detective Pikachu #2",
+      "link": "/English-Detective-Pikachu-Expansion/Ludicolo-Card-2",
+      "image": "https://den-cards.pokellector.com/270/Ludicolo.DET.2.26973.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Ludicolo.DET.2.26973.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "2/18",
+      "card_number": "2",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Ludicolo.DET.2.26973.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fludicolo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1472997.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ludicolo+Detective+Pikachu+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ludicolo-Punch-and-Run?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/ludicolo__218__holo_rare/613855"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Morelull",
+      "title": "Morelull - Detective Pikachu #3",
+      "link": "/English-Detective-Pikachu-Expansion/Morelull-Card-3",
+      "image": "https://den-cards.pokellector.com/270/Morelull.DET.3.26983.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Morelull.DET.3.26983.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "3/18",
+      "card_number": "3",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Morelull.DET.3.26983.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fmorelull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1472998.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Morelull+Detective+Pikachu+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_darkness_ablaze/morelull__079189__common__reverse_holo/633085"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Morelull-Sleep-Spore?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Charmander",
+      "title": "Charmander - Detective Pikachu #4",
+      "link": "/English-Detective-Pikachu-Expansion/Charmander-Card-4",
+      "image": "https://den-cards.pokellector.com/270/Charmander.DET.4.26977.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Charmander.DET.4.26977.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "4/18",
+      "card_number": "4",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Charmander.DET.4.26977.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fcharmander"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1472999.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charmander+Detective+Pikachu+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/charmander_18a147_cosmos_holo_promo__charmander_sidekick_collection/640644"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Charmander-Reckless-Charge?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Charizard",
+      "title": "Charizard - Detective Pikachu #5",
+      "link": "/English-Detective-Pikachu-Expansion/Charizard-Card-5",
+      "image": "https://den-cards.pokellector.com/270/Charizard.DET.5.26976.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Charizard.DET.5.26976.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "5/18",
+      "card_number": "5",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Charizard.DET.5.26976.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fcharizard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p1473000.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charizard+Detective+Pikachu+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_team_up/charizard__14181__rare/612092"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€6.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Charizard-Slash-Wild-Tackle?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Arcanine",
+      "title": "Arcanine - Detective Pikachu #6",
+      "link": "/English-Detective-Pikachu-Expansion/Arcanine-Card-6",
+      "image": "https://den-cards.pokellector.com/270/Arcanine.DET.6.26975.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Arcanine.DET.6.26975.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "6/18",
+      "card_number": "6",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Arcanine.DET.6.26975.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Farcanine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1473001.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arcanine+Detective+Pikachu+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Arcanine-Sharp-Fang?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$15.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/arcanine_break__xy180__arcanine_break_evolution_box_promo/680654"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Psyduck",
+      "title": "Psyduck - Detective Pikachu #7",
+      "link": "/English-Detective-Pikachu-Expansion/Psyduck-Card-7",
+      "image": "https://den-cards.pokellector.com/270/Psyduck.DET.7.26865.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Psyduck.DET.7.26865.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "7/18",
+      "card_number": "7",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Psyduck.DET.7.26865.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fpsyduck"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1473002.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Psyduck+Detective+Pikachu+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Psyduck-Panic?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_astral_radiance/psyduck__028189__common/661759"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Magikarp",
+      "title": "Magikarp - Detective Pikachu #8",
+      "link": "/English-Detective-Pikachu-Expansion/Magikarp-Card-8",
+      "image": "https://den-cards.pokellector.com/270/Magikarp.DET.8.26981.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Magikarp.DET.8.26981.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "8/18",
+      "card_number": "8",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Magikarp.DET.8.26981.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fmagikarp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1473003.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Magikarp+Detective+Pikachu+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Magikarp-Hold-Still?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/magikarp__818__holo_common/613860"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Greninja",
+      "title": "Greninja - Detective Pikachu #9",
+      "link": "/English-Detective-Pikachu-Expansion/Greninja-Card-9",
+      "image": "https://den-cards.pokellector.com/270/Greninja.DET.9.26979.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Greninja.DET.9.26979.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "9/18",
+      "card_number": "9",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Greninja.DET.9.26979.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fgreninja"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p1473004.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Greninja+Detective+Pikachu+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Greninja-Furious-Shurikens?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/greninja__918__holo_rare/613861"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Detective Pikachu",
+      "title": "Detective Pikachu - Detective Pikachu #10",
+      "link": "/English-Detective-Pikachu-Expansion/Detective-Pikachu-Card-10",
+      "image": "https://den-cards.pokellector.com/270/Detective-Pikachu.DET.10.26971.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Detective-Pikachu.DET.10.26971.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "10/18",
+      "card_number": "10",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Detective-Pikachu.DET.10.26971.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fdetective-pikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p1473005.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Detective+Pikachu+Detective+Pikachu+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Detective-Pikachu-Scout-Surprise-Attack?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/detective_pikachu__1018__holo_rare/613862"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Mr Mime",
+      "title": "Mr Mime - Detective Pikachu #11",
+      "link": "/English-Detective-Pikachu-Expansion/Mr-Mime-Card-11",
+      "image": "https://den-cards.pokellector.com/270/Mr-Mime.DET.11.26866.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Mr-Mime.DET.11.26866.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "11/18",
+      "card_number": "11",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Mr-Mime.DET.11.26866.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fmr-mime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1473006.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mr+Mime+Detective+Pikachu+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.60",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Mr-Mime-Juggling?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/mr_mime__1118__holo_rare/613151"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Mewtwo",
+      "title": "Mewtwo - Detective Pikachu #12",
+      "link": "/English-Detective-Pikachu-Expansion/Mewtwo-Card-12",
+      "image": "https://den-cards.pokellector.com/270/Mewtwo.DET.12.26982.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Mewtwo.DET.12.26982.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "12/18",
+      "card_number": "12",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Mewtwo.DET.12.26982.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fmewtwo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p1473007.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+Detective+Pikachu+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/mewtwo__1218__holo_rare/613863"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Mewtwo-Psyjack-Break-Burn?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Machamp",
+      "title": "Machamp - Detective Pikachu #13",
+      "link": "/English-Detective-Pikachu-Expansion/Machamp-Card-13",
+      "image": "https://den-cards.pokellector.com/270/Machamp.DET.13.26974.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Machamp.DET.13.26974.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "13/18",
+      "card_number": "13",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Machamp.DET.13.26974.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fmachamp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p1473008.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Machamp+Detective+Pikachu+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Machamp-Directing-Traffic-Cross-Chop?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/machamp__1318__holo_rare/613864"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - Detective Pikachu #14",
+      "link": "/English-Detective-Pikachu-Expansion/Jigglypuff-Card-14",
+      "image": "https://den-cards.pokellector.com/270/Jigglypuff.DET.14.26867.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Jigglypuff.DET.14.26867.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "14/18",
+      "card_number": "14",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Jigglypuff.DET.14.26867.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fjigglypuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1473009.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jigglypuff+Detective+Pikachu+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Jigglypuff-Healing-Melody?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/jigglypuff__1418__holo_common/613152"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Snubbull",
+      "title": "Snubbull - Detective Pikachu #15",
+      "link": "/English-Detective-Pikachu-Expansion/Snubbull-Card-15",
+      "image": "https://den-cards.pokellector.com/270/Snubbull.DET.15.26985.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Snubbull.DET.15.26985.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "15/18",
+      "card_number": "15",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Snubbull.DET.15.26985.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fsnubbull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1473010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snubbull+Detective+Pikachu+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/snubbull__1518__holo_common/613865"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Snubbull-Play-Rough?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Lickitung",
+      "title": "Lickitung - Detective Pikachu #16",
+      "link": "/English-Detective-Pikachu-Expansion/Lickitung-Card-16",
+      "image": "https://den-cards.pokellector.com/270/Lickitung.DET.16.26980.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Lickitung.DET.16.26980.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "16/18",
+      "card_number": "16",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Lickitung.DET.16.26980.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Flickitung"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1473011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lickitung+Detective+Pikachu+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$24.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_temporal_forces/lickitung__180162__illustration_rare/711029"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Lickitung-Continuous-Lick?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Ditto",
+      "title": "Ditto - Detective Pikachu #17",
+      "link": "/English-Detective-Pikachu-Expansion/Ditto-Card-17",
+      "image": "https://den-cards.pokellector.com/270/Ditto.DET.17.26978.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Ditto.DET.17.26978.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "17/18",
+      "card_number": "17",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Ditto.DET.17.26978.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fditto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p1473012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ditto+Detective+Pikachu+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ditto-Copy-Anything?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/ditto__1718__holo_rare/613867"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Slaking",
+      "title": "Slaking - Detective Pikachu #18",
+      "link": "/English-Detective-Pikachu-Expansion/Slaking-Card-18",
+      "image": "https://den-cards.pokellector.com/270/Slaking.DET.18.26984.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/270/Slaking.DET.18.26984.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Detective Pikachu",
+      "set_link": "/English-Detective-Pikachu-Expansion/",
+      "position": "18/18",
+      "card_number": "18",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/270/Slaking.DET.18.26984.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdetective-pikachu%2Fslaking"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.98",
+          "link": "http://www.trollandtoad.com/p1473013.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Slaking+Detective+Pikachu+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Slaking-Pitch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/slaking__1818__holo_rare/613868"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 04:45:27"
+}

@@ -1,0 +1,2663 @@
+{
+  "title": "Pokemon Go Set",
+  "link": "/English-Pokemon-Go-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Pokemon-Go.logo.346.png",
+  "symbol": "https://den-media.pokellector.com/logos/Pokemon-Go.symbol.346.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - Pokemon Go #1",
+      "link": "/English-Pokemon-Go-Expansion/Bulbasaur-Card-1",
+      "image": "https://den-cards.pokellector.com/346/Bulbasaur.POGO.1.44077.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Bulbasaur.POGO.1.44077.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "1/78",
+      "card_number": "1",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Bulbasaur.POGO.1.44077.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bulbasaur-PGO001?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Ivysaur",
+      "title": "Ivysaur - Pokemon Go #2",
+      "link": "/English-Pokemon-Go-Expansion/Ivysaur-Card-2",
+      "image": "https://den-cards.pokellector.com/346/Ivysaur.POGO.2.44078.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Ivysaur.POGO.2.44078.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "2/78",
+      "card_number": "2",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Ivysaur.POGO.2.44078.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ivysaur-PGO002?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Venusaur",
+      "title": "Venusaur - Pokemon Go #3",
+      "link": "/English-Pokemon-Go-Expansion/Venusaur-Card-3",
+      "image": "https://den-cards.pokellector.com/346/Venusaur.POGO.3.44079.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Venusaur.POGO.3.44079.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "3/78",
+      "card_number": "3",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Venusaur.POGO.3.44079.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Venusaur-PGO003?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Radiant Venusaur",
+      "title": "Radiant Venusaur - Pokemon Go #4",
+      "link": "/English-Pokemon-Go-Expansion/Radiant-Venusaur-Card-4",
+      "image": "https://den-cards.pokellector.com/346/Radiant-Venusaur.POGO.4.44088.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Radiant-Venusaur.POGO.4.44088.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "4/78",
+      "card_number": "4",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Radiant-Venusaur.POGO.4.44088.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Alolan Exeggutor V",
+      "title": "Alolan Exeggutor V - Pokemon Go #5",
+      "link": "/English-Pokemon-Go-Expansion/Alolan-Exeggutor-V-Card-5",
+      "image": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.5.43489.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.5.43489.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "5/78",
+      "card_number": "5",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.5.43489.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Falolan-exeggutor-v"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€4.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Alolan-Exeggutor-V-V1-PGO005?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Spinarak",
+      "title": "Spinarak - Pokemon Go #6",
+      "link": "/English-Pokemon-Go-Expansion/Spinarak-Card-6",
+      "image": "https://den-cards.pokellector.com/346/Spinarak.POGO.6.44168.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Spinarak.POGO.6.44168.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "6/78",
+      "card_number": "6",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Spinarak.POGO.6.44168.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fspinarak"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Ditto Version",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Ariados",
+      "title": "Ariados - Pokemon Go #7",
+      "link": "/English-Pokemon-Go-Expansion/Ariados-Card-7",
+      "image": "https://den-cards.pokellector.com/346/Ariados.POGO.7.44169.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Ariados.POGO.7.44169.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "7/78",
+      "card_number": "7",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Ariados.POGO.7.44169.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fariados"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Charmander",
+      "title": "Charmander - Pokemon Go #8",
+      "link": "/English-Pokemon-Go-Expansion/Charmander-Card-8",
+      "image": "https://den-cards.pokellector.com/346/Charmander.POGO.8.44080.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Charmander.POGO.8.44080.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "8/78",
+      "card_number": "8",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Charmander.POGO.8.44080.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charmander-PGO008?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Charmeleon",
+      "title": "Charmeleon - Pokemon Go #9",
+      "link": "/English-Pokemon-Go-Expansion/Charmeleon-Card-9",
+      "image": "https://den-cards.pokellector.com/346/Charmeleon.POGO.9.44081.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Charmeleon.POGO.9.44081.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "9/78",
+      "card_number": "9",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Charmeleon.POGO.9.44081.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charmeleon-PGO009?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Charizard",
+      "title": "Charizard - Pokemon Go #10",
+      "link": "/English-Pokemon-Go-Expansion/Charizard-Card-10",
+      "image": "https://den-cards.pokellector.com/346/Charizard.POGO.10.44082.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Charizard.POGO.10.44082.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "10/78",
+      "card_number": "10",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Charizard.POGO.10.44082.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€5.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charizard-PGO010?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Radiant Charizard",
+      "title": "Radiant Charizard - Pokemon Go #11",
+      "link": "/English-Pokemon-Go-Expansion/Radiant-Charizard-Card-11",
+      "image": "https://den-cards.pokellector.com/346/Radiant-Charizard.POGO.11.44089.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Radiant-Charizard.POGO.11.44089.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "11/78",
+      "card_number": "11",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Radiant-Charizard.POGO.11.44089.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Moltres",
+      "title": "Moltres - Pokemon Go #12",
+      "link": "/English-Pokemon-Go-Expansion/Moltres-Card-12",
+      "image": "https://den-cards.pokellector.com/346/Moltres.POGO.12.43883.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Moltres.POGO.12.43883.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "12/78",
+      "card_number": "12",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Moltres.POGO.12.43883.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmoltres"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Moltres-PGO012?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Numel",
+      "title": "Numel - Pokemon Go #13",
+      "link": "/English-Pokemon-Go-Expansion/Numel-Card-13",
+      "image": "https://den-cards.pokellector.com/346/Numel.POGO.13.44170.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Numel.POGO.13.44170.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "13/78",
+      "card_number": "13",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Numel.POGO.13.44170.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fnumel"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Ditto Version",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Camerupt",
+      "title": "Camerupt - Pokemon Go #14",
+      "link": "/English-Pokemon-Go-Expansion/Camerupt-Card-14",
+      "image": "https://den-cards.pokellector.com/346/Camerupt.POGO.14.44171.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Camerupt.POGO.14.44171.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "14/78",
+      "card_number": "14",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Camerupt.POGO.14.44171.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fcamerupt"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Squirtle",
+      "title": "Squirtle - Pokemon Go #15",
+      "link": "/English-Pokemon-Go-Expansion/Squirtle-Card-15",
+      "image": "https://den-cards.pokellector.com/346/Squirtle.POGO.15.44083.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Squirtle.POGO.15.44083.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "15/78",
+      "card_number": "15",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Squirtle.POGO.15.44083.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Squirtle-PGO013?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Wartortle",
+      "title": "Wartortle - Pokemon Go #16",
+      "link": "/English-Pokemon-Go-Expansion/Wartortle-Card-16",
+      "image": "https://den-cards.pokellector.com/346/Wartortle.POGO.16.44084.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Wartortle.POGO.16.44084.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "16/78",
+      "card_number": "16",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Wartortle.POGO.16.44084.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Wartortle-PGO014?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Blastoise",
+      "title": "Blastoise - Pokemon Go #17",
+      "link": "/English-Pokemon-Go-Expansion/Blastoise-Card-17",
+      "image": "https://den-cards.pokellector.com/346/Blastoise.POGO.17.44085.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Blastoise.POGO.17.44085.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "17/78",
+      "card_number": "17",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Blastoise.POGO.17.44085.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blastoise-PGO015?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Radiant Blastoise",
+      "title": "Radiant Blastoise - Pokemon Go #18",
+      "link": "/English-Pokemon-Go-Expansion/Radiant-Blastoise-Card-18",
+      "image": "https://den-cards.pokellector.com/346/Radiant-Blastoise.POGO.18.44090.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Radiant-Blastoise.POGO.18.44090.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "18/78",
+      "card_number": "18",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Radiant-Blastoise.POGO.18.44090.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€39.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Radiant-Blastoise-PGO018?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Slowpoke",
+      "title": "Slowpoke - Pokemon Go #19",
+      "link": "/English-Pokemon-Go-Expansion/Slowpoke-Card-19",
+      "image": "https://den-cards.pokellector.com/346/Slowpoke.POGO.19.44172.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Slowpoke.POGO.19.44172.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "19/78",
+      "card_number": "19",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Slowpoke.POGO.19.44172.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fslowpoke"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Slowbro",
+      "title": "Slowbro - Pokemon Go #20",
+      "link": "/English-Pokemon-Go-Expansion/Slowbro-Card-20",
+      "image": "https://den-cards.pokellector.com/346/Slowbro.POGO.20.44173.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Slowbro.POGO.20.44173.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "20/78",
+      "card_number": "20",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Slowbro.POGO.20.44173.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fslowbro"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Magikarp",
+      "title": "Magikarp - Pokemon Go #21",
+      "link": "/English-Pokemon-Go-Expansion/Magikarp-Card-21",
+      "image": "https://den-cards.pokellector.com/346/Magikarp.POGO.21.43498.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Magikarp.POGO.21.43498.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "21/78",
+      "card_number": "21",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Magikarp.POGO.21.43498.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmagikarp"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Magikarp-PGO021?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Gyarados",
+      "title": "Gyarados - Pokemon Go #22",
+      "link": "/English-Pokemon-Go-Expansion/Gyarados-Card-22",
+      "image": "https://den-cards.pokellector.com/346/Gyarados.POGO.22.43497.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Gyarados.POGO.22.43497.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "22/78",
+      "card_number": "22",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Gyarados.POGO.22.43497.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fgyarados"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Gyarados-PGO022?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Lapras",
+      "title": "Lapras - Pokemon Go #23",
+      "link": "/English-Pokemon-Go-Expansion/Lapras-Card-23",
+      "image": "https://den-cards.pokellector.com/346/Lapras.POGO.23.44174.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Lapras.POGO.23.44174.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "23/78",
+      "card_number": "23",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Lapras.POGO.23.44174.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Flapras"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Articuno",
+      "title": "Articuno - Pokemon Go #24",
+      "link": "/English-Pokemon-Go-Expansion/Articuno-Card-24",
+      "image": "https://den-cards.pokellector.com/346/Articuno.POGO.24.43881.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Articuno.POGO.24.43881.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "24/78",
+      "card_number": "24",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Articuno.POGO.24.43881.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Farticuno"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€4.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Articuno-PGO024?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Wimpod",
+      "title": "Wimpod - Pokemon Go #25",
+      "link": "/English-Pokemon-Go-Expansion/Wimpod-Card-25",
+      "image": "https://den-cards.pokellector.com/346/Wimpod.POGO.25.44086.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Wimpod.POGO.25.44086.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "25/78",
+      "card_number": "25",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Wimpod.POGO.25.44086.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Wimpod-PGO025?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Golisopod",
+      "title": "Golisopod - Pokemon Go #26",
+      "link": "/English-Pokemon-Go-Expansion/Golisopod-Card-26",
+      "image": "https://den-cards.pokellector.com/346/Golisopod.POGO.26.44087.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Golisopod.POGO.26.44087.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "26/78",
+      "card_number": "26",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Golisopod.POGO.26.44087.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€3.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Golisopod-PGO026?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Pikachu",
+      "title": "Pikachu - Pokemon Go #27",
+      "link": "/English-Pokemon-Go-Expansion/Pikachu-Card-27",
+      "image": "https://den-cards.pokellector.com/346/Pikachu.POGO.27.43505.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Pikachu.POGO.27.43505.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "27/78",
+      "card_number": "27",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Pikachu.POGO.27.43505.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fpikachu-27"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pikachu-PGO027?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://den-cards.pokellector.com/346/Pikachu.POGO.27.44445.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Pikachu",
+      "title": "Pikachu - Pokemon Go #28",
+      "link": "/English-Pokemon-Go-Expansion/Pikachu-Card-28",
+      "image": "https://den-cards.pokellector.com/346/Pikachu.POGO.28.44074.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Pikachu.POGO.28.44074.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "28/78",
+      "card_number": "28",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Pikachu.POGO.28.44074.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€3.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pikachu-PGO028?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Zapdos",
+      "title": "Zapdos - Pokemon Go #29",
+      "link": "/English-Pokemon-Go-Expansion/Zapdos-Card-29",
+      "image": "https://den-cards.pokellector.com/346/Zapdos.POGO.29.43882.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Zapdos.POGO.29.43882.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "29/78",
+      "card_number": "29",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Zapdos.POGO.29.43882.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fzapdos"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Zapdos-PGO029?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Mewtwo V",
+      "title": "Mewtwo V - Pokemon Go #30",
+      "link": "/English-Pokemon-Go-Expansion/Mewtwo-V-Card-30",
+      "image": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.30.43503.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.30.43503.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "30/78",
+      "card_number": "30",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.30.43503.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmewtwo-v"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€9.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-V-V1-PGO030?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Mewtwo VSTAR",
+      "title": "Mewtwo VSTAR - Pokemon Go #31",
+      "link": "/English-Pokemon-Go-Expansion/Mewtwo-VSTAR-Card-31",
+      "image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.31.43504.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.31.43504.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "31/78",
+      "card_number": "31",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.31.43504.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmewtwo-vstar"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€39.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-VSTAR-V1-PGO031?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "32": {
+      "number": "32",
+      "name": "Natu",
+      "title": "Natu - Pokemon Go #32",
+      "link": "/English-Pokemon-Go-Expansion/Natu-Card-32",
+      "image": "https://den-cards.pokellector.com/346/Natu.POGO.32.44175.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Natu.POGO.32.44175.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "32/78",
+      "card_number": "32",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Natu.POGO.32.44175.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fnatu"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Xatu",
+      "title": "Xatu - Pokemon Go #33",
+      "link": "/English-Pokemon-Go-Expansion/Xatu-Card-33",
+      "image": "https://den-cards.pokellector.com/346/Xatu.POGO.33.44176.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Xatu.POGO.33.44176.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "33/78",
+      "card_number": "33",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Xatu.POGO.33.44176.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fxatu"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Lunatone",
+      "title": "Lunatone - Pokemon Go #34",
+      "link": "/English-Pokemon-Go-Expansion/Lunatone-Card-34",
+      "image": "https://den-cards.pokellector.com/346/Lunatone.POGO.34.44177.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Lunatone.POGO.34.44177.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "34/78",
+      "card_number": "34",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Lunatone.POGO.34.44177.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Flunatone"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Sylveon",
+      "title": "Sylveon - Pokemon Go #35",
+      "link": "/English-Pokemon-Go-Expansion/Sylveon-Card-35",
+      "image": "https://den-cards.pokellector.com/346/Sylveon.POGO.35.44178.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Sylveon.POGO.35.44178.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "35/78",
+      "card_number": "35",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Sylveon.POGO.35.44178.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fsylveon"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Onix",
+      "title": "Onix - Pokemon Go #36",
+      "link": "/English-Pokemon-Go-Expansion/Onix-Card-36",
+      "image": "https://den-cards.pokellector.com/346/Onix.POGO.36.44179.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Onix.POGO.36.44179.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "36/78",
+      "card_number": "36",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Onix.POGO.36.44179.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fonix"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Larvitar",
+      "title": "Larvitar - Pokemon Go #37",
+      "link": "/English-Pokemon-Go-Expansion/Larvitar-Card-37",
+      "image": "https://den-cards.pokellector.com/346/Larvitar.POGO.37.44180.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Larvitar.POGO.37.44180.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "37/78",
+      "card_number": "37",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Larvitar.POGO.37.44180.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Flarvitar"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Pupitar",
+      "title": "Pupitar - Pokemon Go #38",
+      "link": "/English-Pokemon-Go-Expansion/Pupitar-Card-38",
+      "image": "https://den-cards.pokellector.com/346/Pupitar.POGO.38.44181.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Pupitar.POGO.38.44181.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "38/78",
+      "card_number": "38",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Pupitar.POGO.38.44181.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fpupitar"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Solrock",
+      "title": "Solrock - Pokemon Go #39",
+      "link": "/English-Pokemon-Go-Expansion/Solrock-Card-39",
+      "image": "https://den-cards.pokellector.com/346/Solrock.POGO.39.44182.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Solrock.POGO.39.44182.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "39/78",
+      "card_number": "39",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Solrock.POGO.39.44182.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fsolrock"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Conkeldurr V",
+      "title": "Conkeldurr V - Pokemon Go #40",
+      "link": "/English-Pokemon-Go-Expansion/Conkeldurr-V-Card-40",
+      "image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.40.44183.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.40.44183.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "40/78",
+      "card_number": "40",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.40.44183.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fconkeldurr-v"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "41": {
+      "number": "41",
+      "name": "Alolan Rattata",
+      "title": "Alolan Rattata - Pokemon Go #41",
+      "link": "/English-Pokemon-Go-Expansion/Alolan-Rattata-Card-41",
+      "image": "https://den-cards.pokellector.com/346/Alolan-Rattata.POGO.41.44184.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Alolan-Rattata.POGO.41.44184.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "41/78",
+      "card_number": "41",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Alolan-Rattata.POGO.41.44184.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Falolan-rattata"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Alolan Raticate",
+      "title": "Alolan Raticate - Pokemon Go #42",
+      "link": "/English-Pokemon-Go-Expansion/Alolan-Raticate-Card-42",
+      "image": "https://den-cards.pokellector.com/346/Alolan-Raticate.POGO.42.44185.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Alolan-Raticate.POGO.42.44185.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "42/78",
+      "card_number": "42",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Alolan-Raticate.POGO.42.44185.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Falolan-raticate"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Tyranitar",
+      "title": "Tyranitar - Pokemon Go #43",
+      "link": "/English-Pokemon-Go-Expansion/Tyranitar-Card-43",
+      "image": "https://den-cards.pokellector.com/346/Tyranitar.POGO.43.44186.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Tyranitar.POGO.43.44186.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "43/78",
+      "card_number": "43",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Tyranitar.POGO.43.44186.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Ftyranitar"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Steelix",
+      "title": "Steelix - Pokemon Go #44",
+      "link": "/English-Pokemon-Go-Expansion/Steelix-Card-44",
+      "image": "https://den-cards.pokellector.com/346/Steelix.POGO.44.44211.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Steelix.POGO.44.44211.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "44/78",
+      "card_number": "44",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Steelix.POGO.44.44211.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Meltan",
+      "title": "Meltan - Pokemon Go #45",
+      "link": "/English-Pokemon-Go-Expansion/Meltan-Card-45",
+      "image": "https://den-cards.pokellector.com/346/Meltan.POGO.45.43500.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Meltan.POGO.45.43500.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "45/78",
+      "card_number": "45",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Meltan.POGO.45.43500.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmeltan"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Meltan-PGO045?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Melmetal",
+      "title": "Melmetal - Pokemon Go #46",
+      "link": "/English-Pokemon-Go-Expansion/Melmetal-Card-46",
+      "image": "https://den-cards.pokellector.com/346/Melmetal.POGO.46.43502.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Melmetal.POGO.46.43502.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "46/78",
+      "card_number": "46",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Melmetal.POGO.46.43502.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmelmetal"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-PGO046?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Melmetal V",
+      "title": "Melmetal V - Pokemon Go #47",
+      "link": "/English-Pokemon-Go-Expansion/Melmetal-V-Card-47",
+      "image": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.47.43501.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.47.43501.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "47/78",
+      "card_number": "47",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.47.43501.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmelmetal-v"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "48": {
+      "number": "48",
+      "name": "Melmetal VMAX",
+      "title": "Melmetal VMAX - Pokemon Go #48",
+      "link": "/English-Pokemon-Go-Expansion/Melmetal-VMAX-Card-48",
+      "image": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.48.43884.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.48.43884.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "48/78",
+      "card_number": "48",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.48.43884.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.87",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmelmetal-vmax"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€19.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-VMAX-V1-PGO048?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "49": {
+      "number": "49",
+      "name": "Dragonite V",
+      "title": "Dragonite V - Pokemon Go #49",
+      "link": "/English-Pokemon-Go-Expansion/Dragonite-V-Card-49",
+      "image": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.49.44187.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.49.44187.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "49/78",
+      "card_number": "49",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.49.44187.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fdragonite-v"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "50": {
+      "number": "50",
+      "name": "Dragonite VSTAR",
+      "title": "Dragonite VSTAR - Pokemon Go #50",
+      "link": "/English-Pokemon-Go-Expansion/Dragonite-VSTAR-Card-50",
+      "image": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.50.44188.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.50.44188.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "50/78",
+      "card_number": "50",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.50.44188.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fdragonite-vstar"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "51": {
+      "number": "51",
+      "name": "Chansey",
+      "title": "Chansey - Pokemon Go #51",
+      "link": "/English-Pokemon-Go-Expansion/Chansey-Card-51",
+      "image": "https://den-cards.pokellector.com/346/Chansey.POGO.51.43495.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Chansey.POGO.51.43495.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "51/78",
+      "card_number": "51",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Chansey.POGO.51.43495.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fchansey"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Chansey-PGO051?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Blissey",
+      "title": "Blissey - Pokemon Go #52",
+      "link": "/English-Pokemon-Go-Expansion/Blissey-Card-52",
+      "image": "https://den-cards.pokellector.com/346/Blissey.POGO.52.43492.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Blissey.POGO.52.43492.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "52/78",
+      "card_number": "52",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Blissey.POGO.52.43492.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fblissey"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blissey-PGO052?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Ditto",
+      "title": "Ditto - Pokemon Go #53",
+      "link": "/English-Pokemon-Go-Expansion/Ditto-Card-53",
+      "image": "https://den-cards.pokellector.com/346/Ditto.POGO.53.43887.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Ditto.POGO.53.43887.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "53/78",
+      "card_number": "53",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Ditto.POGO.53.43887.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fditto"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€7.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ditto-PGO053?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "54": {
+      "number": "54",
+      "name": "Eevee",
+      "title": "Eevee - Pokemon Go #54",
+      "link": "/English-Pokemon-Go-Expansion/Eevee-Card-54",
+      "image": "https://den-cards.pokellector.com/346/Eevee.POGO.54.43496.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Eevee.POGO.54.43496.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "54/78",
+      "card_number": "54",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Eevee.POGO.54.43496.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Feevee"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Eevee-PGO054?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Snorlax",
+      "title": "Snorlax - Pokemon Go #55",
+      "link": "/English-Pokemon-Go-Expansion/Snorlax-Card-55",
+      "image": "https://den-cards.pokellector.com/346/Snorlax.POGO.55.43507.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Snorlax.POGO.55.43507.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "55/78",
+      "card_number": "55",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Snorlax.POGO.55.43507.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fsnorlax"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€4.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Snorlax-PGO055?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://den-cards.pokellector.com/346/Snorlax.POGO.55.44446.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Aipom",
+      "title": "Aipom - Pokemon Go #56",
+      "link": "/English-Pokemon-Go-Expansion/Aipom-Card-56",
+      "image": "https://den-cards.pokellector.com/346/Aipom.POGO.56.43488.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Aipom.POGO.56.43488.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "56/78",
+      "card_number": "56",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Aipom.POGO.56.43488.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Faipom"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Aipom-PGO056?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Ambipom",
+      "title": "Ambipom - Pokemon Go #57",
+      "link": "/English-Pokemon-Go-Expansion/Ambipom-Card-57",
+      "image": "https://den-cards.pokellector.com/346/Ambipom.POGO.57.43490.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Ambipom.POGO.57.43490.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "57/78",
+      "card_number": "57",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Ambipom.POGO.57.43490.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fambipom"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ambipom-PGO057?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Slaking V",
+      "title": "Slaking V - Pokemon Go #58",
+      "link": "/English-Pokemon-Go-Expansion/Slaking-V-Card-58",
+      "image": "https://den-cards.pokellector.com/346/Slaking-V.POGO.58.44189.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Slaking-V.POGO.58.44189.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "58/78",
+      "card_number": "58",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Slaking-V.POGO.58.44189.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fslaking"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "59": {
+      "number": "59",
+      "name": "Bidoof",
+      "title": "Bidoof - Pokemon Go #59",
+      "link": "/English-Pokemon-Go-Expansion/Bidoof-Card-59",
+      "image": "https://den-cards.pokellector.com/346/Bidoof.POGO.59.43885.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Bidoof.POGO.59.43885.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "59/78",
+      "card_number": "59",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Bidoof.POGO.59.43885.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fbidoof"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bidoof-PGO059?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Ditto Version",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Bibarel",
+      "title": "Bibarel - Pokemon Go #60",
+      "link": "/English-Pokemon-Go-Expansion/Bibarel-Card-60",
+      "image": "https://den-cards.pokellector.com/346/Bibarel.POGO.60.43886.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Bibarel.POGO.60.43886.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "60/78",
+      "card_number": "60",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Bibarel.POGO.60.43886.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fbibarel"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bibarel-PGO060?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Pidove",
+      "title": "Pidove - Pokemon Go #61",
+      "link": "/English-Pokemon-Go-Expansion/Pidove-Card-61",
+      "image": "https://den-cards.pokellector.com/346/Pidove.POGO.61.44190.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Pidove.POGO.61.44190.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "61/78",
+      "card_number": "61",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Pidove.POGO.61.44190.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fpidove"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Tranquill",
+      "title": "Tranquill - Pokemon Go #62",
+      "link": "/English-Pokemon-Go-Expansion/Tranquill-Card-62",
+      "image": "https://den-cards.pokellector.com/346/Tranquill.POGO.62.44191.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Tranquill.POGO.62.44191.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "62/78",
+      "card_number": "62",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Tranquill.POGO.62.44191.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Ftranquill"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Unfezant",
+      "title": "Unfezant - Pokemon Go #63",
+      "link": "/English-Pokemon-Go-Expansion/Unfezant-Card-63",
+      "image": "https://den-cards.pokellector.com/346/Unfezant.POGO.63.44192.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Unfezant.POGO.63.44192.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "63/78",
+      "card_number": "63",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Unfezant.POGO.63.44192.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Funfezant"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Blanche",
+      "title": "Blanche - Pokemon Go #64",
+      "link": "/English-Pokemon-Go-Expansion/Blanche-Card-64",
+      "image": "https://den-cards.pokellector.com/346/Blanche.POGO.64.43491.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Blanche.POGO.64.43491.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "64/78",
+      "card_number": "64",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Blanche.POGO.64.43491.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fblanche"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blanche-V1-PGO064?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Candela",
+      "title": "Candela - Pokemon Go #65",
+      "link": "/English-Pokemon-Go-Expansion/Candela-Card-65",
+      "image": "https://den-cards.pokellector.com/346/Candela.POGO.65.43493.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Candela.POGO.65.43493.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "65/78",
+      "card_number": "65",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Candela.POGO.65.43493.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fcandela"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Candela-V1-PGO065?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Egg Incubator",
+      "title": "Egg Incubator - Pokemon Go #66",
+      "link": "/English-Pokemon-Go-Expansion/Egg-Incubator-Card-66",
+      "image": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.66.44193.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.66.44193.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "66/78",
+      "card_number": "66",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.66.44193.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fegg-incubator"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Lure Module",
+      "title": "Lure Module - Pokemon Go #67",
+      "link": "/English-Pokemon-Go-Expansion/Lure-Module-Card-67",
+      "image": "https://den-cards.pokellector.com/346/Lure-Module.POGO.67.43499.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Lure-Module.POGO.67.43499.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "67/78",
+      "card_number": "67",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Lure-Module.POGO.67.43499.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Flure-module"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lure-Module-V1-PGO067?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Pokestop",
+      "title": "Pokestop - Pokemon Go #68",
+      "link": "/English-Pokemon-Go-Expansion/Pokestop-Card-68",
+      "image": "https://den-cards.pokellector.com/346/Pokestop.POGO.68.43506.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Pokestop.POGO.68.43506.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "68/78",
+      "card_number": "68",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Pokestop.POGO.68.43506.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fpokestop"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/PokeStop-V1-PGO068?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Rare Candy",
+      "title": "Rare Candy - Pokemon Go #69",
+      "link": "/English-Pokemon-Go-Expansion/Rare-Candy-Card-69",
+      "image": "https://den-cards.pokellector.com/346/Rare-Candy.POGO.69.44194.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Rare-Candy.POGO.69.44194.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "69/78",
+      "card_number": "69",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Rare-Candy.POGO.69.44194.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Frare-candy"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Spark",
+      "title": "Spark - Pokemon Go #70",
+      "link": "/English-Pokemon-Go-Expansion/Spark-Card-70",
+      "image": "https://den-cards.pokellector.com/346/Spark.POGO.70.43494.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Spark.POGO.70.43494.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "70/78",
+      "card_number": "70",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Spark.POGO.70.43494.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fspark"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Spark-V1-PGO070?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Alolan Exeggutor V",
+      "title": "Alolan Exeggutor V - Pokemon Go #71",
+      "link": "/English-Pokemon-Go-Expansion/Alolan-Exeggutor-V-Card-71",
+      "image": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.71.44195.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.71.44195.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "71/78",
+      "card_number": "71",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Alolan-Exeggutor-V.POGO.71.44195.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Falolan-exeggutor-v-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Mewtwo V",
+      "title": "Mewtwo V - Pokemon Go #72",
+      "link": "/English-Pokemon-Go-Expansion/Mewtwo-V-Card-72",
+      "image": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.72.44091.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.72.44091.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "72/78",
+      "card_number": "72",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Mewtwo-V.POGO.72.44091.png",
+      "prices": [
+        {
+          "vendor": "Unknown",
+          "price": "€249.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-V-V2-PGO072?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Conkeldurr V",
+      "title": "Conkeldurr V - Pokemon Go #73",
+      "link": "/English-Pokemon-Go-Expansion/Conkeldurr-V-Card-73",
+      "image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.73.44196.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.73.44196.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "73/78",
+      "card_number": "73",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.73.44196.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fconkeldurr-v-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "74": {
+      "number": "74",
+      "name": "Conkeldurr V",
+      "title": "Conkeldurr V - Pokemon Go #74",
+      "link": "/English-Pokemon-Go-Expansion/Conkeldurr-V-Card-74",
+      "image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.74.44197.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.74.44197.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "74/78",
+      "card_number": "74",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Conkeldurr-V.POGO.74.44197.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fconkeldurr-v-alternate-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Melmetal V",
+      "title": "Melmetal V - Pokemon Go #75",
+      "link": "/English-Pokemon-Go-Expansion/Melmetal-V-Card-75",
+      "image": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.75.44198.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.75.44198.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "75/78",
+      "card_number": "75",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Melmetal-V.POGO.75.44198.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmelmetal-v-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Dragonite V",
+      "title": "Dragonite V - Pokemon Go #76",
+      "link": "/English-Pokemon-Go-Expansion/Dragonite-V-Card-76",
+      "image": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.76.44199.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.76.44199.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "76/78",
+      "card_number": "76",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Dragonite-V.POGO.76.44199.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fdragonite-v-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Slaking V",
+      "title": "Slaking V - Pokemon Go #77",
+      "link": "/English-Pokemon-Go-Expansion/Slaking-V-Card-77",
+      "image": "https://den-cards.pokellector.com/346/Slaking-V.POGO.77.44200.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Slaking-V.POGO.77.44200.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "77/78",
+      "card_number": "77",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Slaking-V.POGO.77.44200.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fslaking-v-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "78": {
+      "number": "78",
+      "name": "Professor's Research (Professor Willow)",
+      "title": "Professor's Research (Professor Willow) - Pokemon Go #78",
+      "link": "/English-Pokemon-Go-Expansion/Professors-Research-Professor-Willow-Card-78",
+      "image": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.78.44201.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.78.44201.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "78/78",
+      "card_number": "78",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.78.44201.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fprofessors-research-full-art"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "79": {
+      "number": "79",
+      "name": "Mewtwo VSTAR",
+      "title": "Mewtwo VSTAR - Pokemon Go #79",
+      "link": "/English-Pokemon-Go-Expansion/Mewtwo-VSTAR-Card-79",
+      "image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.79.44202.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.79.44202.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "79/78",
+      "card_number": "79",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.79.44202.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmewtwo-vstar-79-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "80": {
+      "number": "80",
+      "name": "Melmetal VMAX",
+      "title": "Melmetal VMAX - Pokemon Go #80",
+      "link": "/English-Pokemon-Go-Expansion/Melmetal-VMAX-Card-80",
+      "image": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.80.44203.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.80.44203.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "80/78",
+      "card_number": "80",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Melmetal-VMAX.POGO.80.44203.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fmelmetal-vmax-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "81": {
+      "number": "81",
+      "name": "Dragonite VSTAR",
+      "title": "Dragonite VSTAR - Pokemon Go #81",
+      "link": "/English-Pokemon-Go-Expansion/Dragonite-VSTAR-Card-81",
+      "image": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.81.44204.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.81.44204.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "81/78",
+      "card_number": "81",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Dragonite-VSTAR.POGO.81.44204.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$35.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fdragonite-vstar-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "82": {
+      "number": "82",
+      "name": "Blanche",
+      "title": "Blanche - Pokemon Go #82",
+      "link": "/English-Pokemon-Go-Expansion/Blanche-Card-82",
+      "image": "https://den-cards.pokellector.com/346/Blanche.POGO.82.44205.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Blanche.POGO.82.44205.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "82/78",
+      "card_number": "82",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Blanche.POGO.82.44205.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fblanche-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "83": {
+      "number": "83",
+      "name": "Candela",
+      "title": "Candela - Pokemon Go #83",
+      "link": "/English-Pokemon-Go-Expansion/Candela-Card-83",
+      "image": "https://den-cards.pokellector.com/346/Candela.POGO.83.44206.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Candela.POGO.83.44206.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "83/78",
+      "card_number": "83",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Candela.POGO.83.44206.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fcandela-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Professor's Research (Professor Willow)",
+      "title": "Professor's Research (Professor Willow) - Pokemon Go #84",
+      "link": "/English-Pokemon-Go-Expansion/Professors-Research-Professor-Willow-Card-84",
+      "image": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.84.44207.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.84.44207.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "84/78",
+      "card_number": "84",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Professors-Research-Professor-Willow.POGO.84.44207.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fprofessors-research-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Spark",
+      "title": "Spark - Pokemon Go #85",
+      "link": "/English-Pokemon-Go-Expansion/Spark-Card-85",
+      "image": "https://den-cards.pokellector.com/346/Spark.POGO.85.44208.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Spark.POGO.85.44208.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "85/78",
+      "card_number": "85",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Spark.POGO.85.44208.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fspark-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "86": {
+      "number": "86",
+      "name": "Mewtwo VSTAR",
+      "title": "Mewtwo VSTAR - Pokemon Go #86",
+      "link": "/English-Pokemon-Go-Expansion/Mewtwo-VSTAR-Card-86",
+      "image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.86.44146.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.86.44146.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "86/78",
+      "card_number": "86",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Mewtwo-VSTAR.POGO.86.44146.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "87": {
+      "number": "87",
+      "name": "Egg Incubator",
+      "title": "Egg Incubator - Pokemon Go #87",
+      "link": "/English-Pokemon-Go-Expansion/Egg-Incubator-Card-87",
+      "image": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.87.44209.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.87.44209.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "87/78",
+      "card_number": "87",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Egg-Incubator.POGO.87.44209.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Fegg-incubator-secret"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "88": {
+      "number": "88",
+      "name": "Lure Module",
+      "title": "Lure Module - Pokemon Go #88",
+      "link": "/English-Pokemon-Go-Expansion/Lure-Module-Card-88",
+      "image": "https://den-cards.pokellector.com/346/Lure-Module.POGO.88.44210.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/346/Lure-Module.POGO.88.44210.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Pokemon Go",
+      "set_link": "/English-Pokemon-Go-Expansion/",
+      "position": "88/78",
+      "card_number": "88",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/346/Lure-Module.POGO.88.44210.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpokemon-go%2Flure-module-secret"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 00:50:26"
+}

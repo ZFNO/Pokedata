@@ -1,0 +1,3830 @@
+{
+  "title": "Neo Discovery Set",
+  "link": "/Neo-Discovery-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Neo-Discovery.logo.114.png",
+  "symbol": "https://den-media.pokellector.com/logos/Neo-Discovery.symbol.114.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Espeon",
+      "title": "Espeon - Neo Discovery #1",
+      "link": "/Neo-Discovery-Expansion/Espeon-Card-1",
+      "image": "https://den-cards.pokellector.com/114/Espeon.N2.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Espeon.N2.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "1/75",
+      "card_number": "1",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Espeon.N2.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$78.91",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/espeon-1?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$137.49",
+          "link": "http://www.trollandtoad.com/p148359.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$37.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Espeon+1+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/espeon__2075__rare__unlimited_edition/193313"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+1%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Forretress",
+      "title": "Forretress - Neo Discovery #2",
+      "link": "/Neo-Discovery-Expansion/Forretress-Card-2",
+      "image": "https://den-cards.pokellector.com/114/Forretress.N2.2.7301.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Forretress.N2.2.7301.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "2/75",
+      "card_number": "2",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Forretress.N2.2.7301.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/forretress-2?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p148386.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.79",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Forretress+2+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+2%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-skyridge/forretress__9144__rare/66440"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Hitmontop",
+      "title": "Hitmontop - Neo Discovery #3",
+      "link": "/Neo-Discovery-Expansion/Hitmontop-Card-3",
+      "image": "https://den-cards.pokellector.com/114/Hitmontop.N2.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Hitmontop.N2.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "3/75",
+      "card_number": "3",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Hitmontop.N2.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/hitmontop-3?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.98",
+          "link": "http://www.trollandtoad.com/p148439.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Hitmontop+3+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/hitmontop__375__holo_rare__unlimited_edition/193413"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmontop+-+3%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Houndoom",
+      "title": "Houndoom - Neo Discovery #4",
+      "link": "/Neo-Discovery-Expansion/Houndoom-Card-4",
+      "image": "https://den-cards.pokellector.com/114/Houndoom.N2.4.7303.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Houndoom.N2.4.7303.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "4/75",
+      "card_number": "4",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Houndoom.N2.4.7303.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.22",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/houndoom-4?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$44.99",
+          "link": "http://www.trollandtoad.com/p148449.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.90",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Houndoom+4+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$32.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/houndoom__475__holo_rare__unlimited_edition/193523"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+4%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Houndour",
+      "title": "Houndour - Neo Discovery #5",
+      "link": "/Neo-Discovery-Expansion/Houndour-Card-5",
+      "image": "https://den-cards.pokellector.com/114/Houndour.N2.5.7304.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Houndour.N2.5.7304.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "5/75",
+      "card_number": "5",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Houndour.N2.5.7304.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/houndour-5?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$41.99",
+          "link": "http://www.trollandtoad.com/p148454.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Houndour+5+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$149.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/houndour__575__holo_rare__1st_edition/65309"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+24%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Kabutops",
+      "title": "Kabutops - Neo Discovery #6",
+      "link": "/Neo-Discovery-Expansion/Kabutops-Card-6",
+      "image": "https://den-cards.pokellector.com/114/Kabutops.N2.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Kabutops.N2.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "6/75",
+      "card_number": "6",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Kabutops.N2.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$22.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/kabutops-6?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.99",
+          "link": "http://www.trollandtoad.com/p148473.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.89",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Kabutops+6+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$149.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/kabutops__675__holo_rare__1st_edition/65330"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabutops+-+6%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Magnemite",
+      "title": "Magnemite - Neo Discovery #7",
+      "link": "/Neo-Discovery-Expansion/Magnemite-Card-7",
+      "image": "https://den-cards.pokellector.com/114/Magnemite.N2.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Magnemite.N2.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "7/75",
+      "card_number": "7",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Magnemite.N2.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.38",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/magnemite-7?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.99",
+          "link": "http://www.trollandtoad.com/p148521.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Magnemite+7+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$54.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/magnemite__775__holo_rare__1st_edition/65353"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+26%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Politoed",
+      "title": "Politoed - Neo Discovery #8",
+      "link": "/Neo-Discovery-Expansion/Politoed-Card-8",
+      "image": "https://den-cards.pokellector.com/114/Politoed.N2.8.7307.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Politoed.N2.8.7307.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "8/75",
+      "card_number": "8",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Politoed.N2.8.7307.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/politoed-8?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$44.99",
+          "link": "http://www.trollandtoad.com/p148606.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.60",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Politoed+8+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Politoed+-+8%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$39.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/politoed__875__holo_rare__unlimited_edition/193923"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Poliwrath",
+      "title": "Poliwrath - Neo Discovery #9",
+      "link": "/Neo-Discovery-Expansion/Poliwrath-Card-9",
+      "image": "https://den-cards.pokellector.com/114/Poliwrath.N2.9.7308.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Poliwrath.N2.9.7308.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "9/75",
+      "card_number": "9",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Poliwrath.N2.9.7308.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/poliwrath-9?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.99",
+          "link": "http://www.trollandtoad.com/p148613.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$23.45",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Poliwrath+9+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$8.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/poliwrath__2875__rare__1st_edition/65265"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poliwrath+-+9%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Scizor",
+      "title": "Scizor - Neo Discovery #10",
+      "link": "/Neo-Discovery-Expansion/Scizor-Card-10",
+      "image": "https://den-cards.pokellector.com/114/Scizor.N2.10.7309.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Scizor.N2.10.7309.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "10/75",
+      "card_number": "10",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Scizor.N2.10.7309.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/scizor-10?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$41.99",
+          "link": "http://www.trollandtoad.com/p148670.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Scizor+10+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$124.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/scizor__1075__holo_rare__1st_edition/65213"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+-+10%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Smeargle",
+      "title": "Smeargle - Neo Discovery #11",
+      "link": "/Neo-Discovery-Expansion/Smeargle-Card-11",
+      "image": "https://den-cards.pokellector.com/114/Smeargle.N2.11.7310.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Smeargle.N2.11.7310.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "11/75",
+      "card_number": "11",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Smeargle.N2.11.7310.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/smeargle-11?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$37.49",
+          "link": "http://www.trollandtoad.com/p148703.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Smeargle+11+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$99.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/smeargle__1175__holo_rare__1st_edition/65216"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smeargle+-+11%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Tyranitar",
+      "title": "Tyranitar - Neo Discovery #12",
+      "link": "/Neo-Discovery-Expansion/Tyranitar-Card-12",
+      "image": "https://den-cards.pokellector.com/114/Tyranitar.N2.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Tyranitar.N2.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "12/75",
+      "card_number": "12",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Tyranitar.N2.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/tyranitar-12?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p148769.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Tyranitar+12+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tyranitar+-+12%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$219.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/tyranitar__1275__holo_rare__1st_edition/65218"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Umbreon",
+      "title": "Umbreon - Neo Discovery #13",
+      "link": "/Neo-Discovery-Expansion/Umbreon-Card-13",
+      "image": "https://den-cards.pokellector.com/114/Umbreon.N2.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Umbreon.N2.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "13/75",
+      "card_number": "13",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Umbreon.N2.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$103.28",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/umbreon-13?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$261.59",
+          "link": "http://www.trollandtoad.com/p148774.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$80.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Umbreon+13+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$899.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/umbreon__1375__holo_rare__1st_edition/65221"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+13%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Unown A",
+      "title": "Unown A - Neo Discovery #14",
+      "link": "/Neo-Discovery-Expansion/Unown-A-Card-14",
+      "image": "https://den-cards.pokellector.com/114/Unown-A.N2.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-A.N2.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "14/75",
+      "card_number": "14",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-A.N2.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.01",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-a-14?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p148777.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+A+14+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$59.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_a__1475__holo_rare__1st_edition/65224"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+A+-+14%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Ursaring",
+      "title": "Ursaring - Neo Discovery #15",
+      "link": "/Neo-Discovery-Expansion/Ursaring-Card-15",
+      "image": "https://den-cards.pokellector.com/114/Ursaring.N2.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Ursaring.N2.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "15/75",
+      "card_number": "15",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Ursaring.N2.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.26",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/ursaring-15?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$31.99",
+          "link": "http://www.trollandtoad.com/p148790.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Ursaring+15+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$94.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/ursaring__1575__holo_rare__1st_edition/65227"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ursaring+-+15%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Wobbuffet",
+      "title": "Wobbuffet - Neo Discovery #16",
+      "link": "/Neo-Discovery-Expansion/Wobbuffet-Card-16",
+      "image": "https://den-cards.pokellector.com/114/Wobbuffet.N2.16.7315.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Wobbuffet.N2.16.7315.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "16/75",
+      "card_number": "16",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Wobbuffet.N2.16.7315.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.84",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/wobbuffet-16?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.99",
+          "link": "http://www.trollandtoad.com/p148812.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.90",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Wobbuffet+16+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$74.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/wobbuffet__1675__holo_rare__1st_edition/65230"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wobbuffet+-+16%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Yanma",
+      "title": "Yanma - Neo Discovery #17",
+      "link": "/Neo-Discovery-Expansion/Yanma-Card-17",
+      "image": "https://den-cards.pokellector.com/114/Yanma.N2.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Yanma.N2.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "17/75",
+      "card_number": "17",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Yanma.N2.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.49",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/yanma-17?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$26.99",
+          "link": "http://www.trollandtoad.com/p148819.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Yanma+17+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$89.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/yanma__1775__holo_rare__1st_edition/65233"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Yanma+-+17%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Beedrill",
+      "title": "Beedrill - Neo Discovery #18",
+      "link": "/Neo-Discovery-Expansion/Beedrill-Card-18",
+      "image": "https://den-cards.pokellector.com/114/Beedrill.N2.18.7317.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Beedrill.N2.18.7317.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "18/75",
+      "card_number": "18",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Beedrill.N2.18.7317.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.74",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/beedrill?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p148205.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Beedrill+18+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/beedrill__1875__rare__unlimited_edition/193283"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beedrill+-+18%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Butterfree",
+      "title": "Butterfree - Neo Discovery #19",
+      "link": "/Neo-Discovery-Expansion/Butterfree-Card-19",
+      "image": "https://den-cards.pokellector.com/114/Butterfree.N2.19.7318.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Butterfree.N2.19.7318.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "19/75",
+      "card_number": "19",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Butterfree.N2.19.7318.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/butterfree?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p148218.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.15",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Butterfree+19+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/butterfree__1975__rare__1st_edition/65239"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Butterfree+-+19%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Espeon",
+      "title": "Espeon - Neo Discovery #20",
+      "link": "/Neo-Discovery-Expansion/Espeon-Card-20",
+      "image": "https://den-cards.pokellector.com/114/Espeon.N2.20.7319.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Espeon.N2.20.7319.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "20/75",
+      "card_number": "20",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Espeon.N2.20.7319.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.73",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/espeon-20?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.49",
+          "link": "http://www.trollandtoad.com/p148360.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Espeon+20+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+20%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/espeon__2075__rare__unlimited_edition/193313"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Forretress",
+      "title": "Forretress - Neo Discovery #21",
+      "link": "/Neo-Discovery-Expansion/Forretress-Card-21",
+      "image": "https://den-cards.pokellector.com/114/Forretress.N2.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Forretress.N2.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "21/75",
+      "card_number": "21",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Forretress.N2.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.84",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/forretress-21?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p148387.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.08",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Forretress+21+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+21%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/forretress__2175__rare__unlimited_edition/193323"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Hitmontop",
+      "title": "Hitmontop - Neo Discovery #22",
+      "link": "/Neo-Discovery-Expansion/Hitmontop-Card-22",
+      "image": "https://den-cards.pokellector.com/114/Hitmontop.N2.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Hitmontop.N2.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "22/75",
+      "card_number": "22",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Hitmontop.N2.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.50",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/hitmontop-22?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p148438.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.92",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Hitmontop+22+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/hitmontop__2275__rare__1st_edition/65251"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmontop+-+22%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Houndoom",
+      "title": "Houndoom - Neo Discovery #23",
+      "link": "/Neo-Discovery-Expansion/Houndoom-Card-23",
+      "image": "https://den-cards.pokellector.com/114/Houndoom.N2.23.7322.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Houndoom.N2.23.7322.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "23/75",
+      "card_number": "23",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Houndoom.N2.23.7322.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/houndoom-23?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p148448.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Houndoom+23+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/houndoom__2375__rare__unlimited_edition/193343"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+23%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Houndour",
+      "title": "Houndour - Neo Discovery #24",
+      "link": "/Neo-Discovery-Expansion/Houndour-Card-24",
+      "image": "https://den-cards.pokellector.com/114/Houndour.N2.24.7323.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Houndour.N2.24.7323.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "24/75",
+      "card_number": "24",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Houndour.N2.24.7323.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.80",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/houndour-24?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p148452.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.93",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Houndour+24+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/houndour__2475__rare__unlimited_edition/193353"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+24%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Kabutops",
+      "title": "Kabutops - Neo Discovery #25",
+      "link": "/Neo-Discovery-Expansion/Kabutops-Card-25",
+      "image": "https://den-cards.pokellector.com/114/Kabutops.N2.25.7324.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Kabutops.N2.25.7324.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "25/75",
+      "card_number": "25",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Kabutops.N2.25.7324.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.50",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/kabutops-25?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p148472.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Kabutops+25+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$17.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/kabutops__2575__rare__1st_edition/65258"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabutops+-+25%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Magnemite",
+      "title": "Magnemite - Neo Discovery #26",
+      "link": "/Neo-Discovery-Expansion/Magnemite-Card-26",
+      "image": "https://den-cards.pokellector.com/114/Magnemite.N2.26.7325.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Magnemite.N2.26.7325.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "26/75",
+      "card_number": "26",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Magnemite.N2.26.7325.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.80",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/magnemite-26?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p148519.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Magnemite+26+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$8.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/magnemite__2675__rare__1st_edition/65261"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+26%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Politoed",
+      "title": "Politoed - Neo Discovery #27",
+      "link": "/Neo-Discovery-Expansion/Politoed-Card-27",
+      "image": "https://den-cards.pokellector.com/114/Politoed.N2.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Politoed.N2.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "27/75",
+      "card_number": "27",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Politoed.N2.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/politoed-27?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.49",
+          "link": "http://www.trollandtoad.com/p148605.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.29",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Politoed+27+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/politoed__2775__rare__1st_edition/65263"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Politoed+-+27%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Poliwrath",
+      "title": "Poliwrath - Neo Discovery #28",
+      "link": "/Neo-Discovery-Expansion/Poliwrath-Card-28",
+      "image": "https://den-cards.pokellector.com/114/Poliwrath.N2.28.7327.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Poliwrath.N2.28.7327.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "28/75",
+      "card_number": "28",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Poliwrath.N2.28.7327.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/poliwrath-28?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p148611.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Poliwrath+28+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$8.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/poliwrath__2875__rare__1st_edition/65265"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poliwrath+-+28%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Scizor",
+      "title": "Scizor - Neo Discovery #29",
+      "link": "/Neo-Discovery-Expansion/Scizor-Card-29",
+      "image": "https://den-cards.pokellector.com/114/Scizor.N2.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Scizor.N2.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "29/75",
+      "card_number": "29",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Scizor.N2.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.27",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/scizor-29?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148671.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.01",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Scizor+29+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$19.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/scizor__2975__rare__1st_edition/65267"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+-+29%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Smeargle",
+      "title": "Smeargle - Neo Discovery #30",
+      "link": "/Neo-Discovery-Expansion/Smeargle-Card-30",
+      "image": "https://den-cards.pokellector.com/114/Smeargle.N2.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Smeargle.N2.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "30/75",
+      "card_number": "30",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Smeargle.N2.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/smeargle-30?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148704.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Smeargle+30+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smeargle+-+30%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/smeargle__3075__rare__1st_edition/65271"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Tyranitar",
+      "title": "Tyranitar - Neo Discovery #31",
+      "link": "/Neo-Discovery-Expansion/Tyranitar-Card-31",
+      "image": "https://den-cards.pokellector.com/114/Tyranitar.N2.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Tyranitar.N2.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "31/75",
+      "card_number": "31",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Tyranitar.N2.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/tyranitar-31?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.49",
+          "link": "http://www.trollandtoad.com/p148771.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Tyranitar+31+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$34.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/tyranitar__3175__rare__1st_edition/65273"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tyranitar+-+31%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Umbreon",
+      "title": "Umbreon - Neo Discovery #32",
+      "link": "/Neo-Discovery-Expansion/Umbreon-Card-32",
+      "image": "https://den-cards.pokellector.com/114/Umbreon.N2.32.7331.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Umbreon.N2.32.7331.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "32/75",
+      "card_number": "32",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Umbreon.N2.32.7331.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/umbreon-32?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.79",
+          "link": "http://www.trollandtoad.com/p148775.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.20",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Umbreon+32+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$114.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/umbreon__3275__rare__1st_edition/65275"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+32%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Unown A",
+      "title": "Unown A - Neo Discovery #33",
+      "link": "/Neo-Discovery-Expansion/Unown-A-Card-33",
+      "image": "https://den-cards.pokellector.com/114/Unown-A.N2.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-A.N2.33.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "33/75",
+      "card_number": "33",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-A.N2.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.45",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-a-33?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p148778.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.88",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+A+33+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_a__3375__rare__unlimited_edition/193453"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+A+-+33%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Ursaring",
+      "title": "Ursaring - Neo Discovery #34",
+      "link": "/Neo-Discovery-Expansion/Ursaring-Card-34",
+      "image": "https://den-cards.pokellector.com/114/Ursaring.N2.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Ursaring.N2.34.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "34/75",
+      "card_number": "34",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Ursaring.N2.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.45",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/ursaring-34?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.29",
+          "link": "http://www.trollandtoad.com/p148791.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.65",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Ursaring+34+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/ursaring__3475__rare__1st_edition/65279"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ursaring+-+34%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Wobbuffet",
+      "title": "Wobbuffet - Neo Discovery #35",
+      "link": "/Neo-Discovery-Expansion/Wobbuffet-Card-35",
+      "image": "https://den-cards.pokellector.com/114/Wobbuffet.N2.35.7334.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Wobbuffet.N2.35.7334.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "35/75",
+      "card_number": "35",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Wobbuffet.N2.35.7334.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.30",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/wobbuffet-35?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p148813.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.02",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Wobbuffet+35+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/wobbuffet__3575__rare__1st_edition/65282"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wobbuffet+-+35%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Yanma",
+      "title": "Yanma - Neo Discovery #36",
+      "link": "/Neo-Discovery-Expansion/Yanma-Card-36",
+      "image": "https://den-cards.pokellector.com/114/Yanma.N2.36.7335.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Yanma.N2.36.7335.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "36/75",
+      "card_number": "36",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Yanma.N2.36.7335.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.24",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/yanma-36?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148820.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.79",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Yanma+36+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Yanma+-+36%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/yanma__3675__rare__1st_edition/65283"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Corsola",
+      "title": "Corsola - Neo Discovery #37",
+      "link": "/Neo-Discovery-Expansion/Corsola-Card-37",
+      "image": "https://den-cards.pokellector.com/114/Corsola.N2.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Corsola.N2.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "37/75",
+      "card_number": "37",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Corsola.N2.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/corsola?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p148259.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Corsola+37+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/corsola__3775__uncommon__1st_edition/65284"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Corsola+-+37%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Eevee",
+      "title": "Eevee - Neo Discovery #38",
+      "link": "/Neo-Discovery-Expansion/Eevee-Card-38",
+      "image": "https://den-cards.pokellector.com/114/Eevee.N2.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Eevee.N2.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "38/75",
+      "card_number": "38",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Eevee.N2.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.79",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/eevee?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p148361.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Eevee+38+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/eevee__3875__uncommon__unlimited_edition/193503"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+38%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Houndour",
+      "title": "Houndour - Neo Discovery #39",
+      "link": "/Neo-Discovery-Expansion/Houndour-Card-39",
+      "image": "https://den-cards.pokellector.com/114/Houndour.N2.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Houndour.N2.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "39/75",
+      "card_number": "39",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Houndour.N2.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/houndour-39?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p148453.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Houndour+39+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/houndour__3975__uncommon__unlimited_edition/193513"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+39%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Igglybuff",
+      "title": "Igglybuff - Neo Discovery #40",
+      "link": "/Neo-Discovery-Expansion/Igglybuff-Card-40",
+      "image": "https://den-cards.pokellector.com/114/Igglybuff.N2.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Igglybuff.N2.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "40/75",
+      "card_number": "40",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Igglybuff.N2.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/igglybuff?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p148457.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.54",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Igglybuff+40+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$8.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/igglybuff__4075__uncommon__1st_edition/65290"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Igglybuff+-+40%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Kakuna",
+      "title": "Kakuna - Neo Discovery #41",
+      "link": "/Neo-Discovery-Expansion/Kakuna-Card-41",
+      "image": "https://den-cards.pokellector.com/114/Kakuna.N2.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Kakuna.N2.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "41/75",
+      "card_number": "41",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Kakuna.N2.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/kakuna?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148479.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.23",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Kakuna+41+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/kakuna__4175__uncommon__1st_edition/65292"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kakuna+-+41%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Metapod",
+      "title": "Metapod - Neo Discovery #42",
+      "link": "/Neo-Discovery-Expansion/Metapod-Card-42",
+      "image": "https://den-cards.pokellector.com/114/Metapod.N2.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Metapod.N2.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "42/75",
+      "card_number": "42",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Metapod.N2.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/metapod?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148544.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Metapod+42+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/metapod__4275__uncommon__unlimited_edition/193553"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metapod+-+42%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Omastar",
+      "title": "Omastar - Neo Discovery #43",
+      "link": "/Neo-Discovery-Expansion/Omastar-Card-43",
+      "image": "https://den-cards.pokellector.com/114/Omastar.N2.43.7342.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Omastar.N2.43.7342.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "43/75",
+      "card_number": "43",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Omastar.N2.43.7342.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.22",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/omastar?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148584.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Omastar+43+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/omastar__4375__uncommon__1st_edition/65296"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omastar+-+43%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Poliwhirl",
+      "title": "Poliwhirl - Neo Discovery #44",
+      "link": "/Neo-Discovery-Expansion/Poliwhirl-Card-44",
+      "image": "https://den-cards.pokellector.com/114/Poliwhirl.N2.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Poliwhirl.N2.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "44/75",
+      "card_number": "44",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Poliwhirl.N2.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.60",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/poliwhirl?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p148609.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.54",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Poliwhirl+44+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poliwhirl+-+44%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/poliwhirl__4475__uncommon__1st_edition/65297"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Pupitar",
+      "title": "Pupitar - Neo Discovery #45",
+      "link": "/Neo-Discovery-Expansion/Pupitar-Card-45",
+      "image": "https://den-cards.pokellector.com/114/Pupitar.N2.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Pupitar.N2.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "45/75",
+      "card_number": "45",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Pupitar.N2.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/pupitar?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148631.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.01",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Pupitar+45+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.93",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/pupitar__4575__uncommon__unlimited_edition/193583"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pupitar+-+45%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Scyther",
+      "title": "Scyther - Neo Discovery #46",
+      "link": "/Neo-Discovery-Expansion/Scyther-Card-46",
+      "image": "https://den-cards.pokellector.com/114/Scyther.N2.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Scyther.N2.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "46/75",
+      "card_number": "46",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Scyther.N2.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/scyther?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148672.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Scyther+46+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/scyther__4675__uncommon__1st_edition/65301"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scyther+-+46%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Unown D",
+      "title": "Unown D - Neo Discovery #47",
+      "link": "/Neo-Discovery-Expansion/Unown-D-Card-47",
+      "image": "https://den-cards.pokellector.com/114/Unown-D.N2.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-D.N2.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "47/75",
+      "card_number": "47",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-D.N2.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-d?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148780.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.47",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+D+47+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_d__4775__uncommon__unlimited_edition/193603"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+D+-+47%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Unown F",
+      "title": "Unown F - Neo Discovery #48",
+      "link": "/Neo-Discovery-Expansion/Unown-F-Card-48",
+      "image": "https://den-cards.pokellector.com/114/Unown-F.N2.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-F.N2.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "48/75",
+      "card_number": "48",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-F.N2.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-f?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p148782.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.01",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+F+48+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_f__4875__uncommon__unlimited_edition/193613"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+F+-+48%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Unown M",
+      "title": "Unown M - Neo Discovery #49",
+      "link": "/Neo-Discovery-Expansion/Unown-M-Card-49",
+      "image": "https://den-cards.pokellector.com/114/Unown-M.N2.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-M.N2.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "49/75",
+      "card_number": "49",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-M.N2.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.32",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-m?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148785.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+M+49+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_m__4975__uncommon__unlimited_edition/193623"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+M+-+49%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Unown N",
+      "title": "Unown N - Neo Discovery #50",
+      "link": "/Neo-Discovery-Expansion/Unown-N-Card-50",
+      "image": "https://den-cards.pokellector.com/114/Unown-N.N2.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-N.N2.50.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "50/75",
+      "card_number": "50",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-N.N2.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-n?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148786.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+N+50+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_n__5075__uncommon__1st_edition/65311"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+N+-+50%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Unown U",
+      "title": "Unown U - Neo Discovery #51",
+      "link": "/Neo-Discovery-Expansion/Unown-U-Card-51",
+      "image": "https://den-cards.pokellector.com/114/Unown-U.N2.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-U.N2.51.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "51/75",
+      "card_number": "51",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-U.N2.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-u?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148788.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+U+51+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_u__5175__uncommon__1st_edition/65313"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+U+-+51%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Xatu",
+      "title": "Xatu - Neo Discovery #52",
+      "link": "/Neo-Discovery-Expansion/Xatu-Card-52",
+      "image": "https://den-cards.pokellector.com/114/Xatu.N2.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Xatu.N2.52.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "52/75",
+      "card_number": "52",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Xatu.N2.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/xatu?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p148818.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Xatu+52+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/xatu__5275__uncommon__1st_edition/65314"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Xatu+-+52%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Caterpie",
+      "title": "Caterpie - Neo Discovery #53",
+      "link": "/Neo-Discovery-Expansion/Caterpie-Card-53",
+      "image": "https://den-cards.pokellector.com/114/Caterpie.N2.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Caterpie.N2.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "53/75",
+      "card_number": "53",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Caterpie.N2.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/caterpie?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148222.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Caterpie+53+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.30",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/caterpie__5375__common__unlimited_edition/193673"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Caterpie+-+53%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Dunsparce",
+      "title": "Dunsparce - Neo Discovery #54",
+      "link": "/Neo-Discovery-Expansion/Dunsparce-Card-54",
+      "image": "https://den-cards.pokellector.com/114/Dunsparce.N2.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Dunsparce.N2.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "54/75",
+      "card_number": "54",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Dunsparce.N2.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/dunsparce?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148340.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Dunsparce+54+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/dunsparce__5475__common__1st_edition/65319"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dunsparce+-+54%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Hoppip",
+      "title": "Hoppip - Neo Discovery #55",
+      "link": "/Neo-Discovery-Expansion/Hoppip-Card-55",
+      "image": "https://den-cards.pokellector.com/114/Hoppip.N2.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Hoppip.N2.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "55/75",
+      "card_number": "55",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Hoppip.N2.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/hoppip?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148445.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Hoppip+55+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.37",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/hoppip__5575__common__unlimited_edition/193693"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hoppip+-+55%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Kabuto",
+      "title": "Kabuto - Neo Discovery #56",
+      "link": "/Neo-Discovery-Expansion/Kabuto-Card-56",
+      "image": "https://den-cards.pokellector.com/114/Kabuto.N2.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Kabuto.N2.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "56/75",
+      "card_number": "56",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Kabuto.N2.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/kabuto?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148471.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.96",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Kabuto+56+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/kabuto__5675__common__1st_edition/65322"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabuto+-+56%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Larvitar",
+      "title": "Larvitar - Neo Discovery #57",
+      "link": "/Neo-Discovery-Expansion/Larvitar-Card-57",
+      "image": "https://den-cards.pokellector.com/114/Larvitar.N2.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Larvitar.N2.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "57/75",
+      "card_number": "57",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Larvitar.N2.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/larvitar?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148495.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.94",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Larvitar+57+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/larvitar__5775__common__unlimited_edition/193713"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Mareep",
+      "title": "Mareep - Neo Discovery #58",
+      "link": "/Neo-Discovery-Expansion/Mareep-Card-58",
+      "image": "https://den-cards.pokellector.com/114/Mareep.N2.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Mareep.N2.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "58/75",
+      "card_number": "58",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Mareep.N2.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/mareep?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148528.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.87",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Mareep+58+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/mareep__5875__common__unlimited_edition/193723"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mareep+-+58%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Natu",
+      "title": "Natu - Neo Discovery #59",
+      "link": "/Neo-Discovery-Expansion/Natu-Card-59",
+      "image": "https://den-cards.pokellector.com/114/Natu.N2.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Natu.N2.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "59/75",
+      "card_number": "59",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Natu.N2.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/natu?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1166936.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Natu+59+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/natu__5975__common__1st_edition/65328"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Natu+-+59%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Omanyte",
+      "title": "Omanyte - Neo Discovery #60",
+      "link": "/Neo-Discovery-Expansion/Omanyte-Card-60",
+      "image": "https://den-cards.pokellector.com/114/Omanyte.N2.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Omanyte.N2.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "60/75",
+      "card_number": "60",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Omanyte.N2.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/omanyte?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148583.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Omanyte+60+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omanyte+-+60%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/omanyte__6075__common__unlimited_edition/193753"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Pineco",
+      "title": "Pineco - Neo Discovery #61",
+      "link": "/Neo-Discovery-Expansion/Pineco-Card-61",
+      "image": "https://den-cards.pokellector.com/114/Pineco.N2.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Pineco.N2.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "61/75",
+      "card_number": "61",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Pineco.N2.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/pineco?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148600.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.09",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Pineco+61+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/pineco__6175__common__unlimited_edition/193763"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pineco+-+61%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Poliwag",
+      "title": "Poliwag - Neo Discovery #62",
+      "link": "/Neo-Discovery-Expansion/Poliwag-Card-62",
+      "image": "https://den-cards.pokellector.com/114/Poliwag.N2.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Poliwag.N2.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "62/75",
+      "card_number": "62",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Poliwag.N2.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/poliwag?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148608.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.84",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Poliwag+62+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/poliwag__6275__common__1st_edition/65336"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poliwag+-+62%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Sentret",
+      "title": "Sentret - Neo Discovery #63",
+      "link": "/Neo-Discovery-Expansion/Sentret-Card-63",
+      "image": "https://den-cards.pokellector.com/114/Sentret.N2.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Sentret.N2.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "63/75",
+      "card_number": "63",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Sentret.N2.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/sentret?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148676.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.18",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Sentret+63+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/sentret__6375__common__1st_edition/65339"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sentret+-+63%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Spinarak",
+      "title": "Spinarak - Neo Discovery #64",
+      "link": "/Neo-Discovery-Expansion/Spinarak-Card-64",
+      "image": "https://den-cards.pokellector.com/114/Spinarak.N2.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Spinarak.N2.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "64/75",
+      "card_number": "64",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Spinarak.N2.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/spinarak?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1166941.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Spinarak+64+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/spinarak__6475__common__1st_edition/65340"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spinarak+-+64%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Teddiursa",
+      "title": "Teddiursa - Neo Discovery #65",
+      "link": "/Neo-Discovery-Expansion/Teddiursa-Card-65",
+      "image": "https://den-cards.pokellector.com/114/Teddiursa.N2.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Teddiursa.N2.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "65/75",
+      "card_number": "65",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Teddiursa.N2.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/teddiursa?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148745.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Teddiursa+65+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/teddiursa__6575__common__1st_edition/65342"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Teddiursa+-+65%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Tyrogue",
+      "title": "Tyrogue - Neo Discovery #66",
+      "link": "/Neo-Discovery-Expansion/Tyrogue-Card-66",
+      "image": "https://den-cards.pokellector.com/114/Tyrogue.N2.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Tyrogue.N2.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "66/75",
+      "card_number": "66",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Tyrogue.N2.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/tyrogue?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148773.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Tyrogue+66+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.56",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/tyrogue__6675__common__unlimited_edition/193813"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tyrogue+-+66%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Unown E",
+      "title": "Unown E - Neo Discovery #67",
+      "link": "/Neo-Discovery-Expansion/Unown-E-Card-67",
+      "image": "https://den-cards.pokellector.com/114/Unown-E.N2.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-E.N2.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "67/75",
+      "card_number": "67",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-E.N2.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-e?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148781.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.46",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+E+67+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_e__6775__common__1st_edition/65346"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+E+-+67%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Unown I",
+      "title": "Unown I - Neo Discovery #68",
+      "link": "/Neo-Discovery-Expansion/Unown-I-Card-68",
+      "image": "https://den-cards.pokellector.com/114/Unown-I.N2.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-I.N2.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "68/75",
+      "card_number": "68",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-I.N2.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-i?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148783.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.09",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+I+68+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.39",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_i__6875__common__unlimited_edition/193833"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+I+-+68%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Unown O",
+      "title": "Unown O - Neo Discovery #69",
+      "link": "/Neo-Discovery-Expansion/Unown-O-Card-69",
+      "image": "https://den-cards.pokellector.com/114/Unown-O.N2.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Unown-O.N2.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "69/75",
+      "card_number": "69",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Unown-O.N2.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/unown-o?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148787.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Unown+O+69+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/unown_o__6975__common__1st_edition/65351"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+O+-+69%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Weedle",
+      "title": "Weedle - Neo Discovery #70",
+      "link": "/Neo-Discovery-Expansion/Weedle-Card-70",
+      "image": "https://den-cards.pokellector.com/114/Weedle.N2.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Weedle.N2.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "70/75",
+      "card_number": "70",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Weedle.N2.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/weedle?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148807.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Weedle+70+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weedle+-+70%2F75"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/weedle__7075__common__unlimited_edition/193863"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Wooper",
+      "title": "Wooper - Neo Discovery #71",
+      "link": "/Neo-Discovery-Expansion/Wooper-Card-71",
+      "image": "https://den-cards.pokellector.com/114/Wooper.N2.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Wooper.N2.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "71/75",
+      "card_number": "71",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Wooper.N2.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/wooper?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148814.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.72",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Wooper+71+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/wooper__7175__common__1st_edition/65357"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wooper+-+71%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Fossil Egg",
+      "title": "Fossil Egg - Neo Discovery #72",
+      "link": "/Neo-Discovery-Expansion/Fossil-Egg-Card-72",
+      "image": "https://den-cards.pokellector.com/114/Fossil-Egg.N2.72.7371.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Fossil-Egg.N2.72.7371.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "72/75",
+      "card_number": "72",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Fossil-Egg.N2.72.7371.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/fossil-egg?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148389.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.73",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Fossil+Egg+72+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/fossil_egg__7275__uncommon__unlimited_edition/193883"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fossil+Egg+-+72%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Hyper Devolution Spray",
+      "title": "Hyper Devolution Spray - Neo Discovery #73",
+      "link": "/Neo-Discovery-Expansion/Hyper-Devolution-Spray-Card-73",
+      "image": "https://den-cards.pokellector.com/114/Hyper-Devolution-Spray.N2.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Hyper-Devolution-Spray.N2.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "73/75",
+      "card_number": "73",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Hyper-Devolution-Spray.N2.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/hyper-devolution-spray?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148456.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.93",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Hyper+Devolution+Spray+73+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/hyper_devolution_spray__7375__uncommon__1st_edition/65361"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hyper+Devolution+Spray+-+73%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Ruin Wall",
+      "title": "Ruin Wall - Neo Discovery #74",
+      "link": "/Neo-Discovery-Expansion/Ruin-Wall-Card-74",
+      "image": "https://den-cards.pokellector.com/114/Ruin-Wall.N2.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Ruin-Wall.N2.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "74/75",
+      "card_number": "74",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Ruin-Wall.N2.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/ruin-wall?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148661.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Ruin+Wall+74+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/ruin_wall__7475__uncommon__unlimited_edition_raichu_shadow/193903"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ruin+Wall+-+74%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Energy Ark",
+      "title": "Energy Ark - Neo Discovery #75",
+      "link": "/Neo-Discovery-Expansion/Energy-Ark-Card-75",
+      "image": "https://den-cards.pokellector.com/114/Energy-Ark.N2.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/114/Energy-Ark.N2.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Discovery",
+      "set_link": "/Neo-Discovery-Expansion/",
+      "position": "75/75",
+      "card_number": "75",
+      "total_cards": "75",
+      "image_full": "https://den-cards.pokellector.com/114/Energy-Ark.N2.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://store.tcgplayer.com/pokemon/neo-discovery/energy-ark?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148352.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Discovery+Energy+Ark+75+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_discovery/energy_ark__7575__common__unlimited_edition/193913"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Ark+-+75%2F75"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 13:50:38"
+}

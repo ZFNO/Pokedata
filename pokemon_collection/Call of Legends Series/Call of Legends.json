@@ -1,0 +1,5353 @@
+{
+  "title": "Call of Legends Set",
+  "link": "/Call-of-Legends-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Call-of-Legends.logo.33.png",
+  "symbol": "https://den-media.pokellector.com/logos/Call-of-Legends.symbol.33.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Clefable",
+      "title": "Clefable - Call of Legends #1",
+      "link": "/Call-of-Legends-Expansion/Clefable-Card-1",
+      "image": "https://den-cards.pokellector.com/33/Clefable.CL.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Clefable.CL.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "1/95",
+      "card_number": "1",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Clefable.CL.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fclefable"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p306080.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Clefable+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Clefable+-+1%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Deoxys",
+      "title": "Deoxys - Call of Legends #2",
+      "link": "/Call-of-Legends-Expansion/Deoxys-Card-2",
+      "image": "https://den-cards.pokellector.com/33/Deoxys.CL.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Deoxys.CL.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "2/95",
+      "card_number": "2",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Deoxys.CL.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdeoxys"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.39",
+          "link": "http://www.trollandtoad.com/p1066409.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Deoxys+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Deoxys+-+2%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/calloflegends-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Dialga",
+      "title": "Dialga - Call of Legends #3",
+      "link": "/Call-of-Legends-Expansion/Dialga-Card-3",
+      "image": "https://den-cards.pokellector.com/33/Dialga.CL.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Dialga.CL.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "3/95",
+      "card_number": "3",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Dialga.CL.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdialga"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.59",
+          "link": "http://www.trollandtoad.com/p1066410.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Dialga+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+-+3%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-003.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Espeon",
+      "title": "Espeon - Call of Legends #4",
+      "link": "/Call-of-Legends-Expansion/Espeon-Card-4",
+      "image": "https://den-cards.pokellector.com/33/Espeon.CL.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Espeon.CL.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "4/95",
+      "card_number": "4",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Espeon.CL.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$46.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fespeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p306083.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Espeon+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+4%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/calloflegends-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Forretress",
+      "title": "Forretress - Call of Legends #5",
+      "link": "/Call-of-Legends-Expansion/Forretress-Card-5",
+      "image": "https://den-cards.pokellector.com/33/Forretress.CL.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Forretress.CL.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "5/95",
+      "card_number": "5",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Forretress.CL.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fforretress"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p1066418.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Forretress+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Forretress+-+5%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Groudon",
+      "title": "Groudon - Call of Legends #6",
+      "link": "/Call-of-Legends-Expansion/Groudon-Card-6",
+      "image": "https://den-cards.pokellector.com/33/Groudon.CL.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Groudon.CL.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "6/95",
+      "card_number": "6",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Groudon.CL.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fgroudon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p1066420.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Groudon+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+-+6%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-006.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Gyarados",
+      "title": "Gyarados - Call of Legends #7",
+      "link": "/Call-of-Legends-Expansion/Gyarados-Card-7",
+      "image": "https://den-cards.pokellector.com/33/Gyarados.CL.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Gyarados.CL.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "7/95",
+      "card_number": "7",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Gyarados.CL.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fgyarados"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p1066421.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Gyarados+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gyarados+-+7%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/calloflegends-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Hitmontop",
+      "title": "Hitmontop - Call of Legends #8",
+      "link": "/Call-of-Legends-Expansion/Hitmontop-Card-8",
+      "image": "https://den-cards.pokellector.com/33/Hitmontop.CL.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Hitmontop.CL.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "8/95",
+      "card_number": "8",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Hitmontop.CL.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fhitmontop"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p306087.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Hitmontop+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmontop+-+8%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-008.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Ho-Oh",
+      "title": "Ho-Oh - Call of Legends #9",
+      "link": "/Call-of-Legends-Expansion/Ho-Oh-Card-9",
+      "image": "https://den-cards.pokellector.com/33/Ho-Oh.CL.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Ho-Oh.CL.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "9/95",
+      "card_number": "9",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Ho-Oh.CL.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fho-oh"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p1066425.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Ho-Oh+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ho-Oh+-+9%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/calloflegends-009.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Houndoom",
+      "title": "Houndoom - Call of Legends #10",
+      "link": "/Call-of-Legends-Expansion/Houndoom-Card-10",
+      "image": "https://den-cards.pokellector.com/33/Houndoom.CL.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Houndoom.CL.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "10/95",
+      "card_number": "10",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Houndoom.CL.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fhoundoom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p1066426.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Houndoom+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+10%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-010.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Jirachi",
+      "title": "Jirachi - Call of Legends #11",
+      "link": "/Call-of-Legends-Expansion/Jirachi-Card-11",
+      "image": "https://den-cards.pokellector.com/33/Jirachi.CL.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Jirachi.CL.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "11/95",
+      "card_number": "11",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Jirachi.CL.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fjirachi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p1066429.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Jirachi+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jirachi+-+11%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/calloflegends-011.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Kyogre",
+      "title": "Kyogre - Call of Legends #12",
+      "link": "/Call-of-Legends-Expansion/Kyogre-Card-12",
+      "image": "https://den-cards.pokellector.com/33/Kyogre.CL.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Kyogre.CL.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "12/95",
+      "card_number": "12",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Kyogre.CL.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fkyogre"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p1066432.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Kyogre+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+-+12%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/calloflegends-012.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Leafeon",
+      "title": "Leafeon - Call of Legends #13",
+      "link": "/Call-of-Legends-Expansion/Leafeon-Card-13",
+      "image": "https://den-cards.pokellector.com/33/Leafeon.CL.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Leafeon.CL.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "13/95",
+      "card_number": "13",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Leafeon.CL.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fleafeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p1066433.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Leafeon+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+-+13%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Lucario",
+      "title": "Lucario - Call of Legends #14",
+      "link": "/Call-of-Legends-Expansion/Lucario-Card-14",
+      "image": "https://den-cards.pokellector.com/33/Lucario.CL.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lucario.CL.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "14/95",
+      "card_number": "14",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Lucario.CL.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flucario"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p1066436.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lucario+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lucario+-+14%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.88",
+          "link": "http://stop2shop.com/calloflegends-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Lugia",
+      "title": "Lugia - Call of Legends #15",
+      "link": "/Call-of-Legends-Expansion/Lugia-Card-15",
+      "image": "https://den-cards.pokellector.com/33/Lugia.CL.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lugia.CL.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "15/95",
+      "card_number": "15",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Lugia.CL.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$145.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flugia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$46.99",
+          "link": "http://www.trollandtoad.com/p1066437.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$45.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lugia+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lugia+-+15%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/calloflegends-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Magmortar",
+      "title": "Magmortar - Call of Legends #16",
+      "link": "/Call-of-Legends-Expansion/Magmortar-Card-16",
+      "image": "https://den-cards.pokellector.com/33/Magmortar.CL.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Magmortar.CL.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "16/95",
+      "card_number": "16",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Magmortar.CL.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmagmortar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1066441.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Magmortar+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/calloflegends-016.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmortar+-+16%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Ninetales",
+      "title": "Ninetales - Call of Legends #17",
+      "link": "/Call-of-Legends-Expansion/Ninetales-Card-17",
+      "image": "https://den-cards.pokellector.com/33/Ninetales.CL.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Ninetales.CL.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "17/95",
+      "card_number": "17",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Ninetales.CL.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fninetales"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.99",
+          "link": "http://www.trollandtoad.com/p306096.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Ninetales+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninetales+-+17%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/calloflegends-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/33/Ninetales.CL.17.28025.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Pachirisu",
+      "title": "Pachirisu - Call of Legends #18",
+      "link": "/Call-of-Legends-Expansion/Pachirisu-Card-18",
+      "image": "https://den-cards.pokellector.com/33/Pachirisu.CL.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Pachirisu.CL.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "18/95",
+      "card_number": "18",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Pachirisu.CL.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpachirisu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.79",
+          "link": "http://www.trollandtoad.com/p306097.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Pachirisu+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pachirisu+-+18%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.99",
+          "link": "http://stop2shop.com/calloflegends-018.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Palkia",
+      "title": "Palkia - Call of Legends #19",
+      "link": "/Call-of-Legends-Expansion/Palkia-Card-19",
+      "image": "https://den-cards.pokellector.com/33/Palkia.CL.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Palkia.CL.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "19/95",
+      "card_number": "19",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Palkia.CL.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpalkia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p1066451.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Palkia+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Palkia+-+19%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/calloflegends-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Rayquaza",
+      "title": "Rayquaza - Call of Legends #20",
+      "link": "/Call-of-Legends-Expansion/Rayquaza-Card-20",
+      "image": "https://den-cards.pokellector.com/33/Rayquaza.CL.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Rayquaza.CL.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "20/95",
+      "card_number": "20",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Rayquaza.CL.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Frayquaza"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$41.59",
+          "link": "http://www.trollandtoad.com/p1066460.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Rayquaza+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+-+20%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/calloflegends-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Smeargle",
+      "title": "Smeargle - Call of Legends #21",
+      "link": "/Call-of-Legends-Expansion/Smeargle-Card-21",
+      "image": "https://den-cards.pokellector.com/33/Smeargle.CL.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Smeargle.CL.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "21/95",
+      "card_number": "21",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Smeargle.CL.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fsmeargle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.79",
+          "link": "http://www.trollandtoad.com/p306100.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Smeargle+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smeargle+-+21%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/calloflegends-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Umbreon",
+      "title": "Umbreon - Call of Legends #22",
+      "link": "/Call-of-Legends-Expansion/Umbreon-Card-22",
+      "image": "https://den-cards.pokellector.com/33/Umbreon.CL.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Umbreon.CL.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "22/95",
+      "card_number": "22",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Umbreon.CL.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$109.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fumbreon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$63.99",
+          "link": "http://www.trollandtoad.com/p1066480.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Umbreon+22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+22%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/calloflegends-022.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Ampharos",
+      "title": "Ampharos - Call of Legends #23",
+      "link": "/Call-of-Legends-Expansion/Ampharos-Card-23",
+      "image": "https://den-cards.pokellector.com/33/Ampharos.CL.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Ampharos.CL.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "23/95",
+      "card_number": "23",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Ampharos.CL.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fampharos"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.19",
+          "link": "http://www.trollandtoad.com/p306102.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Ampharos+23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ampharos+-+23%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.44",
+          "link": "http://stop2shop.com/calloflegends-023.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Cleffa",
+      "title": "Cleffa - Call of Legends #24",
+      "link": "/Call-of-Legends-Expansion/Cleffa-Card-24",
+      "image": "https://den-cards.pokellector.com/33/Cleffa.CL.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Cleffa.CL.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "24/95",
+      "card_number": "24",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Cleffa.CL.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fcleffa"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p306103.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Cleffa+24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cleffa+-+24%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/calloflegends-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Feraligatr",
+      "title": "Feraligatr - Call of Legends #25",
+      "link": "/Call-of-Legends-Expansion/Feraligatr-Card-25",
+      "image": "https://den-cards.pokellector.com/33/Feraligatr.CL.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Feraligatr.CL.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "25/95",
+      "card_number": "25",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Feraligatr.CL.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fferaligatr"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p306104.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Feraligatr+25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Feraligatr+-+25%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Granbull",
+      "title": "Granbull - Call of Legends #26",
+      "link": "/Call-of-Legends-Expansion/Granbull-Card-26",
+      "image": "https://den-cards.pokellector.com/33/Granbull.CL.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Granbull.CL.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "26/95",
+      "card_number": "26",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Granbull.CL.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fgranbull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306105.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Granbull+26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Granbull+-+26%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Meganium",
+      "title": "Meganium - Call of Legends #27",
+      "link": "/Call-of-Legends-Expansion/Meganium-Card-27",
+      "image": "https://den-cards.pokellector.com/33/Meganium.CL.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Meganium.CL.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "27/95",
+      "card_number": "27",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Meganium.CL.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmeganium"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p1066444.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Meganium+27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meganium+-+27%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Mismagius",
+      "title": "Mismagius - Call of Legends #28",
+      "link": "/Call-of-Legends-Expansion/Mismagius-Card-28",
+      "image": "https://den-cards.pokellector.com/33/Mismagius.CL.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Mismagius.CL.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "28/95",
+      "card_number": "28",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Mismagius.CL.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmismagius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306107.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Mismagius+28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mismagius+-+28%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-028.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Mr. Mime",
+      "title": "Mr. Mime - Call of Legends #29",
+      "link": "/Call-of-Legends-Expansion/Mr-Mime-Card-29",
+      "image": "https://den-cards.pokellector.com/33/Mr-Mime.CL.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Mr-Mime.CL.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "29/95",
+      "card_number": "29",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Mr-Mime.CL.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmr-mime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p1066448.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Mr.+Mime+29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mr.+Mime+-+29%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/calloflegends-029.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Pidgeot",
+      "title": "Pidgeot - Call of Legends #30",
+      "link": "/Call-of-Legends-Expansion/Pidgeot-Card-30",
+      "image": "https://den-cards.pokellector.com/33/Pidgeot.CL.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Pidgeot.CL.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "30/95",
+      "card_number": "30",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Pidgeot.CL.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpidgeot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p306109.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Pidgeot+30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgeot+-+30%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.69",
+          "link": "http://stop2shop.com/calloflegends-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Skarmory",
+      "title": "Skarmory - Call of Legends #31",
+      "link": "/Call-of-Legends-Expansion/Skarmory-Card-31",
+      "image": "https://den-cards.pokellector.com/33/Skarmory.CL.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Skarmory.CL.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "31/95",
+      "card_number": "31",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Skarmory.CL.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fskarmory"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p306110.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$660.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Skarmory+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skarmory+-+31%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Slowking",
+      "title": "Slowking - Call of Legends #32",
+      "link": "/Call-of-Legends-Expansion/Slowking-Card-32",
+      "image": "https://den-cards.pokellector.com/33/Slowking.CL.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Slowking.CL.32.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "32/95",
+      "card_number": "32",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Slowking.CL.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fslowking"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p306111.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Slowking+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/SlowKing+-+32%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.79",
+          "link": "http://stop2shop.com/calloflegends-032.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Snorlax",
+      "title": "Snorlax - Call of Legends #33",
+      "link": "/Call-of-Legends-Expansion/Snorlax-Card-33",
+      "image": "https://den-cards.pokellector.com/33/Snorlax.CL.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Snorlax.CL.33.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "33/95",
+      "card_number": "33",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Snorlax.CL.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$23.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fsnorlax"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p306112.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Snorlax+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snorlax+-+33%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Prerelease Promo",
+          "image": "https://den-cards.pokellector.com/33/Snorlax.CL.33.39206.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Staff Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Tangrowth",
+      "title": "Tangrowth - Call of Legends #34",
+      "link": "/Call-of-Legends-Expansion/Tangrowth-Card-34",
+      "image": "https://den-cards.pokellector.com/33/Tangrowth.CL.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Tangrowth.CL.34.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "34/95",
+      "card_number": "34",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Tangrowth.CL.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ftangrowth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p306113.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Tangrowth+34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tangrowth+-+34%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Typhlosion",
+      "title": "Typhlosion - Call of Legends #35",
+      "link": "/Call-of-Legends-Expansion/Typhlosion-Card-35",
+      "image": "https://den-cards.pokellector.com/33/Typhlosion.CL.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Typhlosion.CL.35.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "35/95",
+      "card_number": "35",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Typhlosion.CL.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ftyphlosion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.89",
+          "link": "http://www.trollandtoad.com/p306114.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Typhlosion+35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Typhlosion+-+35%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/calloflegends-035.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Tyrogue",
+      "title": "Tyrogue - Call of Legends #36",
+      "link": "/Call-of-Legends-Expansion/Tyrogue-Card-36",
+      "image": "https://den-cards.pokellector.com/33/Tyrogue.CL.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Tyrogue.CL.36.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "36/95",
+      "card_number": "36",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Tyrogue.CL.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ftyrogue"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p306115.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Tyrogue+36&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tyrogue+-+36%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.49",
+          "link": "http://stop2shop.com/calloflegends-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Ursaring",
+      "title": "Ursaring - Call of Legends #37",
+      "link": "/Call-of-Legends-Expansion/Ursaring-Card-37",
+      "image": "https://den-cards.pokellector.com/33/Ursaring.CL.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Ursaring.CL.37.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "37/95",
+      "card_number": "37",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Ursaring.CL.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fursaring"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306116.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Ursaring+37&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ursaring+-+37%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/33/Ursaring.CL.37.28045.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Weezing",
+      "title": "Weezing - Call of Legends #38",
+      "link": "/Call-of-Legends-Expansion/Weezing-Card-38",
+      "image": "https://den-cards.pokellector.com/33/Weezing.CL.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Weezing.CL.38.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "38/95",
+      "card_number": "38",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Weezing.CL.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fweezing"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p306117.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Weezing+38&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weezing+-+38%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Zangoose",
+      "title": "Zangoose - Call of Legends #39",
+      "link": "/Call-of-Legends-Expansion/Zangoose-Card-39",
+      "image": "https://den-cards.pokellector.com/33/Zangoose.CL.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Zangoose.CL.39.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "39/95",
+      "card_number": "39",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Zangoose.CL.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fzangoose"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1066485.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Zangoose+39&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zangoose+-+39%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/calloflegends-039.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Bayleef",
+      "title": "Bayleef - Call of Legends #40",
+      "link": "/Call-of-Legends-Expansion/Bayleef-Card-40",
+      "image": "https://den-cards.pokellector.com/33/Bayleef.CL.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Bayleef.CL.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "40/95",
+      "card_number": "40",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Bayleef.CL.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fbayleef"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306119.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Bayleef+40&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bayleef+-+40%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Croconaw",
+      "title": "Croconaw - Call of Legends #41",
+      "link": "/Call-of-Legends-Expansion/Croconaw-Card-41",
+      "image": "https://den-cards.pokellector.com/33/Croconaw.CL.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Croconaw.CL.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "41/95",
+      "card_number": "41",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Croconaw.CL.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fcroconaw"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p306120.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Croconaw+41&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Croconaw+-+41%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Donphan",
+      "title": "Donphan - Call of Legends #42",
+      "link": "/Call-of-Legends-Expansion/Donphan-Card-42",
+      "image": "https://den-cards.pokellector.com/33/Donphan.CL.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Donphan.CL.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "42/95",
+      "card_number": "42",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Donphan.CL.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdonphan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306121.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Donphan+42&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Donphan+-+42%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-042.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Flaaffy",
+      "title": "Flaaffy - Call of Legends #43",
+      "link": "/Call-of-Legends-Expansion/Flaaffy-Card-43",
+      "image": "https://den-cards.pokellector.com/33/Flaaffy.CL.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Flaaffy.CL.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "43/95",
+      "card_number": "43",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Flaaffy.CL.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fflaaffy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306122.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Flaaffy+43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flaaffy+-+43%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-043.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Flareon",
+      "title": "Flareon - Call of Legends #44",
+      "link": "/Call-of-Legends-Expansion/Flareon-Card-44",
+      "image": "https://den-cards.pokellector.com/33/Flareon.CL.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Flareon.CL.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "44/95",
+      "card_number": "44",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Flareon.CL.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fflareon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p306123.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Flareon+44&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flareon+-+44%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-044.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Jolteon",
+      "title": "Jolteon - Call of Legends #45",
+      "link": "/Call-of-Legends-Expansion/Jolteon-Card-45",
+      "image": "https://den-cards.pokellector.com/33/Jolteon.CL.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Jolteon.CL.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "45/95",
+      "card_number": "45",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Jolteon.CL.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fjolteon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p306124.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Jolteon+45&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jolteon+-+45%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Magby",
+      "title": "Magby - Call of Legends #46",
+      "link": "/Call-of-Legends-Expansion/Magby-Card-46",
+      "image": "https://den-cards.pokellector.com/33/Magby.CL.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Magby.CL.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "46/95",
+      "card_number": "46",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Magby.CL.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmagby"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p306125.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Magby+46&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magby+-+46%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-046.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Mime Jr.",
+      "title": "Mime Jr. - Call of Legends #47",
+      "link": "/Call-of-Legends-Expansion/Mime-Jr-Card-47",
+      "image": "https://den-cards.pokellector.com/33/Mime-Jr.CL.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Mime-Jr.CL.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "47/95",
+      "card_number": "47",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Mime-Jr.CL.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmime-jr"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.78",
+          "link": "http://www.trollandtoad.com/p306126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Mime+Jr.+47&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mime+Jr.+-+47%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Pidgeotto",
+      "title": "Pidgeotto - Call of Legends #48",
+      "link": "/Call-of-Legends-Expansion/Pidgeotto-Card-48",
+      "image": "https://den-cards.pokellector.com/33/Pidgeotto.CL.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Pidgeotto.CL.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "48/95",
+      "card_number": "48",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Pidgeotto.CL.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpidgeotto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p306127.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Pidgeotto+48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgeotto+-+48%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Quilava",
+      "title": "Quilava - Call of Legends #49",
+      "link": "/Call-of-Legends-Expansion/Quilava-Card-49",
+      "image": "https://den-cards.pokellector.com/33/Quilava.CL.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Quilava.CL.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "49/95",
+      "card_number": "49",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Quilava.CL.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fquilava"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p306128.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Quilava+49&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Quilava+-+49%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Riolu",
+      "title": "Riolu - Call of Legends #50",
+      "link": "/Call-of-Legends-Expansion/Riolu-Card-50",
+      "image": "https://den-cards.pokellector.com/33/Riolu.CL.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Riolu.CL.50.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "50/95",
+      "card_number": "50",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Riolu.CL.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Friolu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306129.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Riolu+50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Riolu+-+50%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Seviper",
+      "title": "Seviper - Call of Legends #51",
+      "link": "/Call-of-Legends-Expansion/Seviper-Card-51",
+      "image": "https://den-cards.pokellector.com/33/Seviper.CL.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Seviper.CL.51.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "51/95",
+      "card_number": "51",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Seviper.CL.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fseviper"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306130.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Seviper+51&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seviper+-+51%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Vaporeon",
+      "title": "Vaporeon - Call of Legends #52",
+      "link": "/Call-of-Legends-Expansion/Vaporeon-Card-52",
+      "image": "https://den-cards.pokellector.com/33/Vaporeon.CL.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Vaporeon.CL.52.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "52/95",
+      "card_number": "52",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Vaporeon.CL.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fvaporeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p306131.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Vaporeon+52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vaporeon+-+52%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/calloflegends-052.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Chikorita",
+      "title": "Chikorita - Call of Legends #53",
+      "link": "/Call-of-Legends-Expansion/Chikorita-Card-53",
+      "image": "https://den-cards.pokellector.com/33/Chikorita.CL.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Chikorita.CL.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "53/95",
+      "card_number": "53",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Chikorita.CL.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fchikorita"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306132.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Chikorita+53&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-053.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chikorita+-+53%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Clefairy",
+      "title": "Clefairy - Call of Legends #54",
+      "link": "/Call-of-Legends-Expansion/Clefairy-Card-54",
+      "image": "https://den-cards.pokellector.com/33/Clefairy.CL.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Clefairy.CL.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "54/95",
+      "card_number": "54",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Clefairy.CL.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fclefairy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306133.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Clefairy+54&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Clefairy+-+54%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Cyndaquil",
+      "title": "Cyndaquil - Call of Legends #55",
+      "link": "/Call-of-Legends-Expansion/Cyndaquil-Card-55",
+      "image": "https://den-cards.pokellector.com/33/Cyndaquil.CL.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Cyndaquil.CL.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "55/95",
+      "card_number": "55",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Cyndaquil.CL.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fcyndaquil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306134.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Cyndaquil+55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cyndaquil+-+55%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-055.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Eevee",
+      "title": "Eevee - Call of Legends #56",
+      "link": "/Call-of-Legends-Expansion/Eevee-Card-56",
+      "image": "https://den-cards.pokellector.com/33/Eevee.CL.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Eevee.CL.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "56/95",
+      "card_number": "56",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Eevee.CL.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p306135.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Eevee+56&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+56%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/calloflegends-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Hitmonchan",
+      "title": "Hitmonchan - Call of Legends #57",
+      "link": "/Call-of-Legends-Expansion/Hitmonchan-Card-57",
+      "image": "https://den-cards.pokellector.com/33/Hitmonchan.CL.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Hitmonchan.CL.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "57/95",
+      "card_number": "57",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Hitmonchan.CL.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fhitmonchan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306136.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Hitmonchan+57&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonchan+-+57%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Hitmonlee",
+      "title": "Hitmonlee - Call of Legends #58",
+      "link": "/Call-of-Legends-Expansion/Hitmonlee-Card-58",
+      "image": "https://den-cards.pokellector.com/33/Hitmonlee.CL.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Hitmonlee.CL.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "58/95",
+      "card_number": "58",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Hitmonlee.CL.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fhitmonlee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306137.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Hitmonlee+58&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonlee+-+58%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-058.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Houndour",
+      "title": "Houndour - Call of Legends #59",
+      "link": "/Call-of-Legends-Expansion/Houndour-Card-59",
+      "image": "https://den-cards.pokellector.com/33/Houndour.CL.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Houndour.CL.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "59/95",
+      "card_number": "59",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Houndour.CL.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fhoundour"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306138.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Houndour+59&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndour+-+59%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Koffing",
+      "title": "Koffing - Call of Legends #60",
+      "link": "/Call-of-Legends-Expansion/Koffing-Card-60",
+      "image": "https://den-cards.pokellector.com/33/Koffing.CL.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Koffing.CL.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "60/95",
+      "card_number": "60",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Koffing.CL.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fkoffing"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306139.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Koffing+60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Koffing+-+60%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-060.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Magikarp",
+      "title": "Magikarp - Call of Legends #61",
+      "link": "/Call-of-Legends-Expansion/Magikarp-Card-61",
+      "image": "https://den-cards.pokellector.com/33/Magikarp.CL.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Magikarp.CL.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "61/95",
+      "card_number": "61",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Magikarp.CL.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmagikarp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p306140.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Magikarp+61&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magikarp+-+61%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Magmar",
+      "title": "Magmar - Call of Legends #62",
+      "link": "/Call-of-Legends-Expansion/Magmar-Card-62",
+      "image": "https://den-cards.pokellector.com/33/Magmar.CL.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Magmar.CL.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "62/95",
+      "card_number": "62",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Magmar.CL.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmagmar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306141.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Magmar+62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmar+-+62%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-062.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Mareep",
+      "title": "Mareep - Call of Legends #63",
+      "link": "/Call-of-Legends-Expansion/Mareep-Card-63",
+      "image": "https://den-cards.pokellector.com/33/Mareep.CL.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Mareep.CL.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "63/95",
+      "card_number": "63",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Mareep.CL.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmareep"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306142.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Mareep+63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mareep+-+63%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Mawile",
+      "title": "Mawile - Call of Legends #64",
+      "link": "/Call-of-Legends-Expansion/Mawile-Card-64",
+      "image": "https://den-cards.pokellector.com/33/Mawile.CL.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Mawile.CL.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "64/95",
+      "card_number": "64",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Mawile.CL.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmawile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306143.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Mawile+64&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-064.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mawile+-+64%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Misdreavus",
+      "title": "Misdreavus - Call of Legends #65",
+      "link": "/Call-of-Legends-Expansion/Misdreavus-Card-65",
+      "image": "https://den-cards.pokellector.com/33/Misdreavus.CL.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Misdreavus.CL.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "65/95",
+      "card_number": "65",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Misdreavus.CL.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmisdreavus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306144.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Misdreavus+65&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Misdreavus+-+65%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-065.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Phanpy",
+      "title": "Phanpy - Call of Legends #66",
+      "link": "/Call-of-Legends-Expansion/Phanpy-Card-66",
+      "image": "https://den-cards.pokellector.com/33/Phanpy.CL.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Phanpy.CL.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "66/95",
+      "card_number": "66",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Phanpy.CL.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fphanpy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306145.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Phanpy+66&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Phanpy+-+66%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Pidgey",
+      "title": "Pidgey - Call of Legends #67",
+      "link": "/Call-of-Legends-Expansion/Pidgey-Card-67",
+      "image": "https://den-cards.pokellector.com/33/Pidgey.CL.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Pidgey.CL.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "67/95",
+      "card_number": "67",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Pidgey.CL.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpidgey"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306146.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Pidgey+67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgey+-+67%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/33/Pidgey.CL.67.28075.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Pineco",
+      "title": "Pineco - Call of Legends #68",
+      "link": "/Call-of-Legends-Expansion/Pineco-Card-68",
+      "image": "https://den-cards.pokellector.com/33/Pineco.CL.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Pineco.CL.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "68/95",
+      "card_number": "68",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Pineco.CL.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpineco"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306147.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$88.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Pineco+68&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pineco+-+68%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-068.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Relicanth",
+      "title": "Relicanth - Call of Legends #69",
+      "link": "/Call-of-Legends-Expansion/Relicanth-Card-69",
+      "image": "https://den-cards.pokellector.com/33/Relicanth.CL.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Relicanth.CL.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "69/95",
+      "card_number": "69",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Relicanth.CL.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Frelicanth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306148.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$43.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Relicanth+69&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Relicanth+-+69%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Slowpoke",
+      "title": "Slowpoke - Call of Legends #70",
+      "link": "/Call-of-Legends-Expansion/Slowpoke-Card-70",
+      "image": "https://den-cards.pokellector.com/33/Slowpoke.CL.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Slowpoke.CL.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "70/95",
+      "card_number": "70",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Slowpoke.CL.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fslowpoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p306149.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Slowpoke+70&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowpoke+-+70%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-070.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Snubbull",
+      "title": "Snubbull - Call of Legends #71",
+      "link": "/Call-of-Legends-Expansion/Snubbull-Card-71",
+      "image": "https://den-cards.pokellector.com/33/Snubbull.CL.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Snubbull.CL.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "71/95",
+      "card_number": "71",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Snubbull.CL.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fsnubbull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306150.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Snubbull+71&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snubbull+-+71%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Tangela",
+      "title": "Tangela - Call of Legends #72",
+      "link": "/Call-of-Legends-Expansion/Tangela-Card-72",
+      "image": "https://den-cards.pokellector.com/33/Tangela.CL.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Tangela.CL.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "72/95",
+      "card_number": "72",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Tangela.CL.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ftangela"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306151.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$221.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Tangela+72&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tangela+-+72%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Teddiursa",
+      "title": "Teddiursa - Call of Legends #73",
+      "link": "/Call-of-Legends-Expansion/Teddiursa-Card-73",
+      "image": "https://den-cards.pokellector.com/33/Teddiursa.CL.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Teddiursa.CL.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "73/95",
+      "card_number": "73",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Teddiursa.CL.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fteddiursa"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306152.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Teddiursa+73&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-073.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Teddiursa+-+73%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Totodile",
+      "title": "Totodile - Call of Legends #74",
+      "link": "/Call-of-Legends-Expansion/Totodile-Card-74",
+      "image": "https://den-cards.pokellector.com/33/Totodile.CL.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Totodile.CL.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "74/95",
+      "card_number": "74",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Totodile.CL.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ftotodile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306153.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Totodile+74&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Totodile+-+74%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Vulpix",
+      "title": "Vulpix - Call of Legends #75",
+      "link": "/Call-of-Legends-Expansion/Vulpix-Card-75",
+      "image": "https://den-cards.pokellector.com/33/Vulpix.CL.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Vulpix.CL.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "75/95",
+      "card_number": "75",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Vulpix.CL.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fvulpix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306154.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Vulpix+75&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/calloflegends-075.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vulpix+-+75%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Cheerleader's Cheer",
+      "title": "Cheerleader's Cheer - Call of Legends #76",
+      "link": "/Call-of-Legends-Expansion/Cheerleaders-Cheer-Card-76",
+      "image": "https://den-cards.pokellector.com/33/Cheerleaders-Cheer.CL.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Cheerleaders-Cheer.CL.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "76/95",
+      "card_number": "76",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Cheerleaders-Cheer.CL.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fcheerleaders-cheer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306155.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Cheerleader%27s+Cheer+76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cheerleader%27s+Cheer+-+76%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/calloflegends-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Copycat",
+      "title": "Copycat - Call of Legends #77",
+      "link": "/Call-of-Legends-Expansion/Copycat-Card-77",
+      "image": "https://den-cards.pokellector.com/33/Copycat.CL.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Copycat.CL.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "77/95",
+      "card_number": "77",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Copycat.CL.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fcopycat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306156.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.32",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Copycat+77&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Copycat+-+77%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/calloflegends-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Dual Ball",
+      "title": "Dual Ball - Call of Legends #78",
+      "link": "/Call-of-Legends-Expansion/Dual-Ball-Card-78",
+      "image": "https://den-cards.pokellector.com/33/Dual-Ball.CL.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Dual-Ball.CL.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "78/95",
+      "card_number": "78",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Dual-Ball.CL.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdual-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306157.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Dual+Ball+78&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dual+Ball+-+78%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-078.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Interviewer's Questions",
+      "title": "Interviewer's Questions - Call of Legends #79",
+      "link": "/Call-of-Legends-Expansion/Interviewers-Questions-Card-79",
+      "image": "https://den-cards.pokellector.com/33/Interviewers-Questions.CL.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Interviewers-Questions.CL.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "79/95",
+      "card_number": "79",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Interviewers-Questions.CL.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Finterviewers-questions"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306158.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.86",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Interviewer%27s+Questions+79&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/calloflegends-079.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Interviewer%27s+Questions+-+79%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Lost Remover",
+      "title": "Lost Remover - Call of Legends #80",
+      "link": "/Call-of-Legends-Expansion/Lost-Remover-Card-80",
+      "image": "https://den-cards.pokellector.com/33/Lost-Remover.CL.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lost-Remover.CL.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "80/95",
+      "card_number": "80",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Lost-Remover.CL.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flost-remover"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p306159.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$48.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lost+Remover+80&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lost+Remover+-+80%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/calloflegends-080.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Lost World",
+      "title": "Lost World - Call of Legends #81",
+      "link": "/Call-of-Legends-Expansion/Lost-World-Card-81",
+      "image": "https://den-cards.pokellector.com/33/Lost-World.CL.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lost-World.CL.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "81/95",
+      "card_number": "81",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Lost-World.CL.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flost-world"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p306160.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lost+World+81&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lost+World+-+81%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/calloflegends-081.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Professor Elm's Training Method",
+      "title": "Professor Elm's Training Method - Call of Legends #82",
+      "link": "/Call-of-Legends-Expansion/Professor-Elms-Training-Method-Card-82",
+      "image": "https://den-cards.pokellector.com/33/Professor-Elms-Training-Method.CL.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Professor-Elms-Training-Method.CL.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "82/95",
+      "card_number": "82",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Professor-Elms-Training-Method.CL.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fprofessor-elms-training-method"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306161.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.11",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Professor+Elm%27s+Training+Method+82&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Professor+Elm%27s+Training+Method+-+82%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/calloflegends-082.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Professor Oak's New Theory",
+      "title": "Professor Oak's New Theory - Call of Legends #83",
+      "link": "/Call-of-Legends-Expansion/Professor-Oaks-New-Theory-Card-83",
+      "image": "https://den-cards.pokellector.com/33/Professor-Oaks-New-Theory.CL.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Professor-Oaks-New-Theory.CL.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "83/95",
+      "card_number": "83",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Professor-Oaks-New-Theory.CL.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fprofessor-oaks-new-theory"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.77",
+          "link": "http://www.trollandtoad.com/p306162.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Professor+Oak%27s+New+Theory+83&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Professor+Oak%27s+New+Theory+-+83%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/calloflegends-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/33/Professor-Oaks-New-Theory.CL.83.28091.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Research Record",
+      "title": "Research Record - Call of Legends #84",
+      "link": "/Call-of-Legends-Expansion/Research-Record-Card-84",
+      "image": "https://den-cards.pokellector.com/33/Research-Record.CL.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Research-Record.CL.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "84/95",
+      "card_number": "84",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Research-Record.CL.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fresearch-record"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306163.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Research+Record+84&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Research+Record+-+84%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/calloflegends-084.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Sage's Training",
+      "title": "Sage's Training - Call of Legends #85",
+      "link": "/Call-of-Legends-Expansion/Sages-Training-Card-85",
+      "image": "https://den-cards.pokellector.com/33/Sages-Training.CL.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Sages-Training.CL.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "85/95",
+      "card_number": "85",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Sages-Training.CL.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fsages-training"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p306164.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Sage%27s+Training+85&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sage%27s+Training+-+85%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/calloflegends-085.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - Call of Legends #86",
+      "link": "/Call-of-Legends-Expansion/Darkness-Energy-Card-86",
+      "image": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "86/95",
+      "card_number": "86",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdarkness-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p306165.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Darkness+Energy+86&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Special+Darkness+Energy+-+86%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/calloflegends-086.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Metal Energy",
+      "title": "Metal Energy - Call of Legends #87",
+      "link": "/Call-of-Legends-Expansion/Metal-Energy-Card-87",
+      "image": "https://den-cards.pokellector.com/33/Metal-Energy.CL.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Metal-Energy.CL.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "87/95",
+      "card_number": "87",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Metal-Energy.CL.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmetal-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p306166.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Metal+Energy+87&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Special+Metal+Energy+-+87%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/calloflegends-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Grass Energy",
+      "title": "Grass Energy - Call of Legends #88",
+      "link": "/Call-of-Legends-Expansion/Grass-Energy-Card-88",
+      "image": "https://den-cards.pokellector.com/33/Grass-Energy.CL.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Grass-Energy.CL.88.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "88/95",
+      "card_number": "88",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Grass-Energy.CL.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$88.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fgrass-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$33.39",
+          "link": "http://www.trollandtoad.com/p306167.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$36.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Grass+Energy+88&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-088.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grass+Energy+-+88%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Fire Energy",
+      "title": "Fire Energy - Call of Legends #89",
+      "link": "/Call-of-Legends-Expansion/Fire-Energy-Card-89",
+      "image": "https://den-cards.pokellector.com/33/Fire-Energy.CL.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Fire-Energy.CL.89.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "89/95",
+      "card_number": "89",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Fire-Energy.CL.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ffire-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p306168.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.86",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Fire+Energy+89&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-089.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fire+Energy+-+89%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Water Energy",
+      "title": "Water Energy - Call of Legends #90",
+      "link": "/Call-of-Legends-Expansion/Water-Energy-Card-90",
+      "image": "https://den-cards.pokellector.com/33/Water-Energy.CL.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Water-Energy.CL.90.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "90/95",
+      "card_number": "90",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Water-Energy.CL.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$98.72",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fwater-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$65.99",
+          "link": "http://www.trollandtoad.com/p306169.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Water+Energy+90&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-090.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Water+Energy+-+90%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Lightning Energy",
+      "title": "Lightning Energy - Call of Legends #91",
+      "link": "/Call-of-Legends-Expansion/Lightning-Energy-Card-91",
+      "image": "https://den-cards.pokellector.com/33/Lightning-Energy.CL.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lightning-Energy.CL.91.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "91/95",
+      "card_number": "91",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Lightning-Energy.CL.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flightning-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$34.99",
+          "link": "http://www.trollandtoad.com/p306170.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lightning+Energy+91&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lightning+Energy+-+91%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-091.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Psychic Energy",
+      "title": "Psychic Energy - Call of Legends #92",
+      "link": "/Call-of-Legends-Expansion/Psychic-Energy-Card-92",
+      "image": "https://den-cards.pokellector.com/33/Psychic-Energy.CL.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Psychic-Energy.CL.92.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "92/95",
+      "card_number": "92",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Psychic-Energy.CL.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$89.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpsychic-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$63.89",
+          "link": "http://www.trollandtoad.com/p306171.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Psychic+Energy+92&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$14.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Psychic+Energy+-+92%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/calloflegends-092.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Fighting Energy",
+      "title": "Fighting Energy - Call of Legends #93",
+      "link": "/Call-of-Legends-Expansion/Fighting-Energy-Card-93",
+      "image": "https://den-cards.pokellector.com/33/Fighting-Energy.CL.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Fighting-Energy.CL.93.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "93/95",
+      "card_number": "93",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Fighting-Energy.CL.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$68.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Ffighting-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.59",
+          "link": "http://www.trollandtoad.com/p306172.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Fighting+Energy+93&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fighting+Energy+-+93%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-093.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "94": {
+      "number": "94",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - Call of Legends #94",
+      "link": "/Call-of-Legends-Expansion/Darkness-Energy-Card-94",
+      "image": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.94.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "94/95",
+      "card_number": "94",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Darkness-Energy.CL.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$69.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdarkness-energy-basic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$94.99",
+          "link": "http://www.trollandtoad.com/p306173.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Darkness+Energy+94&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkness+Energy+-+94%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-094.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Metal Energy",
+      "title": "Metal Energy - Call of Legends #95",
+      "link": "/Call-of-Legends-Expansion/Metal-Energy-Card-95",
+      "image": "https://den-cards.pokellector.com/33/Metal-Energy.CL.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Metal-Energy.CL.95.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "95/95",
+      "card_number": "95",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/33/Metal-Energy.CL.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$48.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fmetal-energy-basic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$20.49",
+          "link": "http://www.trollandtoad.com/p306174.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$32.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Metal+Energy+95&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metal+Energy+-+95%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-095.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "SL1": {
+      "number": "SL1",
+      "name": "Deoxys",
+      "title": "Deoxys - Call of Legends #1",
+      "link": "/Call-of-Legends-Expansion/Deoxys-Card-SL1",
+      "image": "https://den-cards.pokellector.com/33/Deoxys.CL.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Deoxys.CL.1.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL1",
+      "image_full": "https://den-cards.pokellector.com/33/Deoxys.CL.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$132.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdeoxys-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p306175.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$116.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Deoxys+SL1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Deoxys+-+SL1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-001.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL2": {
+      "number": "SL2",
+      "name": "Dialga",
+      "title": "Dialga - Call of Legends #2",
+      "link": "/Call-of-Legends-Expansion/Dialga-Card-SL2",
+      "image": "https://den-cards.pokellector.com/33/Dialga.CL.SL2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Dialga.CL.SL2.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL2",
+      "image_full": "https://den-cards.pokellector.com/33/Dialga.CL.SL2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$98.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fdialga-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.49",
+          "link": "http://www.trollandtoad.com/p306176.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$123.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Dialga+SL2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+-+SL2"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/calloflegends-002.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL3": {
+      "number": "SL3",
+      "name": "Entei",
+      "title": "Entei - Call of Legends #3",
+      "link": "/Call-of-Legends-Expansion/Entei-Card-SL3",
+      "image": "https://den-cards.pokellector.com/33/Entei.CL.SL3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Entei.CL.SL3.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL3",
+      "image_full": "https://den-cards.pokellector.com/33/Entei.CL.SL3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fentei-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.49",
+          "link": "http://www.trollandtoad.com/p306177.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$94.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Entei+SL3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Entei+-+SL3"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-003.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL4": {
+      "number": "SL4",
+      "name": "Groudon",
+      "title": "Groudon - Call of Legends #4",
+      "link": "/Call-of-Legends-Expansion/Groudon-Card-SL4",
+      "image": "https://den-cards.pokellector.com/33/Groudon.CL.SL4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Groudon.CL.SL4.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL4",
+      "image_full": "https://den-cards.pokellector.com/33/Groudon.CL.SL4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$365.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fgroudon-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.99",
+          "link": "http://www.trollandtoad.com/p306178.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$199.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Groudon+SL4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+-+SL4"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/calloflegends-004.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL5": {
+      "number": "SL5",
+      "name": "Ho-Oh",
+      "title": "Ho-Oh - Call of Legends #5",
+      "link": "/Call-of-Legends-Expansion/Ho-Oh-Card-SL5",
+      "image": "https://den-cards.pokellector.com/33/Ho-Oh.CL.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Ho-Oh.CL.5.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL5",
+      "image_full": "https://den-cards.pokellector.com/33/Ho-Oh.CL.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$300.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fho-oh-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$47.99",
+          "link": "http://www.trollandtoad.com/p306179.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$59.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Ho-Oh+SL5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$23.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ho-Oh+-+SL5"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-005.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL6": {
+      "number": "SL6",
+      "name": "Kyogre",
+      "title": "Kyogre - Call of Legends #6",
+      "link": "/Call-of-Legends-Expansion/Kyogre-Card-SL6",
+      "image": "https://den-cards.pokellector.com/33/Kyogre.CL.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Kyogre.CL.6.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL6",
+      "image_full": "https://den-cards.pokellector.com/33/Kyogre.CL.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$300.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fkyogre-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.99",
+          "link": "http://www.trollandtoad.com/p306180.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$147.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Kyogre+SL6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+-+SL6"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/calloflegends-006.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL7": {
+      "number": "SL7",
+      "name": "Lugia",
+      "title": "Lugia - Call of Legends #7",
+      "link": "/Call-of-Legends-Expansion/Lugia-Card-SL7",
+      "image": "https://den-cards.pokellector.com/33/Lugia.CL.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Lugia.CL.7.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL7",
+      "image_full": "https://den-cards.pokellector.com/33/Lugia.CL.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$198.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Flugia-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$55.99",
+          "link": "http://www.trollandtoad.com/p306181.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$340.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Lugia+SL7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/calloflegends-007.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lugia+-+SL7"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL8": {
+      "number": "SL8",
+      "name": "Palkia",
+      "title": "Palkia - Call of Legends #8",
+      "link": "/Call-of-Legends-Expansion/Palkia-Card-SL8",
+      "image": "https://den-cards.pokellector.com/33/Palkia.CL.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Palkia.CL.8.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL8",
+      "image_full": "https://den-cards.pokellector.com/33/Palkia.CL.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$120.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fpalkia-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.99",
+          "link": "http://www.trollandtoad.com/p306182.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$100.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Palkia+SL8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Palkia+-+SL8"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-008.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL9": {
+      "number": "SL9",
+      "name": "Raikou",
+      "title": "Raikou - Call of Legends #9",
+      "link": "/Call-of-Legends-Expansion/Raikou-Card-SL9",
+      "image": "https://den-cards.pokellector.com/33/Raikou.CL.SL9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Raikou.CL.SL9.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL9",
+      "image_full": "https://den-cards.pokellector.com/33/Raikou.CL.SL9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fraikou-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.49",
+          "link": "http://www.trollandtoad.com/p306183.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$99.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Raikou+SL9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/calloflegends-009.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raikou+-+SL9"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL10": {
+      "number": "SL10",
+      "name": "Rayquaza",
+      "title": "Rayquaza - Call of Legends #10",
+      "link": "/Call-of-Legends-Expansion/Rayquaza-Card-SL10",
+      "image": "https://den-cards.pokellector.com/33/Rayquaza.CL.SL10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Rayquaza.CL.SL10.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL10",
+      "image_full": "https://den-cards.pokellector.com/33/Rayquaza.CL.SL10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$499.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Frayquaza-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$22.49",
+          "link": "http://www.trollandtoad.com/p306184.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$224.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Rayquaza+SL10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$16.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+-+SL10"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/calloflegends-010.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SL11": {
+      "number": "SL11",
+      "name": "Suicune",
+      "title": "Suicune - Call of Legends #11",
+      "link": "/Call-of-Legends-Expansion/Suicune-Card-SL11",
+      "image": "https://den-cards.pokellector.com/33/Suicune.CL.SL11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/33/Suicune.CL.SL11.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Call of Legends",
+      "set_link": "/Call-of-Legends-Expansion/",
+      "position": "SL11",
+      "image_full": "https://den-cards.pokellector.com/33/Suicune.CL.SL11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$110.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcall-of-legends%2Fsuicune-shiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p306185.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$80.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Call+of+Legends+Suicune+SL11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/calloflegends-011.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Suicune+-+SL11"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:46:53"
+}

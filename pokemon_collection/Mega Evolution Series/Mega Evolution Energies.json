@@ -1,0 +1,202 @@
+{
+  "title": "Mega Evolution Energies Set",
+  "link": "/Mega-Evolution-Energies-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Mega-Evolution-Energies.logo.436.png",
+  "symbol": "https://den-media.pokellector.com/logos/Mega-Evolution-Energies.symbol.436.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Basic Grass Energy",
+      "title": "Basic Grass Energy - Mega Evolution Energies #1",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Grass-Energy-Card-1",
+      "image": "https://den-cards.pokellector.com/436/Basic-Grass-Energy.MEE.1.61706.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Grass-Energy.MEE.1.61706.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "1/8",
+      "card_number": "1",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Grass-Energy.MEE.1.61706.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656263%2Fpokemon-mee-mega-evolution-energies-basic-grass-energy-001"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Basic Fire Energy",
+      "title": "Basic Fire Energy - Mega Evolution Energies #2",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Fire-Energy-Card-2",
+      "image": "https://den-cards.pokellector.com/436/Basic-Fire-Energy.MEE.1.61707.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Fire-Energy.MEE.1.61707.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "2/8",
+      "card_number": "2",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Fire-Energy.MEE.1.61707.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656264%2Fpokemon-mee-mega-evolution-energies-basic-fire-energy-002"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Basic Water Energy",
+      "title": "Basic Water Energy - Mega Evolution Energies #3",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Water-Energy-Card-3",
+      "image": "https://den-cards.pokellector.com/436/Basic-Water-Energy.MEE.3.61708.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Water-Energy.MEE.3.61708.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "3/8",
+      "card_number": "3",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Water-Energy.MEE.3.61708.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656265%2Fpokemon-mee-mega-evolution-energies-basic-water-energy-003"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Basic Electric Energy",
+      "title": "Basic Electric Energy - Mega Evolution Energies #4",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Electric-Energy-Card-4",
+      "image": "https://den-cards.pokellector.com/436/Basic-Electric-Energy.MEE.4.61709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Electric-Energy.MEE.4.61709.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "4/8",
+      "card_number": "4",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Electric-Energy.MEE.4.61709.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656266%2Fpokemon-mee-mega-evolution-energies-basic-lightning-energy-004"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Basic Psychic Energy",
+      "title": "Basic Psychic Energy - Mega Evolution Energies #5",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Psychic-Energy-Card-5",
+      "image": "https://den-cards.pokellector.com/436/Basic-Psychic-Energy.MEE.5.61710.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Psychic-Energy.MEE.5.61710.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "5/8",
+      "card_number": "5",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Psychic-Energy.MEE.5.61710.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656267%2Fpokemon-mee-mega-evolution-energies-basic-psychic-energy-005"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Basic Fighting Energy",
+      "title": "Basic Fighting Energy - Mega Evolution Energies #6",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Fighting-Energy-Card-6",
+      "image": "https://den-cards.pokellector.com/436/Basic-Fighting-Energy.MEE.6.61711.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Fighting-Energy.MEE.6.61711.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "6/8",
+      "card_number": "6",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Fighting-Energy.MEE.6.61711.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656268%2Fpokemon-mee-mega-evolution-energies-basic-fighting-energy-006"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Basic Dark Energy",
+      "title": "Basic Dark Energy - Mega Evolution Energies #7",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Dark-Energy-Card-7",
+      "image": "https://den-cards.pokellector.com/436/Basic-Dark-Energy.MEE.7.61712.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Dark-Energy.MEE.7.61712.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "7/8",
+      "card_number": "7",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Dark-Energy.MEE.7.61712.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656269%2Fpokemon-mee-mega-evolution-energies-basic-darkness-energy-007"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Basic Steel Energy",
+      "title": "Basic Steel Energy - Mega Evolution Energies #8",
+      "link": "/Mega-Evolution-Energies-Expansion/Basic-Steel-Energy-Card-8",
+      "image": "https://den-cards.pokellector.com/436/Basic-Steel-Energy.MEE.8.61713.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/436/Basic-Steel-Energy.MEE.8.61713.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Mega Evolution Energies",
+      "set_link": "/Mega-Evolution-Energies-Expansion/",
+      "position": "8/8",
+      "card_number": "8",
+      "total_cards": "8",
+      "image_full": "https://den-cards.pokellector.com/436/Basic-Steel-Energy.MEE.8.61713.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F656270%2Fpokemon-mee-mega-evolution-energies-basic-metal-energy-008"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-07-08 20:22:04"
+}

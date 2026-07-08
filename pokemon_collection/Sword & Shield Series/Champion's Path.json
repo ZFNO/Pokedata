@@ -1,0 +1,3308 @@
+{
+  "title": "Champion's Path Set",
+  "link": "/Champions-Path-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Champions-Path.logo.298.png",
+  "symbol": "https://den-media.pokellector.com/logos/Champions-Path.symbol.298.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Venusaur V",
+      "title": "Venusaur V - Champion's Path #1",
+      "link": "/Champions-Path-Expansion/Venusaur-V-Card-1",
+      "image": "https://den-cards.pokellector.com/298/Venusaur-V.SWSH3.1.35700.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Venusaur-V.SWSH3.1.35700.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "1/73",
+      "card_number": "1",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Venusaur-V.SWSH3.1.35700.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fvenusaur-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Venusaur+V+Champion%27s+Path+1+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Venusaur-V-CPA1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Weedle",
+      "title": "Weedle - Champion's Path #2",
+      "link": "/Champions-Path-Expansion/Weedle-Card-2",
+      "image": "https://den-cards.pokellector.com/298/Weedle.SWSH3.2.35701.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Weedle.SWSH3.2.35701.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "2/73",
+      "card_number": "2",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Weedle.SWSH3.2.35701.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fweedle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Weedle+Champion%27s+Path+2+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Weedle-CPA2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Weedle.SWSH3.2.35797.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Kakuna",
+      "title": "Kakuna - Champion's Path #3",
+      "link": "/Champions-Path-Expansion/Kakuna-Card-3",
+      "image": "https://den-cards.pokellector.com/298/Kakuna.SWSH3.3.35702.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Kakuna.SWSH3.3.35702.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "3/73",
+      "card_number": "3",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Kakuna.SWSH3.3.35702.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fkakuna"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kakuna+Champion%27s+Path+3+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kakuna-CPA3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Kakuna.SWSH3.3.35798.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Beedrill",
+      "title": "Beedrill - Champion's Path #4",
+      "link": "/Champions-Path-Expansion/Beedrill-Card-4",
+      "image": "https://den-cards.pokellector.com/298/Beedrill.SWSH3.4.35703.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Beedrill.SWSH3.4.35703.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "4/73",
+      "card_number": "4",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Beedrill.SWSH3.4.35703.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fbeedrill"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Beedrill+Champion%27s+Path+4+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Beedrill-CPA4?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Beedrill.SWSH3.4.35799.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Eldegoss V",
+      "title": "Eldegoss V - Champion's Path #5",
+      "link": "/Champions-Path-Expansion/Eldegoss-V-Card-5",
+      "image": "https://den-cards.pokellector.com/298/Eldegoss-V.SWSH3.5.35704.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Eldegoss-V.SWSH3.5.35704.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "5/73",
+      "card_number": "5",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Eldegoss-V.SWSH3.5.35704.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Feldegoss-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.23",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eldegoss+V+Champion%27s+Path+5+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Eldegoss-V-CPA5?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Vulpix",
+      "title": "Vulpix - Champion's Path #6",
+      "link": "/Champions-Path-Expansion/Vulpix-Card-6",
+      "image": "https://den-cards.pokellector.com/298/Vulpix.SWSH3.6.35705.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Vulpix.SWSH3.6.35705.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "6/73",
+      "card_number": "6",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Vulpix.SWSH3.6.35705.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fvulpix"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vulpix+Champion%27s+Path+6+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Vulpix-CPA6?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Vulpix.SWSH3.6.35800.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Victini",
+      "title": "Victini - Champion's Path #7",
+      "link": "/Champions-Path-Expansion/Victini-Card-7",
+      "image": "https://den-cards.pokellector.com/298/Victini.SWSH3.7.35706.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Victini.SWSH3.7.35706.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "7/73",
+      "card_number": "7",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Victini.SWSH3.7.35706.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fvictini"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Victini+Champion%27s+Path+7+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Victini-CPA7?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Victini.SWSH3.7.35801.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Incineroar V",
+      "title": "Incineroar V - Champion's Path #8",
+      "link": "/Champions-Path-Expansion/Incineroar-V-Card-8",
+      "image": "https://den-cards.pokellector.com/298/Incineroar-V.SWSH3.8.35707.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Incineroar-V.SWSH3.8.35707.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "8/73",
+      "card_number": "8",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Incineroar-V.SWSH3.8.35707.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fincineroar-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Incineroar+V+Champion%27s+Path+8+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Incineroar-V-CPA8?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Sizzlipede",
+      "title": "Sizzlipede - Champion's Path #9",
+      "link": "/Champions-Path-Expansion/Sizzlipede-Card-9",
+      "image": "https://den-cards.pokellector.com/298/Sizzlipede.SWSH3.9.35708.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Sizzlipede.SWSH3.9.35708.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "9/73",
+      "card_number": "9",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Sizzlipede.SWSH3.9.35708.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fsizzlipede"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sizzlipede+Champion%27s+Path+9+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sizzlipede-CPA9?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Sizzlipede.SWSH3.9.35802.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Centiskorch",
+      "title": "Centiskorch - Champion's Path #10",
+      "link": "/Champions-Path-Expansion/Centiskorch-Card-10",
+      "image": "https://den-cards.pokellector.com/298/Centiskorch.SWSH3.10.35709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Centiskorch.SWSH3.10.35709.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "10/73",
+      "card_number": "10",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Centiskorch.SWSH3.10.35709.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fcentiskorch"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Centiskorch+Champion%27s+Path+10+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Centiskorch-CPA10?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Centiskorch.SWSH3.10.35803.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Carvanha",
+      "title": "Carvanha - Champion's Path #11",
+      "link": "/Champions-Path-Expansion/Carvanha-Card-11",
+      "image": "https://den-cards.pokellector.com/298/Carvanha.SWSH3.11.35710.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Carvanha.SWSH3.11.35710.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "11/73",
+      "card_number": "11",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Carvanha.SWSH3.11.35710.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fcarvanha"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Carvanha+Champion%27s+Path+11+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Carvanha-CPA11?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Carvanha.SWSH3.11.35804.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Sharpedo",
+      "title": "Sharpedo - Champion's Path #12",
+      "link": "/Champions-Path-Expansion/Sharpedo-Card-12",
+      "image": "https://den-cards.pokellector.com/298/Sharpedo.SWSH3.12.35711.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Sharpedo.SWSH3.12.35711.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "12/73",
+      "card_number": "12",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Sharpedo.SWSH3.12.35711.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fsharpedo"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sharpedo+Champion%27s+Path+12+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sharpedo-CPA12?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Sharpedo.SWSH3.12.35805.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Wailord V",
+      "title": "Wailord V - Champion's Path #13",
+      "link": "/Champions-Path-Expansion/Wailord-V-Card-13",
+      "image": "https://den-cards.pokellector.com/298/Wailord-V.SWSH3.13.35712.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Wailord-V.SWSH3.13.35712.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "13/73",
+      "card_number": "13",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Wailord-V.SWSH3.13.35712.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fwailord-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Wailord+V+Champion%27s+Path+13+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.95",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Wailord-V-CPA13?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Drednaw V",
+      "title": "Drednaw V - Champion's Path #14",
+      "link": "/Champions-Path-Expansion/Drednaw-V-Card-14",
+      "image": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.14.35713.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.14.35713.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "14/73",
+      "card_number": "14",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.14.35713.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fdrednaw-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drednaw+V+Champion%27s+Path+14+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-V-V1-CPA14?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Drednaw VMAX",
+      "title": "Drednaw VMAX - Champion's Path #15",
+      "link": "/Champions-Path-Expansion/Drednaw-VMAX-Card-15",
+      "image": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.15.35714.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.15.35714.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "15/73",
+      "card_number": "15",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.15.35714.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fdrednaw-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drednaw+VMAX+Champion%27s+Path+15+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.60",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-VMAX-V1-CPA15?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Gardevoir V",
+      "title": "Gardevoir V - Champion's Path #16",
+      "link": "/Champions-Path-Expansion/Gardevoir-V-Card-16",
+      "image": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.16.35715.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.16.35715.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "16/73",
+      "card_number": "16",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.16.35715.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgardevoir-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gardevoir+V+Champion%27s+Path+16+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.75",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-V-V1-CPA16?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Gardevoir VMAX",
+      "title": "Gardevoir VMAX - Champion's Path #17",
+      "link": "/Champions-Path-Expansion/Gardevoir-VMAX-Card-17",
+      "image": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.17.35716.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.17.35716.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "17/73",
+      "card_number": "17",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.17.35716.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgardevoir-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gardevoir+VMAX+Champion%27s+Path+17+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.75",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-VMAX-V1-CPA17?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Hatenna",
+      "title": "Hatenna - Champion's Path #18",
+      "link": "/Champions-Path-Expansion/Hatenna-Card-18",
+      "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "18/73",
+      "card_number": "18",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhatenna"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hatenna+Champion%27s+Path+18+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hatenna-CPA18?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35806.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.44936.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Hattrem",
+      "title": "Hattrem - Champion's Path #19",
+      "link": "/Champions-Path-Expansion/Hattrem-Card-19",
+      "image": "https://den-cards.pokellector.com/298/Hattrem.SWSH3.19.35718.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hattrem.SWSH3.19.35718.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "19/73",
+      "card_number": "19",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hattrem.SWSH3.19.35718.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhattrem"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hattrem+Champion%27s+Path+19+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hattrem-CPA19?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hattrem.SWSH3.19.35807.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Hatterene",
+      "title": "Hatterene - Champion's Path #20",
+      "link": "/Champions-Path-Expansion/Hatterene-Card-20",
+      "image": "https://den-cards.pokellector.com/298/Hatterene.SWSH3.20.35719.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hatterene.SWSH3.20.35719.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "20/73",
+      "card_number": "20",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hatterene.SWSH3.20.35719.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhatterene"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hatterene+Champion%27s+Path+20+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hatterene-CPA20?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hatterene.SWSH3.20.35808.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Galarian Cursola V",
+      "title": "Galarian Cursola V - Champion's Path #21",
+      "link": "/Champions-Path-Expansion/Galarian-Cursola-V-Card-21",
+      "image": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.21.35720.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.21.35720.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "21/73",
+      "card_number": "21",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.21.35720.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgalarian-cursola-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Cursola+V+Champion%27s+Path+21+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Cursola-V-V1-CPA21?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Alcremie V",
+      "title": "Alcremie V - Champion's Path #22",
+      "link": "/Champions-Path-Expansion/Alcremie-V-Card-22",
+      "image": "https://den-cards.pokellector.com/298/Alcremie-V.SWSH3.22.35721.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Alcremie-V.SWSH3.22.35721.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "22/73",
+      "card_number": "22",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Alcremie-V.SWSH3.22.35721.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Falcremie-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Alcremie+V+Champion%27s+Path+22+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Alcremie-V-CPA22?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Alcremie VMAX",
+      "title": "Alcremie VMAX - Champion's Path #23",
+      "link": "/Champions-Path-Expansion/Alcremie-VMAX-Card-23",
+      "image": "https://den-cards.pokellector.com/298/Alcremie-VMAX.SWSH3.23.35722.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Alcremie-VMAX.SWSH3.23.35722.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "23/73",
+      "card_number": "23",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Alcremie-VMAX.SWSH3.23.35722.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Falcremie-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Alcremie+VMAX+Champion%27s+Path+23+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Alcremie-VMAX-CPA23?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Machop",
+      "title": "Machop - Champion's Path #24",
+      "link": "/Champions-Path-Expansion/Machop-Card-24",
+      "image": "https://den-cards.pokellector.com/298/Machop.SWSH3.24.35723.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Machop.SWSH3.24.35723.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "24/73",
+      "card_number": "24",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Machop.SWSH3.24.35723.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmachop"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Machop+Champion%27s+Path+24+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machop-CPA24?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Machop.SWSH3.24.35809.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Machoke",
+      "title": "Machoke - Champion's Path #25",
+      "link": "/Champions-Path-Expansion/Machoke-Card-25",
+      "image": "https://den-cards.pokellector.com/298/Machoke.SWSH3.25.35724.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Machoke.SWSH3.25.35724.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "25/73",
+      "card_number": "25",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Machoke.SWSH3.25.35724.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmachoke"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Machoke+Champion%27s+Path+25+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machoke-CPA25?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Machoke.SWSH3.25.35810.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Machamp",
+      "title": "Machamp - Champion's Path #26",
+      "link": "/Champions-Path-Expansion/Machamp-Card-26",
+      "image": "https://den-cards.pokellector.com/298/Machamp.SWSH3.26.35725.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Machamp.SWSH3.26.35725.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "26/73",
+      "card_number": "26",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Machamp.SWSH3.26.35725.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmachamp"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Machamp+Champion%27s+Path+26+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machamp-CPA26?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Machamp.SWSH3.26.35811.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Lucario V",
+      "title": "Lucario V - Champion's Path #27",
+      "link": "/Champions-Path-Expansion/Lucario-V-Card-27",
+      "image": "https://den-cards.pokellector.com/298/Lucario-V.SWSH3.27.35726.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Lucario-V.SWSH3.27.35726.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "27/73",
+      "card_number": "27",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Lucario-V.SWSH3.27.35726.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Flucario-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lucario+V+Champion%27s+Path+27+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Lucario-V-CPA27?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Zygarde",
+      "title": "Zygarde - Champion's Path #28",
+      "link": "/Champions-Path-Expansion/Zygarde-Card-28",
+      "image": "https://den-cards.pokellector.com/298/Zygarde.SWSH3.28.35727.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Zygarde.SWSH3.28.35727.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "28/73",
+      "card_number": "28",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Zygarde.SWSH3.28.35727.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fzygarde"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zygarde+Champion%27s+Path+28+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Zygarde-CPA28?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Zygarde.SWSH3.28.35812.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Rockruff",
+      "title": "Rockruff - Champion's Path #29",
+      "link": "/Champions-Path-Expansion/Rockruff-Card-29",
+      "image": "https://den-cards.pokellector.com/298/Rockruff.SWSH3.29.35728.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Rockruff.SWSH3.29.35728.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "29/73",
+      "card_number": "29",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Rockruff.SWSH3.29.35728.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Frockruff"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rockruff+Champion%27s+Path+29+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rockruff-CPA29?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Rockruff.SWSH3.29.35813.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Lycanroc",
+      "title": "Lycanroc - Champion's Path #30",
+      "link": "/Champions-Path-Expansion/Lycanroc-Card-30",
+      "image": "https://den-cards.pokellector.com/298/Lycanroc.SWSH3.30.35729.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Lycanroc.SWSH3.30.35729.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "30/73",
+      "card_number": "30",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Lycanroc.SWSH3.30.35729.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Flycanroc"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lycanroc+Champion%27s+Path+30+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Lycanroc-CPA30?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Lycanroc.SWSH3.30.35814.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Rolycoly",
+      "title": "Rolycoly - Champion's Path #31",
+      "link": "/Champions-Path-Expansion/Rolycoly-Card-31",
+      "image": "https://den-cards.pokellector.com/298/Rolycoly.SWSH3.31.35730.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Rolycoly.SWSH3.31.35730.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "31/73",
+      "card_number": "31",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Rolycoly.SWSH3.31.35730.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Frolycoly"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rolycoly+Champion%27s+Path+31+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rolycoly-CPA31?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Rolycoly.SWSH3.31.35815.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Grapploct V",
+      "title": "Grapploct V - Champion's Path #32",
+      "link": "/Champions-Path-Expansion/Grapploct-V-Card-32",
+      "image": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.32.35731.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.32.35731.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "32/73",
+      "card_number": "32",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.32.35731.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgrapploct-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grapploct+V+Champion%27s+Path+32+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.70",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Grapploct-V-V1-CPA32?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "33": {
+      "number": "33",
+      "name": "Ekans",
+      "title": "Ekans - Champion's Path #33",
+      "link": "/Champions-Path-Expansion/Ekans-Card-33",
+      "image": "https://den-cards.pokellector.com/298/Ekans.SWSH3.33.35732.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Ekans.SWSH3.33.35732.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "33/73",
+      "card_number": "33",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Ekans.SWSH3.33.35732.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fekans"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ekans+Champion%27s+Path+33+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Ekans-CPA33?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Ekans.SWSH3.33.35816.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Arbok",
+      "title": "Arbok - Champion's Path #34",
+      "link": "/Champions-Path-Expansion/Arbok-Card-34",
+      "image": "https://den-cards.pokellector.com/298/Arbok.SWSH3.34.35733.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Arbok.SWSH3.34.35733.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "34/73",
+      "card_number": "34",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Arbok.SWSH3.34.35733.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Farbok"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arbok+Champion%27s+Path+34+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Arbok-CPA34?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Arbok.SWSH3.34.35817.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Galarian Zigzagoon",
+      "title": "Galarian Zigzagoon - Champion's Path #35",
+      "link": "/Champions-Path-Expansion/Galarian-Zigzagoon-Card-35",
+      "image": "https://den-cards.pokellector.com/298/Galarian-Zigzagoon.SWSH3.35.35734.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Galarian-Zigzagoon.SWSH3.35.35734.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "35/73",
+      "card_number": "35",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Galarian-Zigzagoon.SWSH3.35.35734.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgalarian-zigzagoon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Zigzagoon+Champion%27s+Path+35+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Zigzagoon-CPA35?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Galarian-Zigzagoon.SWSH3.35.35818.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Galarian Linoone",
+      "title": "Galarian Linoone - Champion's Path #36",
+      "link": "/Champions-Path-Expansion/Galarian-Linoone-Card-36",
+      "image": "https://den-cards.pokellector.com/298/Galarian-Linoone.SWSH3.36.35735.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Galarian-Linoone.SWSH3.36.35735.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "36/73",
+      "card_number": "36",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Galarian-Linoone.SWSH3.36.35735.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgalarian-linoone"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Linoone+Champion%27s+Path+36+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Linoone-CPA36?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Galarian-Linoone.SWSH3.36.35819.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Galarian Obstagoon",
+      "title": "Galarian Obstagoon - Champion's Path #37",
+      "link": "/Champions-Path-Expansion/Galarian-Obstagoon-Card-37",
+      "image": "https://den-cards.pokellector.com/298/Galarian-Obstagoon.SWSH3.37.35736.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Galarian-Obstagoon.SWSH3.37.35736.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "37/73",
+      "card_number": "37",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Galarian-Obstagoon.SWSH3.37.35736.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgalarian-obstagoon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Obstagoon+Champion%27s+Path+37+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Obstagoon-CPA37?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Galarian-Obstagoon.SWSH3.37.35820.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Absol",
+      "title": "Absol - Champion's Path #38",
+      "link": "/Champions-Path-Expansion/Absol-Card-38",
+      "image": "https://den-cards.pokellector.com/298/Absol.SWSH3.38.35737.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Absol.SWSH3.38.35737.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "38/73",
+      "card_number": "38",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Absol.SWSH3.38.35737.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fabsol"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Absol+Champion%27s+Path+38+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Absol-CPA38?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Absol.SWSH3.38.35821.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Purrloin",
+      "title": "Purrloin - Champion's Path #39",
+      "link": "/Champions-Path-Expansion/Purrloin-Card-39",
+      "image": "https://den-cards.pokellector.com/298/Purrloin.SWSH3.39.35738.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Purrloin.SWSH3.39.35738.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "39/73",
+      "card_number": "39",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Purrloin.SWSH3.39.35738.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpurrloin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Purrloin+Champion%27s+Path+39+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Purrloin-CPA39?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Purrloin.SWSH3.39.35822.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Liepard",
+      "title": "Liepard - Champion's Path #40",
+      "link": "/Champions-Path-Expansion/Liepard-Card-40",
+      "image": "https://den-cards.pokellector.com/298/Liepard.SWSH3.40.35739.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Liepard.SWSH3.40.35739.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "40/73",
+      "card_number": "40",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Liepard.SWSH3.40.35739.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fliepard"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Liepard+Champion%27s+Path+40+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Liepard-CPA40?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Liepard.SWSH3.40.35823.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Scraggy",
+      "title": "Scraggy - Champion's Path #41",
+      "link": "/Champions-Path-Expansion/Scraggy-Card-41",
+      "image": "https://den-cards.pokellector.com/298/Scraggy.SWSH3.41.35740.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Scraggy.SWSH3.41.35740.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "41/73",
+      "card_number": "41",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Scraggy.SWSH3.41.35740.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fscraggy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scraggy+Champion%27s+Path+41+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Scraggy-CPA41?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Scraggy.SWSH3.41.35824.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Scrafty",
+      "title": "Scrafty - Champion's Path #42",
+      "link": "/Champions-Path-Expansion/Scrafty-Card-42",
+      "image": "https://den-cards.pokellector.com/298/Scrafty.SWSH3.42.35741.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Scrafty.SWSH3.42.35741.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "42/73",
+      "card_number": "42",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Scrafty.SWSH3.42.35741.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fscrafty"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scrafty+Champion%27s+Path+42+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Scrafty-CPA42?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Scrafty.SWSH3.42.35825.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Trubbish",
+      "title": "Trubbish - Champion's Path #43",
+      "link": "/Champions-Path-Expansion/Trubbish-Card-43",
+      "image": "https://den-cards.pokellector.com/298/Trubbish.SWSH3.43.35742.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Trubbish.SWSH3.43.35742.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "43/73",
+      "card_number": "43",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Trubbish.SWSH3.43.35742.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Ftrubbish"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Trubbish+Champion%27s+Path+43+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Trubbish-CPA43?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Trubbish.SWSH3.43.35826.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Inkay",
+      "title": "Inkay - Champion's Path #44",
+      "link": "/Champions-Path-Expansion/Inkay-Card-44",
+      "image": "https://den-cards.pokellector.com/298/Inkay.SWSH3.44.35743.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Inkay.SWSH3.44.35743.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "44/73",
+      "card_number": "44",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Inkay.SWSH3.44.35743.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Finkay"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Inkay+Champion%27s+Path+44+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Inkay-CPA44?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Inkay.SWSH3.44.35827.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Malamar",
+      "title": "Malamar - Champion's Path #45",
+      "link": "/Champions-Path-Expansion/Malamar-Card-45",
+      "image": "https://den-cards.pokellector.com/298/Malamar.SWSH3.45.35744.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Malamar.SWSH3.45.35744.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "45/73",
+      "card_number": "45",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Malamar.SWSH3.45.35744.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmalamar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Malamar+Champion%27s+Path+45+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Malamar-CPA45?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Malamar.SWSH3.45.35828.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Nickit",
+      "title": "Nickit - Champion's Path #46",
+      "link": "/Champions-Path-Expansion/Nickit-Card-46",
+      "image": "https://den-cards.pokellector.com/298/Nickit.SWSH3.46.35745.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Nickit.SWSH3.46.35745.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "46/73",
+      "card_number": "46",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Nickit.SWSH3.46.35745.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fnickit"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Nickit+Champion%27s+Path+46+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Nickit-CPA46?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Nickit.SWSH3.46.35829.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Duraludon V",
+      "title": "Duraludon V - Champion's Path #47",
+      "link": "/Champions-Path-Expansion/Duraludon-V-Card-47",
+      "image": "https://den-cards.pokellector.com/298/Duraludon-V.SWSH3.47.35746.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Duraludon-V.SWSH3.47.35746.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "47/73",
+      "card_number": "47",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Duraludon-V.SWSH3.47.35746.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fduraludon-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duraludon+V+Champion%27s+Path+47+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Duraludon-V-CPA47?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "48": {
+      "number": "48",
+      "name": "Swablu",
+      "title": "Swablu - Champion's Path #48",
+      "link": "/Champions-Path-Expansion/Swablu-Card-48",
+      "image": "https://den-cards.pokellector.com/298/Swablu.SWSH3.48.35747.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Swablu.SWSH3.48.35747.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "48/73",
+      "card_number": "48",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Swablu.SWSH3.48.35747.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fswablu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Swablu+Champion%27s+Path+48+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Swablu-CPA48?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Swablu.SWSH3.48.35830.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Altaria",
+      "title": "Altaria - Champion's Path #49",
+      "link": "/Champions-Path-Expansion/Altaria-Card-49",
+      "image": "https://den-cards.pokellector.com/298/Altaria.SWSH3.49.35748.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Altaria.SWSH3.49.35748.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "49/73",
+      "card_number": "49",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Altaria.SWSH3.49.35748.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Faltaria"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Altaria+Champion%27s+Path+49+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Altaria-CPA49?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Altaria.SWSH3.49.35831.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Bede",
+      "title": "Bede - Champion's Path #50",
+      "link": "/Champions-Path-Expansion/Bede-Card-50",
+      "image": "https://den-cards.pokellector.com/298/Bede.SWSH3.50.35749.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Bede.SWSH3.50.35749.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "50/73",
+      "card_number": "50",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Bede.SWSH3.50.35749.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fbede"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bede+Champion%27s+Path+50+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Bede-CPA50?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Bede.SWSH3.50.35832.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Full Heal",
+      "title": "Full Heal - Champion's Path #51",
+      "link": "/Champions-Path-Expansion/Full-Heal-Card-51",
+      "image": "https://den-cards.pokellector.com/298/Full-Heal.SWSH3.51.35750.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Full-Heal.SWSH3.51.35750.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "51/73",
+      "card_number": "51",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Full-Heal.SWSH3.51.35750.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Ffull-heal"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Full+Heal+Champion%27s+Path+51+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Full-Heal-CPA51?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Full-Heal.SWSH3.51.35833.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Great Ball",
+      "title": "Great Ball - Champion's Path #52",
+      "link": "/Champions-Path-Expansion/Great-Ball-Card-52",
+      "image": "https://den-cards.pokellector.com/298/Great-Ball.SWSH3.52.35751.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Great-Ball.SWSH3.52.35751.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "52/73",
+      "card_number": "52",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Great-Ball.SWSH3.52.35751.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgreat-ball"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Great+Ball+Champion%27s+Path+52+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Great-Ball-CPA52?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Great-Ball.SWSH3.52.35834.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Hop",
+      "title": "Hop - Champion's Path #53",
+      "link": "/Champions-Path-Expansion/Hop-Card-53",
+      "image": "https://den-cards.pokellector.com/298/Hop.SWSH3.53.35752.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hop.SWSH3.53.35752.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "53/73",
+      "card_number": "53",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hop.SWSH3.53.35752.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhop"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hop+Champion%27s+Path+53+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hop-V1-CPA53?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hop.SWSH3.53.35835.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Hyper Potion",
+      "title": "Hyper Potion - Champion's Path #54",
+      "link": "/Champions-Path-Expansion/Hyper-Potion-Card-54",
+      "image": "https://den-cards.pokellector.com/298/Hyper-Potion.SWSH3.54.35753.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hyper-Potion.SWSH3.54.35753.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "54/73",
+      "card_number": "54",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hyper-Potion.SWSH3.54.35753.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhyper-potion"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hyper+Potion+Champion%27s+Path+54+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hyper-Potion-CPA54?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hyper-Potion.SWSH3.54.35836.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Kabu",
+      "title": "Kabu - Champion's Path #55",
+      "link": "/Champions-Path-Expansion/Kabu-Card-55",
+      "image": "https://den-cards.pokellector.com/298/Kabu.SWSH3.55.35754.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Kabu.SWSH3.55.35754.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "55/73",
+      "card_number": "55",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Kabu.SWSH3.55.35754.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fkabu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kabu+Champion%27s+Path+55+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kabu-V1-CPA55?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Kabu.SWSH3.55.35837.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Marnie",
+      "title": "Marnie - Champion's Path #56",
+      "link": "/Champions-Path-Expansion/Marnie-Card-56",
+      "image": "https://den-cards.pokellector.com/298/Marnie.SWSH3.56.35755.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Marnie.SWSH3.56.35755.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "56/73",
+      "card_number": "56",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Marnie.SWSH3.56.35755.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmarnie"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Marnie+Champion%27s+Path+56+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Marnie-CPA56?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Marnie.SWSH3.56.35838.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Milo",
+      "title": "Milo - Champion's Path #57",
+      "link": "/Champions-Path-Expansion/Milo-Card-57",
+      "image": "https://den-cards.pokellector.com/298/Milo.SWSH3.57.35756.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Milo.SWSH3.57.35756.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "57/73",
+      "card_number": "57",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Milo.SWSH3.57.35756.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fmilo"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Milo+Champion%27s+Path+57+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Milo-CPA57?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Milo.SWSH3.57.35839.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Piers",
+      "title": "Piers - Champion's Path #58",
+      "link": "/Champions-Path-Expansion/Piers-Card-58",
+      "image": "https://den-cards.pokellector.com/298/Piers.SWSH3.58.35757.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Piers.SWSH3.58.35757.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "58/73",
+      "card_number": "58",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Piers.SWSH3.58.35757.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpiers"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piers+Champion%27s+Path+58+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Piers-V1-CPA58?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Piers.SWSH3.58.35840.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Poké Ball",
+      "title": "Poké Ball - Champion's Path #59",
+      "link": "/Champions-Path-Expansion/Pok-Ball-Card-59",
+      "image": "https://den-cards.pokellector.com/298/Pok-Ball.SWSH3.59.35758.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Pok-Ball.SWSH3.59.35758.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "59/73",
+      "card_number": "59",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Pok-Ball.SWSH3.59.35758.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpoke-ball"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pok%C3%A9+Ball+Champion%27s+Path+59+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Poke-Ball-CPA59?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Pok-Ball.SWSH3.59.35841.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Pokémon Center Lady",
+      "title": "Pokémon Center Lady - Champion's Path #60",
+      "link": "/Champions-Path-Expansion/Pokmon-Center-Lady-Card-60",
+      "image": "https://den-cards.pokellector.com/298/Pokmon-Center-Lady.SWSH3.60.35759.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Pokmon-Center-Lady.SWSH3.60.35759.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "60/73",
+      "card_number": "60",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Pokmon-Center-Lady.SWSH3.60.35759.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpokemon-center-lady"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pok%C3%A9mon+Center+Lady+Champion%27s+Path+60+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Pokemon-Center-Lady-CPA60?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Pokmon-Center-Lady.SWSH3.60.35842.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Potion",
+      "title": "Potion - Champion's Path #61",
+      "link": "/Champions-Path-Expansion/Potion-Card-61",
+      "image": "https://den-cards.pokellector.com/298/Potion.SWSH3.61.35760.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Potion.SWSH3.61.35760.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "61/73",
+      "card_number": "61",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Potion.SWSH3.61.35760.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpotion"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Potion+Champion%27s+Path+61+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Potion-CPA61?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Potion.SWSH3.61.35843.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Professor's Research",
+      "title": "Professor's Research - Champion's Path #62",
+      "link": "/Champions-Path-Expansion/Professors-Research-Card-62",
+      "image": "https://den-cards.pokellector.com/298/Professors-Research.SWSH3.62.35761.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Professors-Research.SWSH3.62.35761.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "62/73",
+      "card_number": "62",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Professors-Research.SWSH3.62.35761.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fprofessors-research"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Professor%27s+Research+Champion%27s+Path+62+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Professors-Research-CPA62?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Professors-Research.SWSH3.62.35844.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Rotom Bike",
+      "title": "Rotom Bike - Champion's Path #63",
+      "link": "/Champions-Path-Expansion/Rotom-Bike-Card-63",
+      "image": "https://den-cards.pokellector.com/298/Rotom-Bike.SWSH3.63.35762.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Rotom-Bike.SWSH3.63.35762.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "63/73",
+      "card_number": "63",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Rotom-Bike.SWSH3.63.35762.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Frotom-bike"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rotom+Bike+Champion%27s+Path+63+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rotom-Bike-CPA63?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Rotom-Bike.SWSH3.63.35845.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Rotom Phone",
+      "title": "Rotom Phone - Champion's Path #64",
+      "link": "/Champions-Path-Expansion/Rotom-Phone-Card-64",
+      "image": "https://den-cards.pokellector.com/298/Rotom-Phone.SWSH3.64.35763.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Rotom-Phone.SWSH3.64.35763.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "64/73",
+      "card_number": "64",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Rotom-Phone.SWSH3.64.35763.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Frotom-phone"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rotom+Phone+Champion%27s+Path+64+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rotom-Phone-CPA64?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Sonia",
+      "title": "Sonia - Champion's Path #65",
+      "link": "/Champions-Path-Expansion/Sonia-Card-65",
+      "image": "https://den-cards.pokellector.com/298/Sonia.SWSH3.65.35764.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Sonia.SWSH3.65.35764.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "65/73",
+      "card_number": "65",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Sonia.SWSH3.65.35764.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fsonia"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sonia+Champion%27s+Path+65+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sonia-CPA65?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Sonia.SWSH3.65.35847.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Suspicious Food Tin",
+      "title": "Suspicious Food Tin - Champion's Path #66",
+      "link": "/Champions-Path-Expansion/Suspicious-Food-Tin-Card-66",
+      "image": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.66.35765.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.66.35765.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "66/73",
+      "card_number": "66",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.66.35765.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fsuspicious-food-tin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Suspicious+Food+Tin+Champion%27s+Path+66+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Suspicious-Food-Tin-V1-CPA66?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.66.35848.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Team Yell Grunt",
+      "title": "Team Yell Grunt - Champion's Path #67",
+      "link": "/Champions-Path-Expansion/Team-Yell-Grunt-Card-67",
+      "image": "https://den-cards.pokellector.com/298/Team-Yell-Grunt.SWSH3.67.35766.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Team-Yell-Grunt.SWSH3.67.35766.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "67/73",
+      "card_number": "67",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Team-Yell-Grunt.SWSH3.67.35766.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fteam-yell-grunt"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Yell+Grunt+Champion%27s+Path+67+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Team-Yell-Grunt-CPA67?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Turffield Stadium",
+      "title": "Turffield Stadium - Champion's Path #68",
+      "link": "/Champions-Path-Expansion/Turffield-Stadium-Card-68",
+      "image": "https://den-cards.pokellector.com/298/Turffield-Stadium.SWSH3.68.35767.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Turffield-Stadium.SWSH3.68.35767.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "68/73",
+      "card_number": "68",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Turffield-Stadium.SWSH3.68.35767.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fturffield-stadium"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Turffield+Stadium+Champion%27s+Path+68+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Turffield-Stadium-CPA68?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Turffield-Stadium.SWSH3.68.35850.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Drednaw V",
+      "title": "Drednaw V - Champion's Path #69",
+      "link": "/Champions-Path-Expansion/Drednaw-V-Card-69",
+      "image": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.69.35768.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.69.35768.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "69/73",
+      "card_number": "69",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.69.35768.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fdrednaw-v-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drednaw+V+Champion%27s+Path+69+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.98",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-V-V2-CPA69?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "70": {
+      "number": "70",
+      "name": "Gardevoir V",
+      "title": "Gardevoir V - Champion's Path #70",
+      "link": "/Champions-Path-Expansion/Gardevoir-V-Card-70",
+      "image": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.70.35769.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.70.35769.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "70/73",
+      "card_number": "70",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.70.35769.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgardevoir-v-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gardevoir+V+Champion%27s+Path+70+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.95",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-V-V2-CPA70?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "71": {
+      "number": "71",
+      "name": "Galarian Cursola V",
+      "title": "Galarian Cursola V - Champion's Path #71",
+      "link": "/Champions-Path-Expansion/Galarian-Cursola-V-Card-71",
+      "image": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.71.35770.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.71.35770.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "71/73",
+      "card_number": "71",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.71.35770.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgalarian-cursola-v-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Cursola+V+Champion%27s+Path+71+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Cursola-V-V2-CPA71?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Grapploct V",
+      "title": "Grapploct V - Champion's Path #72",
+      "link": "/Champions-Path-Expansion/Grapploct-V-Card-72",
+      "image": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.72.35771.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.72.35771.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "72/73",
+      "card_number": "72",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.72.35771.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgrapploct-v-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.32",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grapploct+V+Champion%27s+Path+72+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Grapploct-V-V2-CPA72?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Hop",
+      "title": "Hop - Champion's Path #73",
+      "link": "/Champions-Path-Expansion/Hop-Card-73",
+      "image": "https://den-cards.pokellector.com/298/Hop.SWSH3.73.35772.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hop.SWSH3.73.35772.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "73/73",
+      "card_number": "73",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hop.SWSH3.73.35772.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhop-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hop+Champion%27s+Path+73+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hop-V2-CPA73?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "74": {
+      "number": "74",
+      "name": "Charizard VMAX",
+      "title": "Charizard VMAX - Champion's Path #74",
+      "link": "/Champions-Path-Expansion/Charizard-VMAX-Card-74",
+      "image": "https://den-cards.pokellector.com/298/Charizard-VMAX.SWSH3.74.35773.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Charizard-VMAX.SWSH3.74.35773.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "74/73",
+      "card_number": "74",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Charizard-VMAX.SWSH3.74.35773.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$145.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fcharizard-vmax-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$179.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charizard+VMAX+Champion%27s+Path+74+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€225.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Charizard-VMAX-CPA74?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Drednaw VMAX",
+      "title": "Drednaw VMAX - Champion's Path #75",
+      "link": "/Champions-Path-Expansion/Drednaw-VMAX-Card-75",
+      "image": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.75.35774.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.75.35774.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "75/73",
+      "card_number": "75",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.75.35774.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fdrednaw-vmax-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drednaw+VMAX+Champion%27s+Path+75+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€14.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-VMAX-V2-CPA75?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Gardevoir VMAX",
+      "title": "Gardevoir VMAX - Champion's Path #76",
+      "link": "/Champions-Path-Expansion/Gardevoir-VMAX-Card-76",
+      "image": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.76.35775.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.76.35775.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "76/73",
+      "card_number": "76",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.76.35775.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fgardevoir-vmax-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gardevoir+VMAX+Champion%27s+Path+76+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€17.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-VMAX-V2-CPA76?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Kabu",
+      "title": "Kabu - Champion's Path #77",
+      "link": "/Champions-Path-Expansion/Kabu-Card-77",
+      "image": "https://den-cards.pokellector.com/298/Kabu.SWSH3.77.35776.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Kabu.SWSH3.77.35776.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "77/73",
+      "card_number": "77",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Kabu.SWSH3.77.35776.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fkabu-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kabu+Champion%27s+Path+77+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€10.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kabu-V2-CPA77?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "78": {
+      "number": "78",
+      "name": "Piers",
+      "title": "Piers - Champion's Path #78",
+      "link": "/Champions-Path-Expansion/Piers-Card-78",
+      "image": "https://den-cards.pokellector.com/298/Piers.SWSH3.78.35777.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Piers.SWSH3.78.35777.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "78/73",
+      "card_number": "78",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Piers.SWSH3.78.35777.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fpiers-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piers+Champion%27s+Path+78+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€9.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Piers-V2-CPA78?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "79": {
+      "number": "79",
+      "name": "Charizard V",
+      "title": "Charizard V - Champion's Path #79",
+      "link": "/Champions-Path-Expansion/Charizard-V-Card-79",
+      "image": "https://den-cards.pokellector.com/298/Charizard-V.SWSH3.79.35778.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Charizard-V.SWSH3.79.35778.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "79/73",
+      "card_number": "79",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Charizard-V.SWSH3.79.35778.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$210.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fcharizard-v-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$343.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charizard+V+Champion%27s+Path+79+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€250.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Charizard-V-CPA79?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "80": {
+      "number": "80",
+      "name": "Suspicious Food Tin",
+      "title": "Suspicious Food Tin - Champion's Path #80",
+      "link": "/Champions-Path-Expansion/Suspicious-Food-Tin-Card-80",
+      "image": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.80.35779.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.80.35779.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "80/73",
+      "card_number": "80",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.80.35779.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fsuspicious-food-tin-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Suspicious+Food+Tin+Champion%27s+Path+80+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€4.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Suspicious-Food-Tin-V2-CPA80?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Steel Energy": {
+      "number": null,
+      "name": "Steel Energy",
+      "title": "Steel Energy - Champion's Path ",
+      "link": "/card/36934/Steel-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Steel+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Dark Energy": {
+      "number": null,
+      "name": "Dark Energy",
+      "title": "Dark Energy - Champion's Path ",
+      "link": "/card/36933/Dark-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dark+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Fighting Energy": {
+      "number": null,
+      "name": "Fighting Energy",
+      "title": "Fighting Energy - Champion's Path ",
+      "link": "/card/36932/Fighting-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fighting+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Psychic Energy": {
+      "number": null,
+      "name": "Psychic Energy",
+      "title": "Psychic Energy - Champion's Path ",
+      "link": "/card/36931/Psychic-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Psychic+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Electric Energy": {
+      "number": null,
+      "name": "Electric Energy",
+      "title": "Electric Energy - Champion's Path ",
+      "link": "/card/36930/Electric-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Electric+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Water Energy": {
+      "number": null,
+      "name": "Water Energy",
+      "title": "Water Energy - Champion's Path ",
+      "link": "/card/36929/Water-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Water+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Fire Energy": {
+      "number": null,
+      "name": "Fire Energy",
+      "title": "Fire Energy - Champion's Path ",
+      "link": "/card/36928/Fire-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fire+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Grass Energy": {
+      "number": null,
+      "name": "Grass Energy",
+      "title": "Grass Energy - Champion's Path ",
+      "link": "/card/36927/Grass-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grass+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.04",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Online-Code-Card-Champions-Path-Motostoke-Gym-Collection-CPA?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "Fairy Energy": {
+      "number": null,
+      "name": "Fairy Energy",
+      "title": "Fairy Energy - Champion's Path ",
+      "link": "/card/36935/Fairy-Energy-Champions-Path-SWSH3-0",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$13.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fairy+Energy+Champion%27s+Path++-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 03:44:03"
+}

@@ -1,0 +1,4678 @@
+{
+  "title": "EX Legend Maker Set",
+  "link": "/EX-Legend-Maker-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Legend-Maker.logo.63.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Legend-Maker.symbol.63.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Aerodactyl",
+      "title": "Aerodactyl - EX Legend Maker #1",
+      "link": "/EX-Legend-Maker-Expansion/Aerodactyl-Card-1",
+      "image": "https://den-cards.pokellector.com/63/Aerodactyl.LM.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Aerodactyl.LM.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "1/92",
+      "card_number": "1",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Aerodactyl.LM.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$87.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Faerodactyl"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.19",
+          "link": "http://www.trollandtoad.com/p163326.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Aerodactyl+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aerodactyl+-+1%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-1.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Aggron",
+      "title": "Aggron - EX Legend Maker #2",
+      "link": "/EX-Legend-Maker-Expansion/Aggron-Card-2",
+      "image": "https://den-cards.pokellector.com/63/Aggron.LM.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Aggron.LM.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "2/92",
+      "card_number": "2",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Aggron.LM.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Faggron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p163327.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Aggron+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aggron+-+2%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-2.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Cradily",
+      "title": "Cradily - EX Legend Maker #3",
+      "link": "/EX-Legend-Maker-Expansion/Cradily-Card-3",
+      "image": "https://den-cards.pokellector.com/63/Cradily.LM.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Cradily.LM.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "3/92",
+      "card_number": "3",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Cradily.LM.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fcradily"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p163346.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Cradily+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cradily+-+3%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-3.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Delcatty",
+      "title": "Delcatty - EX Legend Maker #4",
+      "link": "/EX-Legend-Maker-Expansion/Delcatty-Card-4",
+      "image": "https://den-cards.pokellector.com/63/Delcatty.LM.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Delcatty.LM.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "4/92",
+      "card_number": "4",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Delcatty.LM.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fdelcatty"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.29",
+          "link": "http://www.trollandtoad.com/p163350.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Delcatty+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Delcatty+-+4%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-4.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Gengar",
+      "title": "Gengar - EX Legend Maker #5",
+      "link": "/EX-Legend-Maker-Expansion/Gengar-Card-5",
+      "image": "https://den-cards.pokellector.com/63/Gengar.LM.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Gengar.LM.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "5/92",
+      "card_number": "5",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Gengar.LM.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$80.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgengar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p163362.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Gengar+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gengar+-+5%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-5.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Golem",
+      "title": "Golem - EX Legend Maker #6",
+      "link": "/EX-Legend-Maker-Expansion/Golem-Card-6",
+      "image": "https://den-cards.pokellector.com/63/Golem.LM.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Golem.LM.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "6/92",
+      "card_number": "6",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Golem.LM.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgolem"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p163367.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Golem+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golem+-+6%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-6.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Kabutops",
+      "title": "Kabutops - EX Legend Maker #7",
+      "link": "/EX-Legend-Maker-Expansion/Kabutops-Card-7",
+      "image": "https://den-cards.pokellector.com/63/Kabutops.LM.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Kabutops.LM.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "7/92",
+      "card_number": "7",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Kabutops.LM.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$32.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fkabutops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p163377.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Kabutops+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-7.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabutops+-+7%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Lapras",
+      "title": "Lapras - EX Legend Maker #8",
+      "link": "/EX-Legend-Maker-Expansion/Lapras-Card-8",
+      "image": "https://den-cards.pokellector.com/63/Lapras.LM.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Lapras.LM.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "8/92",
+      "card_number": "8",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Lapras.LM.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Flapras"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.59",
+          "link": "http://www.trollandtoad.com/p163381.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Lapras+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-8.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lapras+-+8%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Machamp",
+      "title": "Machamp - EX Legend Maker #9",
+      "link": "/EX-Legend-Maker-Expansion/Machamp-Card-9",
+      "image": "https://den-cards.pokellector.com/63/Machamp.LM.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Machamp.LM.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "9/92",
+      "card_number": "9",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Machamp.LM.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmachamp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.88",
+          "link": "http://www.trollandtoad.com/p163384.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Machamp+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+-+9%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Mew",
+      "title": "Mew - EX Legend Maker #10",
+      "link": "/EX-Legend-Maker-Expansion/Mew-Card-10",
+      "image": "https://den-cards.pokellector.com/63/Mew.LM.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Mew.LM.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "10/92",
+      "card_number": "10",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Mew.LM.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$152.56",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$61.89",
+          "link": "http://www.trollandtoad.com/p163391.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Mew+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mew+-+10%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-10.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Muk",
+      "title": "Muk - EX Legend Maker #11",
+      "link": "/EX-Legend-Maker-Expansion/Muk-Card-11",
+      "image": "https://den-cards.pokellector.com/63/Muk.LM.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Muk.LM.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "11/92",
+      "card_number": "11",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Muk.LM.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmuk"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p1123314.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Muk+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Muk+-+11%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-11.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Shiftry",
+      "title": "Shiftry - EX Legend Maker #12",
+      "link": "/EX-Legend-Maker-Expansion/Shiftry-Card-12",
+      "image": "https://den-cards.pokellector.com/63/Shiftry.LM.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Shiftry.LM.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "12/92",
+      "card_number": "12",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Shiftry.LM.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fshiftry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p163417.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Shiftry+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shiftry+-+12%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-12.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Victreebel",
+      "title": "Victreebel - EX Legend Maker #13",
+      "link": "/EX-Legend-Maker-Expansion/Victreebel-Card-13",
+      "image": "https://den-cards.pokellector.com/63/Victreebel.LM.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Victreebel.LM.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "13/92",
+      "card_number": "13",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Victreebel.LM.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fvictreebel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.29",
+          "link": "http://www.trollandtoad.com/p163438.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Victreebel+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Victreebel+-+13%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-13.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Wailord",
+      "title": "Wailord - EX Legend Maker #14",
+      "link": "/EX-Legend-Maker-Expansion/Wailord-Card-14",
+      "image": "https://den-cards.pokellector.com/63/Wailord.LM.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Wailord.LM.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "14/92",
+      "card_number": "14",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Wailord.LM.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwailord"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.89",
+          "link": "http://www.trollandtoad.com/p163441.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Wailord+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-14.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wailord+-+14%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Absol",
+      "title": "Absol - EX Legend Maker #15",
+      "link": "/EX-Legend-Maker-Expansion/Absol-Card-15",
+      "image": "https://den-cards.pokellector.com/63/Absol.LM.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Absol.LM.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "15/92",
+      "card_number": "15",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Absol.LM.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fabsol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163324.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Absol+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Absol+-+15%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-15.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Girafarig",
+      "title": "Girafarig - EX Legend Maker #16",
+      "link": "/EX-Legend-Maker-Expansion/Girafarig-Card-16",
+      "image": "https://den-cards.pokellector.com/63/Girafarig.LM.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Girafarig.LM.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "16/92",
+      "card_number": "16",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Girafarig.LM.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgirafarig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p163365.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Girafarig+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-16.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Girafarig+-+16%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Gorebyss",
+      "title": "Gorebyss - EX Legend Maker #17",
+      "link": "/EX-Legend-Maker-Expansion/Gorebyss-Card-17",
+      "image": "https://den-cards.pokellector.com/63/Gorebyss.LM.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Gorebyss.LM.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "17/92",
+      "card_number": "17",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Gorebyss.LM.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgorebyss"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163368.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Gorebyss+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gorebyss+-+17%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-17.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Huntail",
+      "title": "Huntail - EX Legend Maker #18",
+      "link": "/EX-Legend-Maker-Expansion/Huntail-Card-18",
+      "image": "https://den-cards.pokellector.com/63/Huntail.LM.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Huntail.LM.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "18/92",
+      "card_number": "18",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Huntail.LM.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fhuntail"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163375.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Huntail+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Huntail+-+18%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-18.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Lanturn",
+      "title": "Lanturn - EX Legend Maker #19",
+      "link": "/EX-Legend-Maker-Expansion/Lanturn-Card-19",
+      "image": "https://den-cards.pokellector.com/63/Lanturn.LM.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Lanturn.LM.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "19/92",
+      "card_number": "19",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Lanturn.LM.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Flanturn"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163380.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Lanturn+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lanturn+-+19%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-19.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Lunatone",
+      "title": "Lunatone - EX Legend Maker #20",
+      "link": "/EX-Legend-Maker-Expansion/Lunatone-Card-20",
+      "image": "https://den-cards.pokellector.com/63/Lunatone.LM.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Lunatone.LM.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "20/92",
+      "card_number": "20",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Lunatone.LM.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Flunatone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163383.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Lunatone+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lunatone+-+20%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-20.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Magmar",
+      "title": "Magmar - EX Legend Maker #21",
+      "link": "/EX-Legend-Maker-Expansion/Magmar-Card-21",
+      "image": "https://den-cards.pokellector.com/63/Magmar.LM.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Magmar.LM.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "21/92",
+      "card_number": "21",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Magmar.LM.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmagmar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163388.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Magmar+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmar+-+21%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-21.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Magneton",
+      "title": "Magneton - EX Legend Maker #22",
+      "link": "/EX-Legend-Maker-Expansion/Magneton-Card-22",
+      "image": "https://den-cards.pokellector.com/63/Magneton.LM.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Magneton.LM.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "22/92",
+      "card_number": "22",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Magneton.LM.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmagneton"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163390.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Magneton+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-22.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+22%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Omastar",
+      "title": "Omastar - EX Legend Maker #23",
+      "link": "/EX-Legend-Maker-Expansion/Omastar-Card-23",
+      "image": "https://den-cards.pokellector.com/63/Omastar.LM.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Omastar.LM.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "23/92",
+      "card_number": "23",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Omastar.LM.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fomastar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163399.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Omastar+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omastar+-+23%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-23.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Pinsir",
+      "title": "Pinsir - EX Legend Maker #24",
+      "link": "/EX-Legend-Maker-Expansion/Pinsir-Card-24",
+      "image": "https://den-cards.pokellector.com/63/Pinsir.LM.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Pinsir.LM.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "24/92",
+      "card_number": "24",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Pinsir.LM.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fpinsir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163403.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Pinsir+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pinsir+-+24%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-24.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Solrock",
+      "title": "Solrock - EX Legend Maker #25",
+      "link": "/EX-Legend-Maker-Expansion/Solrock-Card-25",
+      "image": "https://den-cards.pokellector.com/63/Solrock.LM.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Solrock.LM.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "25/92",
+      "card_number": "25",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Solrock.LM.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fsolrock"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163420.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Solrock+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Solrock+-+25%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-25.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Spinda",
+      "title": "Spinda - EX Legend Maker #26",
+      "link": "/EX-Legend-Maker-Expansion/Spinda-Card-26",
+      "image": "https://den-cards.pokellector.com/63/Spinda.LM.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Spinda.LM.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "26/92",
+      "card_number": "26",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Spinda.LM.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fspinda"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p163422.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Spinda+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-26.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spinda+-+26%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Torkoal",
+      "title": "Torkoal - EX Legend Maker #27",
+      "link": "/EX-Legend-Maker-Expansion/Torkoal-Card-27",
+      "image": "https://den-cards.pokellector.com/63/Torkoal.LM.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Torkoal.LM.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "27/92",
+      "card_number": "27",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Torkoal.LM.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ftorkoal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163431.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Torkoal+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torkoal+-+27%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-27.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Wobbuffet",
+      "title": "Wobbuffet - EX Legend Maker #28",
+      "link": "/EX-Legend-Maker-Expansion/Wobbuffet-Card-28",
+      "image": "https://den-cards.pokellector.com/63/Wobbuffet.LM.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Wobbuffet.LM.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "28/92",
+      "card_number": "28",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Wobbuffet.LM.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwobbuffet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163445.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Wobbuffet+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wobbuffet+-+28%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-28.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Anorith",
+      "title": "Anorith - EX Legend Maker #29",
+      "link": "/EX-Legend-Maker-Expansion/Anorith-Card-29",
+      "image": "https://den-cards.pokellector.com/63/Anorith.LM.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Anorith.LM.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "29/92",
+      "card_number": "29",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Anorith.LM.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fanorith"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.86",
+          "link": "http://www.trollandtoad.com/p163330.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Anorith+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Anorith+-+29%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-29.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Cascoon",
+      "title": "Cascoon - EX Legend Maker #30",
+      "link": "/EX-Legend-Maker-Expansion/Cascoon-Card-30",
+      "image": "https://den-cards.pokellector.com/63/Cascoon.LM.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Cascoon.LM.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "30/92",
+      "card_number": "30",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Cascoon.LM.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fcascoon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163340.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Cascoon+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-30.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cascoon+-+30%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Dunsparce",
+      "title": "Dunsparce - EX Legend Maker #31",
+      "link": "/EX-Legend-Maker-Expansion/Dunsparce-Card-31",
+      "image": "https://den-cards.pokellector.com/63/Dunsparce.LM.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Dunsparce.LM.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "31/92",
+      "card_number": "31",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Dunsparce.LM.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fdunsparce"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p163352.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Dunsparce+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dunsparce+-+31%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-31.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Electrode",
+      "title": "Electrode - EX Legend Maker #32",
+      "link": "/EX-Legend-Maker-Expansion/Electrode-Card-32",
+      "image": "https://den-cards.pokellector.com/63/Electrode.LM.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Electrode.LM.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "32/92",
+      "card_number": "32",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Electrode.LM.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163354.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Electrode+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+32%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-32.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Furret",
+      "title": "Furret - EX Legend Maker #33",
+      "link": "/EX-Legend-Maker-Expansion/Furret-Card-33",
+      "image": "https://den-cards.pokellector.com/63/Furret.LM.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Furret.LM.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "33/92",
+      "card_number": "33",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Furret.LM.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ffurret"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p163360.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Furret+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-33.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Furret+-+33%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Graveler",
+      "title": "Graveler - EX Legend Maker #34",
+      "link": "/EX-Legend-Maker-Expansion/Graveler-Card-34",
+      "image": "https://den-cards.pokellector.com/63/Graveler.LM.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Graveler.LM.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "34/92",
+      "card_number": "34",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Graveler.LM.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgraveler"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163369.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Graveler+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-34.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Graveler+-+34%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Haunter",
+      "title": "Haunter - EX Legend Maker #35",
+      "link": "/EX-Legend-Maker-Expansion/Haunter-Card-35",
+      "image": "https://den-cards.pokellector.com/63/Haunter.LM.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Haunter.LM.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "35/92",
+      "card_number": "35",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Haunter.LM.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fhaunter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.09",
+          "link": "http://www.trollandtoad.com/p163372.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Haunter+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-35.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Haunter+-+35%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Kabuto",
+      "title": "Kabuto - EX Legend Maker #36",
+      "link": "/EX-Legend-Maker-Expansion/Kabuto-Card-36",
+      "image": "https://den-cards.pokellector.com/63/Kabuto.LM.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Kabuto.LM.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "36/92",
+      "card_number": "36",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Kabuto.LM.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fkabuto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.86",
+          "link": "http://www.trollandtoad.com/p163376.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Kabuto+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabuto+-+36%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-36.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Kecleon",
+      "title": "Kecleon - EX Legend Maker #37",
+      "link": "/EX-Legend-Maker-Expansion/Kecleon-Card-37",
+      "image": "https://den-cards.pokellector.com/63/Kecleon.LM.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Kecleon.LM.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "37/92",
+      "card_number": "37",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Kecleon.LM.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fkecleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p163378.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Kecleon+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kecleon+-+37%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-37.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Lairon",
+      "title": "Lairon - EX Legend Maker #38",
+      "link": "/EX-Legend-Maker-Expansion/Lairon-Card-38",
+      "image": "https://den-cards.pokellector.com/63/Lairon.LM.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Lairon.LM.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "38/92",
+      "card_number": "38",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Lairon.LM.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Flairon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163379.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Lairon+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lairon+-+38%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-38.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Machoke",
+      "title": "Machoke - EX Legend Maker #39",
+      "link": "/EX-Legend-Maker-Expansion/Machoke-Card-39",
+      "image": "https://den-cards.pokellector.com/63/Machoke.LM.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Machoke.LM.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "39/92",
+      "card_number": "39",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Machoke.LM.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmachoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163385.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Machoke+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-39.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machoke+-+39%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Misdreavus",
+      "title": "Misdreavus - EX Legend Maker #40",
+      "link": "/EX-Legend-Maker-Expansion/Misdreavus-Card-40",
+      "image": "https://den-cards.pokellector.com/63/Misdreavus.LM.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Misdreavus.LM.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "40/92",
+      "card_number": "40",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Misdreavus.LM.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmisdreavus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p163393.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Misdreavus+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-40.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Misdreavus+-+40%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Nuzleaf",
+      "title": "Nuzleaf - EX Legend Maker #41",
+      "link": "/EX-Legend-Maker-Expansion/Nuzleaf-Card-41",
+      "image": "https://den-cards.pokellector.com/63/Nuzleaf.LM.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Nuzleaf.LM.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "41/92",
+      "card_number": "41",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Nuzleaf.LM.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fnuzleaf"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163397.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Nuzleaf+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nuzleaf+-+41%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-41.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Roselia",
+      "title": "Roselia - EX Legend Maker #42",
+      "link": "/EX-Legend-Maker-Expansion/Roselia-Card-42",
+      "image": "https://den-cards.pokellector.com/63/Roselia.LM.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Roselia.LM.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "42/92",
+      "card_number": "42",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Roselia.LM.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Froselia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p163412.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Roselia+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-42.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Roselia+-+42%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Sealeo",
+      "title": "Sealeo - EX Legend Maker #43",
+      "link": "/EX-Legend-Maker-Expansion/Sealeo-Card-43",
+      "image": "https://den-cards.pokellector.com/63/Sealeo.LM.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Sealeo.LM.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "43/92",
+      "card_number": "43",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Sealeo.LM.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fsealeo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163413.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Sealeo+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sealeo+-+43%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-43.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Tangela",
+      "title": "Tangela - EX Legend Maker #44",
+      "link": "/EX-Legend-Maker-Expansion/Tangela-Card-44",
+      "image": "https://den-cards.pokellector.com/63/Tangela.LM.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Tangela.LM.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "44/92",
+      "card_number": "44",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Tangela.LM.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ftangela"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163426.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Tangela+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-44.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tangela+-+44%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Tentacruel",
+      "title": "Tentacruel - EX Legend Maker #45",
+      "link": "/EX-Legend-Maker-Expansion/Tentacruel-Card-45",
+      "image": "https://den-cards.pokellector.com/63/Tentacruel.LM.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Tentacruel.LM.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "45/92",
+      "card_number": "45",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Tentacruel.LM.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ftentacruel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163429.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Tentacruel+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacruel+-+45%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-45.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Vibrava",
+      "title": "Vibrava - EX Legend Maker #46",
+      "link": "/EX-Legend-Maker-Expansion/Vibrava-Card-46",
+      "image": "https://den-cards.pokellector.com/63/Vibrava.LM.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Vibrava.LM.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "46/92",
+      "card_number": "46",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Vibrava.LM.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fvibrava"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p163437.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Vibrava+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vibrava+-+46%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-46.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Weepinbell",
+      "title": "Weepinbell - EX Legend Maker #47",
+      "link": "/EX-Legend-Maker-Expansion/Weepinbell-Card-47",
+      "image": "https://den-cards.pokellector.com/63/Weepinbell.LM.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Weepinbell.LM.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "47/92",
+      "card_number": "47",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Weepinbell.LM.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fweepinbell"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163443.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Weepinbell+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-47.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weepinbell+-+47%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Aron",
+      "title": "Aron - EX Legend Maker #48",
+      "link": "/EX-Legend-Maker-Expansion/Aron-Card-48",
+      "image": "https://den-cards.pokellector.com/63/Aron.LM.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Aron.LM.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "48/92",
+      "card_number": "48",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Aron.LM.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Faron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163334.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Aron+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aron+-+48%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-48.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Bellsprout",
+      "title": "Bellsprout - EX Legend Maker #49",
+      "link": "/EX-Legend-Maker-Expansion/Bellsprout-Card-49",
+      "image": "https://den-cards.pokellector.com/63/Bellsprout.LM.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Bellsprout.LM.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "49/92",
+      "card_number": "49",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Bellsprout.LM.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fbellsprout"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163336.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Bellsprout+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-49.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bellsprout+-+49%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Chinchou",
+      "title": "Chinchou - EX Legend Maker #50",
+      "link": "/EX-Legend-Maker-Expansion/Chinchou-Card-50",
+      "image": "https://den-cards.pokellector.com/63/Chinchou.LM.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Chinchou.LM.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "50/92",
+      "card_number": "50",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Chinchou.LM.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fchinchou"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163341.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Chinchou+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chinchou+-+50%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-50.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Clamperl",
+      "title": "Clamperl - EX Legend Maker #51",
+      "link": "/EX-Legend-Maker-Expansion/Clamperl-Card-51",
+      "image": "https://den-cards.pokellector.com/63/Clamperl.LM.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Clamperl.LM.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "51/92",
+      "card_number": "51",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Clamperl.LM.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fclamperl"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163343.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Clamperl+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Clamperl+-+51%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-51.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Gastly",
+      "title": "Gastly - EX Legend Maker #52",
+      "link": "/EX-Legend-Maker-Expansion/Gastly-Card-52",
+      "image": "https://den-cards.pokellector.com/63/Gastly.LM.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Gastly.LM.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "52/92",
+      "card_number": "52",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Gastly.LM.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgastly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163361.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Gastly+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-52.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gastly+-+52%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Geodude",
+      "title": "Geodude - EX Legend Maker #53",
+      "link": "/EX-Legend-Maker-Expansion/Geodude-Card-53",
+      "image": "https://den-cards.pokellector.com/63/Geodude.LM.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Geodude.LM.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "53/92",
+      "card_number": "53",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Geodude.LM.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgeodude"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163363.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Geodude+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Geodude+-+53%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-53.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Grimer",
+      "title": "Grimer - EX Legend Maker #54",
+      "link": "/EX-Legend-Maker-Expansion/Grimer-Card-54",
+      "image": "https://den-cards.pokellector.com/63/Grimer.LM.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Grimer.LM.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "54/92",
+      "card_number": "54",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Grimer.LM.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgrimer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163370.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Grimer+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grimer+-+54%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-54.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Growlithe",
+      "title": "Growlithe - EX Legend Maker #55",
+      "link": "/EX-Legend-Maker-Expansion/Growlithe-Card-55",
+      "image": "https://den-cards.pokellector.com/63/Growlithe.LM.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Growlithe.LM.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "55/92",
+      "card_number": "55",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Growlithe.LM.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgrowlithe"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p163371.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Growlithe+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Growlithe+-+55%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-55.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Lileep",
+      "title": "Lileep - EX Legend Maker #56",
+      "link": "/EX-Legend-Maker-Expansion/Lileep-Card-56",
+      "image": "https://den-cards.pokellector.com/63/Lileep.LM.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Lileep.LM.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "56/92",
+      "card_number": "56",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Lileep.LM.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Flileep"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163382.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Lileep+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lileep+-+56%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-56.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Machop",
+      "title": "Machop - EX Legend Maker #57",
+      "link": "/EX-Legend-Maker-Expansion/Machop-Card-57",
+      "image": "https://den-cards.pokellector.com/63/Machop.LM.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Machop.LM.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "57/92",
+      "card_number": "57",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Machop.LM.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmachop"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163386.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Machop+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machop+-+57%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-57.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Magby",
+      "title": "Magby - EX Legend Maker #58",
+      "link": "/EX-Legend-Maker-Expansion/Magby-Card-58",
+      "image": "https://den-cards.pokellector.com/63/Magby.LM.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Magby.LM.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "58/92",
+      "card_number": "58",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Magby.LM.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmagby"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p163387.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Magby+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magby+-+58%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-58.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Magnemite",
+      "title": "Magnemite - EX Legend Maker #59",
+      "link": "/EX-Legend-Maker-Expansion/Magnemite-Card-59",
+      "image": "https://den-cards.pokellector.com/63/Magnemite.LM.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Magnemite.LM.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "59/92",
+      "card_number": "59",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Magnemite.LM.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmagnemite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p163389.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Magnemite+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+59%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-59.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Omanyte",
+      "title": "Omanyte - EX Legend Maker #60",
+      "link": "/EX-Legend-Maker-Expansion/Omanyte-Card-60",
+      "image": "https://den-cards.pokellector.com/63/Omanyte.LM.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Omanyte.LM.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "60/92",
+      "card_number": "60",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Omanyte.LM.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fomanyte"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163398.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Omanyte+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omanyte+-+60%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-60.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Seedot",
+      "title": "Seedot - EX Legend Maker #61",
+      "link": "/EX-Legend-Maker-Expansion/Seedot-Card-61",
+      "image": "https://den-cards.pokellector.com/63/Seedot.LM.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Seedot.LM.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "61/92",
+      "card_number": "61",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Seedot.LM.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fseedot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163414.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Seedot+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seedot+-+61%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-61.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Sentret",
+      "title": "Sentret - EX Legend Maker #62",
+      "link": "/EX-Legend-Maker-Expansion/Sentret-Card-62",
+      "image": "https://den-cards.pokellector.com/63/Sentret.LM.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Sentret.LM.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "62/92",
+      "card_number": "62",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Sentret.LM.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fsentret"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163415.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Sentret+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-62.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sentret+-+62%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Shuppet",
+      "title": "Shuppet - EX Legend Maker #63",
+      "link": "/EX-Legend-Maker-Expansion/Shuppet-Card-63",
+      "image": "https://den-cards.pokellector.com/63/Shuppet.LM.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Shuppet.LM.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "63/92",
+      "card_number": "63",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Shuppet.LM.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fshuppet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163418.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Shuppet+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-63.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuppet+-+63%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Skitty",
+      "title": "Skitty - EX Legend Maker #64",
+      "link": "/EX-Legend-Maker-Expansion/Skitty-Card-64",
+      "image": "https://den-cards.pokellector.com/63/Skitty.LM.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Skitty.LM.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "64/92",
+      "card_number": "64",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Skitty.LM.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fskitty"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p163419.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Skitty+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-64.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skitty+-+64%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Spheal",
+      "title": "Spheal - EX Legend Maker #65",
+      "link": "/EX-Legend-Maker-Expansion/Spheal-Card-65",
+      "image": "https://den-cards.pokellector.com/63/Spheal.LM.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Spheal.LM.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "65/92",
+      "card_number": "65",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Spheal.LM.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fspheal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163421.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Spheal+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spheal+-+65%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-65.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Tentacool",
+      "title": "Tentacool - EX Legend Maker #66",
+      "link": "/EX-Legend-Maker-Expansion/Tentacool-Card-66",
+      "image": "https://den-cards.pokellector.com/63/Tentacool.LM.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Tentacool.LM.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "66/92",
+      "card_number": "66",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Tentacool.LM.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ftentacool"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163428.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Tentacool+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacool+-+66%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-66.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Trapinch",
+      "title": "Trapinch - EX Legend Maker #67",
+      "link": "/EX-Legend-Maker-Expansion/Trapinch-Card-67",
+      "image": "https://den-cards.pokellector.com/63/Trapinch.LM.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Trapinch.LM.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "67/92",
+      "card_number": "67",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Trapinch.LM.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ftrapinch"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p163432.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Trapinch+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Trapinch+-+67%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-67.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Voltorb",
+      "title": "Voltorb - EX Legend Maker #68",
+      "link": "/EX-Legend-Maker-Expansion/Voltorb-Card-68",
+      "image": "https://den-cards.pokellector.com/63/Voltorb.LM.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Voltorb.LM.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "68/92",
+      "card_number": "68",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Voltorb.LM.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fvoltorb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163439.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Voltorb+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+68%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-68.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Wailmer",
+      "title": "Wailmer - EX Legend Maker #69",
+      "link": "/EX-Legend-Maker-Expansion/Wailmer-Card-69",
+      "image": "https://den-cards.pokellector.com/63/Wailmer.LM.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Wailmer.LM.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "69/92",
+      "card_number": "69",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Wailmer.LM.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwailmer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163440.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Wailmer+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wailmer+-+69%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-69.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Wurmple",
+      "title": "Wurmple - EX Legend Maker #70",
+      "link": "/EX-Legend-Maker-Expansion/Wurmple-Card-70",
+      "image": "https://den-cards.pokellector.com/63/Wurmple.LM.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Wurmple.LM.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "70/92",
+      "card_number": "70",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Wurmple.LM.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwurmple"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163458.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Wurmple+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wurmple+-+70%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-70.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Wynaut",
+      "title": "Wynaut - EX Legend Maker #71",
+      "link": "/EX-Legend-Maker-Expansion/Wynaut-Card-71",
+      "image": "https://den-cards.pokellector.com/63/Wynaut.LM.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Wynaut.LM.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "71/92",
+      "card_number": "71",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Wynaut.LM.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwynaut"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163459.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Wynaut+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wynaut+-+71%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-71.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Cursed Stone",
+      "title": "Cursed Stone - EX Legend Maker #72",
+      "link": "/EX-Legend-Maker-Expansion/Cursed-Stone-Card-72",
+      "image": "https://den-cards.pokellector.com/63/Cursed-Stone.LM.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Cursed-Stone.LM.72.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "72/92",
+      "card_number": "72",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Cursed-Stone.LM.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fcursed-stone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.48",
+          "link": "http://www.trollandtoad.com/p163347.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Cursed+Stone+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cursed+Stone+-+72%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-72.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Fieldworker",
+      "title": "Fieldworker - EX Legend Maker #73",
+      "link": "/EX-Legend-Maker-Expansion/Fieldworker-Card-73",
+      "image": "https://den-cards.pokellector.com/63/Fieldworker.LM.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Fieldworker.LM.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "73/92",
+      "card_number": "73",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Fieldworker.LM.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ffieldworker"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163357.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$28.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Fieldworker+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fieldworker+-+73%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-73.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Full Flame",
+      "title": "Full Flame - EX Legend Maker #74",
+      "link": "/EX-Legend-Maker-Expansion/Full-Flame-Card-74",
+      "image": "https://den-cards.pokellector.com/63/Full-Flame.LM.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Full-Flame.LM.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "74/92",
+      "card_number": "74",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Full-Flame.LM.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Ffull-flame"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p163359.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Full+Flame+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-74.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Full+Flame+-+74%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Giant Stump",
+      "title": "Giant Stump - EX Legend Maker #75",
+      "link": "/EX-Legend-Maker-Expansion/Giant-Stump-Card-75",
+      "image": "https://den-cards.pokellector.com/63/Giant-Stump.LM.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Giant-Stump.LM.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "75/92",
+      "card_number": "75",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Giant-Stump.LM.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fgiant-stump"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p163364.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Giant+Stump+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Giant+Stump+-+75%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-75.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Power Tree",
+      "title": "Power Tree - EX Legend Maker #76",
+      "link": "/EX-Legend-Maker-Expansion/Power-Tree-Card-76",
+      "image": "https://den-cards.pokellector.com/63/Power-Tree.LM.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Power-Tree.LM.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "76/92",
+      "card_number": "76",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Power-Tree.LM.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fpower-tree"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p163404.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Power+Tree+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Power+Tree+-+76%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-76.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Strange Cave",
+      "title": "Strange Cave - EX Legend Maker #77",
+      "link": "/EX-Legend-Maker-Expansion/Strange-Cave-Card-77",
+      "image": "https://den-cards.pokellector.com/63/Strange-Cave.LM.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Strange-Cave.LM.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "77/92",
+      "card_number": "77",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Strange-Cave.LM.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fstrange-cave"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p163424.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Strange+Cave+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-77.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Strange+Cave+-+77%2F92"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Claw Fossil",
+      "title": "Claw Fossil - EX Legend Maker #78",
+      "link": "/EX-Legend-Maker-Expansion/Claw-Fossil-Card-78",
+      "image": "https://den-cards.pokellector.com/63/Claw-Fossil.LM.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Claw-Fossil.LM.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "78/92",
+      "card_number": "78",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Claw-Fossil.LM.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fclaw-fossil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163344.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Claw+Fossil+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Claw+Fossil+-+78%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-78.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Mysterious Fossil",
+      "title": "Mysterious Fossil - EX Legend Maker #79",
+      "link": "/EX-Legend-Maker-Expansion/Mysterious-Fossil-Card-79",
+      "image": "https://den-cards.pokellector.com/63/Mysterious-Fossil.LM.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Mysterious-Fossil.LM.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "79/92",
+      "card_number": "79",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Mysterious-Fossil.LM.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmysterious-fossil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163395.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Mysterious+Fossil+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mysterious+Fossil+-+79%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-79.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Root Fossil",
+      "title": "Root Fossil - EX Legend Maker #80",
+      "link": "/EX-Legend-Maker-Expansion/Root-Fossil-Card-80",
+      "image": "https://den-cards.pokellector.com/63/Root-Fossil.LM.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Root-Fossil.LM.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "80/92",
+      "card_number": "80",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Root-Fossil.LM.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Froot-fossil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p163411.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Root+Fossil+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Root+Fossil+-+80%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-80.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Rainbow Energy",
+      "title": "Rainbow Energy - EX Legend Maker #81",
+      "link": "/EX-Legend-Maker-Expansion/Rainbow-Energy-Card-81",
+      "image": "https://den-cards.pokellector.com/63/Rainbow-Energy.LM.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Rainbow-Energy.LM.81.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "81/92",
+      "card_number": "81",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Rainbow-Energy.LM.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Frainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p163405.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Rainbow+Energy+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rainbow+Energy+-+81%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-81.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "React Energy",
+      "title": "React Energy - EX Legend Maker #82",
+      "link": "/EX-Legend-Maker-Expansion/React-Energy-Card-82",
+      "image": "https://den-cards.pokellector.com/63/React-Energy.LM.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/React-Energy.LM.82.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "82/92",
+      "card_number": "82",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/React-Energy.LM.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Freact-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p163406.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+React+Energy+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/React+Energy+-+82%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-82.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Arcanine ex",
+      "title": "Arcanine ex - EX Legend Maker #83",
+      "link": "/EX-Legend-Maker-Expansion/Arcanine-ex-Card-83",
+      "image": "https://den-cards.pokellector.com/63/Arcanine-ex.LM.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Arcanine-ex.LM.83.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "83/92",
+      "card_number": "83",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Arcanine-ex.LM.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$364.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Farcanine-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$199.99",
+          "link": "http://www.trollandtoad.com/p163331.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$59.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Arcanine+ex+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Arcanine+ex+-+83%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-83.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Armaldo ex",
+      "title": "Armaldo ex - EX Legend Maker #84",
+      "link": "/EX-Legend-Maker-Expansion/Armaldo-ex-Card-84",
+      "image": "https://den-cards.pokellector.com/63/Armaldo-ex.LM.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Armaldo-ex.LM.84.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "84/92",
+      "card_number": "84",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Armaldo-ex.LM.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$99.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Farmaldo-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p163333.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$34.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Armaldo+ex+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Armaldo+ex+-+84%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-84.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Banette ex",
+      "title": "Banette ex - EX Legend Maker #85",
+      "link": "/EX-Legend-Maker-Expansion/Banette-ex-Card-85",
+      "image": "https://den-cards.pokellector.com/63/Banette-ex.LM.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Banette-ex.LM.85.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "85/92",
+      "card_number": "85",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Banette-ex.LM.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$148.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fbanette-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p163335.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Banette+ex+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Banette+ex+-+85%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-85.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "86": {
+      "number": "86",
+      "name": "Dustox ex",
+      "title": "Dustox ex - EX Legend Maker #86",
+      "link": "/EX-Legend-Maker-Expansion/Dustox-ex-Card-86",
+      "image": "https://den-cards.pokellector.com/63/Dustox-ex.LM.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Dustox-ex.LM.86.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "86/92",
+      "card_number": "86",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Dustox-ex.LM.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$39.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fdustox-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$37.79",
+          "link": "http://www.trollandtoad.com/p163353.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Dustox+ex+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dustox+ex+-+86%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-86.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "87": {
+      "number": "87",
+      "name": "Flygon ex",
+      "title": "Flygon ex - EX Legend Maker #87",
+      "link": "/EX-Legend-Maker-Expansion/Flygon-ex-Card-87",
+      "image": "https://den-cards.pokellector.com/63/Flygon-ex.LM.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Flygon-ex.LM.87.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "87/92",
+      "card_number": "87",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Flygon-ex.LM.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$169.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fflygon-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$83.89",
+          "link": "http://www.trollandtoad.com/p163358.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$59.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Flygon+ex+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$49.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-87.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flygon+ex+-+87%2F92"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "88": {
+      "number": "88",
+      "name": "Mew ex",
+      "title": "Mew ex - EX Legend Maker #88",
+      "link": "/EX-Legend-Maker-Expansion/Mew-ex-Card-88",
+      "image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "88/92",
+      "card_number": "88",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$149.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmew-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$160.99",
+          "link": "http://www.trollandtoad.com/p163392.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$42.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Mew+ex+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mew+ex+-+88%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$59.90",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-88.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.40596.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Walrein ex",
+      "title": "Walrein ex - EX Legend Maker #89",
+      "link": "/EX-Legend-Maker-Expansion/Walrein-ex-Card-89",
+      "image": "https://den-cards.pokellector.com/63/Walrein-ex.LM.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Walrein-ex.LM.89.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "89/92",
+      "card_number": "89",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Walrein-ex.LM.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fwalrein-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$48.69",
+          "link": "http://www.trollandtoad.com/p163442.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Walrein+ex+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Walrein+ex+-+89%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-89.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Regice *",
+      "title": "Regice * - EX Legend Maker #90",
+      "link": "/EX-Legend-Maker-Expansion/Regice--Card-90",
+      "image": "https://den-cards.pokellector.com/63/Regice-.LM.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Regice-.LM.90.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "90/92",
+      "card_number": "90",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Regice-.LM.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1,250.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fregice-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$549.99",
+          "link": "http://www.trollandtoad.com/p163407.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$200.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Regice+%2A+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$44.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regice+%2A+%28Star%29+-+90%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$99.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-90.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Regirock *",
+      "title": "Regirock * - EX Legend Maker #91",
+      "link": "/EX-Legend-Maker-Expansion/Regirock--Card-91",
+      "image": "https://den-cards.pokellector.com/63/Regirock-.LM.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Regirock-.LM.91.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "91/92",
+      "card_number": "91",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Regirock-.LM.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$699.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fregirock-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$474.99",
+          "link": "http://www.trollandtoad.com/p163408.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$297.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Regirock+%2A+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$44.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regirock+%2A+%28Star%29+-+91%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$109.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-91.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Registeel *",
+      "title": "Registeel * - EX Legend Maker #92",
+      "link": "/EX-Legend-Maker-Expansion/Registeel--Card-92",
+      "image": "https://den-cards.pokellector.com/63/Registeel-.LM.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Registeel-.LM.92.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "92/92",
+      "card_number": "92",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Registeel-.LM.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$799.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fregisteel-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$449.99",
+          "link": "http://www.trollandtoad.com/p163409.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$189.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Registeel+%2A+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-92.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$39.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Registeel+%2A+%28Star%29+-+92%2F92"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Pikachu  (delta species)",
+      "title": "Pikachu  (delta species) - EX Legend Maker #93",
+      "link": "/EX-Legend-Maker-Expansion/Pikachu-delta-species-Card-93",
+      "image": "https://den-cards.pokellector.com/63/Pikachu-.LM.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Pikachu-.LM.93.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "93/92",
+      "card_number": "93",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Pikachu-.LM.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$130.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fpikachu-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$89.99",
+          "link": "http://www.trollandtoad.com/p163402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$65.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Pikachu++%28delta+species%29+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-93.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:42:32"
+}

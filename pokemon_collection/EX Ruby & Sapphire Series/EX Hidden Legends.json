@@ -1,0 +1,5122 @@
+{
+  "title": "EX Hidden Legends Set",
+  "link": "/EX-Hidden-Legends-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.logo.56.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.symbol.56.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Banette",
+      "title": "Banette - EX Hidden Legends #1",
+      "link": "/EX-Hidden-Legends-Expansion/Banette-Card-1",
+      "image": "https://den-cards.pokellector.com/56/Banette.HL.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Banette.HL.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "1/101",
+      "card_number": "1",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Banette.HL.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$35.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbanette"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.49",
+          "link": "http://www.trollandtoad.com/p1121974.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Banette+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Banette+-+1%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.14",
+          "link": "http://stop2shop.com/hidden-legends-1.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Claydol",
+      "title": "Claydol - EX Hidden Legends #2",
+      "link": "/EX-Hidden-Legends-Expansion/Claydol-Card-2",
+      "image": "https://den-cards.pokellector.com/56/Claydol.HL.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Claydol.HL.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "2/101",
+      "card_number": "2",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Claydol.HL.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fclaydol-2"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.19",
+          "link": "http://www.trollandtoad.com/p1121985.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Claydol+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Claydol+-+2%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.24",
+          "link": "http://stop2shop.com/hidden-legends-2.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Crobat",
+      "title": "Crobat - EX Hidden Legends #3",
+      "link": "/EX-Hidden-Legends-Expansion/Crobat-Card-3",
+      "image": "https://den-cards.pokellector.com/56/Crobat.HL.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Crobat.HL.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "3/101",
+      "card_number": "3",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Crobat.HL.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fcrobat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.59",
+          "link": "http://www.trollandtoad.com/p156928.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Crobat+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crobat+-+3%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.07",
+          "link": "http://stop2shop.com/hidden-legends-3.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Dark Celebi",
+      "title": "Dark Celebi - EX Hidden Legends #4",
+      "link": "/EX-Hidden-Legends-Expansion/Dark-Celebi-Card-4",
+      "image": "https://den-cards.pokellector.com/56/Dark-Celebi.HL.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Dark-Celebi.HL.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "4/101",
+      "card_number": "4",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Dark-Celebi.HL.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$39.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fdark-celebi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p156940.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Dark+Celebi+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Celebi+-+4%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.91",
+          "link": "http://stop2shop.com/hidden-legends-4.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Electrode",
+      "title": "Electrode - EX Hidden Legends #5",
+      "link": "/EX-Hidden-Legends-Expansion/Electrode-Card-5",
+      "image": "https://den-cards.pokellector.com/56/Electrode.HL.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Electrode.HL.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "5/101",
+      "card_number": "5",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Electrode.HL.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p1121994.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Electrode+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+5%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.52",
+          "link": "http://stop2shop.com/hidden-legends-5.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Exploud",
+      "title": "Exploud - EX Hidden Legends #6",
+      "link": "/EX-Hidden-Legends-Expansion/Exploud-Card-6",
+      "image": "https://den-cards.pokellector.com/56/Exploud.HL.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Exploud.HL.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "6/101",
+      "card_number": "6",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Exploud.HL.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fexploud"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.19",
+          "link": "http://www.trollandtoad.com/p1121995.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Exploud+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Exploud+-+6%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.45",
+          "link": "http://stop2shop.com/hidden-legends-6.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Heracross",
+      "title": "Heracross - EX Hidden Legends #7",
+      "link": "/EX-Hidden-Legends-Expansion/Heracross-Card-7",
+      "image": "https://den-cards.pokellector.com/56/Heracross.HL.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Heracross.HL.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "7/101",
+      "card_number": "7",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Heracross.HL.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fheracross"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.89",
+          "link": "http://www.trollandtoad.com/p157082.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Heracross+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.42",
+          "link": "http://stop2shop.com/hidden-legends-7.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Heracross+-+7%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Jirachi",
+      "title": "Jirachi - EX Hidden Legends #8",
+      "link": "/EX-Hidden-Legends-Expansion/Jirachi-Card-8",
+      "image": "https://den-cards.pokellector.com/56/Jirachi.HL.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Jirachi.HL.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "8/101",
+      "card_number": "8",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Jirachi.HL.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fjirachi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p157132.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Jirachi+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jirachi+-+8%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.68",
+          "link": "http://stop2shop.com/hidden-legends-8.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Machamp",
+      "title": "Machamp - EX Hidden Legends #9",
+      "link": "/EX-Hidden-Legends-Expansion/Machamp-Card-9",
+      "image": "https://den-cards.pokellector.com/56/Machamp.HL.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Machamp.HL.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "9/101",
+      "card_number": "9",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Machamp.HL.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$21.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmachamp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.89",
+          "link": "http://www.trollandtoad.com/p1122012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Machamp+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+-+9%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.50",
+          "link": "http://stop2shop.com/hidden-legends-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Medicham",
+      "title": "Medicham - EX Hidden Legends #10",
+      "link": "/EX-Hidden-Legends-Expansion/Medicham-Card-10",
+      "image": "https://den-cards.pokellector.com/56/Medicham.HL.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Medicham.HL.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "10/101",
+      "card_number": "10",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Medicham.HL.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmedicham-10"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.69",
+          "link": "http://www.trollandtoad.com/p1122017.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Medicham+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Medicham+-+10%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.74",
+          "link": "http://stop2shop.com/hidden-legends-10.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Metagross",
+      "title": "Metagross - EX Hidden Legends #11",
+      "link": "/EX-Hidden-Legends-Expansion/Metagross-Card-11",
+      "image": "https://den-cards.pokellector.com/56/Metagross.HL.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Metagross.HL.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "11/101",
+      "card_number": "11",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Metagross.HL.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmetagross"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.49",
+          "link": "http://www.trollandtoad.com/p1122021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Metagross+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.86",
+          "link": "http://stop2shop.com/hidden-legends-11.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metagross+-+11%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Milotic",
+      "title": "Milotic - EX Hidden Legends #12",
+      "link": "/EX-Hidden-Legends-Expansion/Milotic-Card-12",
+      "image": "https://den-cards.pokellector.com/56/Milotic.HL.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Milotic.HL.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "12/101",
+      "card_number": "12",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Milotic.HL.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmilotic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.69",
+          "link": "http://www.trollandtoad.com/p1122025.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Milotic+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Milotic+-+12%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.41",
+          "link": "http://stop2shop.com/hidden-legends-12.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Pinsir",
+      "title": "Pinsir - EX Hidden Legends #13",
+      "link": "/EX-Hidden-Legends-Expansion/Pinsir-Card-13",
+      "image": "https://den-cards.pokellector.com/56/Pinsir.HL.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Pinsir.HL.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "13/101",
+      "card_number": "13",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Pinsir.HL.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fpinsir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.89",
+          "link": "http://www.trollandtoad.com/p1122030.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Pinsir+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pinsir+-+13%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.14",
+          "link": "http://stop2shop.com/hidden-legends-13.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Shiftry",
+      "title": "Shiftry - EX Hidden Legends #14",
+      "link": "/EX-Hidden-Legends-Expansion/Shiftry-Card-14",
+      "image": "https://den-cards.pokellector.com/56/Shiftry.HL.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Shiftry.HL.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "14/101",
+      "card_number": "14",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Shiftry.HL.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fshiftry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.89",
+          "link": "http://www.trollandtoad.com/p157445.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Shiftry+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shiftry+-+14%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.02",
+          "link": "http://stop2shop.com/hidden-legends-14.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Walrein",
+      "title": "Walrein - EX Hidden Legends #15",
+      "link": "/EX-Hidden-Legends-Expansion/Walrein-Card-15",
+      "image": "https://den-cards.pokellector.com/56/Walrein.HL.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Walrein.HL.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "15/101",
+      "card_number": "15",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Walrein.HL.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fwalrein"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p1122057.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Walrein+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Walrein+-+15%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.93",
+          "link": "http://stop2shop.com/hidden-legends-15.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Bellossom",
+      "title": "Bellossom - EX Hidden Legends #16",
+      "link": "/EX-Hidden-Legends-Expansion/Bellossom-Card-16",
+      "image": "https://den-cards.pokellector.com/56/Bellossom.HL.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Bellossom.HL.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "16/101",
+      "card_number": "16",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Bellossom.HL.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbellossom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p156850.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Bellossom+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bellossom+-+16%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.52",
+          "link": "http://stop2shop.com/hidden-legends-16.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Chimecho",
+      "title": "Chimecho - EX Hidden Legends #17",
+      "link": "/EX-Hidden-Legends-Expansion/Chimecho-Card-17",
+      "image": "https://den-cards.pokellector.com/56/Chimecho.HL.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Chimecho.HL.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "17/101",
+      "card_number": "17",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Chimecho.HL.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fchimecho"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156896.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Chimecho+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chimecho+-+17%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.54",
+          "link": "http://stop2shop.com/hidden-legends-17.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Gorebyss",
+      "title": "Gorebyss - EX Hidden Legends #18",
+      "link": "/EX-Hidden-Legends-Expansion/Gorebyss-Card-18",
+      "image": "https://den-cards.pokellector.com/56/Gorebyss.HL.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Gorebyss.HL.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "18/101",
+      "card_number": "18",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Gorebyss.HL.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgorebyss"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p157059.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Gorebyss+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gorebyss+-+18%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.32",
+          "link": "http://stop2shop.com/hidden-legends-18.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Huntail",
+      "title": "Huntail - EX Hidden Legends #19",
+      "link": "/EX-Hidden-Legends-Expansion/Huntail-Card-19",
+      "image": "https://den-cards.pokellector.com/56/Huntail.HL.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Huntail.HL.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "19/101",
+      "card_number": "19",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Huntail.HL.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fhuntail"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157120.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Huntail+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Huntail+-+19%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/hidden-legends-19.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Masquerain",
+      "title": "Masquerain - EX Hidden Legends #20",
+      "link": "/EX-Hidden-Legends-Expansion/Masquerain-Card-20",
+      "image": "https://den-cards.pokellector.com/56/Masquerain.HL.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Masquerain.HL.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "20/101",
+      "card_number": "20",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Masquerain.HL.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmasquerain"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157225.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Masquerain+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Masquerain+-+20%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/hidden-legends-20.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Metang",
+      "title": "Metang - EX Hidden Legends #21",
+      "link": "/EX-Hidden-Legends-Expansion/Metang-Card-21",
+      "image": "https://den-cards.pokellector.com/56/Metang.HL.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Metang.HL.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "21/101",
+      "card_number": "21",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Metang.HL.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmetang-21"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157254.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Metang+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metang+-+21%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.00",
+          "link": "http://stop2shop.com/hidden-legends-21.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Ninetales",
+      "title": "Ninetales - EX Hidden Legends #22",
+      "link": "/EX-Hidden-Legends-Expansion/Ninetales-Card-22",
+      "image": "https://den-cards.pokellector.com/56/Ninetales.HL.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ninetales.HL.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "22/101",
+      "card_number": "22",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ninetales.HL.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.54",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fninetales"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p157293.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ninetales+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninetales+-+22%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.84",
+          "link": "http://stop2shop.com/hidden-legends-22.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Rain Castform",
+      "title": "Rain Castform - EX Hidden Legends #23",
+      "link": "/EX-Hidden-Legends-Expansion/Rain-Castform-Card-23",
+      "image": "https://den-cards.pokellector.com/56/Rain-Castform.HL.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Rain-Castform.HL.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "23/101",
+      "card_number": "23",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Rain-Castform.HL.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.52",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Frain-castform"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p157379.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Rain+Castform+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rain+Castform+-+23%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.81",
+          "link": "http://stop2shop.com/hidden-legends-23.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Relicanth",
+      "title": "Relicanth - EX Hidden Legends #24",
+      "link": "/EX-Hidden-Legends-Expansion/Relicanth-Card-24",
+      "image": "https://den-cards.pokellector.com/56/Relicanth.HL.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Relicanth.HL.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "24/101",
+      "card_number": "24",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Relicanth.HL.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Frelicanth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157398.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Relicanth+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Relicanth+-+24%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.51",
+          "link": "http://stop2shop.com/hidden-legends-24.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Snow-cloud Castform",
+      "title": "Snow-cloud Castform - EX Hidden Legends #25",
+      "link": "/EX-Hidden-Legends-Expansion/Snow-cloud-Castform-Card-25",
+      "image": "https://den-cards.pokellector.com/56/Snow-cloud-Castform.HL.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Snow-cloud-Castform.HL.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "25/101",
+      "card_number": "25",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Snow-cloud-Castform.HL.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fsnow-cloud-castform"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157476.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Snow-cloud+Castform+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snow-Cloud+Castform+-+25%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.71",
+          "link": "http://stop2shop.com/hidden-legends-25.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Sunny Castform",
+      "title": "Sunny Castform - EX Hidden Legends #26",
+      "link": "/EX-Hidden-Legends-Expansion/Sunny-Castform-Card-26",
+      "image": "https://den-cards.pokellector.com/56/Sunny-Castform.HL.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Sunny-Castform.HL.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "26/101",
+      "card_number": "26",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Sunny-Castform.HL.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fsunny-castform"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p157510.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Sunny+Castform+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sunny+Castform+-+26%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.65",
+          "link": "http://stop2shop.com/hidden-legends-26.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Tropius",
+      "title": "Tropius - EX Hidden Legends #27",
+      "link": "/EX-Hidden-Legends-Expansion/Tropius-Card-27",
+      "image": "https://den-cards.pokellector.com/56/Tropius.HL.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Tropius.HL.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "27/101",
+      "card_number": "27",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Tropius.HL.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ftropius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157556.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Tropius+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropius+-+27%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.61",
+          "link": "http://stop2shop.com/hidden-legends-27.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Beldum",
+      "title": "Beldum - EX Hidden Legends #28",
+      "link": "/EX-Hidden-Legends-Expansion/Beldum-Card-28",
+      "image": "https://den-cards.pokellector.com/56/Beldum.HL.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Beldum.HL.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "28/101",
+      "card_number": "28",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Beldum.HL.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbeldum-28"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156845.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Beldum+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beldum+-+28%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/hidden-legends-28.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Beldum",
+      "title": "Beldum - EX Hidden Legends #29",
+      "link": "/EX-Hidden-Legends-Expansion/Beldum-Card-29",
+      "image": "https://den-cards.pokellector.com/56/Beldum.HL.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Beldum.HL.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "29/101",
+      "card_number": "29",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Beldum.HL.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbeldum-29"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p156846.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Beldum+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beldum+-+29%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.11",
+          "link": "http://stop2shop.com/hidden-legends-29.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Castform",
+      "title": "Castform - EX Hidden Legends #30",
+      "link": "/EX-Hidden-Legends-Expansion/Castform-Card-30",
+      "image": "https://den-cards.pokellector.com/56/Castform.HL.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Castform.HL.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "30/101",
+      "card_number": "30",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Castform.HL.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fcastform"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p156875.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Castform+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Castform+-+30%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.73",
+          "link": "http://stop2shop.com/hidden-legends-30.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Claydol",
+      "title": "Claydol - EX Hidden Legends #31",
+      "link": "/EX-Hidden-Legends-Expansion/Claydol-Card-31",
+      "image": "https://den-cards.pokellector.com/56/Claydol.HL.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Claydol.HL.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "31/101",
+      "card_number": "31",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Claydol.HL.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fclaydol-31"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p156907.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Claydol+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Claydol+-+31%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/hidden-legends-31.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Corsola",
+      "title": "Corsola - EX Hidden Legends #32",
+      "link": "/EX-Hidden-Legends-Expansion/Corsola-Card-32",
+      "image": "https://den-cards.pokellector.com/56/Corsola.HL.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Corsola.HL.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "32/101",
+      "card_number": "32",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Corsola.HL.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fcorsola"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p156921.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.23",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Corsola+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Corsola+-+32%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.48",
+          "link": "http://stop2shop.com/hidden-legends-32.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Dodrio",
+      "title": "Dodrio - EX Hidden Legends #33",
+      "link": "/EX-Hidden-Legends-Expansion/Dodrio-Card-33",
+      "image": "https://den-cards.pokellector.com/56/Dodrio.HL.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Dodrio.HL.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "33/101",
+      "card_number": "33",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Dodrio.HL.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fdodrio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156967.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Dodrio+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dodrio+-+33%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hidden-legends-33.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Glalie",
+      "title": "Glalie - EX Hidden Legends #34",
+      "link": "/EX-Hidden-Legends-Expansion/Glalie-Card-34",
+      "image": "https://den-cards.pokellector.com/56/Glalie.HL.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Glalie.HL.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "34/101",
+      "card_number": "34",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Glalie.HL.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fglalie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157049.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Glalie+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glalie+-+34%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.52",
+          "link": "http://stop2shop.com/hidden-legends-34.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Gloom",
+      "title": "Gloom - EX Hidden Legends #35",
+      "link": "/EX-Hidden-Legends-Expansion/Gloom-Card-35",
+      "image": "https://den-cards.pokellector.com/56/Gloom.HL.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Gloom.HL.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "35/101",
+      "card_number": "35",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Gloom.HL.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgloom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157052.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Gloom+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gloom+-+35%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/hidden-legends-35.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Golbat",
+      "title": "Golbat - EX Hidden Legends #36",
+      "link": "/EX-Hidden-Legends-Expansion/Golbat-Card-36",
+      "image": "https://den-cards.pokellector.com/56/Golbat.HL.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Golbat.HL.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "36/101",
+      "card_number": "36",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Golbat.HL.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgolbat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157056.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Golbat+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golbat+-+36%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/hidden-legends-36.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Igglybuff",
+      "title": "Igglybuff - EX Hidden Legends #37",
+      "link": "/EX-Hidden-Legends-Expansion/Igglybuff-Card-37",
+      "image": "https://den-cards.pokellector.com/56/Igglybuff.HL.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Igglybuff.HL.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "37/101",
+      "card_number": "37",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Igglybuff.HL.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Figglybuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157123.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Igglybuff+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Igglybuff+-+37%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/hidden-legends-37.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Lanturn",
+      "title": "Lanturn - EX Hidden Legends #38",
+      "link": "/EX-Hidden-Legends-Expansion/Lanturn-Card-38",
+      "image": "https://den-cards.pokellector.com/56/Lanturn.HL.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Lanturn.HL.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "38/101",
+      "card_number": "38",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Lanturn.HL.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Flanturn"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p157165.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.54",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Lanturn+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lanturn+-+38%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.50",
+          "link": "http://stop2shop.com/hidden-legends-38.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Loudred",
+      "title": "Loudred - EX Hidden Legends #39",
+      "link": "/EX-Hidden-Legends-Expansion/Loudred-Card-39",
+      "image": "https://den-cards.pokellector.com/56/Loudred.HL.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Loudred.HL.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "39/101",
+      "card_number": "39",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Loudred.HL.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Floudred"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1122010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Loudred+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Loudred+-+39%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.32",
+          "link": "http://stop2shop.com/hidden-legends-39.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Luvdisc",
+      "title": "Luvdisc - EX Hidden Legends #40",
+      "link": "/EX-Hidden-Legends-Expansion/Luvdisc-Card-40",
+      "image": "https://den-cards.pokellector.com/56/Luvdisc.HL.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Luvdisc.HL.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "40/101",
+      "card_number": "40",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Luvdisc.HL.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fluvdisc"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1122011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Luvdisc+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luvdisc+-+40%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.48",
+          "link": "http://stop2shop.com/hidden-legends-40.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Machoke",
+      "title": "Machoke - EX Hidden Legends #41",
+      "link": "/EX-Hidden-Legends-Expansion/Machoke-Card-41",
+      "image": "https://den-cards.pokellector.com/56/Machoke.HL.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Machoke.HL.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "41/101",
+      "card_number": "41",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Machoke.HL.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmachoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157202.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Machoke+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machoke+-+41%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.63",
+          "link": "http://stop2shop.com/hidden-legends-41.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Medicham",
+      "title": "Medicham - EX Hidden Legends #42",
+      "link": "/EX-Hidden-Legends-Expansion/Medicham-Card-42",
+      "image": "https://den-cards.pokellector.com/56/Medicham.HL.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Medicham.HL.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "42/101",
+      "card_number": "42",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Medicham.HL.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmedicham-42"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157234.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Medicham+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Medicham+-+42%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/hidden-legends-42.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Metang",
+      "title": "Metang - EX Hidden Legends #43",
+      "link": "/EX-Hidden-Legends-Expansion/Metang-Card-43",
+      "image": "https://den-cards.pokellector.com/56/Metang.HL.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Metang.HL.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "43/101",
+      "card_number": "43",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Metang.HL.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmetang-43"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157256.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Metang+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metang+-+43%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hidden-legends-43.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Metang",
+      "title": "Metang - EX Hidden Legends #44",
+      "link": "/EX-Hidden-Legends-Expansion/Metang-Card-44",
+      "image": "https://den-cards.pokellector.com/56/Metang.HL.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Metang.HL.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "44/101",
+      "card_number": "44",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Metang.HL.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmetang-44"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157257.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Metang+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metang+-+44%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.76",
+          "link": "http://stop2shop.com/hidden-legends-44.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Nuzleaf",
+      "title": "Nuzleaf - EX Hidden Legends #45",
+      "link": "/EX-Hidden-Legends-Expansion/Nuzleaf-Card-45",
+      "image": "https://den-cards.pokellector.com/56/Nuzleaf.HL.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Nuzleaf.HL.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "45/101",
+      "card_number": "45",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Nuzleaf.HL.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fnuzleaf"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157302.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Nuzleaf+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nuzleaf+-+45%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/hidden-legends-45.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Rhydon",
+      "title": "Rhydon - EX Hidden Legends #46",
+      "link": "/EX-Hidden-Legends-Expansion/Rhydon-Card-46",
+      "image": "https://den-cards.pokellector.com/56/Rhydon.HL.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Rhydon.HL.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "46/101",
+      "card_number": "46",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Rhydon.HL.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Frhydon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p157401.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Rhydon+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.51",
+          "link": "http://stop2shop.com/hidden-legends-46.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rhydon+-+46%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Sealeo",
+      "title": "Sealeo - EX Hidden Legends #47",
+      "link": "/EX-Hidden-Legends-Expansion/Sealeo-Card-47",
+      "image": "https://den-cards.pokellector.com/56/Sealeo.HL.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Sealeo.HL.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "47/101",
+      "card_number": "47",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Sealeo.HL.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.87",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fsealeo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157430.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Sealeo+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sealeo+-+47%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/hidden-legends-47.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Spinda",
+      "title": "Spinda - EX Hidden Legends #48",
+      "link": "/EX-Hidden-Legends-Expansion/Spinda-Card-48",
+      "image": "https://den-cards.pokellector.com/56/Spinda.HL.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Spinda.HL.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "48/101",
+      "card_number": "48",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Spinda.HL.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fspinda"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157487.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Spinda+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spinda+-+48%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/hidden-legends-48.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Starmie",
+      "title": "Starmie - EX Hidden Legends #49",
+      "link": "/EX-Hidden-Legends-Expansion/Starmie-Card-49",
+      "image": "https://den-cards.pokellector.com/56/Starmie.HL.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Starmie.HL.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "49/101",
+      "card_number": "49",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Starmie.HL.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fstarmie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157494.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Starmie+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.32",
+          "link": "http://stop2shop.com/hidden-legends-49.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Starmie+-+49%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Swalot",
+      "title": "Swalot - EX Hidden Legends #50",
+      "link": "/EX-Hidden-Legends-Expansion/Swalot-Card-50",
+      "image": "https://den-cards.pokellector.com/56/Swalot.HL.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Swalot.HL.50.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "50/101",
+      "card_number": "50",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Swalot.HL.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fswalot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157519.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Swalot+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swalot+-+50%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.63",
+          "link": "http://stop2shop.com/hidden-legends-50.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Tentacruel",
+      "title": "Tentacruel - EX Hidden Legends #51",
+      "link": "/EX-Hidden-Legends-Expansion/Tentacruel-Card-51",
+      "image": "https://den-cards.pokellector.com/56/Tentacruel.HL.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Tentacruel.HL.51.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "51/101",
+      "card_number": "51",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Tentacruel.HL.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ftentacruel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157533.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Tentacruel+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacruel+-+51%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.31",
+          "link": "http://stop2shop.com/hidden-legends-51.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Baltoy",
+      "title": "Baltoy - EX Hidden Legends #52",
+      "link": "/EX-Hidden-Legends-Expansion/Baltoy-Card-52",
+      "image": "https://den-cards.pokellector.com/56/Baltoy.HL.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Baltoy.HL.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "52/101",
+      "card_number": "52",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Baltoy.HL.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbaltoy-52"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p156834.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Baltoy+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Baltoy+-+52%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/hidden-legends-52.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Baltoy",
+      "title": "Baltoy - EX Hidden Legends #53",
+      "link": "/EX-Hidden-Legends-Expansion/Baltoy-Card-53",
+      "image": "https://den-cards.pokellector.com/56/Baltoy.HL.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Baltoy.HL.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "53/101",
+      "card_number": "53",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Baltoy.HL.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbaltoy-53"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156835.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.84",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Baltoy+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Baltoy+-+53%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.20",
+          "link": "http://stop2shop.com/hidden-legends-53.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Beldum",
+      "title": "Beldum - EX Hidden Legends #54",
+      "link": "/EX-Hidden-Legends-Expansion/Beldum-Card-54",
+      "image": "https://den-cards.pokellector.com/56/Beldum.HL.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Beldum.HL.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "54/101",
+      "card_number": "54",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Beldum.HL.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fbeldum-54"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p156848.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Beldum+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beldum+-+54%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.18",
+          "link": "http://stop2shop.com/hidden-legends-54.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Chikorita",
+      "title": "Chikorita - EX Hidden Legends #55",
+      "link": "/EX-Hidden-Legends-Expansion/Chikorita-Card-55",
+      "image": "https://den-cards.pokellector.com/56/Chikorita.HL.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Chikorita.HL.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "55/101",
+      "card_number": "55",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Chikorita.HL.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fchikorita"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156894.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Chikorita+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chikorita+-+55%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.31",
+          "link": "http://stop2shop.com/hidden-legends-55.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Chinchou",
+      "title": "Chinchou - EX Hidden Legends #56",
+      "link": "/EX-Hidden-Legends-Expansion/Chinchou-Card-56",
+      "image": "https://den-cards.pokellector.com/56/Chinchou.HL.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Chinchou.HL.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "56/101",
+      "card_number": "56",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Chinchou.HL.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fchinchou-56"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156900.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Chinchou+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chinchou+-+56%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.23",
+          "link": "http://stop2shop.com/hidden-legends-56.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Chinchou",
+      "title": "Chinchou - EX Hidden Legends #57",
+      "link": "/EX-Hidden-Legends-Expansion/Chinchou-Card-57",
+      "image": "https://den-cards.pokellector.com/56/Chinchou.HL.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Chinchou.HL.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "57/101",
+      "card_number": "57",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Chinchou.HL.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fchinchou-57"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156901.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Chinchou+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.38",
+          "link": "http://stop2shop.com/hidden-legends-57.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chinchou+-+57%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Clamperl",
+      "title": "Clamperl - EX Hidden Legends #58",
+      "link": "/EX-Hidden-Legends-Expansion/Clamperl-Card-58",
+      "image": "https://den-cards.pokellector.com/56/Clamperl.HL.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Clamperl.HL.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "58/101",
+      "card_number": "58",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Clamperl.HL.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fclamperl"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156902.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Clamperl+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Clamperl+-+58%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.20",
+          "link": "http://stop2shop.com/hidden-legends-58.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Cyndaquil",
+      "title": "Cyndaquil - EX Hidden Legends #59",
+      "link": "/EX-Hidden-Legends-Expansion/Cyndaquil-Card-59",
+      "image": "https://den-cards.pokellector.com/56/Cyndaquil.HL.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Cyndaquil.HL.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "59/101",
+      "card_number": "59",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Cyndaquil.HL.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fcyndaquil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156938.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Cyndaquil+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.30",
+          "link": "http://stop2shop.com/hidden-legends-59.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cyndaquil+-+59%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Doduo",
+      "title": "Doduo - EX Hidden Legends #60",
+      "link": "/EX-Hidden-Legends-Expansion/Doduo-Card-60",
+      "image": "https://den-cards.pokellector.com/56/Doduo.HL.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Doduo.HL.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "60/101",
+      "card_number": "60",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Doduo.HL.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fdoduo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p156968.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Doduo+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Doduo+-+60%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.16",
+          "link": "http://stop2shop.com/hidden-legends-60.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Feebas",
+      "title": "Feebas - EX Hidden Legends #61",
+      "link": "/EX-Hidden-Legends-Expansion/Feebas-Card-61",
+      "image": "https://den-cards.pokellector.com/56/Feebas.HL.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Feebas.HL.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "61/101",
+      "card_number": "61",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Feebas.HL.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ffeebas"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157020.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Feebas+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Feebas+-+61%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.54",
+          "link": "http://stop2shop.com/hidden-legends-61.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Gulpin",
+      "title": "Gulpin - EX Hidden Legends #62",
+      "link": "/EX-Hidden-Legends-Expansion/Gulpin-Card-62",
+      "image": "https://den-cards.pokellector.com/56/Gulpin.HL.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Gulpin.HL.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "62/101",
+      "card_number": "62",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Gulpin.HL.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgulpin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157077.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Gulpin+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/hidden-legends-62.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gulpin+-+62%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - EX Hidden Legends #63",
+      "link": "/EX-Hidden-Legends-Expansion/Jigglypuff-Card-63",
+      "image": "https://den-cards.pokellector.com/56/Jigglypuff.HL.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Jigglypuff.HL.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "63/101",
+      "card_number": "63",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Jigglypuff.HL.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fjigglypuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157131.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Jigglypuff+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jigglypuff+-+63%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/hidden-legends-63.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Machop",
+      "title": "Machop - EX Hidden Legends #64",
+      "link": "/EX-Hidden-Legends-Expansion/Machop-Card-64",
+      "image": "https://den-cards.pokellector.com/56/Machop.HL.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Machop.HL.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "64/101",
+      "card_number": "64",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Machop.HL.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmachop"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157204.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Machop+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machop+-+64%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.32",
+          "link": "http://stop2shop.com/hidden-legends-64.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Meditite",
+      "title": "Meditite - EX Hidden Legends #65",
+      "link": "/EX-Hidden-Legends-Expansion/Meditite-Card-65",
+      "image": "https://den-cards.pokellector.com/56/Meditite.HL.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Meditite.HL.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "65/101",
+      "card_number": "65",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Meditite.HL.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmeditite-65"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157237.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Meditite+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meditite+-+65%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/hidden-legends-65.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Meditite",
+      "title": "Meditite - EX Hidden Legends #66",
+      "link": "/EX-Hidden-Legends-Expansion/Meditite-Card-66",
+      "image": "https://den-cards.pokellector.com/56/Meditite.HL.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Meditite.HL.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "66/101",
+      "card_number": "66",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Meditite.HL.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmeditite-66"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157238.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Meditite+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.26",
+          "link": "http://stop2shop.com/hidden-legends-66.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meditite+-+66%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Minun",
+      "title": "Minun - EX Hidden Legends #67",
+      "link": "/EX-Hidden-Legends-Expansion/Minun-Card-67",
+      "image": "https://den-cards.pokellector.com/56/Minun.HL.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Minun.HL.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "67/101",
+      "card_number": "67",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Minun.HL.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$20.92",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p157272.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Minun+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minun+-+67%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.74",
+          "link": "http://stop2shop.com/hidden-legends-67.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Oddish",
+      "title": "Oddish - EX Hidden Legends #68",
+      "link": "/EX-Hidden-Legends-Expansion/Oddish-Card-68",
+      "image": "https://den-cards.pokellector.com/56/Oddish.HL.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Oddish.HL.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "68/101",
+      "card_number": "68",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Oddish.HL.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Foddish"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157305.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Oddish+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oddish+-+68%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/hidden-legends-68.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Plusle",
+      "title": "Plusle - EX Hidden Legends #69",
+      "link": "/EX-Hidden-Legends-Expansion/Plusle-Card-69",
+      "image": "https://den-cards.pokellector.com/56/Plusie.HL.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Plusie.HL.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "69/101",
+      "card_number": "69",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Plusie.HL.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$32.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.39",
+          "link": "http://www.trollandtoad.com/p157333.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Plusle+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.72",
+          "link": "http://stop2shop.com/hidden-legends-69.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Rhyhorn",
+      "title": "Rhyhorn - EX Hidden Legends #70",
+      "link": "/EX-Hidden-Legends-Expansion/Rhyhorn-Card-70",
+      "image": "https://den-cards.pokellector.com/56/Rhyhorn.HL.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Rhyhorn.HL.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "70/101",
+      "card_number": "70",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Rhyhorn.HL.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Frhyhorn"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Rhyhorn+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rhyhorn+-+70%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.18",
+          "link": "http://stop2shop.com/hidden-legends-70.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Seedot",
+      "title": "Seedot - EX Hidden Legends #71",
+      "link": "/EX-Hidden-Legends-Expansion/Seedot-Card-71",
+      "image": "https://den-cards.pokellector.com/56/Seedot.HL.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Seedot.HL.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "71/101",
+      "card_number": "71",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Seedot.HL.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fseedot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157433.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Seedot+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seedot+-+71%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.14",
+          "link": "http://stop2shop.com/hidden-legends-71.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Shuppet",
+      "title": "Shuppet - EX Hidden Legends #72",
+      "link": "/EX-Hidden-Legends-Expansion/Shuppet-Card-72",
+      "image": "https://den-cards.pokellector.com/56/Shuppet.HL.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Shuppet.HL.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "72/101",
+      "card_number": "72",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Shuppet.HL.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fshuppet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157452.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Shuppet+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuppet+-+72%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.26",
+          "link": "http://stop2shop.com/hidden-legends-72.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Snorunt",
+      "title": "Snorunt - EX Hidden Legends #73",
+      "link": "/EX-Hidden-Legends-Expansion/Snorunt-Card-73",
+      "image": "https://den-cards.pokellector.com/56/Snorunt.HL.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Snorunt.HL.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "73/101",
+      "card_number": "73",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Snorunt.HL.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fsnorunt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157475.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Snorunt+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snorunt+-+73%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/hidden-legends-73.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Spheal",
+      "title": "Spheal - EX Hidden Legends #74",
+      "link": "/EX-Hidden-Legends-Expansion/Spheal-Card-74",
+      "image": "https://den-cards.pokellector.com/56/Spheal.HL.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Spheal.HL.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "74/101",
+      "card_number": "74",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Spheal.HL.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.58",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fspheal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157484.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Spheal+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spheal+-+74%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.29",
+          "link": "http://stop2shop.com/hidden-legends-74.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Staryu",
+      "title": "Staryu - EX Hidden Legends #75",
+      "link": "/EX-Hidden-Legends-Expansion/Staryu-Card-75",
+      "image": "https://den-cards.pokellector.com/56/Staryu.HL.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Staryu.HL.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "75/101",
+      "card_number": "75",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Staryu.HL.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fstaryu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157497.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Staryu+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Staryu+-+75%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/hidden-legends-75.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Surskit",
+      "title": "Surskit - EX Hidden Legends #76",
+      "link": "/EX-Hidden-Legends-Expansion/Surskit-Card-76",
+      "image": "https://den-cards.pokellector.com/56/Surskit.HL.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Surskit.HL.76.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "76/101",
+      "card_number": "76",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Surskit.HL.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fsurskit"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157514.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Surskit+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Surskit+-+76%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/hidden-legends-76.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Tentacool",
+      "title": "Tentacool - EX Hidden Legends #77",
+      "link": "/EX-Hidden-Legends-Expansion/Tentacool-Card-77",
+      "image": "https://den-cards.pokellector.com/56/Tentacool.HL.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Tentacool.HL.77.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "77/101",
+      "card_number": "77",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Tentacool.HL.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ftentacool"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157532.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Tentacool+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacool+-+77%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.20",
+          "link": "http://stop2shop.com/hidden-legends-77.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Togepi",
+      "title": "Togepi - EX Hidden Legends #78",
+      "link": "/EX-Hidden-Legends-Expansion/Togepi-Card-78",
+      "image": "https://den-cards.pokellector.com/56/Togepi.HL.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Togepi.HL.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "78/101",
+      "card_number": "78",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Togepi.HL.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ftogepi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157536.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Togepi+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Togepi+-+78%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/hidden-legends-78.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Totodile",
+      "title": "Totodile - EX Hidden Legends #79",
+      "link": "/EX-Hidden-Legends-Expansion/Totodile-Card-79",
+      "image": "https://den-cards.pokellector.com/56/Totodile.HL.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Totodile.HL.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "79/101",
+      "card_number": "79",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Totodile.HL.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Ftotodile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157545.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Totodile+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Totodile+-+79%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hidden-legends-79.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Voltorb",
+      "title": "Voltorb - EX Hidden Legends #80",
+      "link": "/EX-Hidden-Legends-Expansion/Voltorb-Card-80",
+      "image": "https://den-cards.pokellector.com/56/Voltorb.HL.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Voltorb.HL.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "80/101",
+      "card_number": "80",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Voltorb.HL.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fvoltorb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157612.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Voltorb+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+80%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/hidden-legends-80.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Vulpix",
+      "title": "Vulpix - EX Hidden Legends #81",
+      "link": "/EX-Hidden-Legends-Expansion/Vulpix-Card-81",
+      "image": "https://den-cards.pokellector.com/56/Vulpix.HL.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Vulpix.HL.81.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "81/101",
+      "card_number": "81",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Vulpix.HL.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fvulpix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157615.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Vulpix+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vulpix+-+81%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/hidden-legends-81.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Whismur",
+      "title": "Whismur - EX Hidden Legends #82",
+      "link": "/EX-Hidden-Legends-Expansion/Whismur-Card-82",
+      "image": "https://den-cards.pokellector.com/56/Whismur.HL.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Whismur.HL.82.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "82/101",
+      "card_number": "82",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Whismur.HL.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fwhismur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p157630.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Whismur+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/hidden-legends-82.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Whismur+-+82%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Zubat",
+      "title": "Zubat - EX Hidden Legends #83",
+      "link": "/EX-Hidden-Legends-Expansion/Zubat-Card-83",
+      "image": "https://den-cards.pokellector.com/56/Zubat.HL.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Zubat.HL.83.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "83/101",
+      "card_number": "83",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Zubat.HL.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fzubat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157651.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Zubat+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/hidden-legends-83.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zubat+-+83%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Ancient Technical Machine (Ice)",
+      "title": "Ancient Technical Machine (Ice) - EX Hidden Legends #84",
+      "link": "/EX-Hidden-Legends-Expansion/Ancient-Technical-Machine-Ice-Card-84",
+      "image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Ice.HL.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Ice.HL.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "84/101",
+      "card_number": "84",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Ice.HL.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fancient-technical-machine-ice"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156815.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ancient+Technical+Machine+%28Ice%29+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.26",
+          "link": "http://stop2shop.com/hidden-legends-84.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Ancient Technical Machine (Rock)",
+      "title": "Ancient Technical Machine (Rock) - EX Hidden Legends #85",
+      "link": "/EX-Hidden-Legends-Expansion/Ancient-Technical-Machine-Rock-Card-85",
+      "image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Rock.HL.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Rock.HL.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "85/101",
+      "card_number": "85",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Rock.HL.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fancient-technical-machine-rock"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1121969.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ancient+Technical+Machine+%28Rock%29+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.09",
+          "link": "http://stop2shop.com/hidden-legends-85.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Ancient Technical Machine (Steel)",
+      "title": "Ancient Technical Machine (Steel) - EX Hidden Legends #86",
+      "link": "/EX-Hidden-Legends-Expansion/Ancient-Technical-Machine-Steel-Card-86",
+      "image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Steel.HL.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Steel.HL.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "86/101",
+      "card_number": "86",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Steel.HL.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fancient-technical-machine-steel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156814.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ancient+Technical+Machine+%28Steel%29+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/hidden-legends-86.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Ancient Tomb",
+      "title": "Ancient Tomb - EX Hidden Legends #87",
+      "link": "/EX-Hidden-Legends-Expansion/Ancient-Tomb-Card-87",
+      "image": "https://den-cards.pokellector.com/56/Ancient-Tomb.HL.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ancient-Tomb.HL.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "87/101",
+      "card_number": "87",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ancient-Tomb.HL.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fancient-tomb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1121971.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ancient+Tomb+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.66",
+          "link": "http://stop2shop.com/hidden-legends-87.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ancient+Tomb+-+87%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Desert Ruins",
+      "title": "Desert Ruins - EX Hidden Legends #88",
+      "link": "/EX-Hidden-Legends-Expansion/Desert-Ruins-Card-88",
+      "image": "https://den-cards.pokellector.com/56/Desert-Ruins.HL.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Desert-Ruins.HL.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "88/101",
+      "card_number": "88",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Desert-Ruins.HL.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fdesert-ruins"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p1121991.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Desert+Ruins+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.28",
+          "link": "http://stop2shop.com/hidden-legends-88.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Desert+Ruins+-+88%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Island Cave",
+      "title": "Island Cave - EX Hidden Legends #89",
+      "link": "/EX-Hidden-Legends-Expansion/Island-Cave-Card-89",
+      "image": "https://den-cards.pokellector.com/56/Island-Cave.HL.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Island-Cave.HL.89.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "89/101",
+      "card_number": "89",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Island-Cave.HL.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fisland-cave"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.89",
+          "link": "http://www.trollandtoad.com/p157126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Island+Cave+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Island+Cave+-+89%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/hidden-legends-89.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Life Herb",
+      "title": "Life Herb - EX Hidden Legends #90",
+      "link": "/EX-Hidden-Legends-Expansion/Life-Herb-Card-90",
+      "image": "https://den-cards.pokellector.com/56/Life-Herb.HL.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Life-Herb.HL.90.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "90/101",
+      "card_number": "90",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Life-Herb.HL.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Flife-herb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157184.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Life+Herb+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Life+Herb+-+90%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/hidden-legends-90.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Magnetic Storm",
+      "title": "Magnetic Storm - EX Hidden Legends #91",
+      "link": "/EX-Hidden-Legends-Expansion/Magnetic-Storm-Card-91",
+      "image": "https://den-cards.pokellector.com/56/Magnetic-Storm.HL.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Magnetic-Storm.HL.91.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "91/101",
+      "card_number": "91",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Magnetic-Storm.HL.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmagnetic-storm"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157209.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Magnetic+Storm+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/hidden-legends-91.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnetic+Storm+-+91%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Steven's Advice",
+      "title": "Steven's Advice - EX Hidden Legends #92",
+      "link": "/EX-Hidden-Legends-Expansion/Stevens-Advice-Card-92",
+      "image": "https://den-cards.pokellector.com/56/Stevens-Advice.HL.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Stevens-Advice.HL.92.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "92/101",
+      "card_number": "92",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Stevens-Advice.HL.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fstevens-advice"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p157503.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Steven%27s+Advice+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Steven%27s+Advice+-+92%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.33",
+          "link": "http://stop2shop.com/hidden-legends-92.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Groudon ex",
+      "title": "Groudon ex - EX Hidden Legends #93",
+      "link": "/EX-Hidden-Legends-Expansion/Groudon-ex-Card-93",
+      "image": "https://den-cards.pokellector.com/56/Groudon-ex.HL.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Groudon-ex.HL.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "93/101",
+      "card_number": "93",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Groudon-ex.HL.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$120.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgroudon-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p157071.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Groudon+ex+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+ex+-+93%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.10",
+          "link": "http://stop2shop.com/hidden-legends-93.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Kyogre ex",
+      "title": "Kyogre ex - EX Hidden Legends #94",
+      "link": "/EX-Hidden-Legends-Expansion/Kyogre-ex-Card-94",
+      "image": "https://den-cards.pokellector.com/56/Kyogre-ex.HL.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Kyogre-ex.HL.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "94/101",
+      "card_number": "94",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Kyogre-ex.HL.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$62.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fkyogre-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$74.99",
+          "link": "http://www.trollandtoad.com/p157159.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Kyogre+ex+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+ex+-+94%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$35.68",
+          "link": "http://stop2shop.com/hidden-legends-94.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Metagross ex",
+      "title": "Metagross ex - EX Hidden Legends #95",
+      "link": "/EX-Hidden-Legends-Expansion/Metagross-ex-Card-95",
+      "image": "https://den-cards.pokellector.com/56/Metagross-ex.HL.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Metagross-ex.HL.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "95/101",
+      "card_number": "95",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Metagross-ex.HL.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$61.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fmetagross-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$102.99",
+          "link": "http://www.trollandtoad.com/p157249.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Metagross+ex+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metagross+ex+-+95%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$52.23",
+          "link": "http://stop2shop.com/hidden-legends-95.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Ninetales ex",
+      "title": "Ninetales ex - EX Hidden Legends #96",
+      "link": "/EX-Hidden-Legends-Expansion/Ninetales-ex-Card-96",
+      "image": "https://den-cards.pokellector.com/56/Ninetales-ex.HL.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Ninetales-ex.HL.96.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "96/101",
+      "card_number": "96",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Ninetales-ex.HL.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fninetales-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$149.99",
+          "link": "http://www.trollandtoad.com/p157294.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Ninetales+ex+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$21.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninetales+ex+-+96%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$87.87",
+          "link": "http://stop2shop.com/hidden-legends-96.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Regice ex",
+      "title": "Regice ex - EX Hidden Legends #97",
+      "link": "/EX-Hidden-Legends-Expansion/Regice-ex-Card-97",
+      "image": "https://den-cards.pokellector.com/56/Regice-ex.HL.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Regice-ex.HL.97.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "97/101",
+      "card_number": "97",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Regice-ex.HL.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$148.72",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fregice-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p157393.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Regice+ex+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regice+ex+-+97%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$35.57",
+          "link": "http://stop2shop.com/hidden-legends-97.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Regirock ex",
+      "title": "Regirock ex - EX Hidden Legends #98",
+      "link": "/EX-Hidden-Legends-Expansion/Regirock-ex-Card-98",
+      "image": "https://den-cards.pokellector.com/56/Regirock-ex.HL.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Regirock-ex.HL.98.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "98/101",
+      "card_number": "98",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Regirock-ex.HL.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$189.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fregirock-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p157395.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Regirock+ex+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regirock+ex+-+98%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$39.49",
+          "link": "http://stop2shop.com/hidden-legends-98.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Registeel ex",
+      "title": "Registeel ex - EX Hidden Legends #99",
+      "link": "/EX-Hidden-Legends-Expansion/Registeel-ex-Card-99",
+      "image": "https://den-cards.pokellector.com/56/Registeel-ex.HL.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Registeel-ex.HL.99.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "99/101",
+      "card_number": "99",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Registeel-ex.HL.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$140.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fregisteel-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$87.99",
+          "link": "http://www.trollandtoad.com/p157397.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Registeel+ex+99+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Registeel+ex+-+99%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$56.10",
+          "link": "http://stop2shop.com/hidden-legends-99.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Vileplume ex",
+      "title": "Vileplume ex - EX Hidden Legends #100",
+      "link": "/EX-Hidden-Legends-Expansion/Vileplume-ex-Card-100",
+      "image": "https://den-cards.pokellector.com/56/Vileplume-ex.HL.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Vileplume-ex.HL.100.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "100/101",
+      "card_number": "100",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Vileplume-ex.HL.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$109.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fvileplume-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$64.99",
+          "link": "http://www.trollandtoad.com/p157610.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Vileplume+ex+100+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vileplume+ex+-+100%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$31.26",
+          "link": "http://stop2shop.com/hidden-legends-100.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Wigglytuff ex",
+      "title": "Wigglytuff ex - EX Hidden Legends #101",
+      "link": "/EX-Hidden-Legends-Expansion/Wigglytuff-ex-Card-101",
+      "image": "https://den-cards.pokellector.com/56/Wigglytuff-ex.HL.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Wigglytuff-ex.HL.101.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "101/101",
+      "card_number": "101",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Wigglytuff-ex.HL.101.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$58.72",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fwigglytuff-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$55.09",
+          "link": "http://www.trollandtoad.com/p157638.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Wigglytuff+ex+101+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$22.24",
+          "link": "http://stop2shop.com/hidden-legends-101.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wigglytuff+ex+-+101%2F101"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "102": {
+      "number": "102",
+      "name": "Groudon",
+      "title": "Groudon - EX Hidden Legends #102",
+      "link": "/EX-Hidden-Legends-Expansion/Groudon-Card-102",
+      "image": "https://den-cards.pokellector.com/56/Groudon.HL.102.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/56/Groudon.HL.102.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Hidden Legends",
+      "set_link": "/EX-Hidden-Legends-Expansion/",
+      "position": "102/101",
+      "card_number": "102",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/56/Groudon.HL.102.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$85.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fhidden-legends%2Fgroudon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$48.99",
+          "link": "http://www.trollandtoad.com/p157068.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$55.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Hidden+Legends+Groudon+102+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+-+102%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$34.73",
+          "link": "http://stop2shop.com/hidden-legends-102.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 13:08:58"
+}

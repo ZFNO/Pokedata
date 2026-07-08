@@ -1,0 +1,358 @@
+{
+  "title": "McDonald's Collection (2017) Set",
+  "link": "/McDonalds-Collection-2017-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.logo.230.png",
+  "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.symbol.230.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Rowlet",
+      "title": "Rowlet - McDonald's Collection (2017) #1",
+      "link": "/McDonalds-Collection-2017-Expansion/Rowlet-Card-1",
+      "image": "https://den-cards.pokellector.com/230/Rowlet.MCD7.1.18575.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Rowlet.MCD7.1.18575.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "1/12",
+      "card_number": "1",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Rowlet.MCD7.1.18575.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.37",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Frowlet"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.16",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Rowlet-Tackle-Leafage?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Grubbin",
+      "title": "Grubbin - McDonald's Collection (2017) #2",
+      "link": "/McDonalds-Collection-2017-Expansion/Grubbin-Card-2",
+      "image": "https://den-cards.pokellector.com/230/Grubbin.MCD7.2.18569.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Grubbin.MCD7.2.18569.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "2/12",
+      "card_number": "2",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Grubbin.MCD7.2.18569.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fgrubbin"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Grubbin-Vice-Grip?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Litten",
+      "title": "Litten - McDonald's Collection (2017) #3",
+      "link": "/McDonalds-Collection-2017-Expansion/Litten-Card-3",
+      "image": "https://den-cards.pokellector.com/230/Litten.MCD7.3.18570.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Litten.MCD7.3.18570.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "3/12",
+      "card_number": "3",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Litten.MCD7.3.18570.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Flitten"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Litten-Bite-Flare?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Popplio",
+      "title": "Popplio - McDonald's Collection (2017) #4",
+      "link": "/McDonalds-Collection-2017-Expansion/Popplio-Card-4",
+      "image": "https://den-cards.pokellector.com/230/Popplio.MCD7.4.18573.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Popplio.MCD7.4.18573.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "4/12",
+      "card_number": "4",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Popplio.MCD7.4.18573.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.56",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fpopplio"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.09",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Popplio-Pound-Water-Gun?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Pikachu",
+      "title": "Pikachu - McDonald's Collection (2017) #5",
+      "link": "/McDonalds-Collection-2017-Expansion/Pikachu-Card-5",
+      "image": "https://den-cards.pokellector.com/230/Pikachu.MCD7.5.18568.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Pikachu.MCD7.5.18568.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "5/12",
+      "card_number": "5",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Pikachu.MCD7.5.18568.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$20.54",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fpikachu"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Pikachu-Thunder-Wave-Electro-Ball?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Cosmog",
+      "title": "Cosmog - McDonald's Collection (2017) #6",
+      "link": "/McDonalds-Collection-2017-Expansion/Cosmog-Card-6",
+      "image": "https://den-cards.pokellector.com/230/Cosmog.MCD7.6.18567.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Cosmog.MCD7.6.18567.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "6/12",
+      "card_number": "6",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Cosmog.MCD7.6.18567.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fcosmog"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Cosmog-Dust-Gathering?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Crabrawler",
+      "title": "Crabrawler - McDonald's Collection (2017) #7",
+      "link": "/McDonalds-Collection-2017-Expansion/Crabrawler-Card-7",
+      "image": "https://den-cards.pokellector.com/230/Crabrawler.MCD7.7.18571.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Crabrawler.MCD7.7.18571.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "7/12",
+      "card_number": "7",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Crabrawler.MCD7.7.18571.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fcrabrawler"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Crabrawler-Punch-Crabhammer?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Alolan Meowth",
+      "title": "Alolan Meowth - McDonald's Collection (2017) #8",
+      "link": "/McDonalds-Collection-2017-Expansion/Alolan-Meowth-Card-8",
+      "image": "https://den-cards.pokellector.com/230/Alolan-Meowth.MCD7.8.18578.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Alolan-Meowth.MCD7.8.18578.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "8/12",
+      "card_number": "8",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Alolan-Meowth.MCD7.8.18578.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Falolan-meowth"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Alolan-Meowth-Fury-Swipes?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Alolan Diglett",
+      "title": "Alolan Diglett - McDonald's Collection (2017) #9",
+      "link": "/McDonalds-Collection-2017-Expansion/Alolan-Diglett-Card-9",
+      "image": "https://den-cards.pokellector.com/230/Alolan-Diglett.MCD7.9.18566.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Alolan-Diglett.MCD7.9.18566.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "9/12",
+      "card_number": "9",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Alolan-Diglett.MCD7.9.18566.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Falolan-diglett"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.39",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Alolan-Diglett-Spelunk-MudSlap?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Cutiefly",
+      "title": "Cutiefly - McDonald's Collection (2017) #10",
+      "link": "/McDonalds-Collection-2017-Expansion/Cutiefly-Card-10",
+      "image": "https://den-cards.pokellector.com/230/Cutiefly.MCD7.10.18572.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Cutiefly.MCD7.10.18572.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "10/12",
+      "card_number": "10",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Cutiefly.MCD7.10.18572.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fcutiefly"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Cutiefly-Fly-Around?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Pikipek",
+      "title": "Pikipek - McDonald's Collection (2017) #11",
+      "link": "/McDonalds-Collection-2017-Expansion/Pikipek-Card-11",
+      "image": "https://den-cards.pokellector.com/230/Pikipek.MCD7.11.18574.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Pikipek.MCD7.11.18574.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "11/12",
+      "card_number": "11",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Pikipek.MCD7.11.18574.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fpikipek"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Pikipek-Rock-Smash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Yungoos",
+      "title": "Yungoos - McDonald's Collection (2017) #12",
+      "link": "/McDonalds-Collection-2017-Expansion/Yungoos-Card-12",
+      "image": "https://den-cards.pokellector.com/230/Yungoose.MCD7.12.18565.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/230/Yungoose.MCD7.12.18565.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2017)",
+      "set_link": "/McDonalds-Collection-2017-Expansion/",
+      "position": "12/12",
+      "card_number": "12",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/230/Yungoose.MCD7.12.18565.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2017%2Fyungoos"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Yungoos-Tackle-Bite?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 05:33:20"
+}

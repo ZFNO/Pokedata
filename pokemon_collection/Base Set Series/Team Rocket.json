@@ -1,0 +1,4267 @@
+{
+  "title": "Team Rocket Set",
+  "link": "/Team-Rocket-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Team-Rocket.logo.123.png",
+  "symbol": "https://den-media.pokellector.com/logos/Team-Rocket.symbol.123.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Dark Alakazam",
+      "title": "Dark Alakazam - Team Rocket #1",
+      "link": "/Team-Rocket-Expansion/Dark-Alakazam-Card-1",
+      "image": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "1/82",
+      "card_number": "1",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-alakazam-1?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$49.99",
+          "link": "http://www.trollandtoad.com/p148272.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Alakazam+1+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Alakazam+-+1%2F82"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_alakazam__1882__rare__unlimited_edition/189943"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Dark Arbok",
+      "title": "Dark Arbok - Team Rocket #2",
+      "link": "/Team-Rocket-Expansion/Dark-Arbok-Card-2",
+      "image": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "2/82",
+      "card_number": "2",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-arbok-2?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148274.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Arbok+2+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_arbok__1982__rare__1st_edition/67003"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Arbok+-+19%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Dark Blastoise",
+      "title": "Dark Blastoise - Team Rocket #3",
+      "link": "/Team-Rocket-Expansion/Dark-Blastoise-Card-3",
+      "image": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "3/82",
+      "card_number": "3",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$48.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-blastoise-3?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p1750415.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Blastoise+3+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_blastoise__2082__rare__1st_edition/67011"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Blastoise+-+3%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Dark Charizard",
+      "title": "Dark Charizard - Team Rocket #4",
+      "link": "/Team-Rocket-Expansion/Dark-Charizard-Card-4",
+      "image": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "4/82",
+      "card_number": "4",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$139.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-charizard-4?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1757698.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$63.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Charizard+4+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_charizard__2182__rare__1st_edition/67015"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Charizard+-+4%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Dark Dragonite",
+      "title": "Dark Dragonite - Team Rocket #5",
+      "link": "/Team-Rocket-Expansion/Dark-Dragonite-Card-5",
+      "image": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "5/82",
+      "card_number": "5",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$53.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-dragonite-5?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$89.99",
+          "link": "http://www.trollandtoad.com/p148282.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Dragonite+5+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$399.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_dragonite__582__holo_rare__1st_edition/67138"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Dragonite+-+5%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non-Holo Misprint",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Dark Dugtrio",
+      "title": "Dark Dugtrio - Team Rocket #6",
+      "link": "/Team-Rocket-Expansion/Dark-Dugtrio-Card-6",
+      "image": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "6/82",
+      "card_number": "6",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-dugtrio-6?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.99",
+          "link": "http://www.trollandtoad.com/p148284.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.40",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Dugtrio+6+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.43",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_dugtrio__2382__rare__unlimited_edition/190003"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Dugtrio+-+6%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Dark Golbat",
+      "title": "Dark Golbat - Team Rocket #7",
+      "link": "/Team-Rocket-Expansion/Dark-Golbat-Card-7",
+      "image": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "7/82",
+      "card_number": "7",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.12",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-golbat-7?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p148289.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Golbat+7+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$52.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_golbat__782__holo_rare__1st_edition/67221"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Golbat+-+7%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Dark Gyarados",
+      "title": "Dark Gyarados - Team Rocket #8",
+      "link": "/Team-Rocket-Expansion/Dark-Gyarados-Card-8",
+      "image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "8/82",
+      "card_number": "8",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-gyarados-8?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.89",
+          "link": "http://www.trollandtoad.com/p183667.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Gyarados+8+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_gyarados__882__holo_rare__unlimited_edition/190623"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Gyarados+-+25%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Prerelease Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.40588.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Dark Hypno",
+      "title": "Dark Hypno - Team Rocket #9",
+      "link": "/Team-Rocket-Expansion/Dark-Hypno-Card-9",
+      "image": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "9/82",
+      "card_number": "9",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-hypno-9?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p148294.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Hypno+9+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$89.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_hypno__982__holo_rare__1st_edition/67282"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Hypno+-+9%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Dark Machamp",
+      "title": "Dark Machamp - Team Rocket #10",
+      "link": "/Team-Rocket-Expansion/Dark-Machamp-Card-10",
+      "image": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "10/82",
+      "card_number": "10",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-machamp-10?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.29",
+          "link": "http://www.trollandtoad.com/p148298.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Machamp+10+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$89.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_machamp__1082__holo_rare__1st_edition/66968"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Machamp+-+10%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Dark Magneton",
+      "title": "Dark Magneton - Team Rocket #11",
+      "link": "/Team-Rocket-Expansion/Dark-Magneton-Card-11",
+      "image": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "11/82",
+      "card_number": "11",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-magneton-11?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p148301.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Magneton+11+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$115.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_magneton__1182__holo_rare__1st_edition/66973"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Magneton+-+11%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Dark Slowbro",
+      "title": "Dark Slowbro - Team Rocket #12",
+      "link": "/Team-Rocket-Expansion/Dark-Slowbro-Card-12",
+      "image": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "12/82",
+      "card_number": "12",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.25",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-slowbro-12?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p148311.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Slowbro+12+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$49.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_slowbro__1282__holo_rare__unlimited_edition/189883"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Slowbro+-+12%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Dark Vileplume",
+      "title": "Dark Vileplume - Team Rocket #13",
+      "link": "/Team-Rocket-Expansion/Dark-Vileplume-Card-13",
+      "image": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "13/82",
+      "card_number": "13",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-vileplume-13?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p148314.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Vileplume+13+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_vileplume__1382__holo_rare__1st_edition/66978"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Vileplume+-+13%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Dark Weezing",
+      "title": "Dark Weezing - Team Rocket #14",
+      "link": "/Team-Rocket-Expansion/Dark-Weezing-Card-14",
+      "image": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "14/82",
+      "card_number": "14",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-weezing-14?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.09",
+          "link": "http://www.trollandtoad.com/p148317.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Weezing+14+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$49.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_weezing__1482__holo_rare__1st_edition/66982"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Weezing+-+14%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Here Comes Team Rocket",
+      "title": "Here Comes Team Rocket - Team Rocket #15",
+      "link": "/Team-Rocket-Expansion/Here-Comes-Team-Rocket-Card-15",
+      "image": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "15/82",
+      "card_number": "15",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/here-comes-team-rocket-15?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.89",
+          "link": "http://www.trollandtoad.com/p148430.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Here+Comes+Team+Rocket+15+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$17.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/here_comes_team_rocket__1582__holo_rare__unlimited_edition/189913"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Here+Comes+Team+Rocket%21+-+15%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.40589.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Rocket's Sneak Attack",
+      "title": "Rocket's Sneak Attack - Team Rocket #16",
+      "link": "/Team-Rocket-Expansion/Rockets-Sneak-Attack-Card-16",
+      "image": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "16/82",
+      "card_number": "16",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/rockets-sneak-attack-16?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p148659.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Rocket%27s+Sneak+Attack+16+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$42.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/rockets_sneak_attack__1682__holo_rare__1st_edition/66990"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rocket%27s+Sneak+Attack+-+16%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Rainbow Energy",
+      "title": "Rainbow Energy - Team Rocket #17",
+      "link": "/Team-Rocket-Expansion/Rainbow-Energy-Card-17",
+      "image": "https://den-cards.pokellector.com/123/Rainbow-Energy.TR.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Rainbow-Energy.TR.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "17/82",
+      "card_number": "17",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Rainbow-Energy.TR.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.90",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/rainbow-energy-17?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.99",
+          "link": "http://www.trollandtoad.com/p148648.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Rainbow+Energy+17+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$25.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/rainbow_energy__1782__holo_rare__unlimited_edition/189933"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rainbow+Energy+-+17%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Dark Alakazam",
+      "title": "Dark Alakazam - Team Rocket #18",
+      "link": "/Team-Rocket-Expansion/Dark-Alakazam-Card-18",
+      "image": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "18/82",
+      "card_number": "18",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.46",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-alakazam-18?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p148271.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.89",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Alakazam+18+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Alakazam+-+18%2F82"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_alakazam__1882__rare__unlimited_edition/189943"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Dark Arbok",
+      "title": "Dark Arbok - Team Rocket #19",
+      "link": "/Team-Rocket-Expansion/Dark-Arbok-Card-19",
+      "image": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "19/82",
+      "card_number": "19",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.98",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-arbok-19?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148273.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Arbok+19+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_arbok__1982__rare__1st_edition/67003"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Arbok+-+19%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Dark Blastoise",
+      "title": "Dark Blastoise - Team Rocket #20",
+      "link": "/Team-Rocket-Expansion/Dark-Blastoise-Card-20",
+      "image": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "20/82",
+      "card_number": "20",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-blastoise-20?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.49",
+          "link": "http://www.trollandtoad.com/p148275.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.12",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Blastoise+20+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_blastoise__2082__rare__unlimited_edition/189973"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Blastoise+-+20%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Dark Charizard",
+      "title": "Dark Charizard - Team Rocket #21",
+      "link": "/Team-Rocket-Expansion/Dark-Charizard-Card-21",
+      "image": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "21/82",
+      "card_number": "21",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-charizard-21?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$60.99",
+          "link": "http://www.trollandtoad.com/p148277.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Charizard+21+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_charizard__2182__rare__1st_edition/67015"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Charizard+-+21%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Dark Dragonite",
+      "title": "Dark Dragonite - Team Rocket #22",
+      "link": "/Team-Rocket-Expansion/Dark-Dragonite-Card-22",
+      "image": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "22/82",
+      "card_number": "22",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.98",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-dragonite-22?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.49",
+          "link": "http://www.trollandtoad.com/p148280.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Dragonite+22+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$46.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_dragonite__2282__rare__1st_edition/67019"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Dragonite+-+22%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Dark Dugtrio",
+      "title": "Dark Dugtrio - Team Rocket #23",
+      "link": "/Team-Rocket-Expansion/Dark-Dugtrio-Card-23",
+      "image": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "23/82",
+      "card_number": "23",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.78",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-dugtrio-23?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p148283.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Dugtrio+23+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.43",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_dugtrio__2382__rare__unlimited_edition/190003"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Dugtrio+-+23%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Dark Golbat",
+      "title": "Dark Golbat - Team Rocket #24",
+      "link": "/Team-Rocket-Expansion/Dark-Golbat-Card-24",
+      "image": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "24/82",
+      "card_number": "24",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.94",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-golbat-24?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p148288.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Golbat+24+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_golbat__2482__rare__1st_edition/67026"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Golbat+-+24%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Dark Gyarados",
+      "title": "Dark Gyarados - Team Rocket #25",
+      "link": "/Team-Rocket-Expansion/Dark-Gyarados-Card-25",
+      "image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "25/82",
+      "card_number": "25",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.90",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-gyarados-25?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p148291.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.45",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Gyarados+25+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$26.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_gyarados__2582__rare__1st_edition/67030"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Gyarados+-+25%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Dark Hypno",
+      "title": "Dark Hypno - Team Rocket #26",
+      "link": "/Team-Rocket-Expansion/Dark-Hypno-Card-26",
+      "image": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "26/82",
+      "card_number": "26",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.79",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-hypno-26?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p148293.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.54",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Hypno+26+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_hypno__2682__rare__1st_edition/67034"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Hypno+-+26%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Dark Machamp",
+      "title": "Dark Machamp - Team Rocket #27",
+      "link": "/Team-Rocket-Expansion/Dark-Machamp-Card-27",
+      "image": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "27/82",
+      "card_number": "27",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.52",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-machamp-27?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p148297.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Machamp+27+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_machamp__2782__rare__unlimited_edition/190043"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Machamp+-+27%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Dark Magneton",
+      "title": "Dark Magneton - Team Rocket #28",
+      "link": "/Team-Rocket-Expansion/Dark-Magneton-Card-28",
+      "image": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "28/82",
+      "card_number": "28",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.03",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-magneton-28?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p148300.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Magneton+28+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_magneton__2882__rare__1st_edition/67041"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Magneton+-+28%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Dark Slowbro",
+      "title": "Dark Slowbro - Team Rocket #29",
+      "link": "/Team-Rocket-Expansion/Dark-Slowbro-Card-29",
+      "image": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "29/82",
+      "card_number": "29",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-slowbro-29?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.49",
+          "link": "http://www.trollandtoad.com/p148310.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Slowbro+29+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$17.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_slowbro__2982__rare__1st_edition/67045"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Slowbro+-+29%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Dark Vileplume",
+      "title": "Dark Vileplume - Team Rocket #30",
+      "link": "/Team-Rocket-Expansion/Dark-Vileplume-Card-30",
+      "image": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "30/82",
+      "card_number": "30",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-vileplume-30?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p148313.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.94",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Vileplume+30+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_vileplume__3082__rare__1st_edition/67052"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Vileplume+-+30%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Dark Weezing",
+      "title": "Dark Weezing - Team Rocket #31",
+      "link": "/Team-Rocket-Expansion/Dark-Weezing-Card-31",
+      "image": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "31/82",
+      "card_number": "31",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.31",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-weezing-31?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p148316.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.11",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Weezing+31+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_weezing__3182__rare__1st_edition/67056"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Weezing+-+31%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Dark Charmeleon",
+      "title": "Dark Charmeleon - Team Rocket #32",
+      "link": "/Team-Rocket-Expansion/Dark-Charmeleon-Card-32",
+      "image": "https://den-cards.pokellector.com/123/Dark-Charmeleon.TR.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Charmeleon.TR.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "32/82",
+      "card_number": "32",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Charmeleon.TR.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.90",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-charmeleon?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p148279.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Charmeleon+32+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$19.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_charmeleon__3282__uncommon__1st_edition/67060"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Charmeleon+-+32%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Dark Dragonair",
+      "title": "Dark Dragonair - Team Rocket #33",
+      "link": "/Team-Rocket-Expansion/Dark-Dragonair-Card-33",
+      "image": "https://den-cards.pokellector.com/123/Dark-Dragonair.TR.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Dragonair.TR.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "33/82",
+      "card_number": "33",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Dragonair.TR.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-dragonair?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p148281.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Dragonair+33+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_dragonair__3382__uncommon__unlimited_edition/190113"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Dragonair+-+33%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Dark Electrode",
+      "title": "Dark Electrode - Team Rocket #34",
+      "link": "/Team-Rocket-Expansion/Dark-Electrode-Card-34",
+      "image": "https://den-cards.pokellector.com/123/Dark-Electrode.TR.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Electrode.TR.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "34/82",
+      "card_number": "34",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Electrode.TR.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-electrode?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p148285.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Electrode+34+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_electrode__3482__uncommon__1st_edition/67068"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Electrode+-+34%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Dark Flareon",
+      "title": "Dark Flareon - Team Rocket #35",
+      "link": "/Team-Rocket-Expansion/Dark-Flareon-Card-35",
+      "image": "https://den-cards.pokellector.com/123/Dark-Flareon.TR.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Flareon.TR.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "35/82",
+      "card_number": "35",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Flareon.TR.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.94",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-flareon?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p148286.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.55",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Flareon+35+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$16.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_flareon__3582__uncommon__1st_edition/67072"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Flareon+-+35%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Dark Gloom",
+      "title": "Dark Gloom - Team Rocket #36",
+      "link": "/Team-Rocket-Expansion/Dark-Gloom-Card-36",
+      "image": "https://den-cards.pokellector.com/123/Dark-Gloom.TR.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Gloom.TR.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "36/82",
+      "card_number": "36",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Gloom.TR.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-gloom?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148287.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Gloom+36+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.22",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_gloom__3682__uncommon__unlimited_edition/190143"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Gloom+-+36%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Dark Golduck",
+      "title": "Dark Golduck - Team Rocket #37",
+      "link": "/Team-Rocket-Expansion/Dark-Golduck-Card-37",
+      "image": "https://den-cards.pokellector.com/123/Dark-Golduck.TR.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Golduck.TR.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "37/82",
+      "card_number": "37",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Golduck.TR.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-golduck?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p148290.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Golduck+37+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_golduck__3782__uncommon__1st_edition/67078"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Golduck+-+37%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Dark Jolteon",
+      "title": "Dark Jolteon - Team Rocket #38",
+      "link": "/Team-Rocket-Expansion/Dark-Jolteon-Card-38",
+      "image": "https://den-cards.pokellector.com/123/Dark-Jolteon.TR.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Jolteon.TR.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "38/82",
+      "card_number": "38",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Jolteon.TR.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.84",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-jolteon?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p148295.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Jolteon+38+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$18.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_jolteon__3882__uncommon__1st_edition/67082"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Jolteon+-+38%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Dark Kadabra",
+      "title": "Dark Kadabra - Team Rocket #39",
+      "link": "/Team-Rocket-Expansion/Dark-Kadabra-Card-39",
+      "image": "https://den-cards.pokellector.com/123/Dark-Kadabra.TR.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Kadabra.TR.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "39/82",
+      "card_number": "39",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Kadabra.TR.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.44",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-kadabra?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148296.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.94",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Kadabra+39+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_kadabra__3982__uncommon__1st_edition/67088"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Kadabra+-+39%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Dark Machoke",
+      "title": "Dark Machoke - Team Rocket #40",
+      "link": "/Team-Rocket-Expansion/Dark-Machoke-Card-40",
+      "image": "https://den-cards.pokellector.com/123/Dark-Machoke.TR.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Machoke.TR.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "40/82",
+      "card_number": "40",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Machoke.TR.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.46",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-machoke?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p148299.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Machoke+40+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.30",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_machoke__4082__uncommon__unlimited_edition/190193"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Machoke+-+40%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Dark Muk",
+      "title": "Dark Muk - Team Rocket #41",
+      "link": "/Team-Rocket-Expansion/Dark-Muk-Card-41",
+      "image": "https://den-cards.pokellector.com/123/Dark-Muk.TR.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Muk.TR.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "41/82",
+      "card_number": "41",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Muk.TR.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-muk?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p148302.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Muk+41+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_muk__4182__uncommon__unlimited_edition/190203"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Muk+-+41%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Dark Persian",
+      "title": "Dark Persian - Team Rocket #42",
+      "link": "/Team-Rocket-Expansion/Dark-Persian-Card-42",
+      "image": "https://den-cards.pokellector.com/123/Dark-Persian.TR.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Persian.TR.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "42/82",
+      "card_number": "42",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Persian.TR.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-persian?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p148305.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.14",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Persian+42+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_persian__4282__uncommon__unlimited_edition/190213"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Persian+-+42%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Dark Primeape",
+      "title": "Dark Primeape - Team Rocket #43",
+      "link": "/Team-Rocket-Expansion/Dark-Primeape-Card-43",
+      "image": "https://den-cards.pokellector.com/123/Dark-Primeape.TR.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Primeape.TR.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "43/82",
+      "card_number": "43",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Primeape.TR.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-primeape?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p148306.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Primeape+43+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_primeape__4382__uncommon__1st_edition/67107"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Primeape+-+43%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Dark Rapidash",
+      "title": "Dark Rapidash - Team Rocket #44",
+      "link": "/Team-Rocket-Expansion/Dark-Rapidash-Card-44",
+      "image": "https://den-cards.pokellector.com/123/Dark-Rapidash.TR.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Rapidash.TR.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "44/82",
+      "card_number": "44",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Rapidash.TR.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.48",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-rapidash?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p148308.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Rapidash+44+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_rapidash__4482__uncommon__1st_edition/67112"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Rapidash+-+44%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Dark Vaporeon",
+      "title": "Dark Vaporeon - Team Rocket #45",
+      "link": "/Team-Rocket-Expansion/Dark-Vaporeon-Card-45",
+      "image": "https://den-cards.pokellector.com/123/Dark-Vaporeon.TR.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Vaporeon.TR.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "45/82",
+      "card_number": "45",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Vaporeon.TR.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.93",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-vaporeon?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p148312.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.59",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Vaporeon+45+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$19.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_vaporeon__4582__uncommon__1st_edition/67116"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Vaporeon+-+45%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Dark Wartortle",
+      "title": "Dark Wartortle - Team Rocket #46",
+      "link": "/Team-Rocket-Expansion/Dark-Wartortle-Card-46",
+      "image": "https://den-cards.pokellector.com/123/Dark-Wartortle.TR.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Wartortle.TR.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "46/82",
+      "card_number": "46",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Wartortle.TR.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-wartortle?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p148315.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.06",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Wartortle+46+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_wartortle__4682__uncommon__1st_edition/67121"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Wartortle+-+46%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Magikarp",
+      "title": "Magikarp - Team Rocket #47",
+      "link": "/Team-Rocket-Expansion/Magikarp-Card-47",
+      "image": "https://den-cards.pokellector.com/123/Magikarp.TR.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Magikarp.TR.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "47/82",
+      "card_number": "47",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Magikarp.TR.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/magikarp?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p148516.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Magikarp+47+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.12",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/magikarp__4782__uncommon__1st_edition/67124"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magikarp+-+47%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://den-cards.pokellector.com/123/Magikarp.TR.47.14530.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Porygon",
+      "title": "Porygon - Team Rocket #48",
+      "link": "/Team-Rocket-Expansion/Porygon-Card-48",
+      "image": "https://den-cards.pokellector.com/123/Porygon.TR.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Porygon.TR.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "48/82",
+      "card_number": "48",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Porygon.TR.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/porygon?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p148618.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Porygon+48+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.62",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/porygon__4882__uncommon__1st_edition/67128"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon+-+48%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Abra",
+      "title": "Abra - Team Rocket #49",
+      "link": "/Team-Rocket-Expansion/Abra-Card-49",
+      "image": "https://den-cards.pokellector.com/123/Abra.TR.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Abra.TR.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "49/82",
+      "card_number": "49",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Abra.TR.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/abra?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148175.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.96",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Abra+49+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/abra__4982__common__1st_edition/67135"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Abra+-+49%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://den-cards.pokellector.com/123/Abra.TR.49.14532.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Charmander",
+      "title": "Charmander - Team Rocket #50",
+      "link": "/Team-Rocket-Expansion/Charmander-Card-50",
+      "image": "https://den-cards.pokellector.com/123/Charmander.TR.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Charmander.TR.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "50/82",
+      "card_number": "50",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Charmander.TR.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/charmander?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p148235.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.28",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Charmander+50+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.06",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/charmander__5082__common__unlimited_edition/190303"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmander+-+50%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://den-cards.pokellector.com/123/Charmander.TR.50.14533.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Dark Raticate",
+      "title": "Dark Raticate - Team Rocket #51",
+      "link": "/Team-Rocket-Expansion/Dark-Raticate-Card-51",
+      "image": "https://den-cards.pokellector.com/123/Dark-Raticate.TR.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Raticate.TR.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "51/82",
+      "card_number": "51",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Raticate.TR.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-raticate?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148309.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Raticate+51+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.12",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_raticate__5182__common__1st_edition/67146"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Raticate+-+51%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Diglett",
+      "title": "Diglett - Team Rocket #52",
+      "link": "/Team-Rocket-Expansion/Diglett-Card-52",
+      "image": "https://den-cards.pokellector.com/123/Diglett.TR.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Diglett.TR.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "52/82",
+      "card_number": "52",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Diglett.TR.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/diglett?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148323.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.38",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Diglett+52+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/diglett__5282__common__1st_edition/67148"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Diglett+-+52%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Dratini",
+      "title": "Dratini - Team Rocket #53",
+      "link": "/Team-Rocket-Expansion/Dratini-Card-53",
+      "image": "https://den-cards.pokellector.com/123/Dratini.TR.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dratini.TR.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "53/82",
+      "card_number": "53",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dratini.TR.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dratini?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148334.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dratini+53+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.67",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dratini__5382__common__1st_edition/67151"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dratini+-+53%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Drowzee",
+      "title": "Drowzee - Team Rocket #54",
+      "link": "/Team-Rocket-Expansion/Drowzee-Card-54",
+      "image": "https://den-cards.pokellector.com/123/Drowzee.TR.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Drowzee.TR.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "54/82",
+      "card_number": "54",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Drowzee.TR.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/drowzee?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148336.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.73",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Drowzee+54+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/drowzee__5482__common__1st_edition/67154"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drowzee+-+54%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Eevee",
+      "title": "Eevee - Team Rocket #55",
+      "link": "/Team-Rocket-Expansion/Eevee-Card-55",
+      "image": "https://den-cards.pokellector.com/123/Eevee.TR.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Eevee.TR.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "55/82",
+      "card_number": "55",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Eevee.TR.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/eevee?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148347.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Eevee+55+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/eevee__5582__common__unlimited_edition/190353"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+55%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Ekans",
+      "title": "Ekans - Team Rocket #56",
+      "link": "/Team-Rocket-Expansion/Ekans-Card-56",
+      "image": "https://den-cards.pokellector.com/123/Ekans.TR.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Ekans.TR.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "56/82",
+      "card_number": "56",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Ekans.TR.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/ekans?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148362.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Ekans+56+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/ekans__5682__common__1st_edition/67160"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ekans+-+56%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Grimer",
+      "title": "Grimer - Team Rocket #57",
+      "link": "/Team-Rocket-Expansion/Grimer-Card-57",
+      "image": "https://den-cards.pokellector.com/123/Grimer.TR.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Grimer.TR.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "57/82",
+      "card_number": "57",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Grimer.TR.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/grimer?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148422.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.20",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Grimer+57+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/grimer__5782__common__1st_edition/67163"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grimer+-+57%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Koffing",
+      "title": "Koffing - Team Rocket #58",
+      "link": "/Team-Rocket-Expansion/Koffing-Card-58",
+      "image": "https://den-cards.pokellector.com/123/Koffing.TR.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Koffing.TR.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "58/82",
+      "card_number": "58",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Koffing.TR.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/koffing?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148489.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Koffing+58+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/koffing__5882__common__unlimited_edition/190383"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Koffing+-+58%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Machop",
+      "title": "Machop - Team Rocket #59",
+      "link": "/Team-Rocket-Expansion/Machop-Card-59",
+      "image": "https://den-cards.pokellector.com/123/Machop.TR.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Machop.TR.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "59/82",
+      "card_number": "59",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Machop.TR.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/machop?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148510.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Machop+59+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.41",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/machop__5982__common__unlimited_edition/190393"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machop+-+59%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Magnemite",
+      "title": "Magnemite - Team Rocket #60",
+      "link": "/Team-Rocket-Expansion/Magnemite-Card-60",
+      "image": "https://den-cards.pokellector.com/123/Magnemite.TR.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Magnemite.TR.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "60/82",
+      "card_number": "60",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Magnemite.TR.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/magnemite?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148520.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.28",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Magnemite+60+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/magnemite__6082__common__1st_edition/67178"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+60%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://den-cards.pokellector.com/123/Magnemite.TR.60.14543.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Mankey",
+      "title": "Mankey - Team Rocket #61",
+      "link": "/Team-Rocket-Expansion/Mankey-Card-61",
+      "image": "https://den-cards.pokellector.com/123/Mankey.TR.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Mankey.TR.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "61/82",
+      "card_number": "61",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Mankey.TR.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/mankey?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148525.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Mankey+61+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.56",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/mankey__6182__common__unlimited_edition/190423"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mankey+-+61%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Meowth",
+      "title": "Meowth - Team Rocket #62",
+      "link": "/Team-Rocket-Expansion/Meowth-Card-62",
+      "image": "https://den-cards.pokellector.com/123/Meowth.TR.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Meowth.TR.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "62/82",
+      "card_number": "62",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Meowth.TR.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/meowth?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148541.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.54",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Meowth+62+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.68",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/meowth__6282__common__1st_edition/67188"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meowth+-+62%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Oddish",
+      "title": "Oddish - Team Rocket #63",
+      "link": "/Team-Rocket-Expansion/Oddish-Card-63",
+      "image": "https://den-cards.pokellector.com/123/Oddish.TR.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Oddish.TR.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "63/82",
+      "card_number": "63",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Oddish.TR.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/oddish?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148579.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.91",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Oddish+63+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/oddish__6382__common__1st_edition/67190"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oddish+-+63%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Ponyta",
+      "title": "Ponyta - Team Rocket #64",
+      "link": "/Team-Rocket-Expansion/Ponyta-Card-64",
+      "image": "https://den-cards.pokellector.com/123/Ponyta.TR.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Ponyta.TR.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "64/82",
+      "card_number": "64",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Ponyta.TR.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/ponyta?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148616.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.97",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Ponyta+64+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/ponyta__6482__common__1st_edition/67195"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ponyta+-+64%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Psyduck",
+      "title": "Psyduck - Team Rocket #65",
+      "link": "/Team-Rocket-Expansion/Psyduck-Card-65",
+      "image": "https://den-cards.pokellector.com/123/Psyduck.TR.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Psyduck.TR.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "65/82",
+      "card_number": "65",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Psyduck.TR.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/psyduck?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148630.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Psyduck+65+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/psyduck__6582__common__1st_edition/67200"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Psyduck+-+65%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Rattata",
+      "title": "Rattata - Team Rocket #66",
+      "link": "/Team-Rocket-Expansion/Rattata-Card-66",
+      "image": "https://den-cards.pokellector.com/123/Rattata.TR.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Rattata.TR.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "66/82",
+      "card_number": "66",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Rattata.TR.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/rattata?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148652.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.26",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Rattata+66+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/rattata__6682__common__unlimited_edition/190473"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rattata+-+66%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Slowpoke",
+      "title": "Slowpoke - Team Rocket #67",
+      "link": "/Team-Rocket-Expansion/Slowpoke-Card-67",
+      "image": "https://den-cards.pokellector.com/123/Slowpoke.TR.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Slowpoke.TR.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "67/82",
+      "card_number": "67",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Slowpoke.TR.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/slowpoke?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148700.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.38",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Slowpoke+67+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/slowpoke__6782__common__1st_edition/67208"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowpoke+-+67%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Squirtle",
+      "title": "Squirtle - Team Rocket #68",
+      "link": "/Team-Rocket-Expansion/Squirtle-Card-68",
+      "image": "https://den-cards.pokellector.com/123/Squirtle.TR.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Squirtle.TR.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "68/82",
+      "card_number": "68",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Squirtle.TR.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/squirtle?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p148719.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.21",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Squirtle+68+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/squirtle__6882__common__1st_edition/67212"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Squirtle+-+68%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Voltorb",
+      "title": "Voltorb - Team Rocket #69",
+      "link": "/Team-Rocket-Expansion/Voltorb-Card-69",
+      "image": "https://den-cards.pokellector.com/123/Voltorb.TR.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Voltorb.TR.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "69/82",
+      "card_number": "69",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Voltorb.TR.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/voltorb?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148797.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.89",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Voltorb+69+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/voltorb__6982__common__unlimited_edition/190503"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+69%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Zubat",
+      "title": "Zubat - Team Rocket #70",
+      "link": "/Team-Rocket-Expansion/Zubat-Card-70",
+      "image": "https://den-cards.pokellector.com/123/Zubat.TR.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Zubat.TR.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "70/82",
+      "card_number": "70",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Zubat.TR.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/zubat?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148824.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.88",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Zubat+70+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.38",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/zubat__7082__common__unlimited_edition/190523"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zubat+-+70%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Here Comes Team Rocket",
+      "title": "Here Comes Team Rocket - Team Rocket #71",
+      "link": "/Team-Rocket-Expansion/Here-Comes-Team-Rocket-Card-71",
+      "image": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.71.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "71/82",
+      "card_number": "71",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/here-comes-team-rocket-71?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p148429.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.89",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Here+Comes+Team+Rocket+71+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/here_comes_team_rocket__7182__rare__unlimited_edition/190533"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Here+Comes+Team+Rocket%21+-+71%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Rocket's Sneak Attack",
+      "title": "Rocket's Sneak Attack - Team Rocket #72",
+      "link": "/Team-Rocket-Expansion/Rockets-Sneak-Attack-Card-72",
+      "image": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.72.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "72/82",
+      "card_number": "72",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.32",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/rockets-sneak-attack-72?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p1068026.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.24",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Rocket%27s+Sneak+Attack+72+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/rockets_sneak_attack__7282__rare__1st_edition/67233"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rocket%27s+Sneak+Attack+-+72%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "The Boss's Way",
+      "title": "The Boss's Way - Team Rocket #73",
+      "link": "/Team-Rocket-Expansion/The-Bosss-Way-Card-73",
+      "image": "https://den-cards.pokellector.com/123/The-Bosss-Way.TR.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/The-Bosss-Way.TR.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "73/82",
+      "card_number": "73",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/The-Bosss-Way.TR.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/the-bosss-way?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148749.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+The+Boss%27s+Way+73+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/the_bosss_way__7382__uncommon__1st_edition/67235"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/The+Boss%27s+Way+-+73%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Challenge!",
+      "title": "Challenge! - Team Rocket #74",
+      "link": "/Team-Rocket-Expansion/Challenge-Card-74",
+      "image": "https://den-cards.pokellector.com/123/Challenge.TR.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Challenge.TR.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "74/82",
+      "card_number": "74",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Challenge.TR.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/challenge?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p148227.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Challenge%21+74+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/challenge__7482__uncommon__unlimited_edition/190563"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Challenge%21+-+74%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Digger",
+      "title": "Digger - Team Rocket #75",
+      "link": "/Team-Rocket-Expansion/Digger-Card-75",
+      "image": "https://den-cards.pokellector.com/123/Digger.TR.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Digger.TR.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "75/82",
+      "card_number": "75",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Digger.TR.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/digger?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148321.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Digger+75+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.12",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/digger__7582__uncommon__unlimited_edition/190573"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Digger+-+75%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Imposter Oak's Revenge",
+      "title": "Imposter Oak's Revenge - Team Rocket #76",
+      "link": "/Team-Rocket-Expansion/Imposter-Oaks-Revenge-Card-76",
+      "image": "https://den-cards.pokellector.com/123/Imposter-Oaks-Revenge.TR.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Imposter-Oaks-Revenge.TR.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "76/82",
+      "card_number": "76",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Imposter-Oaks-Revenge.TR.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/imposter-oaks-revenge?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148459.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.30",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Imposter+Oak%27s+Revenge+76+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.27",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/imposter_oaks_revenge__7682__uncommon__unlimited_edition/190583"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Imposter+Oak%27s+Revenge+-+76%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Nightly Garbage Run",
+      "title": "Nightly Garbage Run - Team Rocket #77",
+      "link": "/Team-Rocket-Expansion/Nightly-Garbage-Run-Card-77",
+      "image": "https://den-cards.pokellector.com/123/Nightly-Garbage-Run.TR.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Nightly-Garbage-Run.TR.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "77/82",
+      "card_number": "77",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Nightly-Garbage-Run.TR.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.79",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/nightly-garbage-run?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p148572.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.54",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Nightly+Garbage+Run+77+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.68",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/nightly_garbage_run__7782__uncommon__1st_edition/67253"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nightly+Garbage+Run+-+77%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Goop Gas Attack",
+      "title": "Goop Gas Attack - Team Rocket #78",
+      "link": "/Team-Rocket-Expansion/Goop-Gas-Attack-Card-78",
+      "image": "https://den-cards.pokellector.com/123/Goop-Gas-Attack.TR.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Goop-Gas-Attack.TR.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "78/82",
+      "card_number": "78",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Goop-Gas-Attack.TR.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/goop-gas-attack?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148415.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.19",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Goop+Gas+Attack+78+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.56",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/goop_gas_attack__7882__common__1st_edition/67257"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Goop+Gas+Attack+-+78%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Sleep!",
+      "title": "Sleep! - Team Rocket #79",
+      "link": "/Team-Rocket-Expansion/Sleep-Card-79",
+      "image": "https://den-cards.pokellector.com/123/Sleep.TR.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Sleep.TR.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "79/82",
+      "card_number": "79",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Sleep.TR.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/sleep?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148698.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Sleep%21+79+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.22",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/sleep__7982__common__unlimited_edition/190613"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sleep%21+-+79%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Rainbow Energy",
+      "title": "Rainbow Energy - Team Rocket #80",
+      "link": "/Team-Rocket-Expansion/Rainbow-Energy-Card-80",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "80/82",
+      "card_number": "80",
+      "total_cards": "82",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/rainbow-energy?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p148647.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Rainbow+Energy+80+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/rainbow_energy__8082__rare__1st_edition/67269"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rainbow+Energy+-+80%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Full Heal Energy",
+      "title": "Full Heal Energy - Team Rocket #81",
+      "link": "/Team-Rocket-Expansion/Full-Heal-Energy-Card-81",
+      "image": "https://den-cards.pokellector.com/123/Full-Heal-Energy.TR.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Full-Heal-Energy.TR.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "81/82",
+      "card_number": "81",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Full-Heal-Energy.TR.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/full-heal-energy?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148392.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Full+Heal+Energy+81+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.12",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/full_heal_energy__8182__uncommon__1st_edition/67274"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Full+Heal+Energy+-+81%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Potion Energy",
+      "title": "Potion Energy - Team Rocket #82",
+      "link": "/Team-Rocket-Expansion/Potion-Energy-Card-82",
+      "image": "https://den-cards.pokellector.com/123/Potion-Energy.TR.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Potion-Energy.TR.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "82/82",
+      "card_number": "82",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Potion-Energy.TR.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/potion-energy?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p148620.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.75",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Potion+Energy+82+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/potion_energy__8282__uncommon__unlimited_edition/190653"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Potion+Energy+-+82%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://den-cards.pokellector.com/123/Potion-Energy.TR.82.14565.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Dark Raichu",
+      "title": "Dark Raichu - Team Rocket #83",
+      "link": "/Team-Rocket-Expansion/Dark-Raichu-Card-83",
+      "image": "https://den-cards.pokellector.com/123/Dark-Raichu.TR.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Raichu.TR.83.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "83/82",
+      "card_number": "83",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Raichu.TR.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.18",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-raichu?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$59.99",
+          "link": "http://www.trollandtoad.com/p148307.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Raichu+83+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$149.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_raichu__8382__secret_rare__1st_edition/67280"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Raichu+-+83%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 14:07:31"
+}

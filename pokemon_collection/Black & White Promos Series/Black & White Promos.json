@@ -1,0 +1,4024 @@
+{
+  "title": "Black & White Promos Set",
+  "link": "/English-Black-White-Promos-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
+  "symbol": "https://den-media.pokellector.com/logos/Black-White-Promos.symbol.9.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Snivy",
+      "title": "Snivy - Black & White Promos #1",
+      "link": "/English-Black-White-Promos-Expansion/Snivy-Card-1",
+      "image": "https://den-cards.pokellector.com/9/Snivy.BW.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Snivy.BW.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "1/101",
+      "card_number": "1",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Snivy.BW.1.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p305402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snivy+Promo+BW1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.49",
+          "link": "http://stop2shop.com/promo-bw001.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snivy+-+BW01"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "25th Anniversary Jumbo",
+          "image": "https://den-cards.pokellector.com/9/Snivy.BW.1.36741.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Tepig",
+      "title": "Tepig - Black & White Promos #2",
+      "link": "/English-Black-White-Promos-Expansion/Tepig-Card-2",
+      "image": "https://den-cards.pokellector.com/9/Tepig.BW.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tepig.BW.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "2/101",
+      "card_number": "2",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tepig.BW.2.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p305401.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tepig+Promo+BW2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tepig+-+BW02"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.49",
+          "link": "http://stop2shop.com/promo-bw002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "25th Anniversary Jumbo",
+          "image": "https://den-cards.pokellector.com/9/Tepig.BW.2.36743.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Oshawott",
+      "title": "Oshawott - Black & White Promos #3",
+      "link": "/English-Black-White-Promos-Expansion/Oshawott-Card-3",
+      "image": "https://den-cards.pokellector.com/9/Oshawott.BW.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Oshawott.BW.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "3/101",
+      "card_number": "3",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Oshawott.BW.3.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p305403.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oshawott+Promo+BW3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.49",
+          "link": "http://stop2shop.com/promo-bw003.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oshawott+-+BW03"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "25th Anniversary Jumbo",
+          "image": "https://den-cards.pokellector.com/9/Oshawott.BW.3.36742.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Reshiram",
+      "title": "Reshiram - Black & White Promos #4",
+      "link": "/English-Black-White-Promos-Expansion/Reshiram-Card-4",
+      "image": "https://den-cards.pokellector.com/9/Reshiram.BW.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Reshiram.BW.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "4/101",
+      "card_number": "4",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Reshiram.BW.4.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p307551.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+Promo+BW4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.98",
+          "link": "http://stop2shop.com/promo-bw004.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Reshiram+-+BW004"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Zekrom",
+      "title": "Zekrom - Black & White Promos #5",
+      "link": "/English-Black-White-Promos-Expansion/Zekrom-Card-5",
+      "image": "https://den-cards.pokellector.com/9/Zekrom.BW.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zekrom.BW.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "5/101",
+      "card_number": "5",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zekrom.BW.5.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p315552.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Promo+BW5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zekrom+-+BW005"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.98",
+          "link": "http://stop2shop.com/promo-bw005.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Snivy",
+      "title": "Snivy - Black & White Promos #6",
+      "link": "/English-Black-White-Promos-Expansion/Snivy-Card-6",
+      "image": "https://den-cards.pokellector.com/9/Snivy.BW.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Snivy.BW.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "6/101",
+      "card_number": "6",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Snivy.BW.6.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p305402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.93",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snivy+Promo+BW6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.88",
+          "link": "http://stop2shop.com/promo-bw006.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snivy+-+BW06"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Tepig",
+      "title": "Tepig - Black & White Promos #7",
+      "link": "/English-Black-White-Promos-Expansion/Tepig-Card-7",
+      "image": "https://den-cards.pokellector.com/9/Tepig.BW.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tepig.BW.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "7/101",
+      "card_number": "7",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tepig.BW.7.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p305401.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tepig+Promo+BW7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tepig+-+BW07"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.44",
+          "link": "http://stop2shop.com/promo-bw007.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Oshawott",
+      "title": "Oshawott - Black & White Promos #8",
+      "link": "/English-Black-White-Promos-Expansion/Oshawott-Card-8",
+      "image": "https://den-cards.pokellector.com/9/Oshawott.BW.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Oshawott.BW.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "8/101",
+      "card_number": "8",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Oshawott.BW.8.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p305403.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oshawott+Promo+BW8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oshawott+-+BW08"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.44",
+          "link": "http://stop2shop.com/promo-bw008.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Zoroark",
+      "title": "Zoroark - Black & White Promos #9",
+      "link": "/English-Black-White-Promos-Expansion/Zoroark-Card-9",
+      "image": "https://den-cards.pokellector.com/9/Zoroark.BW.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zoroark.BW.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "9/101",
+      "card_number": "9",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zoroark.BW.9.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p311128.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zoroark+Promo+BW9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zoroark+-+BW09"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/promo-bw009.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Axew",
+      "title": "Axew - Black & White Promos #10",
+      "link": "/English-Black-White-Promos-Expansion/Axew-Card-10",
+      "image": "https://den-cards.pokellector.com/9/Axew.BW.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Axew.BW.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "10/101",
+      "card_number": "10",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Axew.BW.10.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p314358.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Promo+BW10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.49",
+          "link": "http://stop2shop.com/promo-bw010.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Axew+-+BW10"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Pansage",
+      "title": "Pansage - Black & White Promos #11",
+      "link": "/English-Black-White-Promos-Expansion/Pansage-Card-11",
+      "image": "https://den-cards.pokellector.com/9/Pansage.BW.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Pansage.BW.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "11/101",
+      "card_number": "11",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Pansage.BW.11.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p392893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$71.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pansage+Promo+BW11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pansage+-+BW11"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.44",
+          "link": "http://stop2shop.com/promo-bw011.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Zorua",
+      "title": "Zorua - Black & White Promos #12",
+      "link": "/English-Black-White-Promos-Expansion/Zorua-Card-12",
+      "image": "https://den-cards.pokellector.com/9/Zorua.BW.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zorua.BW.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "12/101",
+      "card_number": "12",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zorua.BW.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$42.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white-promos%2Farcanine-12-99-prerelease-promo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p323309.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zorua+Promo+BW12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zorua+-+BW12"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.44",
+          "link": "http://stop2shop.com/promo-bw012.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Minccino",
+      "title": "Minccino - Black & White Promos #13",
+      "link": "/English-Black-White-Promos-Expansion/Minccino-Card-13",
+      "image": "https://den-cards.pokellector.com/9/Minccino.BW.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Minccino.BW.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "13/101",
+      "card_number": "13",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Minccino.BW.13.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p380672.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Minccino+Promo+BW13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minccino+-+BW13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.88",
+          "link": "http://stop2shop.com/promo-bw013.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Pansage",
+      "title": "Pansage - Black & White Promos #14",
+      "link": "/English-Black-White-Promos-Expansion/Pansage-Card-14",
+      "image": "https://den-cards.pokellector.com/9/Pansage.BW.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Pansage.BW.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "14/101",
+      "card_number": "14",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Pansage.BW.14.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p392893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pansage+Promo+BW14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pansage+-+BW14"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.77",
+          "link": "http://stop2shop.com/promo-bw014.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Pidove",
+      "title": "Pidove - Black & White Promos #15",
+      "link": "/English-Black-White-Promos-Expansion/Pidove-Card-15",
+      "image": "https://den-cards.pokellector.com/9/Pidove.BW.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Pidove.BW.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "15/101",
+      "card_number": "15",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Pidove.BW.15.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p392892.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1,225.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pidove+Promo+BW15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.77",
+          "link": "http://stop2shop.com/promo-bw015.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidove+-+BW15"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Axew",
+      "title": "Axew - Black & White Promos #16",
+      "link": "/English-Black-White-Promos-Expansion/Axew-Card-16",
+      "image": "https://den-cards.pokellector.com/9/Axew.BW.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Axew.BW.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "16/101",
+      "card_number": "16",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Axew.BW.16.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$20.99",
+          "link": "http://www.trollandtoad.com/p392891.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Promo+BW16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Axew+-+BW16"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.77",
+          "link": "http://stop2shop.com/promo-bw016.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Ducklett",
+      "title": "Ducklett - Black & White Promos #17",
+      "link": "/English-Black-White-Promos-Expansion/Ducklett-Card-17",
+      "image": "https://den-cards.pokellector.com/9/Ducklett.BW.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Ducklett.BW.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "17/101",
+      "card_number": "17",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Ducklett.BW.17.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p324561.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ducklett+Promo+BW17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ducklett+-+BW17"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.44",
+          "link": "http://stop2shop.com/promo-bw017.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Darumaka",
+      "title": "Darumaka - Black & White Promos #18",
+      "link": "/English-Black-White-Promos-Expansion/Darumaka-Card-18",
+      "image": "https://den-cards.pokellector.com/9/Darumaka.BW.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Darumaka.BW.18.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "18/101",
+      "card_number": "18",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Darumaka.BW.18.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p323310.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darumaka+Promo+BW18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darumaka+-+BW18"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/promo-bw018.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Zoroark",
+      "title": "Zoroark - Black & White Promos #19",
+      "link": "/English-Black-White-Promos-Expansion/Zoroark-Card-19",
+      "image": "https://den-cards.pokellector.com/9/Zoroark.BW.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zoroark.BW.19.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "19/101",
+      "card_number": "19",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zoroark.BW.19.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.83",
+          "link": "http://www.trollandtoad.com/p316922.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zoroark+Promo+BW19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/promo-bw019.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zoroark+-+BW19"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Jumbo",
+          "image": "https://den-cards.pokellector.com/9/Zoroark.BW.19.37525.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Serperior",
+      "title": "Serperior - Black & White Promos #20",
+      "link": "/English-Black-White-Promos-Expansion/Serperior-Card-20",
+      "image": "https://den-cards.pokellector.com/9/Serperior.BW.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Serperior.BW.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "20/101",
+      "card_number": "20",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Serperior.BW.20.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p316882.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Serperior+Promo+BW20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Serperior+-+BW20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/promo-bw020.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Emboar",
+      "title": "Emboar - Black & White Promos #21",
+      "link": "/English-Black-White-Promos-Expansion/Emboar-Card-21",
+      "image": "https://den-cards.pokellector.com/9/Emboar.BW.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Emboar.BW.21.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "21/101",
+      "card_number": "21",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Emboar.BW.21.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p316883.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Emboar+Promo+BW21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/promo-bw021.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Emboar+-+BW21"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Samurott",
+      "title": "Samurott - Black & White Promos #22",
+      "link": "/English-Black-White-Promos-Expansion/Samurott-Card-22",
+      "image": "https://den-cards.pokellector.com/9/Samurott.BW.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Samurott.BW.22.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "22/101",
+      "card_number": "22",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Samurott.BW.22.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p316884.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Samurott+Promo+BW22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Samurott+-+BW22"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/promo-bw022.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Reshiram",
+      "title": "Reshiram - Black & White Promos #23",
+      "link": "/English-Black-White-Promos-Expansion/Reshiram-Card-23",
+      "image": "https://den-cards.pokellector.com/9/Reshiram.BW.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Reshiram.BW.23.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "23/101",
+      "card_number": "23",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Reshiram.BW.23.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p315551.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+Promo+BW23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.98",
+          "link": "http://stop2shop.com/promo-bw023.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Reshiram+-+BW23"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Zekrom",
+      "title": "Zekrom - Black & White Promos #24",
+      "link": "/English-Black-White-Promos-Expansion/Zekrom-Card-24",
+      "image": "https://den-cards.pokellector.com/9/Zekrom.BW.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zekrom.BW.24.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "24/101",
+      "card_number": "24",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zekrom.BW.24.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p315552.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Promo+BW24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zekrom+-+BW24"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/promo-bw024.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "25": {
+      "number": "25",
+      "name": "Scraggy",
+      "title": "Scraggy - Black & White Promos #25",
+      "link": "/English-Black-White-Promos-Expansion/Scraggy-Card-25",
+      "image": "https://den-cards.pokellector.com/9/Scraggy.BW.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Scraggy.BW.25.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "25/101",
+      "card_number": "25",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Scraggy.BW.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white-promos%2Fdarmanitan-25-114-prerelease-promo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1047621.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scraggy+Promo+BW25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scraggy+-+BW25"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.88",
+          "link": "http://stop2shop.com/promo-bw025.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "26": {
+      "number": "26",
+      "name": "Axew",
+      "title": "Axew - Black & White Promos #26",
+      "link": "/English-Black-White-Promos-Expansion/Axew-Card-26",
+      "image": "https://den-cards.pokellector.com/9/Axew.BW.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Axew.BW.26.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "26/101",
+      "card_number": "26",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Axew.BW.26.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p324516.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Promo+BW26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Axew+-+BW26"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/promo-bw026.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "27": {
+      "number": "27",
+      "name": "Litwick",
+      "title": "Litwick - Black & White Promos #27",
+      "link": "/English-Black-White-Promos-Expansion/Litwick-Card-27",
+      "image": "https://den-cards.pokellector.com/9/Litwick.BW.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Litwick.BW.27.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "27/101",
+      "card_number": "27",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Litwick.BW.27.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p324517.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Litwick+Promo+BW27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/promo-bw027.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Litwick+-+BW27"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Tropical Beach",
+      "title": "Tropical Beach - Black & White Promos #28",
+      "link": "/English-Black-White-Promos-Expansion/Tropical-Beach-Card-28",
+      "image": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.28.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "28/101",
+      "card_number": "28",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.28.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$134.99",
+          "link": "http://www.trollandtoad.com/p374886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$211.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Beach+Promo+BW28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$99.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropical+Beach+-+BW28"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$79.99",
+          "link": "http://stop2shop.com/promo-bw028.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "29": {
+      "number": "29",
+      "name": "Victory Cup (3rd Place)",
+      "title": "Victory Cup (3rd Place) - Black & White Promos #29",
+      "link": "/English-Black-White-Promos-Expansion/Victory-Cup-3rd-Place-Card-29",
+      "image": "https://den-cards.pokellector.com/9/Victory-Cup-3rd-Place.BW.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Victory-Cup-3rd-Place.BW.29.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "29/101",
+      "card_number": "29",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Victory-Cup-3rd-Place.BW.29.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p324567.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$47.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Victory+Cup+%283rd+Place%29+Promo+BW29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$34.88",
+          "link": "http://stop2shop.com/promo-bw029.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Victory Cup (2nd Place)",
+      "title": "Victory Cup (2nd Place) - Black & White Promos #30",
+      "link": "/English-Black-White-Promos-Expansion/Victory-Cup-2nd-Place-Card-30",
+      "image": "https://den-cards.pokellector.com/9/Victory-Cup-2nd-Place.BW.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Victory-Cup-2nd-Place.BW.30.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "30/101",
+      "card_number": "30",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Victory-Cup-2nd-Place.BW.30.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.99",
+          "link": "http://www.trollandtoad.com/p324566.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$74.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Victory+Cup+%282nd+Place%29+Promo+BW30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$38.88",
+          "link": "http://stop2shop.com/promo-bw030.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Victory Cup (1st Place)",
+      "title": "Victory Cup (1st Place) - Black & White Promos #31",
+      "link": "/English-Black-White-Promos-Expansion/Victory-Cup-1st-Place-Card-31",
+      "image": "https://den-cards.pokellector.com/9/Victory-Cup-1st-Place.BW.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Victory-Cup-1st-Place.BW.31.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "31/101",
+      "card_number": "31",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Victory-Cup-1st-Place.BW.31.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p324565.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$104.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Victory+Cup+%281st+Place%29+Promo+BW31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$48.88",
+          "link": "http://stop2shop.com/promo-bw031.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "32": {
+      "number": "32",
+      "name": "Victini",
+      "title": "Victini - Black & White Promos #32",
+      "link": "/English-Black-White-Promos-Expansion/Victini-Card-32",
+      "image": "https://den-cards.pokellector.com/9/Victini.BW.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Victini.BW.32.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "32/101",
+      "card_number": "32",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Victini.BW.32.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p325902.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Victini+Promo+BW32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/promo-bw032.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Victini+-+BW32"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "33": {
+      "number": "33",
+      "name": "Riolu",
+      "title": "Riolu - Black & White Promos #33",
+      "link": "/English-Black-White-Promos-Expansion/Riolu-Card-33",
+      "image": "https://den-cards.pokellector.com/9/Riolu.BW.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Riolu.BW.33.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "33/101",
+      "card_number": "33",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Riolu.BW.33.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p374509.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Riolu+Promo+BW33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Riolu+-+BW33"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.88",
+          "link": "http://stop2shop.com/promo-bw033.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "34": {
+      "number": "34",
+      "name": "Luxio",
+      "title": "Luxio - Black & White Promos #34",
+      "link": "/English-Black-White-Promos-Expansion/Luxio-Card-34",
+      "image": "https://den-cards.pokellector.com/9/Luxio.BW.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Luxio.BW.34.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "34/101",
+      "card_number": "34",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Luxio.BW.34.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p374510.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Luxio+Promo+BW34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.88",
+          "link": "http://stop2shop.com/promo-bw034.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luxio+-+BW34"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "35": {
+      "number": "35",
+      "name": "Meowth",
+      "title": "Meowth - Black & White Promos #35",
+      "link": "/English-Black-White-Promos-Expansion/Meowth-Card-35",
+      "image": "https://den-cards.pokellector.com/9/Meowth.BW.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Meowth.BW.35.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "35/101",
+      "card_number": "35",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Meowth.BW.35.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p392890.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meowth+Promo+BW35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meowth+-+BW35"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "36": {
+      "number": "36",
+      "name": "Reshiram EX",
+      "title": "Reshiram EX - Black & White Promos #36",
+      "link": "/English-Black-White-Promos-Expansion/Reshiram-EX-Card-36",
+      "image": "https://den-cards.pokellector.com/9/Reshiram-EX.BW.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Reshiram-EX.BW.36.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "36/101",
+      "card_number": "36",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Reshiram-EX.BW.36.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p327018.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+EX+Promo+BW36&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Reshiram-EX+-+BW36"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/promo-bw036.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "37": {
+      "number": "37",
+      "name": "Kyurem EX",
+      "title": "Kyurem EX - Black & White Promos #37",
+      "link": "/English-Black-White-Promos-Expansion/Kyurem-EX-Card-37",
+      "image": "https://den-cards.pokellector.com/9/Kyurem-EX.BW.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Kyurem-EX.BW.37.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "37/101",
+      "card_number": "37",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Kyurem-EX.BW.37.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p327017.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kyurem+EX+Promo+BW37&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyurem-EX+-+BW37"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/promo-bw037.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "38": {
+      "number": "38",
+      "name": "Zekrom EX",
+      "title": "Zekrom EX - Black & White Promos #38",
+      "link": "/English-Black-White-Promos-Expansion/Zekrom-EX-Card-38",
+      "image": "https://den-cards.pokellector.com/9/Zekrom-EX.BW.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Zekrom-EX.BW.38.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "38/101",
+      "card_number": "38",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Zekrom-EX.BW.38.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p327019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+EX+Promo+BW38&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/promo-bw038.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zekrom-EX+-+BW38"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "39": {
+      "number": "39",
+      "name": "Battle City",
+      "title": "Battle City - Black & White Promos #39",
+      "link": "/English-Black-White-Promos-Expansion/Battle-City-Card-39",
+      "image": "https://den-cards.pokellector.com/9/Battle-City.BW.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Battle-City.BW.39.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "39/101",
+      "card_number": "39",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Battle-City.BW.39.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p327016.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Battle+City+Promo+BW39&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/promo-bw039.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Battle+City+-+BW39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Volcarona",
+      "title": "Volcarona - Black & White Promos #40",
+      "link": "/English-Black-White-Promos-Expansion/Volcarona-Card-40",
+      "image": "https://den-cards.pokellector.com/9/Volcarona.BW.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Volcarona.BW.40.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "40/101",
+      "card_number": "40",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Volcarona.BW.40.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p392888.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Volcarona+Promo+BW40&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Volcarona+-+BW40"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "41": {
+      "number": "41",
+      "name": "Thundurus",
+      "title": "Thundurus - Black & White Promos #41",
+      "link": "/English-Black-White-Promos-Expansion/Thundurus-Card-41",
+      "image": "https://den-cards.pokellector.com/9/Thundurus.BW.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Thundurus.BW.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "41/101",
+      "card_number": "41",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Thundurus.BW.41.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1043268.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Thundurus+Promo+BW41&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Thundurus+-+BW41"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/promo-bw041.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Tornadus",
+      "title": "Tornadus - Black & White Promos #42",
+      "link": "/English-Black-White-Promos-Expansion/Tornadus-Card-42",
+      "image": "https://den-cards.pokellector.com/9/Tornadus.BW.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tornadus.BW.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "42/101",
+      "card_number": "42",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tornadus.BW.42.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p351161.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tornadus+Promo+BW42&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tornadus+-+BW42"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/promo-bw042.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "43": {
+      "number": "43",
+      "name": "Landorus",
+      "title": "Landorus - Black & White Promos #43",
+      "link": "/English-Black-White-Promos-Expansion/Landorus-Card-43",
+      "image": "https://den-cards.pokellector.com/9/Landorus.BW.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Landorus.BW.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "43/101",
+      "card_number": "43",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Landorus.BW.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white-promos%2Fvictini-43-101-prerelease-promo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.99",
+          "link": "http://www.trollandtoad.com/p1027591.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Landorus+Promo+BW43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/promo-bw043.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Landorus+-+BW43"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "44": {
+      "number": "44",
+      "name": "Kyurem",
+      "title": "Kyurem - Black & White Promos #44",
+      "link": "/English-Black-White-Promos-Expansion/Kyurem-Card-44",
+      "image": "https://den-cards.pokellector.com/9/Kyurem.BW.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Kyurem.BW.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "44/101",
+      "card_number": "44",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Kyurem.BW.44.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p354564.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kyurem+Promo+BW44&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyurem+-+BW44"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "45": {
+      "number": "45",
+      "name": "Mewtwo EX",
+      "title": "Mewtwo EX - Black & White Promos #45",
+      "link": "/English-Black-White-Promos-Expansion/Mewtwo-EX-Card-45",
+      "image": "https://den-cards.pokellector.com/9/Mewtwo-EX.BW.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Mewtwo-EX.BW.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "45/101",
+      "card_number": "45",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Mewtwo-EX.BW.45.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.09",
+          "link": "http://www.trollandtoad.com/p794121.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+EX+Promo+BW45&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/promo-bw045.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mewtwo-EX+-+BW45"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "46": {
+      "number": "46",
+      "name": "Darkrai EX",
+      "title": "Darkrai EX - Black & White Promos #46",
+      "link": "/English-Black-White-Promos-Expansion/Darkrai-EX-Card-46",
+      "image": "https://den-cards.pokellector.com/9/Darkrai-EX.BW.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Darkrai-EX.BW.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "46/101",
+      "card_number": "46",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Darkrai-EX.BW.46.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.09",
+          "link": "http://www.trollandtoad.com/p794122.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+EX+Promo+BW46&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkrai-EX+-+BW46"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$10.99",
+          "link": "http://stop2shop.com/promo-bw046.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "47": {
+      "number": "47",
+      "name": "Rayquaza EX",
+      "title": "Rayquaza EX - Black & White Promos #47",
+      "link": "/English-Black-White-Promos-Expansion/Rayquaza-EX-Card-47",
+      "image": "https://den-cards.pokellector.com/9/Rayquaza-EX.BW.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Rayquaza-EX.BW.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "47/101",
+      "card_number": "47",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Rayquaza-EX.BW.47.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.59",
+          "link": "http://www.trollandtoad.com/p794123.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rayquaza+EX+Promo+BW47&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza-EX+-+BW47"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/promo-bw047.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "48": {
+      "number": "48",
+      "name": "Altaria",
+      "title": "Altaria - Black & White Promos #48",
+      "link": "/English-Black-White-Promos-Expansion/Altaria-Card-48",
+      "image": "https://den-cards.pokellector.com/9/Altaria.BW.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Altaria.BW.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "48/101",
+      "card_number": "48",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Altaria.BW.48.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p392886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Altaria+Promo+BW48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Altaria+-+BW48"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw048.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "49": {
+      "number": "49",
+      "name": "Lilligant",
+      "title": "Lilligant - Black & White Promos #49",
+      "link": "/English-Black-White-Promos-Expansion/Lilligant-Card-49",
+      "image": "https://den-cards.pokellector.com/9/Lilligant.BW.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Lilligant.BW.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "49/101",
+      "card_number": "49",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Lilligant.BW.49.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p908125.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lilligant+Promo+BW49&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw049.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lilligant+-+BW49"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "50": {
+      "number": "50",
+      "name": "Tropical Beach",
+      "title": "Tropical Beach - Black & White Promos #50",
+      "link": "/English-Black-White-Promos-Expansion/Tropical-Beach-Card-50",
+      "image": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "50/101",
+      "card_number": "50",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.50.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$134.99",
+          "link": "http://www.trollandtoad.com/p374886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Beach+Promo+BW50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$99.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropical+Beach+-+BW50"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw050.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "51": {
+      "number": "51",
+      "name": "Crobat",
+      "title": "Crobat - Black & White Promos #51",
+      "link": "/English-Black-White-Promos-Expansion/Crobat-Card-51",
+      "image": "https://den-cards.pokellector.com/9/Crobat.BW.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Crobat.BW.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "51/101",
+      "card_number": "51",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Crobat.BW.51.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1014656.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$28.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Crobat+Promo+BW51&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw051.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crobat+-+BW51"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "52": {
+      "number": "52",
+      "name": "Lillipup",
+      "title": "Lillipup - Black & White Promos #52",
+      "link": "/English-Black-White-Promos-Expansion/Lillipup-Card-52",
+      "image": "https://den-cards.pokellector.com/9/Lillipup.BW.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Lillipup.BW.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "52/101",
+      "card_number": "52",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Lillipup.BW.52.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1012136.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lillipup+Promo+BW52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw052.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lillipup+-+BW52"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "53": {
+      "number": "53",
+      "name": "Flygon",
+      "title": "Flygon - Black & White Promos #53",
+      "link": "/English-Black-White-Promos-Expansion/Flygon-Card-53",
+      "image": "https://den-cards.pokellector.com/9/Flygon.BW.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Flygon.BW.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "53/101",
+      "card_number": "53",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Flygon.BW.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white-promos%2Fgigalith-53-98-prerelease-promo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p908126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flygon+Promo+BW53&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw053.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flygon+-+BW53"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "54": {
+      "number": "54",
+      "name": "Pikachu",
+      "title": "Pikachu - Black & White Promos #54",
+      "link": "/English-Black-White-Promos-Expansion/Pikachu-Card-54",
+      "image": "https://den-cards.pokellector.com/9/Pikachu.BW.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Pikachu.BW.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "54/101",
+      "card_number": "54",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Pikachu.BW.54.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p1012135.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$38.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Promo+BW54&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+BW54"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw054.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "55": {
+      "number": "55",
+      "name": "Elgyem",
+      "title": "Elgyem - Black & White Promos #55",
+      "link": "/English-Black-White-Promos-Expansion/Elgyem-Card-55",
+      "image": "https://den-cards.pokellector.com/9/Elgyem.BW.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Elgyem.BW.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "55/101",
+      "card_number": "55",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Elgyem.BW.55.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1012134.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Elgyem+Promo+BW55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Elgyem+-+BW55"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw055.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "56": {
+      "number": "56",
+      "name": "Empoleon",
+      "title": "Empoleon - Black & White Promos #56",
+      "link": "/English-Black-White-Promos-Expansion/Empoleon-Card-56",
+      "image": "https://den-cards.pokellector.com/9/Empoleon.BW.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Empoleon.BW.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "56/101",
+      "card_number": "56",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Empoleon.BW.56.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1051983.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Empoleon+Promo+BW56&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Empoleon+-+BW56"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw056.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "57": {
+      "number": "57",
+      "name": "Haxorus",
+      "title": "Haxorus - Black & White Promos #57",
+      "link": "/English-Black-White-Promos-Expansion/Haxorus-Card-57",
+      "image": "https://den-cards.pokellector.com/9/Haxorus.BW.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Haxorus.BW.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "57/101",
+      "card_number": "57",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Haxorus.BW.57.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p1026638.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haxorus+Promo+BW57&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Haxorus+-+BW57"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw057.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "58": {
+      "number": "58",
+      "name": "Black Kyurem",
+      "title": "Black Kyurem - Black & White Promos #58",
+      "link": "/English-Black-White-Promos-Expansion/Black-Kyurem-Card-58",
+      "image": "https://den-cards.pokellector.com/9/Black-Kyurem.BW.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Black-Kyurem.BW.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "58/101",
+      "card_number": "58",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Black-Kyurem.BW.58.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1026933.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Black+Kyurem+Promo+BW58&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Black+Kyurem+-+BW58"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw058.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "59": {
+      "number": "59",
+      "name": "White Kyurem",
+      "title": "White Kyurem - Black & White Promos #59",
+      "link": "/English-Black-White-Promos-Expansion/White-Kyurem-Card-59",
+      "image": "https://den-cards.pokellector.com/9/White-Kyurem.BW.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/White-Kyurem.BW.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "59/101",
+      "card_number": "59",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/White-Kyurem.BW.59.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1026934.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=White+Kyurem+Promo+BW59&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw059.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/White+Kyurem+-+BW59"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "60": {
+      "number": "60",
+      "name": "Keldeo",
+      "title": "Keldeo - Black & White Promos #60",
+      "link": "/English-Black-White-Promos-Expansion/Keldeo-Card-60",
+      "image": "https://den-cards.pokellector.com/9/Keldeo.BW.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Keldeo.BW.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "60/101",
+      "card_number": "60",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Keldeo.BW.60.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p714449.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Keldeo+Promo+BW60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Keldeo+-+BW60"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw060.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "61": {
+      "number": "61",
+      "name": "Keldeo EX",
+      "title": "Keldeo EX - Black & White Promos #61",
+      "link": "/English-Black-White-Promos-Expansion/Keldeo-EX-Card-61",
+      "image": "https://den-cards.pokellector.com/9/Keldeo-EX.BW.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Keldeo-EX.BW.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "61/101",
+      "card_number": "61",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Keldeo-EX.BW.61.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p1024275.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Keldeo+EX+Promo+BW61&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Keldeo-Ex+-+BW61"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw061.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "62": {
+      "number": "62",
+      "name": "Black Kyurem EX",
+      "title": "Black Kyurem EX - Black & White Promos #62",
+      "link": "/English-Black-White-Promos-Expansion/Black-Kyurem-EX-Card-62",
+      "image": "https://den-cards.pokellector.com/9/Black-Kyurem-EX.BW.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Black-Kyurem-EX.BW.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "62/101",
+      "card_number": "62",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Black-Kyurem-EX.BW.62.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p1024276.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Black+Kyurem+EX+Promo+BW62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw062.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Black+Kyurem-Ex+-+BW62"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "63": {
+      "number": "63",
+      "name": "White Kyurem EX",
+      "title": "White Kyurem EX - Black & White Promos #63",
+      "link": "/English-Black-White-Promos-Expansion/White-Kyurem-EX-Card-63",
+      "image": "https://den-cards.pokellector.com/9/White-Kyurem-EX.BW.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/White-Kyurem-EX.BW.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "63/101",
+      "card_number": "63",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/White-Kyurem-EX.BW.63.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p1024277.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=White+Kyurem+EX+Promo+BW63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/White+Kyurem-Ex+-+BW63"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw063.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "64": {
+      "number": "64",
+      "name": "Drifblim",
+      "title": "Drifblim - Black & White Promos #64",
+      "link": "/English-Black-White-Promos-Expansion/Drifblim-Card-64",
+      "image": "https://den-cards.pokellector.com/9/Drifblim.BW.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Drifblim.BW.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "64/101",
+      "card_number": "64",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Drifblim.BW.64.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1047255.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drifblim+Promo+BW64&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifblim+-+BW64"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw064.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "65": {
+      "number": "65",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - Black & White Promos #65",
+      "link": "/English-Black-White-Promos-Expansion/Jigglypuff-Card-65",
+      "image": "https://den-cards.pokellector.com/9/Jigglypuff.BW.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Jigglypuff.BW.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "65/101",
+      "card_number": "65",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Jigglypuff.BW.65.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jigglypuff+Promo+BW65&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw065.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jigglypuff+-+BW65"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "66": {
+      "number": "66",
+      "name": "Ninetales",
+      "title": "Ninetales - Black & White Promos #66",
+      "link": "/English-Black-White-Promos-Expansion/Ninetales-Card-66",
+      "image": "https://den-cards.pokellector.com/9/Ninetales.BW.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Ninetales.BW.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "66/101",
+      "card_number": "66",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Ninetales.BW.66.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1028599.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ninetales+Promo+BW66&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninetales+-+BW66"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw066.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "67": {
+      "number": "67",
+      "name": "Ampharos",
+      "title": "Ampharos - Black & White Promos #67",
+      "link": "/English-Black-White-Promos-Expansion/Ampharos-Card-67",
+      "image": "https://den-cards.pokellector.com/9/Ampharos.BW.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Ampharos.BW.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "67/101",
+      "card_number": "67",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Ampharos.BW.67.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1028598.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ampharos+Promo+BW67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ampharos+-+BW67"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw067.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "68": {
+      "number": "68",
+      "name": "Meloetta",
+      "title": "Meloetta - Black & White Promos #68",
+      "link": "/English-Black-White-Promos-Expansion/Meloetta-Card-68",
+      "image": "https://den-cards.pokellector.com/9/Meloetta.BW.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Meloetta.BW.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "68/101",
+      "card_number": "68",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Meloetta.BW.68.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1024278.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meloetta+Promo+BW68&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meloetta+-+BW68"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw068.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "69": {
+      "number": "69",
+      "name": "Meloetta",
+      "title": "Meloetta - Black & White Promos #69",
+      "link": "/English-Black-White-Promos-Expansion/Meloetta-Card-69",
+      "image": "https://den-cards.pokellector.com/9/Meloetta.BW.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Meloetta.BW.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "69/101",
+      "card_number": "69",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Meloetta.BW.69.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1024279.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meloetta+Promo+BW69&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meloetta+-+BW69"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw069.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "70": {
+      "number": "70",
+      "name": "Virizion",
+      "title": "Virizion - Black & White Promos #70",
+      "link": "/English-Black-White-Promos-Expansion/Virizion-Card-70",
+      "image": "https://den-cards.pokellector.com/9/Virizion.BW.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Virizion.BW.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "70/101",
+      "card_number": "70",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Virizion.BW.70.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p1023654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Virizion+Promo+BW70&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Virizion+-+BW70"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw070.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "71": {
+      "number": "71",
+      "name": "Terrakion",
+      "title": "Terrakion - Black & White Promos #71",
+      "link": "/English-Black-White-Promos-Expansion/Terrakion-Card-71",
+      "image": "https://den-cards.pokellector.com/9/Terrakion.BW.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Terrakion.BW.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "71/101",
+      "card_number": "71",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Terrakion.BW.71.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1023655.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Terrakion+Promo+BW71&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Terrakion+-+BW71"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw071.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Cobalion",
+      "title": "Cobalion - Black & White Promos #72",
+      "link": "/English-Black-White-Promos-Expansion/Cobalion-Card-72",
+      "image": "https://den-cards.pokellector.com/9/Cobalion.BW.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Cobalion.BW.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "72/101",
+      "card_number": "72",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Cobalion.BW.72.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p1023656.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cobalion+Promo+BW72&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cobalion+-+BW72"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw072.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Darkrai",
+      "title": "Darkrai - Black & White Promos #73",
+      "link": "/English-Black-White-Promos-Expansion/Darkrai-Card-73",
+      "image": "https://den-cards.pokellector.com/9/Darkrai.BW.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Darkrai.BW.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "73/101",
+      "card_number": "73",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Darkrai.BW.73.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.09",
+          "link": "http://www.trollandtoad.com/p794122.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+Promo+BW73+full+art&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Jumbo",
+          "image": "https://den-cards.pokellector.com/9/Darkrai.BW.73.37522.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Giratina",
+      "title": "Giratina - Black & White Promos #74",
+      "link": "/English-Black-White-Promos-Expansion/Giratina-Card-74",
+      "image": "https://den-cards.pokellector.com/9/Giratina.BW.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Giratina.BW.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "74/101",
+      "card_number": "74",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Giratina.BW.74.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.95",
+          "link": "http://www.trollandtoad.com/p1028008.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Giratina+Promo+BW74+full+art&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Giratina+-+BW74"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw074.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Metagross",
+      "title": "Metagross - Black & White Promos #75",
+      "link": "/English-Black-White-Promos-Expansion/Metagross-Card-75",
+      "image": "https://den-cards.pokellector.com/9/Metagross.BW.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Metagross.BW.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "75/101",
+      "card_number": "75",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Metagross.BW.75.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1027321.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Metagross+Promo+BW75&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metagross+-+BW75"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw075.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Electrode",
+      "title": "Electrode - Black & White Promos #76",
+      "link": "/English-Black-White-Promos-Expansion/Electrode-Card-76",
+      "image": "https://den-cards.pokellector.com/9/Electrode.BW.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Electrode.BW.76.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "76/101",
+      "card_number": "76",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Electrode.BW.76.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p1047252.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Electrode+Promo+BW76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+BW76"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw076.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Pikachu (Unreleased)",
+      "title": "Pikachu (Unreleased) - Black & White Promos #77",
+      "link": "/English-Black-White-Promos-Expansion/Pikachu-Unreleased-Card-77",
+      "image": "https://den-cards.pokellector.com/9/Pikachu-Unreleased.BW.77.9514.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Pikachu-Unreleased.BW.77.9514.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "77/101",
+      "card_number": "77",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Pikachu-Unreleased.BW.77.9514.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p1012135.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$37.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+%28Unreleased%29+Promo+BW77&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw077.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "78": {
+      "number": "78",
+      "name": "Raichu (Unreleased)",
+      "title": "Raichu (Unreleased) - Black & White Promos #78",
+      "link": "/English-Black-White-Promos-Expansion/Raichu-Unreleased-Card-78",
+      "image": "https://den-cards.pokellector.com/9/Raichu-Unreleased.BW.78.9515.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Raichu-Unreleased.BW.78.9515.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "78/101",
+      "card_number": "78",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Raichu-Unreleased.BW.78.9515.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p908126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raichu+%28Unreleased%29+Promo+BW78&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw078.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "79": {
+      "number": "79",
+      "name": "Landorus",
+      "title": "Landorus - Black & White Promos #79",
+      "link": "/English-Black-White-Promos-Expansion/Landorus-Card-79",
+      "image": "https://den-cards.pokellector.com/9/Landorus.BW.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Landorus.BW.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "79/101",
+      "card_number": "79",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Landorus.BW.79.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.99",
+          "link": "http://www.trollandtoad.com/p1027591.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$45.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Landorus+Promo+BW79&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Landorus+-+BW79"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw079.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "80": {
+      "number": "80",
+      "name": "Druddigon",
+      "title": "Druddigon - Black & White Promos #80",
+      "link": "/English-Black-White-Promos-Expansion/Druddigon-Card-80",
+      "image": "https://den-cards.pokellector.com/9/Druddigon.BW.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Druddigon.BW.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "80/101",
+      "card_number": "80",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Druddigon.BW.80.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1027590.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Druddigon+Promo+BW80&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw080.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Druddigon+-+BW80"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "81": {
+      "number": "81",
+      "name": "Thundurus EX",
+      "title": "Thundurus EX - Black & White Promos #81",
+      "link": "/English-Black-White-Promos-Expansion/Thundurus-EX-Card-81",
+      "image": "https://den-cards.pokellector.com/9/Thundurus-EX.BW.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Thundurus-EX.BW.81.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "81/101",
+      "card_number": "81",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Thundurus-EX.BW.81.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1043268.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Thundurus+EX+Promo+BW81&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Thundurus-EX+-+BW81"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw081.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "82": {
+      "number": "82",
+      "name": "Deoxys EX",
+      "title": "Deoxys EX - Black & White Promos #82",
+      "link": "/English-Black-White-Promos-Expansion/Deoxys-EX-Card-82",
+      "image": "https://den-cards.pokellector.com/9/Deoxys-EX.BW.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Deoxys-EX.BW.82.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "82/101",
+      "card_number": "82",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Deoxys-EX.BW.82.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1043267.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Deoxys+EX+Promo+BW82&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Deoxys-EX+-+BW82"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw082.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "83": {
+      "number": "83",
+      "name": "Lugia EX",
+      "title": "Lugia EX - Black & White Promos #83",
+      "link": "/English-Black-White-Promos-Expansion/Lugia-EX-Card-83",
+      "image": "https://den-cards.pokellector.com/9/Lugia-EX.BW.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Lugia-EX.BW.83.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "83/101",
+      "card_number": "83",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Lugia-EX.BW.83.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p1043269.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lugia+EX+Promo+BW83&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw083.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lugia-EX+-+BW83"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Porygon-Z",
+      "title": "Porygon-Z - Black & White Promos #84",
+      "link": "/English-Black-White-Promos-Expansion/Porygon-Z-Card-84",
+      "image": "https://den-cards.pokellector.com/9/Porygon-Z.BW.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Porygon-Z.BW.84.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "84/101",
+      "card_number": "84",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Porygon-Z.BW.84.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1047250.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Porygon-Z+Promo+BW84&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon-Z+-+BW84"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw084.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Lucario",
+      "title": "Lucario - Black & White Promos #85",
+      "link": "/English-Black-White-Promos-Expansion/Lucario-Card-85",
+      "image": "https://den-cards.pokellector.com/9/Lucario.BW.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Lucario.BW.85.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "85/101",
+      "card_number": "85",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Lucario.BW.85.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.99",
+          "link": "http://www.trollandtoad.com/p1047253.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$36.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lucario+Promo+BW85&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$15.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lucario+-+BW85"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw085.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "86": {
+      "number": "86",
+      "name": "Genesect",
+      "title": "Genesect - Black & White Promos #86",
+      "link": "/English-Black-White-Promos-Expansion/Genesect-Card-86",
+      "image": "https://den-cards.pokellector.com/9/Genesect.BW.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Genesect.BW.86.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "86/101",
+      "card_number": "86",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Genesect.BW.86.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p1047254.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Genesect+Promo+BW86&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Genesect+-+BW86"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw086.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "87": {
+      "number": "87",
+      "name": "Leafeon",
+      "title": "Leafeon - Black & White Promos #87",
+      "link": "/English-Black-White-Promos-Expansion/Leafeon-Card-87",
+      "image": "https://den-cards.pokellector.com/9/Leafeon.BW.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Leafeon.BW.87.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "87/101",
+      "card_number": "87",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Leafeon.BW.87.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p1047514.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Leafeon+Promo+BW87&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+-+BW87"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw087.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "88": {
+      "number": "88",
+      "name": "Flareon",
+      "title": "Flareon - Black & White Promos #88",
+      "link": "/English-Black-White-Promos-Expansion/Flareon-Card-88",
+      "image": "https://den-cards.pokellector.com/9/Flareon.BW.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Flareon.BW.88.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "88/101",
+      "card_number": "88",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Flareon.BW.88.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.19",
+          "link": "http://www.trollandtoad.com/p1047511.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flareon+Promo+BW88&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flareon+-+BW88"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw088.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "89": {
+      "number": "89",
+      "name": "Vaporeon",
+      "title": "Vaporeon - Black & White Promos #89",
+      "link": "/English-Black-White-Promos-Expansion/Vaporeon-Card-89",
+      "image": "https://den-cards.pokellector.com/9/Vaporeon.BW.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Vaporeon.BW.89.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "89/101",
+      "card_number": "89",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Vaporeon.BW.89.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p1047516.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vaporeon+Promo+BW89&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vaporeon+-+BW89"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw089.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Glaceon",
+      "title": "Glaceon - Black & White Promos #90",
+      "link": "/English-Black-White-Promos-Expansion/Glaceon-Card-90",
+      "image": "https://den-cards.pokellector.com/9/Glaceon.BW.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Glaceon.BW.90.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "90/101",
+      "card_number": "90",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Glaceon.BW.90.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p1047512.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Glaceon+Promo+BW90&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glaceon+-+BW90"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw090.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Jolteon",
+      "title": "Jolteon - Black & White Promos #91",
+      "link": "/English-Black-White-Promos-Expansion/Jolteon-Card-91",
+      "image": "https://den-cards.pokellector.com/9/Jolteon.BW.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Jolteon.BW.91.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "91/101",
+      "card_number": "91",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Jolteon.BW.91.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p1047513.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jolteon+Promo+BW91&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jolteon+-+BW91"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw091.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Espeon",
+      "title": "Espeon - Black & White Promos #92",
+      "link": "/English-Black-White-Promos-Expansion/Espeon-Card-92",
+      "image": "https://den-cards.pokellector.com/9/Espeon.BW.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Espeon.BW.92.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "92/101",
+      "card_number": "92",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Espeon.BW.92.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p1047510.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Espeon+Promo+BW92&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+BW92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw092.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Umbreon",
+      "title": "Umbreon - Black & White Promos #93",
+      "link": "/English-Black-White-Promos-Expansion/Umbreon-Card-93",
+      "image": "https://den-cards.pokellector.com/9/Umbreon.BW.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Umbreon.BW.93.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "93/101",
+      "card_number": "93",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Umbreon.BW.93.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.39",
+          "link": "http://www.trollandtoad.com/p1047515.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$31.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Umbreon+Promo+BW93&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+BW93"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw093.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Eevee",
+      "title": "Eevee - Black & White Promos #94",
+      "link": "/English-Black-White-Promos-Expansion/Eevee-Card-94",
+      "image": "https://den-cards.pokellector.com/9/Eevee.BW.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Eevee.BW.94.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "94/101",
+      "card_number": "94",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Eevee.BW.94.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1047509.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eevee+Promo+BW94&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+BW94"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw094.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Champions Festival",
+      "title": "Champions Festival - Black & White Promos #95",
+      "link": "/English-Black-White-Promos-Expansion/Champions-Festival-Card-95",
+      "image": "https://den-cards.pokellector.com/9/Champions-Festival.BW.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Champions-Festival.BW.95.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "95/101",
+      "card_number": "95",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Champions-Festival.BW.95.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$36.99",
+          "link": "http://www.trollandtoad.com/p1045600.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$211.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Champions+Festival+Promo+BW95&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$39.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Champions+Festival+-+BW95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw095.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Tornadus EX",
+      "title": "Tornadus EX - Black & White Promos #96",
+      "link": "/English-Black-White-Promos-Expansion/Tornadus-EX-Card-96",
+      "image": "https://den-cards.pokellector.com/9/Tornadus-EX.BW.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Tornadus-EX.BW.96.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "96/101",
+      "card_number": "96",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Tornadus-EX.BW.96.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p1053237.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tornadus+EX+Promo+BW96&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tornadus-EX+-+BW96"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw096.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Eevee",
+      "title": "Eevee - Black & White Promos #97",
+      "link": "/English-Black-White-Promos-Expansion/Eevee-Card-97",
+      "image": "https://den-cards.pokellector.com/9/Eevee.BW.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Eevee.BW.97.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "97/101",
+      "card_number": "97",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Eevee.BW.97.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$54.99",
+          "link": "http://www.trollandtoad.com/p1053234.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$85.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eevee+Promo+BW97&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw097.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Mew",
+      "title": "Mew - Black & White Promos #98",
+      "link": "/English-Black-White-Promos-Expansion/Mew-Card-98",
+      "image": "https://den-cards.pokellector.com/9/Mew.BW.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Mew.BW.98.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "98/101",
+      "card_number": "98",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Mew.BW.98.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p1048102.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$60.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mew+Promo+BW98&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw098.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Genesect",
+      "title": "Genesect - Black & White Promos #99",
+      "link": "/English-Black-White-Promos-Expansion/Genesect-Card-99",
+      "image": "https://den-cards.pokellector.com/9/Genesect.BW.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Genesect.BW.99.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "99/101",
+      "card_number": "99",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Genesect.BW.99.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1045436.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Genesect+Promo+BW99&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Genesect+-+BW99"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw099.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "N",
+      "title": "N - Black & White Promos #100",
+      "link": "/English-Black-White-Promos-Expansion/N-Card-100",
+      "image": "https://den-cards.pokellector.com/9/N.BW.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/N.BW.100.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "100/101",
+      "card_number": "100",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/N.BW.100.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1103779.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=N+Promo+BW100&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/N+-+BW100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw100.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Non Holo",
+          "image": "https://den-cards.pokellector.com/9/N.BW.100.37515.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "101": {
+      "number": "101",
+      "name": "Genesect",
+      "title": "Genesect - Black & White Promos #101",
+      "link": "/English-Black-White-Promos-Expansion/Genesect-Card-101",
+      "image": "https://den-cards.pokellector.com/9/Genesect.BW.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/Genesect.BW.101.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "position": "101/101",
+      "card_number": "101",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/9/Genesect.BW.101.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1045436.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$65.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Genesect+Promo+BW101&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw101.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "____'s Snivy (Jumbo)": {
+      "number": null,
+      "name": "____'s Snivy (Jumbo)",
+      "title": "____'s Snivy (Jumbo) - Black & White Promos ",
+      "link": "/card/37521/__s-Snivy-Jumbo-Black-White-Promos-BW-999",
+      "image": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37521.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37521.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "image_full": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37521.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=____%27s+Snivy+%28Jumbo%29+Promo+BW999&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw999.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "____'s Tepig (Jumbo)": {
+      "number": null,
+      "name": "____'s Tepig (Jumbo)",
+      "title": "____'s Tepig (Jumbo) - Black & White Promos ",
+      "link": "/card/37526/__s-Tepig-Jumbo-Black-White-Promos-BW-999",
+      "image": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37526.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37526.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "image_full": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37526.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$2.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=____%27s+Tepig+%28Jumbo%29+Promo+BW999&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw999.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "____'s Oshawott (Jumbo)": {
+      "number": null,
+      "name": "____'s Oshawott (Jumbo)",
+      "title": "____'s Oshawott (Jumbo) - Black & White Promos ",
+      "link": "/card/37527/__s-Oshawott-Jumbo-Black-White-Promos-BW-999",
+      "image": "https://den-cards.pokellector.com/9/__s-Oshawott-Jumbo.BW.999.37527.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/9/__s-Oshawott-Jumbo.BW.999.37527.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Black & White Promos",
+      "set_link": "/English-Black-White-Promos-Expansion/",
+      "image_full": "https://den-cards.pokellector.com/9/__s-Oshawott-Jumbo.BW.999.37527.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=____%27s+Oshawott+%28Jumbo%29+Promo+BW999&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/promo-bw999.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:43:23"
+}

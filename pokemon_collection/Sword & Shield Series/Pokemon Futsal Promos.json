@@ -1,0 +1,140 @@
+{
+  "title": "Pokemon Futsal Promos Set",
+  "link": "/Pokemon-Futsal-Promos-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.logo.303.png",
+  "symbol": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.symbol.303.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Pikachu on the Ball",
+      "title": "Pikachu on the Ball - Pokemon Futsal Promos #1",
+      "link": "/Pokemon-Futsal-Promos-Expansion/Pikachu-on-the-Ball-Card-1",
+      "image": "https://den-cards.pokellector.com/303/Pikachu-on-the-Ball.SWSH3.1.35898.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/303/Pikachu-on-the-Ball.SWSH3.1.35898.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Futsal Promos",
+      "set_link": "/Pokemon-Futsal-Promos-Expansion/",
+      "position": "1/5",
+      "card_number": "1",
+      "total_cards": "5",
+      "image_full": "https://den-cards.pokellector.com/303/Pikachu-on-the-Ball.SWSH3.1.35898.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$86.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+on+the+Ball+Pokemon+Futsal+1+-complete+-playset+-set+-lot&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Eevee on the Ball",
+      "title": "Eevee on the Ball - Pokemon Futsal Promos #2",
+      "link": "/Pokemon-Futsal-Promos-Expansion/Eevee-on-the-Ball-Card-2",
+      "image": "https://den-cards.pokellector.com/303/Eevee-on-the-Ball.SWSH3.2.35899.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/303/Eevee-on-the-Ball.SWSH3.2.35899.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Futsal Promos",
+      "set_link": "/Pokemon-Futsal-Promos-Expansion/",
+      "position": "2/5",
+      "card_number": "2",
+      "total_cards": "5",
+      "image_full": "https://den-cards.pokellector.com/303/Eevee-on-the-Ball.SWSH3.2.35899.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$36.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eevee+on+the+Ball+Pokemon+Futsal+2+-complete+-playset+-set+-lot&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€40.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Futsal-Promos/Eevee-on-the-Ball-FUT202?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Grookey on the Ball",
+      "title": "Grookey on the Ball - Pokemon Futsal Promos #3",
+      "link": "/Pokemon-Futsal-Promos-Expansion/Grookey-on-the-Ball-Card-3",
+      "image": "https://den-cards.pokellector.com/303/Grookey-on-the-Ball.SWSH3.3.35900.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/303/Grookey-on-the-Ball.SWSH3.3.35900.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Futsal Promos",
+      "set_link": "/Pokemon-Futsal-Promos-Expansion/",
+      "position": "3/5",
+      "card_number": "3",
+      "total_cards": "5",
+      "image_full": "https://den-cards.pokellector.com/303/Grookey-on-the-Ball.SWSH3.3.35900.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$105.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grookey+on+the+Ball+Pokemon+Futsal+3+-complete+-playset+-set+-lot&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€16.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Futsal-Promos/Grookey-on-the-Ball-FUT203?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Scorbunny on the Ball",
+      "title": "Scorbunny on the Ball - Pokemon Futsal Promos #4",
+      "link": "/Pokemon-Futsal-Promos-Expansion/Scorbunny-on-the-Ball-Card-4",
+      "image": "https://den-cards.pokellector.com/303/Scorbunny-on-the-Ball.SWSH35.4.39220.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/303/Scorbunny-on-the-Ball.SWSH35.4.39220.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Futsal Promos",
+      "set_link": "/Pokemon-Futsal-Promos-Expansion/",
+      "position": "4/5",
+      "card_number": "4",
+      "total_cards": "5",
+      "image_full": "https://den-cards.pokellector.com/303/Scorbunny-on-the-Ball.SWSH35.4.39220.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$34.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scorbunny+on+the+Ball+Pokemon+Futsal+4+-complete+-playset+-set+-lot&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Sobble on the Ball",
+      "title": "Sobble on the Ball - Pokemon Futsal Promos #5",
+      "link": "/Pokemon-Futsal-Promos-Expansion/Sobble-on-the-Ball-Card-5",
+      "image": "https://den-cards.pokellector.com/303/Sobble-on-the-Ball.SWSH35.5.40370.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/303/Sobble-on-the-Ball.SWSH35.5.40370.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Futsal Promos",
+      "set_link": "/Pokemon-Futsal-Promos-Expansion/",
+      "position": "5/5",
+      "card_number": "5",
+      "total_cards": "5",
+      "image_full": "https://den-cards.pokellector.com/303/Sobble-on-the-Ball.SWSH35.5.40370.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$13.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sobble+on+the+Ball+Pokemon+Futsal+5+-complete+-playset+-set+-lot&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 03:44:12"
+}

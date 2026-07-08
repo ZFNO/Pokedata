@@ -1,0 +1,758 @@
+{
+  "title": "POP Series 8 Set",
+  "link": "/POP-Series-8-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-8.logo.105.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-8.symbol.105.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Heatran",
+      "title": "Heatran - POP Series 8 #1",
+      "link": "/POP-Series-8-Expansion/Heatran-Card-1",
+      "image": "https://den-cards.pokellector.com/105/Heatran.POP8.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Heatran.POP8.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Heatran.POP8.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fheatran"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p240644.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Heatran+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/heatran__117__nonholo_rare/65669"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.15",
+          "link": "http://stop2shop.com/foil-pop8-1.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Lucario",
+      "title": "Lucario - POP Series 8 #2",
+      "link": "/POP-Series-8-Expansion/Lucario-Card-2",
+      "image": "https://den-cards.pokellector.com/105/Lucario.POP8.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Lucario.POP8.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Lucario.POP8.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Flucario"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p289174.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Lucario+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/lucario__217__rare/65644"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.17",
+          "link": "http://stop2shop.com/foil-pop8-2.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Luxray",
+      "title": "Luxray - POP Series 8 #3",
+      "link": "/POP-Series-8-Expansion/Luxray-Card-3",
+      "image": "https://den-cards.pokellector.com/105/Luxray.POP8.3.6493.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Luxray.POP8.3.6493.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Luxray.POP8.3.6493.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fluxray"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.69",
+          "link": "http://www.trollandtoad.com/p240647.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Luxray+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/luxray__051172__rare__reverse_holo/656648"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-3.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Probopass",
+      "title": "Probopass - POP Series 8 #4",
+      "link": "/POP-Series-8-Expansion/Probopass-Card-4",
+      "image": "https://den-cards.pokellector.com/105/Probopass.POP8.4.6494.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Probopass.POP8.4.6494.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Probopass.POP8.4.6494.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fprobopass"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p240650.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Probopass+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$18.09",
+          "link": "http://stop2shop.com/foil-pop8-4.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/probopass__099172__uncommon/656708"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Yanmega",
+      "title": "Yanmega - POP Series 8 #5",
+      "link": "/POP-Series-8-Expansion/Yanmega-Card-5",
+      "image": "https://den-cards.pokellector.com/105/Yanmega.POP8.5.6495.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Yanmega.POP8.5.6495.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Yanmega.POP8.5.6495.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fyanmega"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p302007.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Yanmega+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-legends_awakened/yanmega__17146__holo_rare/64863"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.80",
+          "link": "http://stop2shop.com/foil-pop8-5.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Cherrim",
+      "title": "Cherrim - POP Series 8 #6",
+      "link": "/POP-Series-8-Expansion/Cherrim-Card-6",
+      "image": "https://den-cards.pokellector.com/105/Cherrim.POP8.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Cherrim.POP8.6.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Cherrim.POP8.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.91",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fcherrim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p240640.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Cherrim+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/cherrim__617__uncommon/65674"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Carnivine",
+      "title": "Carnivine - POP Series 8 #7",
+      "link": "/POP-Series-8-Expansion/Carnivine-Card-7",
+      "image": "https://den-cards.pokellector.com/105/Carnivine.POP8.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Carnivine.POP8.7.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Carnivine.POP8.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fcarnivine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p240639.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Carnivine+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/carnivine__717__uncommon/65675"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-7.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Luxio",
+      "title": "Luxio - POP Series 8 #8",
+      "link": "/POP-Series-8-Expansion/Luxio-Card-8",
+      "image": "https://den-cards.pokellector.com/105/Luxio.POP8.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Luxio.POP8.8.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Luxio.POP8.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fluxio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p240646.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Luxio+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/luxio__050172__uncommon/656590"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Night Maintenance",
+      "title": "Night Maintenance - POP Series 8 #9",
+      "link": "/POP-Series-8-Expansion/Night-Maintenance-Card-9",
+      "image": "https://den-cards.pokellector.com/105/Night-Maintenance.POP8.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Night-Maintenance.POP8.9.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Night-Maintenance.POP8.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fnight-maintenance"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p240648.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Night+Maintenance+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/night_maintenance__917__uncommon/65677"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-9.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Rare Candy",
+      "title": "Rare Candy - POP Series 8 #10",
+      "link": "/POP-Series-8-Expansion/Rare-Candy-Card-10",
+      "image": "https://den-cards.pokellector.com/105/Rare-Candy.POP8.10.6500.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Rare-Candy.POP8.10.6500.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Rare-Candy.POP8.10.6500.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Frare-candy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p240651.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Rare+Candy+10+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/rare_candy__1017__uncommon/65678"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Roseanne's Research",
+      "title": "Roseanne's Research - POP Series 8 #11",
+      "link": "/POP-Series-8-Expansion/Roseannes-Research-Card-11",
+      "image": "https://den-cards.pokellector.com/105/Roseannes-Research.POP8.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Roseannes-Research.POP8.11.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Roseannes-Research.POP8.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Froseannes-research"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.79",
+          "link": "http://www.trollandtoad.com/p240653.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Roseanne%27s+Research+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-11.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/roseannes_research__1117__uncommon/65679"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Chimchar",
+      "title": "Chimchar - POP Series 8 #12",
+      "link": "/POP-Series-8-Expansion/Chimchar-Card-12",
+      "image": "https://den-cards.pokellector.com/105/Chimchar.POP8.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Chimchar.POP8.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Chimchar.POP8.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fchimchar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p240641.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Chimchar+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/chimchar__1217__common/65680"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Croagunk",
+      "title": "Croagunk - POP Series 8 #13",
+      "link": "/POP-Series-8-Expansion/Croagunk-Card-13",
+      "image": "https://den-cards.pokellector.com/105/Croagunk.POP8.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Croagunk.POP8.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Croagunk.POP8.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fcroagunk"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.86",
+          "link": "http://www.trollandtoad.com/p240642.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Croagunk+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/croagunk__1317__common/65681"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Happiny",
+      "title": "Happiny - POP Series 8 #14",
+      "link": "/POP-Series-8-Expansion/Happiny-Card-14",
+      "image": "https://den-cards.pokellector.com/105/Happiny.POP8.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Happiny.POP8.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Happiny.POP8.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.37",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fhappiny"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p240643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Happiny+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/happiny__1417__holo_common/499533"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.56",
+          "link": "http://stop2shop.com/foil-pop8-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Piplup",
+      "title": "Piplup - POP Series 8 #15",
+      "link": "/POP-Series-8-Expansion/Piplup-Card-15",
+      "image": "https://den-cards.pokellector.com/105/Piplup.POP8.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Piplup.POP8.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Piplup.POP8.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fpiplup"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.47",
+          "link": "http://www.trollandtoad.com/p240649.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Piplup+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/piplup__1517__nonholo_common/65641"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Riolu",
+      "title": "Riolu - POP Series 8 #16",
+      "link": "/POP-Series-8-Expansion/Riolu-Card-16",
+      "image": "https://den-cards.pokellector.com/105/Riolu.POP8.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Riolu.POP8.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Riolu.POP8.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Friolu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p240652.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Riolu+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_8/riolu__1617__nonholo_common/65684"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Turtwig",
+      "title": "Turtwig - POP Series 8 #17",
+      "link": "/POP-Series-8-Expansion/Turtwig-Card-17",
+      "image": "https://den-cards.pokellector.com/105/Turtwig.POP8.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/105/Turtwig.POP8.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 8",
+      "set_link": "/POP-Series-8-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/105/Turtwig.POP8.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-8%2Fturtwig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p240654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+8+Turtwig+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop8-17.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/turtwig__1717__holo_common/547133"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:52:53"
+}

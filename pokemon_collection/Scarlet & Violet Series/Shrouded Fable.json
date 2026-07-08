@@ -1,0 +1,3278 @@
+{
+  "title": "Shrouded Fable Set",
+  "link": "/Shrouded-Fable-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Shrouded-Fable.logo.399.png",
+  "symbol": "https://den-media.pokellector.com/logos/Shrouded-Fable.symbol.399.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Joltik",
+      "title": "Joltik - Shrouded Fable #1",
+      "link": "/Shrouded-Fable-Expansion/Joltik-Card-1",
+      "image": "https://den-cards.pokellector.com/399/Joltik.SFA.1.53796.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Joltik.SFA.1.53796.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "1/64",
+      "card_number": "1",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Joltik.SFA.1.53796.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560311%2Fpokemon-sv-shrouded-fable-joltik"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Joltik+Shrouded+Fable+1+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Galvantula",
+      "title": "Galvantula - Shrouded Fable #2",
+      "link": "/Shrouded-Fable-Expansion/Galvantula-Card-2",
+      "image": "https://den-cards.pokellector.com/399/Galvantula.SFA.2.53797.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Galvantula.SFA.2.53797.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "2/64",
+      "card_number": "2",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Galvantula.SFA.2.53797.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560312%2Fpokemon-sv-shrouded-fable-galvantula"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galvantula+Shrouded+Fable+2+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Rowlet",
+      "title": "Rowlet - Shrouded Fable #3",
+      "link": "/Shrouded-Fable-Expansion/Rowlet-Card-3",
+      "image": "https://den-cards.pokellector.com/399/Rowlet.SFA.3.53798.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Rowlet.SFA.3.53798.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "3/64",
+      "card_number": "3",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Rowlet.SFA.3.53798.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560313%2Fpokemon-sv-shrouded-fable-rowlet"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rowlet+Shrouded+Fable+3+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Dartrix",
+      "title": "Dartrix - Shrouded Fable #4",
+      "link": "/Shrouded-Fable-Expansion/Dartrix-Card-4",
+      "image": "https://den-cards.pokellector.com/399/Dartrix.SFA.4.53799.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dartrix.SFA.4.53799.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "4/64",
+      "card_number": "4",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dartrix.SFA.4.53799.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560314%2Fpokemon-sv-shrouded-fable-dartrix"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dartrix+Shrouded+Fable+4+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Decidueye",
+      "title": "Decidueye - Shrouded Fable #5",
+      "link": "/Shrouded-Fable-Expansion/Decidueye-Card-5",
+      "image": "https://den-cards.pokellector.com/399/Decidueye.SFA.5.53800.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Decidueye.SFA.5.53800.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "5/64",
+      "card_number": "5",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Decidueye.SFA.5.53800.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560315%2Fpokemon-sv-shrouded-fable-decidueye"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Decidueye+Shrouded+Fable+5+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Tapu Bulu",
+      "title": "Tapu Bulu - Shrouded Fable #6",
+      "link": "/Shrouded-Fable-Expansion/Tapu-Bulu-Card-6",
+      "image": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.6.53801.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.6.53801.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "6/64",
+      "card_number": "6",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.6.53801.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560316%2Fpokemon-sv-shrouded-fable-tapu-bulu-006-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tapu+Bulu+Shrouded+Fable+6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Houndour",
+      "title": "Houndour - Shrouded Fable #7",
+      "link": "/Shrouded-Fable-Expansion/Houndour-Card-7",
+      "image": "https://den-cards.pokellector.com/399/Houndour.SFA.7.53802.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Houndour.SFA.7.53802.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "7/64",
+      "card_number": "7",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Houndour.SFA.7.53802.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560317%2Fpokemon-sv-shrouded-fable-houndour"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndour+Shrouded+Fable+7+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Houndoom",
+      "title": "Houndoom - Shrouded Fable #8",
+      "link": "/Shrouded-Fable-Expansion/Houndoom-Card-8",
+      "image": "https://den-cards.pokellector.com/399/Houndoom.SFA.8.53803.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Houndoom.SFA.8.53803.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "8/64",
+      "card_number": "8",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Houndoom.SFA.8.53803.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560318%2Fpokemon-sv-shrouded-fable-houndoom-008-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndoom+Shrouded+Fable+8+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Iron Moth",
+      "title": "Iron Moth - Shrouded Fable #9",
+      "link": "/Shrouded-Fable-Expansion/Iron-Moth-Card-9",
+      "image": "https://den-cards.pokellector.com/399/Iron-Moth.SFA.9.53804.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Iron-Moth.SFA.9.53804.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "9/64",
+      "card_number": "9",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Iron-Moth.SFA.9.53804.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560319%2Fpokemon-sv-shrouded-fable-iron-moth"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Iron+Moth+Shrouded+Fable+9+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Horsea",
+      "title": "Horsea - Shrouded Fable #10",
+      "link": "/Shrouded-Fable-Expansion/Horsea-Card-10",
+      "image": "https://den-cards.pokellector.com/399/Horsea.SFA.10.53805.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Horsea.SFA.10.53805.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "10/64",
+      "card_number": "10",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Horsea.SFA.10.53805.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560320%2Fpokemon-sv-shrouded-fable-horsea-010-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Horsea+Shrouded+Fable+10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cosmos Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Seadra",
+      "title": "Seadra - Shrouded Fable #11",
+      "link": "/Shrouded-Fable-Expansion/Seadra-Card-11",
+      "image": "https://den-cards.pokellector.com/399/Seadra.SFA.11.53806.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Seadra.SFA.11.53806.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "11/64",
+      "card_number": "11",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Seadra.SFA.11.53806.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560321%2Fpokemon-sv-shrouded-fable-seadra"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Seadra+Shrouded+Fable+11+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cosmos Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Kingdra ex",
+      "title": "Kingdra ex - Shrouded Fable #12",
+      "link": "/Shrouded-Fable-Expansion/Kingdra-ex-Card-12",
+      "image": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.12.53807.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.12.53807.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "12/64",
+      "card_number": "12",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.12.53807.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560322%2Fpokemon-sv-shrouded-fable-kingdra-ex-012-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kingdra+ex+Shrouded+Fable+12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Sneasel",
+      "title": "Sneasel - Shrouded Fable #13",
+      "link": "/Shrouded-Fable-Expansion/Sneasel-Card-13",
+      "image": "https://den-cards.pokellector.com/399/Sneasel.SFA.13.53808.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Sneasel.SFA.13.53808.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "13/64",
+      "card_number": "13",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Sneasel.SFA.13.53808.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560323%2Fpokemon-sv-shrouded-fable-sneasel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sneasel+Shrouded+Fable+13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Weavile",
+      "title": "Weavile - Shrouded Fable #14",
+      "link": "/Shrouded-Fable-Expansion/Weavile-Card-14",
+      "image": "https://den-cards.pokellector.com/399/Weavile.SFA.14.53809.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Weavile.SFA.14.53809.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "14/64",
+      "card_number": "14",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Weavile.SFA.14.53809.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560324%2Fpokemon-sv-shrouded-fable-weavile"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Weavile+Shrouded+Fable+14+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Revavroom ex",
+      "title": "Revavroom ex - Shrouded Fable #15",
+      "link": "/Shrouded-Fable-Expansion/Revavroom-ex-Card-15",
+      "image": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.15.53810.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.15.53810.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "15/64",
+      "card_number": "15",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.15.53810.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560325%2Fpokemon-sv-shrouded-fable-revavroom-ex-015-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Revavroom+ex+Shrouded+Fable+15+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Drowzee",
+      "title": "Drowzee - Shrouded Fable #16",
+      "link": "/Shrouded-Fable-Expansion/Drowzee-Card-16",
+      "image": "https://den-cards.pokellector.com/399/Drowzee.SFA.16.53811.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Drowzee.SFA.16.53811.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "16/64",
+      "card_number": "16",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Drowzee.SFA.16.53811.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560326%2Fpokemon-sv-shrouded-fable-drowzee"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drowzee+Shrouded+Fable+16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Hypno",
+      "title": "Hypno - Shrouded Fable #17",
+      "link": "/Shrouded-Fable-Expansion/Hypno-Card-17",
+      "image": "https://den-cards.pokellector.com/399/Hypno.SFA.17.53812.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Hypno.SFA.17.53812.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "17/64",
+      "card_number": "17",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Hypno.SFA.17.53812.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560327%2Fpokemon-sv-shrouded-fable-hypno"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hypno+Shrouded+Fable+17+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Duskull",
+      "title": "Duskull - Shrouded Fable #18",
+      "link": "/Shrouded-Fable-Expansion/Duskull-Card-18",
+      "image": "https://den-cards.pokellector.com/399/Duskull.SFA.18.53813.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Duskull.SFA.18.53813.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "18/64",
+      "card_number": "18",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Duskull.SFA.18.53813.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560328%2Fpokemon-sv-shrouded-fable-duskull-018-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duskull+Shrouded+Fable+18+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Dusclops",
+      "title": "Dusclops - Shrouded Fable #19",
+      "link": "/Shrouded-Fable-Expansion/Dusclops-Card-19",
+      "image": "https://den-cards.pokellector.com/399/Dusclops.SFA.19.53814.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dusclops.SFA.19.53814.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "19/64",
+      "card_number": "19",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dusclops.SFA.19.53814.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560329%2Fpokemon-sv-shrouded-fable-dusclops-019-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusclops+Shrouded+Fable+19+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Shrouded Fable #20",
+      "link": "/Shrouded-Fable-Expansion/Dusknoir-Card-20",
+      "image": "https://den-cards.pokellector.com/399/Dusknoir.SFA.20.53815.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dusknoir.SFA.20.53815.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "20/64",
+      "card_number": "20",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dusknoir.SFA.20.53815.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560330%2Fpokemon-sv-shrouded-fable-dusknoir-020-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+Shrouded+Fable+20+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Cresselia",
+      "title": "Cresselia - Shrouded Fable #21",
+      "link": "/Shrouded-Fable-Expansion/Cresselia-Card-21",
+      "image": "https://den-cards.pokellector.com/399/Cresselia.SFA.21.53816.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cresselia.SFA.21.53816.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "21/64",
+      "card_number": "21",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cresselia.SFA.21.53816.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560331%2Fpokemon-sv-shrouded-fable-cresselia-021-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cresselia+Shrouded+Fable+21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Sylveon",
+      "title": "Sylveon - Shrouded Fable #22",
+      "link": "/Shrouded-Fable-Expansion/Sylveon-Card-22",
+      "image": "https://den-cards.pokellector.com/399/Sylveon.SFA.22.53817.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Sylveon.SFA.22.53817.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "22/64",
+      "card_number": "22",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Sylveon.SFA.22.53817.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560332%2Fpokemon-sv-shrouded-fable-sylveon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sylveon+Shrouded+Fable+22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Croagunk",
+      "title": "Croagunk - Shrouded Fable #23",
+      "link": "/Shrouded-Fable-Expansion/Croagunk-Card-23",
+      "image": "https://den-cards.pokellector.com/399/Croagunk.SFA.23.53818.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Croagunk.SFA.23.53818.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "23/64",
+      "card_number": "23",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Croagunk.SFA.23.53818.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560333%2Fpokemon-sv-shrouded-fable-croagunk"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Croagunk+Shrouded+Fable+23+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Toxicroak",
+      "title": "Toxicroak - Shrouded Fable #24",
+      "link": "/Shrouded-Fable-Expansion/Toxicroak-Card-24",
+      "image": "https://den-cards.pokellector.com/399/Toxicroak.SFA.24.53819.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Toxicroak.SFA.24.53819.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "24/64",
+      "card_number": "24",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Toxicroak.SFA.24.53819.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560334%2Fpokemon-sv-shrouded-fable-toxicroak"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Toxicroak+Shrouded+Fable+24+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Bloodmoon Ursaluna",
+      "title": "Bloodmoon Ursaluna - Shrouded Fable #25",
+      "link": "/Shrouded-Fable-Expansion/Bloodmoon-Ursaluna-Card-25",
+      "image": "https://den-cards.pokellector.com/399/Bloodmoon-Ursaluna.SFA.25.53820.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Bloodmoon-Ursaluna.SFA.25.53820.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "25/64",
+      "card_number": "25",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Bloodmoon-Ursaluna.SFA.25.53820.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560335%2Fpokemon-sv-shrouded-fable-bloodmoon-ursaluna"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bloodmoon+Ursaluna+Shrouded+Fable+25+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Slither Wing",
+      "title": "Slither Wing - Shrouded Fable #26",
+      "link": "/Shrouded-Fable-Expansion/Slither-Wing-Card-26",
+      "image": "https://den-cards.pokellector.com/399/Slither-Wing.SFA.26.53821.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Slither-Wing.SFA.26.53821.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "26/64",
+      "card_number": "26",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Slither-Wing.SFA.26.53821.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560336%2Fpokemon-sv-shrouded-fable-slither-wing"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Slither+Wing+Shrouded+Fable+26+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Zubat",
+      "title": "Zubat - Shrouded Fable #27",
+      "link": "/Shrouded-Fable-Expansion/Zubat-Card-27",
+      "image": "https://den-cards.pokellector.com/399/Zubat.SFA.27.53822.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Zubat.SFA.27.53822.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "27/64",
+      "card_number": "27",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Zubat.SFA.27.53822.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560337%2Fpokemon-sv-shrouded-fable-zubat"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zubat+Shrouded+Fable+27+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Golbat",
+      "title": "Golbat - Shrouded Fable #28",
+      "link": "/Shrouded-Fable-Expansion/Golbat-Card-28",
+      "image": "https://den-cards.pokellector.com/399/Golbat.SFA.28.53823.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Golbat.SFA.28.53823.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "28/64",
+      "card_number": "28",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Golbat.SFA.28.53823.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560338%2Fpokemon-sv-shrouded-fable-golbat"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Golbat+Shrouded+Fable+28+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Crobat",
+      "title": "Crobat - Shrouded Fable #29",
+      "link": "/Shrouded-Fable-Expansion/Crobat-Card-29",
+      "image": "https://den-cards.pokellector.com/399/Crobat.SFA.29.53824.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Crobat.SFA.29.53824.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "29/64",
+      "card_number": "29",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Crobat.SFA.29.53824.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560339%2Fpokemon-sv-shrouded-fable-crobat"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Crobat+Shrouded+Fable+29+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Absol",
+      "title": "Absol - Shrouded Fable #30",
+      "link": "/Shrouded-Fable-Expansion/Absol-Card-30",
+      "image": "https://den-cards.pokellector.com/399/Absol.SFA.30.53825.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Absol.SFA.30.53825.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "30/64",
+      "card_number": "30",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Absol.SFA.30.53825.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560340%2Fpokemon-sv-shrouded-fable-absol"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Absol+Shrouded+Fable+30+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Zorua",
+      "title": "Zorua - Shrouded Fable #31",
+      "link": "/Shrouded-Fable-Expansion/Zorua-Card-31",
+      "image": "https://den-cards.pokellector.com/399/Zorua.SFA.31.53826.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Zorua.SFA.31.53826.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "31/64",
+      "card_number": "31",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Zorua.SFA.31.53826.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560341%2Fpokemon-sv-shrouded-fable-zorua-031-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zorua+Shrouded+Fable+31+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Zoroark",
+      "title": "Zoroark - Shrouded Fable #32",
+      "link": "/Shrouded-Fable-Expansion/Zoroark-Card-32",
+      "image": "https://den-cards.pokellector.com/399/Zoroark.SFA.32.53827.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Zoroark.SFA.32.53827.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "32/64",
+      "card_number": "32",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Zoroark.SFA.32.53827.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560342%2Fpokemon-sv-shrouded-fable-zoroark"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zoroark+Shrouded+Fable+32+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Inkay",
+      "title": "Inkay - Shrouded Fable #33",
+      "link": "/Shrouded-Fable-Expansion/Inkay-Card-33",
+      "image": "https://den-cards.pokellector.com/399/Inkay.SFA.33.53828.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Inkay.SFA.33.53828.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "33/64",
+      "card_number": "33",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Inkay.SFA.33.53828.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560343%2Fpokemon-sv-shrouded-fable-inkay"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Inkay+Shrouded+Fable+33+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Malamar",
+      "title": "Malamar - Shrouded Fable #34",
+      "link": "/Shrouded-Fable-Expansion/Malamar-Card-34",
+      "image": "https://den-cards.pokellector.com/399/Malamar.SFA.34.53829.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Malamar.SFA.34.53829.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "34/64",
+      "card_number": "34",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Malamar.SFA.34.53829.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560344%2Fpokemon-sv-shrouded-fable-malamar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Malamar+Shrouded+Fable+34+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Yveltal",
+      "title": "Yveltal - Shrouded Fable #35",
+      "link": "/Shrouded-Fable-Expansion/Yveltal-Card-35",
+      "image": "https://den-cards.pokellector.com/399/Yveltal.SFA.35.53830.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Yveltal.SFA.35.53830.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "35/64",
+      "card_number": "35",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Yveltal.SFA.35.53830.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560345%2Fpokemon-sv-shrouded-fable-yveltal"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Yveltal+Shrouded+Fable+35+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Okidogi ex",
+      "title": "Okidogi ex - Shrouded Fable #36",
+      "link": "/Shrouded-Fable-Expansion/Okidogi-ex-Card-36",
+      "image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.36.53831.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.36.53831.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "36/64",
+      "card_number": "36",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.36.53831.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560346%2Fpokemon-sv-shrouded-fable-okidogi-ex-036-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Okidogi+ex+Shrouded+Fable+36+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "37": {
+      "number": "37",
+      "name": "Munkidori ex",
+      "title": "Munkidori ex - Shrouded Fable #37",
+      "link": "/Shrouded-Fable-Expansion/Munkidori-ex-Card-37",
+      "image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.37.53832.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.37.53832.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "37/64",
+      "card_number": "37",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.37.53832.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560347%2Fpokemon-sv-shrouded-fable-munkidori-ex-037-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Munkidori+ex+Shrouded+Fable+37+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "38": {
+      "number": "38",
+      "name": "Fezandipiti ex",
+      "title": "Fezandipiti ex - Shrouded Fable #38",
+      "link": "/Shrouded-Fable-Expansion/Fezandipiti-ex-Card-38",
+      "image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.38.53833.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.38.53833.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "38/64",
+      "card_number": "38",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.38.53833.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560348%2Fpokemon-sv-shrouded-fable-fezandipiti-ex-038-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fezandipiti+ex+Shrouded+Fable+38+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "39": {
+      "number": "39",
+      "name": "Pecharunt ex",
+      "title": "Pecharunt ex - Shrouded Fable #39",
+      "link": "/Shrouded-Fable-Expansion/Pecharunt-ex-Card-39",
+      "image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.39.53834.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.39.53834.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "39/64",
+      "card_number": "39",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.39.53834.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560349%2Fpokemon-sv-shrouded-fable-pecharunt-ex-039-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pecharunt+ex+Shrouded+Fable+39+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Genesect",
+      "title": "Genesect - Shrouded Fable #40",
+      "link": "/Shrouded-Fable-Expansion/Genesect-Card-40",
+      "image": "https://den-cards.pokellector.com/399/Genesect.SFA.40.53835.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Genesect.SFA.40.53835.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "40/64",
+      "card_number": "40",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Genesect.SFA.40.53835.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560350%2Fpokemon-sv-shrouded-fable-genesect"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Genesect+Shrouded+Fable+40+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Cufant",
+      "title": "Cufant - Shrouded Fable #41",
+      "link": "/Shrouded-Fable-Expansion/Cufant-Card-41",
+      "image": "https://den-cards.pokellector.com/399/Cufant.SFA.41.53836.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cufant.SFA.41.53836.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "41/64",
+      "card_number": "41",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cufant.SFA.41.53836.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560351%2Fpokemon-sv-shrouded-fable-cufant-041-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cufant+Shrouded+Fable+41+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Copperajah",
+      "title": "Copperajah - Shrouded Fable #42",
+      "link": "/Shrouded-Fable-Expansion/Copperajah-Card-42",
+      "image": "https://den-cards.pokellector.com/399/Copperajah.SFA.42.53837.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Copperajah.SFA.42.53837.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "42/64",
+      "card_number": "42",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Copperajah.SFA.42.53837.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560352%2Fpokemon-sv-shrouded-fable-copperajah"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Copperajah+Shrouded+Fable+42+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Varoom",
+      "title": "Varoom - Shrouded Fable #43",
+      "link": "/Shrouded-Fable-Expansion/Varoom-Card-43",
+      "image": "https://den-cards.pokellector.com/399/Varoom.SFA.43.53838.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Varoom.SFA.43.53838.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "43/64",
+      "card_number": "43",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Varoom.SFA.43.53838.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560353%2Fpokemon-sv-shrouded-fable-varoom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Varoom+Shrouded+Fable+43+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Axew",
+      "title": "Axew - Shrouded Fable #44",
+      "link": "/Shrouded-Fable-Expansion/Axew-Card-44",
+      "image": "https://den-cards.pokellector.com/399/Axew.SFA.44.53839.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Axew.SFA.44.53839.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "44/64",
+      "card_number": "44",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Axew.SFA.44.53839.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560354%2Fpokemon-sv-shrouded-fable-axew"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Shrouded+Fable+44+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Fraxure",
+      "title": "Fraxure - Shrouded Fable #45",
+      "link": "/Shrouded-Fable-Expansion/Fraxure-Card-45",
+      "image": "https://den-cards.pokellector.com/399/Fraxure.SFA.45.53840.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fraxure.SFA.45.53840.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "45/64",
+      "card_number": "45",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fraxure.SFA.45.53840.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560355%2Fpokemon-sv-shrouded-fable-fraxure-045-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fraxure+Shrouded+Fable+45+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Haxorus",
+      "title": "Haxorus - Shrouded Fable #46",
+      "link": "/Shrouded-Fable-Expansion/Haxorus-Card-46",
+      "image": "https://den-cards.pokellector.com/399/Haxorus.SFA.46.53841.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Haxorus.SFA.46.53841.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "46/64",
+      "card_number": "46",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Haxorus.SFA.46.53841.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560356%2Fpokemon-sv-shrouded-fable-haxorus"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haxorus+Shrouded+Fable+46+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Kyurem",
+      "title": "Kyurem - Shrouded Fable #47",
+      "link": "/Shrouded-Fable-Expansion/Kyurem-Card-47",
+      "image": "https://den-cards.pokellector.com/399/Kyurem.SFA.47.53842.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Kyurem.SFA.47.53842.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "47/64",
+      "card_number": "47",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Kyurem.SFA.47.53842.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560358%2Fpokemon-sv-shrouded-fable-kyurem"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kyurem+Shrouded+Fable+47+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Meowth",
+      "title": "Meowth - Shrouded Fable #48",
+      "link": "/Shrouded-Fable-Expansion/Meowth-Card-48",
+      "image": "https://den-cards.pokellector.com/399/Meowth.SFA.48.53843.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Meowth.SFA.48.53843.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "48/64",
+      "card_number": "48",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Meowth.SFA.48.53843.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560359%2Fpokemon-sv-shrouded-fable-meowth"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meowth+Shrouded+Fable+48+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Persian",
+      "title": "Persian - Shrouded Fable #49",
+      "link": "/Shrouded-Fable-Expansion/Persian-Card-49",
+      "image": "https://den-cards.pokellector.com/399/Persian.SFA.49.53844.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Persian.SFA.49.53844.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "49/64",
+      "card_number": "49",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Persian.SFA.49.53844.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560360%2Fpokemon-sv-shrouded-fable-persian-049-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Persian+Shrouded+Fable+49+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Eevee",
+      "title": "Eevee - Shrouded Fable #50",
+      "link": "/Shrouded-Fable-Expansion/Eevee-Card-50",
+      "image": "https://den-cards.pokellector.com/399/Eevee.SFA.50.53845.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Eevee.SFA.50.53845.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "50/64",
+      "card_number": "50",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Eevee.SFA.50.53845.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560361%2Fpokemon-sv-shrouded-fable-eevee"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eevee+Shrouded+Fable+50+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Furfrou",
+      "title": "Furfrou - Shrouded Fable #51",
+      "link": "/Shrouded-Fable-Expansion/Furfrou-Card-51",
+      "image": "https://den-cards.pokellector.com/399/Furfrou.SFA.51.53846.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Furfrou.SFA.51.53846.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "51/64",
+      "card_number": "51",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Furfrou.SFA.51.53846.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560362%2Fpokemon-sv-shrouded-fable-furfrou"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Furfrou+Shrouded+Fable+51+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Stufful",
+      "title": "Stufful - Shrouded Fable #52",
+      "link": "/Shrouded-Fable-Expansion/Stufful-Card-52",
+      "image": "https://den-cards.pokellector.com/399/Stufful.SFA.52.53847.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Stufful.SFA.52.53847.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "52/64",
+      "card_number": "52",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Stufful.SFA.52.53847.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560363%2Fpokemon-sv-shrouded-fable-stufful"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stufful+Shrouded+Fable+52+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Bewear",
+      "title": "Bewear - Shrouded Fable #53",
+      "link": "/Shrouded-Fable-Expansion/Bewear-Card-53",
+      "image": "https://den-cards.pokellector.com/399/Bewear.SFA.53.53848.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Bewear.SFA.53.53848.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "53/64",
+      "card_number": "53",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Bewear.SFA.53.53848.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560364%2Fpokemon-sv-shrouded-fable-bewear-053-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.66",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bewear+Shrouded+Fable+53+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Academy at Night",
+      "title": "Academy at Night - Shrouded Fable #54",
+      "link": "/Shrouded-Fable-Expansion/Academy-at-Night-Card-54",
+      "image": "https://den-cards.pokellector.com/399/Academy-at-Night.SFA.54.53849.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Academy-at-Night.SFA.54.53849.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "54/64",
+      "card_number": "54",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Academy-at-Night.SFA.54.53849.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560365%2Fpokemon-sv-shrouded-fable-academy-at-night"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Academy+at+Night+Shrouded+Fable+54+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Binding Mochi",
+      "title": "Binding Mochi - Shrouded Fable #55",
+      "link": "/Shrouded-Fable-Expansion/Binding-Mochi-Card-55",
+      "image": "https://den-cards.pokellector.com/399/Binding-Mochi.SFA.55.53850.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Binding-Mochi.SFA.55.53850.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "55/64",
+      "card_number": "55",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Binding-Mochi.SFA.55.53850.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560366%2Fpokemon-sv-shrouded-fable-binding-mochi"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Binding+Mochi+Shrouded+Fable+55+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Cassiopeia",
+      "title": "Cassiopeia - Shrouded Fable #56",
+      "link": "/Shrouded-Fable-Expansion/Cassiopeia-Card-56",
+      "image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.56.53851.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.56.53851.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "56/64",
+      "card_number": "56",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.56.53851.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560367%2Fpokemon-sv-shrouded-fable-cassiopeia-056-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cassiopeia+Shrouded+Fable+56+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Colress's Tenacity",
+      "title": "Colress's Tenacity - Shrouded Fable #57",
+      "link": "/Shrouded-Fable-Expansion/Colresss-Tenacity-Card-57",
+      "image": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.57.53852.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.57.53852.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "57/64",
+      "card_number": "57",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.57.53852.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560368%2Fpokemon-sv-shrouded-fable-colresss-tenacity-057-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Colress%27s+Tenacity+Shrouded+Fable+57+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Dangerous Laser",
+      "title": "Dangerous Laser - Shrouded Fable #58",
+      "link": "/Shrouded-Fable-Expansion/Dangerous-Laser-Card-58",
+      "image": "https://den-cards.pokellector.com/399/Dangerous-Laser.SFA.58.53853.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dangerous-Laser.SFA.58.53853.png",
+      "details_scraped": true,
+      "rarity": "Ace Spec",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "58/64",
+      "card_number": "58",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dangerous-Laser.SFA.58.53853.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560369%2Fpokemon-sv-shrouded-fable-dangerous-laser"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dangerous+Laser+Shrouded+Fable+58+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "59": {
+      "number": "59",
+      "name": "Janine's Secret Art",
+      "title": "Janine's Secret Art - Shrouded Fable #59",
+      "link": "/Shrouded-Fable-Expansion/Janines-Secret-Art-Card-59",
+      "image": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.59.53854.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.59.53854.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "59/64",
+      "card_number": "59",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.59.53854.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560370%2Fpokemon-sv-shrouded-fable-janines-secret-art-059-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Janine%27s+Secret+Art+Shrouded+Fable+59+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Neutralization Zone",
+      "title": "Neutralization Zone - Shrouded Fable #60",
+      "link": "/Shrouded-Fable-Expansion/Neutralization-Zone-Card-60",
+      "image": "https://den-cards.pokellector.com/399/Neutralization-Zone.SFA.60.53855.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Neutralization-Zone.SFA.60.53855.png",
+      "details_scraped": true,
+      "rarity": "Ace Spec",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "60/64",
+      "card_number": "60",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Neutralization-Zone.SFA.60.53855.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560371%2Fpokemon-sv-shrouded-fable-neutralization-zone"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Neutralization+Zone+Shrouded+Fable+60+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "61": {
+      "number": "61",
+      "name": "Night Stretcher",
+      "title": "Night Stretcher - Shrouded Fable #61",
+      "link": "/Shrouded-Fable-Expansion/Night-Stretcher-Card-61",
+      "image": "https://den-cards.pokellector.com/399/Night-Stretcher.SFA.61.53856.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Night-Stretcher.SFA.61.53856.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "61/64",
+      "card_number": "61",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Night-Stretcher.SFA.61.53856.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560372%2Fpokemon-sv-shrouded-fable-night-stretcher"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.78",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Night+Stretcher+Shrouded+Fable+61+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Poke Vital A",
+      "title": "Poke Vital A - Shrouded Fable #62",
+      "link": "/Shrouded-Fable-Expansion/Poke-Vital-A-Card-62",
+      "image": "https://den-cards.pokellector.com/399/Poke-Vital-A.SFA.62.53857.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Poke-Vital-A.SFA.62.53857.png",
+      "details_scraped": true,
+      "rarity": "Ace Spec",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "62/64",
+      "card_number": "62",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Poke-Vital-A.SFA.62.53857.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560373%2Fpokemon-sv-shrouded-fable-poke-vital-a"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Poke+Vital+A+Shrouded+Fable+62+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "63": {
+      "number": "63",
+      "name": "Powerglass",
+      "title": "Powerglass - Shrouded Fable #63",
+      "link": "/Shrouded-Fable-Expansion/Powerglass-Card-63",
+      "image": "https://den-cards.pokellector.com/399/Powerglass.SFA.63.53858.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Powerglass.SFA.63.53858.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "63/64",
+      "card_number": "63",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Powerglass.SFA.63.53858.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560374%2Fpokemon-sv-shrouded-fable-powerglass-063-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Powerglass+Shrouded+Fable+63+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Xerosic's Machinations",
+      "title": "Xerosic's Machinations - Shrouded Fable #64",
+      "link": "/Shrouded-Fable-Expansion/Xerosics-Machinations-Card-64",
+      "image": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.64.53859.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.64.53859.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "64/64",
+      "card_number": "64",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.64.53859.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560375%2Fpokemon-sv-shrouded-fable-xerosics-machinations-064-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Xerosic%27s+Machinations+Shrouded+Fable+64+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Tapu Bulu",
+      "title": "Tapu Bulu - Shrouded Fable #65",
+      "link": "/Shrouded-Fable-Expansion/Tapu-Bulu-Card-65",
+      "image": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.65.53860.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.65.53860.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "65/64",
+      "card_number": "65",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.65.53860.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560376%2Fpokemon-sv-shrouded-fable-tapu-bulu-065-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tapu+Bulu+Shrouded+Fable+65+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "66": {
+      "number": "66",
+      "name": "Houndoom",
+      "title": "Houndoom - Shrouded Fable #66",
+      "link": "/Shrouded-Fable-Expansion/Houndoom-Card-66",
+      "image": "https://den-cards.pokellector.com/399/Houndoom.SFA.66.53709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Houndoom.SFA.66.53709.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "66/64",
+      "card_number": "66",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Houndoom.SFA.66.53709.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$32.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560377%2Fpokemon-sv-shrouded-fable-houndoom-066-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$54.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndoom+Shrouded+Fable+66+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "67": {
+      "number": "67",
+      "name": "Horsea",
+      "title": "Horsea - Shrouded Fable #67",
+      "link": "/Shrouded-Fable-Expansion/Horsea-Card-67",
+      "image": "https://den-cards.pokellector.com/399/Horsea.SFA.67.53861.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Horsea.SFA.67.53861.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "67/64",
+      "card_number": "67",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Horsea.SFA.67.53861.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$29.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560378%2Fpokemon-sv-shrouded-fable-horsea-067-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$45.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Horsea+Shrouded+Fable+67+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "68": {
+      "number": "68",
+      "name": "Duskull",
+      "title": "Duskull - Shrouded Fable #68",
+      "link": "/Shrouded-Fable-Expansion/Duskull-Card-68",
+      "image": "https://den-cards.pokellector.com/399/Duskull.SFA.68.53862.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Duskull.SFA.68.53862.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "68/64",
+      "card_number": "68",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Duskull.SFA.68.53862.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$47.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560379%2Fpokemon-sv-shrouded-fable-duskull-068-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$63.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duskull+Shrouded+Fable+68+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "69": {
+      "number": "69",
+      "name": "Dusclops",
+      "title": "Dusclops - Shrouded Fable #69",
+      "link": "/Shrouded-Fable-Expansion/Dusclops-Card-69",
+      "image": "https://den-cards.pokellector.com/399/Dusclops.SFA.69.53863.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dusclops.SFA.69.53863.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "69/64",
+      "card_number": "69",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dusclops.SFA.69.53863.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$23.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560380%2Fpokemon-sv-shrouded-fable-dusclops-069-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$41.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusclops+Shrouded+Fable+69+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "70": {
+      "number": "70",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Shrouded Fable #70",
+      "link": "/Shrouded-Fable-Expansion/Dusknoir-Card-70",
+      "image": "https://den-cards.pokellector.com/399/Dusknoir.SFA.70.53864.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Dusknoir.SFA.70.53864.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "70/64",
+      "card_number": "70",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Dusknoir.SFA.70.53864.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560381%2Fpokemon-sv-shrouded-fable-dusknoir-070-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.54",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+Shrouded+Fable+70+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "71": {
+      "number": "71",
+      "name": "Cresselia",
+      "title": "Cresselia - Shrouded Fable #71",
+      "link": "/Shrouded-Fable-Expansion/Cresselia-Card-71",
+      "image": "https://den-cards.pokellector.com/399/Cresselia.SFA.71.53865.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cresselia.SFA.71.53865.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "71/64",
+      "card_number": "71",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cresselia.SFA.71.53865.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560382%2Fpokemon-sv-shrouded-fable-cresselia-071-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cresselia+Shrouded+Fable+71+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Munkidori",
+      "title": "Munkidori - Shrouded Fable #72",
+      "link": "/Shrouded-Fable-Expansion/Munkidori-Card-72",
+      "image": "https://den-cards.pokellector.com/399/Munkidori.SFA.72.53866.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Munkidori.SFA.72.53866.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "72/64",
+      "card_number": "72",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Munkidori.SFA.72.53866.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$32.76",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560383%2Fpokemon-sv-shrouded-fable-munkidori"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Munkidori+Shrouded+Fable+72+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Fezandipiti",
+      "title": "Fezandipiti - Shrouded Fable #73",
+      "link": "/Shrouded-Fable-Expansion/Fezandipiti-Card-73",
+      "image": "https://den-cards.pokellector.com/399/Fezandipiti.SFA.73.53867.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fezandipiti.SFA.73.53867.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "73/64",
+      "card_number": "73",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fezandipiti.SFA.73.53867.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560384%2Fpokemon-sv-shrouded-fable-fezandipiti"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fezandipiti+Shrouded+Fable+73+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "74": {
+      "number": "74",
+      "name": "Okidogi",
+      "title": "Okidogi - Shrouded Fable #74",
+      "link": "/Shrouded-Fable-Expansion/Okidogi-Card-74",
+      "image": "https://den-cards.pokellector.com/399/Okidogi.SFA.74.53868.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Okidogi.SFA.74.53868.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "74/64",
+      "card_number": "74",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Okidogi.SFA.74.53868.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560385%2Fpokemon-sv-shrouded-fable-okidogi"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Okidogi+Shrouded+Fable+74+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Zorua",
+      "title": "Zorua - Shrouded Fable #75",
+      "link": "/Shrouded-Fable-Expansion/Zorua-Card-75",
+      "image": "https://den-cards.pokellector.com/399/Zorua.SFA.75.53869.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Zorua.SFA.75.53869.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "75/64",
+      "card_number": "75",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Zorua.SFA.75.53869.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560386%2Fpokemon-sv-shrouded-fable-zorua-075-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zorua+Shrouded+Fable+75+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Cufant",
+      "title": "Cufant - Shrouded Fable #76",
+      "link": "/Shrouded-Fable-Expansion/Cufant-Card-76",
+      "image": "https://den-cards.pokellector.com/399/Cufant.SFA.76.53870.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cufant.SFA.76.53870.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "76/64",
+      "card_number": "76",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cufant.SFA.76.53870.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560387%2Fpokemon-sv-shrouded-fable-cufant-076-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cufant+Shrouded+Fable+76+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Fraxure",
+      "title": "Fraxure - Shrouded Fable #77",
+      "link": "/Shrouded-Fable-Expansion/Fraxure-Card-77",
+      "image": "https://den-cards.pokellector.com/399/Fraxure.SFA.77.53871.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fraxure.SFA.77.53871.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "77/64",
+      "card_number": "77",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fraxure.SFA.77.53871.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560388%2Fpokemon-sv-shrouded-fable-fraxure-077-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$28.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fraxure+Shrouded+Fable+77+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "78": {
+      "number": "78",
+      "name": "Persian",
+      "title": "Persian - Shrouded Fable #78",
+      "link": "/Shrouded-Fable-Expansion/Persian-Card-78",
+      "image": "https://den-cards.pokellector.com/399/Persian.SFA.78.53872.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Persian.SFA.78.53872.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "78/64",
+      "card_number": "78",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Persian.SFA.78.53872.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560389%2Fpokemon-sv-shrouded-fable-persian-078-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$216.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Persian+Shrouded+Fable+78+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "79": {
+      "number": "79",
+      "name": "Bewear",
+      "title": "Bewear - Shrouded Fable #79",
+      "link": "/Shrouded-Fable-Expansion/Bewear-Card-79",
+      "image": "https://den-cards.pokellector.com/399/Bewear.SFA.79.53873.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Bewear.SFA.79.53873.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "79/64",
+      "card_number": "79",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Bewear.SFA.79.53873.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560390%2Fpokemon-sv-shrouded-fable-bewear-079-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bewear+Shrouded+Fable+79+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "80": {
+      "number": "80",
+      "name": "Kingdra ex",
+      "title": "Kingdra ex - Shrouded Fable #80",
+      "link": "/Shrouded-Fable-Expansion/Kingdra-ex-Card-80",
+      "image": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.80.53874.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.80.53874.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "80/64",
+      "card_number": "80",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.80.53874.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560391%2Fpokemon-sv-shrouded-fable-kingdra-ex-080-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kingdra+ex+Shrouded+Fable+80+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "81": {
+      "number": "81",
+      "name": "Revavroom ex",
+      "title": "Revavroom ex - Shrouded Fable #81",
+      "link": "/Shrouded-Fable-Expansion/Revavroom-ex-Card-81",
+      "image": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.81.53875.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.81.53875.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "81/64",
+      "card_number": "81",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.81.53875.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560392%2Fpokemon-sv-shrouded-fable-revavroom-ex-081-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Revavroom+ex+Shrouded+Fable+81+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "82": {
+      "number": "82",
+      "name": "Okidogi ex",
+      "title": "Okidogi ex - Shrouded Fable #82",
+      "link": "/Shrouded-Fable-Expansion/Okidogi-ex-Card-82",
+      "image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.82.53876.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.82.53876.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "82/64",
+      "card_number": "82",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.82.53876.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560393%2Fpokemon-sv-shrouded-fable-okidogi-ex-082-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Okidogi+ex+Shrouded+Fable+82+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "83": {
+      "number": "83",
+      "name": "Munkidori ex",
+      "title": "Munkidori ex - Shrouded Fable #83",
+      "link": "/Shrouded-Fable-Expansion/Munkidori-ex-Card-83",
+      "image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.83.53877.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.83.53877.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "83/64",
+      "card_number": "83",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.83.53877.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560394%2Fpokemon-sv-shrouded-fable-munkidori-ex-083-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Munkidori+ex+Shrouded+Fable+83+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Fezandipiti ex",
+      "title": "Fezandipiti ex - Shrouded Fable #84",
+      "link": "/Shrouded-Fable-Expansion/Fezandipiti-ex-Card-84",
+      "image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.84.53878.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.84.53878.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "84/64",
+      "card_number": "84",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.84.53878.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560395%2Fpokemon-sv-shrouded-fable-fezandipiti-ex-084-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fezandipiti+ex+Shrouded+Fable+84+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Pecharunt ex",
+      "title": "Pecharunt ex - Shrouded Fable #85",
+      "link": "/Shrouded-Fable-Expansion/Pecharunt-ex-Card-85",
+      "image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.85.53879.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.85.53879.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "85/64",
+      "card_number": "85",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.85.53879.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.81",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560396%2Fpokemon-sv-shrouded-fable-pecharunt-ex-085-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pecharunt+ex+Shrouded+Fable+85+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "86": {
+      "number": "86",
+      "name": "Cassiopeia",
+      "title": "Cassiopeia - Shrouded Fable #86",
+      "link": "/Shrouded-Fable-Expansion/Cassiopeia-Card-86",
+      "image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.86.53880.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.86.53880.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "86/64",
+      "card_number": "86",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.86.53880.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560397%2Fpokemon-sv-shrouded-fable-cassiopeia-086-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cassiopeia+Shrouded+Fable+86+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "87": {
+      "number": "87",
+      "name": "Colress's Tenacity",
+      "title": "Colress's Tenacity - Shrouded Fable #87",
+      "link": "/Shrouded-Fable-Expansion/Colresss-Tenacity-Card-87",
+      "image": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.87.53881.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.87.53881.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "87/64",
+      "card_number": "87",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.87.53881.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560398%2Fpokemon-sv-shrouded-fable-colresss-tenacity-087-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$43.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Colress%27s+Tenacity+Shrouded+Fable+87+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "88": {
+      "number": "88",
+      "name": "Janine's Secret Art",
+      "title": "Janine's Secret Art - Shrouded Fable #88",
+      "link": "/Shrouded-Fable-Expansion/Janines-Secret-Art-Card-88",
+      "image": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.88.53882.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.88.53882.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "88/64",
+      "card_number": "88",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.88.53882.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560399%2Fpokemon-sv-shrouded-fable-janines-secret-art-088-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Janine%27s+Secret+Art+Shrouded+Fable+88+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "89": {
+      "number": "89",
+      "name": "Xerosic's Machinations",
+      "title": "Xerosic's Machinations - Shrouded Fable #89",
+      "link": "/Shrouded-Fable-Expansion/Xerosics-Machinations-Card-89",
+      "image": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.89.53883.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.89.53883.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "89/64",
+      "card_number": "89",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.89.53883.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560400%2Fpokemon-sv-shrouded-fable-xerosics-machinations-089-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Xerosic%27s+Machinations+Shrouded+Fable+89+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Okidogi ex",
+      "title": "Okidogi ex - Shrouded Fable #90",
+      "link": "/Shrouded-Fable-Expansion/Okidogi-ex-Card-90",
+      "image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.90.53884.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.90.53884.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "90/64",
+      "card_number": "90",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.90.53884.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560401%2Fpokemon-sv-shrouded-fable-okidogi-ex-090-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Okidogi+ex+Shrouded+Fable+90+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Munkidori ex",
+      "title": "Munkidori ex - Shrouded Fable #91",
+      "link": "/Shrouded-Fable-Expansion/Munkidori-ex-Card-91",
+      "image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.91.53885.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.91.53885.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "91/64",
+      "card_number": "91",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.91.53885.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560402%2Fpokemon-sv-shrouded-fable-munkidori-ex-091-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Munkidori+ex+Shrouded+Fable+91+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Fezandipiti ex",
+      "title": "Fezandipiti ex - Shrouded Fable #92",
+      "link": "/Shrouded-Fable-Expansion/Fezandipiti-ex-Card-92",
+      "image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.92.53886.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.92.53886.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "92/64",
+      "card_number": "92",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.92.53886.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$45.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560403%2Fpokemon-sv-shrouded-fable-fezandipiti-ex-092-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$63.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fezandipiti+ex+Shrouded+Fable+92+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Pecharunt ex",
+      "title": "Pecharunt ex - Shrouded Fable #93",
+      "link": "/Shrouded-Fable-Expansion/Pecharunt-ex-Card-93",
+      "image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.93.53712.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.93.53712.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "93/64",
+      "card_number": "93",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.93.53712.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560404%2Fpokemon-sv-shrouded-fable-pecharunt-ex-093-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$32.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pecharunt+ex+Shrouded+Fable+93+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Cassiopeia",
+      "title": "Cassiopeia - Shrouded Fable #94",
+      "link": "/Shrouded-Fable-Expansion/Cassiopeia-Card-94",
+      "image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.94.53887.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.94.53887.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "94/64",
+      "card_number": "94",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.94.53887.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$35.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560405%2Fpokemon-sv-shrouded-fable-cassiopeia-094-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$55.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cassiopeia+Shrouded+Fable+94+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Pecharunt ex",
+      "title": "Pecharunt ex - Shrouded Fable #95",
+      "link": "/Shrouded-Fable-Expansion/Pecharunt-ex-Card-95",
+      "image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.95.53888.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.95.53888.png",
+      "details_scraped": true,
+      "rarity": "Hyper Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "95/64",
+      "card_number": "95",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.95.53888.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560406%2Fpokemon-sv-shrouded-fable-pecharunt-ex-095-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pecharunt+ex+Shrouded+Fable+95+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Earthen Vessel",
+      "title": "Earthen Vessel - Shrouded Fable #96",
+      "link": "/Shrouded-Fable-Expansion/Earthen-Vessel-Card-96",
+      "image": "https://den-cards.pokellector.com/399/Earthen-Vessel.SFA.96.53889.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Earthen-Vessel.SFA.96.53889.png",
+      "details_scraped": true,
+      "rarity": "Hyper Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "96/64",
+      "card_number": "96",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Earthen-Vessel.SFA.96.53889.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560407%2Fpokemon-sv-shrouded-fable-earthen-vessel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$64.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Earthen+Vessel+Shrouded+Fable+96+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Powerglass",
+      "title": "Powerglass - Shrouded Fable #97",
+      "link": "/Shrouded-Fable-Expansion/Powerglass-Card-97",
+      "image": "https://den-cards.pokellector.com/399/Powerglass.SFA.97.53639.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Powerglass.SFA.97.53639.png",
+      "details_scraped": true,
+      "rarity": "Hyper Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "97/64",
+      "card_number": "97",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Powerglass.SFA.97.53639.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560408%2Fpokemon-sv-shrouded-fable-powerglass-097-064"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Powerglass+Shrouded+Fable+97+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Basic Darkness Energy",
+      "title": "Basic Darkness Energy - Shrouded Fable #98",
+      "link": "/Shrouded-Fable-Expansion/Basic-Darkness-Energy-Card-98",
+      "image": "https://den-cards.pokellector.com/399/Basic-Darkness-Energy.SFA.98.53890.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Basic-Darkness-Energy.SFA.98.53890.png",
+      "details_scraped": true,
+      "rarity": "Hyper Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "98/64",
+      "card_number": "98",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Basic-Darkness-Energy.SFA.98.53890.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560409%2Fpokemon-sv-shrouded-fable-basic-darkness-energy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$46.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Basic+Darkness+Energy+Shrouded+Fable+98+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Basic Metal Energy",
+      "title": "Basic Metal Energy - Shrouded Fable #99",
+      "link": "/Shrouded-Fable-Expansion/Basic-Metal-Energy-Card-99",
+      "image": "https://den-cards.pokellector.com/399/Basic-Metal-Energy.SFA.99.53891.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/399/Basic-Metal-Energy.SFA.99.53891.png",
+      "details_scraped": true,
+      "rarity": "Hyper Rare",
+      "set_name": "Shrouded Fable",
+      "set_link": "/Shrouded-Fable-Expansion/",
+      "position": "99/64",
+      "card_number": "99",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/399/Basic-Metal-Energy.SFA.99.53891.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$26.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560410%2Fpokemon-sv-shrouded-fable-basic-metal-energy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Basic+Metal+Energy+Shrouded+Fable+99+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-27 22:09:49"
+}

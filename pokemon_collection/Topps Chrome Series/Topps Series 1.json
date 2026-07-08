@@ -1,0 +1,2896 @@
+{
+  "title": "Topps Series 1 Set",
+  "link": "/Topps-Series-1-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Topps-Series-1.logo.379.png",
+  "symbol": "https://den-media.pokellector.com/logos/Topps-Series-1.symbol.379.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - Topps Series 1 #1",
+      "link": "/Topps-Series-1-Expansion/Bulbasaur-Card-1",
+      "image": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49678.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49678.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "1/78",
+      "card_number": "1",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49678.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49754.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49830.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49906.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Ivysaur",
+      "title": "Ivysaur - Topps Series 1 #2",
+      "link": "/Topps-Series-1-Expansion/Ivysaur-Card-2",
+      "image": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49679.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49679.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "2/78",
+      "card_number": "2",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49679.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49755.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49831.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49907.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Venusaur",
+      "title": "Venusaur - Topps Series 1 #3",
+      "link": "/Topps-Series-1-Expansion/Venusaur-Card-3",
+      "image": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49680.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49680.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "3/78",
+      "card_number": "3",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49680.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49756.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49832.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49908.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Charmander",
+      "title": "Charmander - Topps Series 1 #4",
+      "link": "/Topps-Series-1-Expansion/Charmander-Card-4",
+      "image": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49681.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49681.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "4/78",
+      "card_number": "4",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49681.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49757.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49833.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49909.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Charmeleon",
+      "title": "Charmeleon - Topps Series 1 #5",
+      "link": "/Topps-Series-1-Expansion/Charmeleon-Card-5",
+      "image": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49682.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49682.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "5/78",
+      "card_number": "5",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49682.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49758.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49834.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49910.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Charizard",
+      "title": "Charizard - Topps Series 1 #6",
+      "link": "/Topps-Series-1-Expansion/Charizard-Card-6",
+      "image": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49683.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49683.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "6/78",
+      "card_number": "6",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49683.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49759.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49835.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49911.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Squirtle",
+      "title": "Squirtle - Topps Series 1 #7",
+      "link": "/Topps-Series-1-Expansion/Squirtle-Card-7",
+      "image": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49684.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49684.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "7/78",
+      "card_number": "7",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49684.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49760.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49836.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49912.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Wartortle",
+      "title": "Wartortle - Topps Series 1 #8",
+      "link": "/Topps-Series-1-Expansion/Wartortle-Card-8",
+      "image": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49685.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49685.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "8/78",
+      "card_number": "8",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49685.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49761.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49837.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49913.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Blastoise",
+      "title": "Blastoise - Topps Series 1 #9",
+      "link": "/Topps-Series-1-Expansion/Blastoise-Card-9",
+      "image": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49686.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49686.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "9/78",
+      "card_number": "9",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49686.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49762.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49838.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49914.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Caterpie",
+      "title": "Caterpie - Topps Series 1 #10",
+      "link": "/Topps-Series-1-Expansion/Caterpie-Card-10",
+      "image": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49687.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49687.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "10/78",
+      "card_number": "10",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49687.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49763.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49839.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49915.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Metapod",
+      "title": "Metapod - Topps Series 1 #11",
+      "link": "/Topps-Series-1-Expansion/Metapod-Card-11",
+      "image": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49688.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49688.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "11/78",
+      "card_number": "11",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49688.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49764.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49840.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49916.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Butterfree",
+      "title": "Butterfree - Topps Series 1 #12",
+      "link": "/Topps-Series-1-Expansion/Butterfree-Card-12",
+      "image": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49689.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49689.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "12/78",
+      "card_number": "12",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49689.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49765.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49841.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49917.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Weedle",
+      "title": "Weedle - Topps Series 1 #13",
+      "link": "/Topps-Series-1-Expansion/Weedle-Card-13",
+      "image": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49690.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49690.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "13/78",
+      "card_number": "13",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49690.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49766.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49842.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49918.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Kakuna",
+      "title": "Kakuna - Topps Series 1 #14",
+      "link": "/Topps-Series-1-Expansion/Kakuna-Card-14",
+      "image": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49691.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49691.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "14/78",
+      "card_number": "14",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49691.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49767.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49843.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49919.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Beedrill",
+      "title": "Beedrill - Topps Series 1 #15",
+      "link": "/Topps-Series-1-Expansion/Beedrill-Card-15",
+      "image": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49692.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49692.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "15/78",
+      "card_number": "15",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49692.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49768.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49844.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49920.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Pidgey",
+      "title": "Pidgey - Topps Series 1 #16",
+      "link": "/Topps-Series-1-Expansion/Pidgey-Card-16",
+      "image": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49693.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49693.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "16/78",
+      "card_number": "16",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49693.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49769.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49845.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49921.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Pidgeotto",
+      "title": "Pidgeotto - Topps Series 1 #17",
+      "link": "/Topps-Series-1-Expansion/Pidgeotto-Card-17",
+      "image": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49694.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49694.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "17/78",
+      "card_number": "17",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49694.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49770.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49846.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49922.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Pidgeot",
+      "title": "Pidgeot - Topps Series 1 #18",
+      "link": "/Topps-Series-1-Expansion/Pidgeot-Card-18",
+      "image": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49695.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49695.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "18/78",
+      "card_number": "18",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49695.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49771.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49847.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49923.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Rattata",
+      "title": "Rattata - Topps Series 1 #19",
+      "link": "/Topps-Series-1-Expansion/Rattata-Card-19",
+      "image": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49696.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49696.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "19/78",
+      "card_number": "19",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49696.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49772.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49848.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49924.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Raticate",
+      "title": "Raticate - Topps Series 1 #20",
+      "link": "/Topps-Series-1-Expansion/Raticate-Card-20",
+      "image": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49697.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49697.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "20/78",
+      "card_number": "20",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49697.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49773.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49849.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49925.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Spearow",
+      "title": "Spearow - Topps Series 1 #21",
+      "link": "/Topps-Series-1-Expansion/Spearow-Card-21",
+      "image": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49698.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49698.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "21/78",
+      "card_number": "21",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49698.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49774.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49850.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49926.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Fearow",
+      "title": "Fearow - Topps Series 1 #22",
+      "link": "/Topps-Series-1-Expansion/Fearow-Card-22",
+      "image": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49699.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49699.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "22/78",
+      "card_number": "22",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49699.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49775.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49851.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49927.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Ekans",
+      "title": "Ekans - Topps Series 1 #23",
+      "link": "/Topps-Series-1-Expansion/Ekans-Card-23",
+      "image": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49700.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49700.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "23/78",
+      "card_number": "23",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49700.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49776.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49852.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49928.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Arbok",
+      "title": "Arbok - Topps Series 1 #24",
+      "link": "/Topps-Series-1-Expansion/Arbok-Card-24",
+      "image": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49701.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49701.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "24/78",
+      "card_number": "24",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49701.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49777.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49853.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49929.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Pikachu",
+      "title": "Pikachu - Topps Series 1 #25",
+      "link": "/Topps-Series-1-Expansion/Pikachu-Card-25",
+      "image": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49702.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49702.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "25/78",
+      "card_number": "25",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49702.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49778.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49854.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49930.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Raichu",
+      "title": "Raichu - Topps Series 1 #26",
+      "link": "/Topps-Series-1-Expansion/Raichu-Card-26",
+      "image": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49703.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49703.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "26/78",
+      "card_number": "26",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49703.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49779.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49855.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49931.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Sandshrew",
+      "title": "Sandshrew - Topps Series 1 #27",
+      "link": "/Topps-Series-1-Expansion/Sandshrew-Card-27",
+      "image": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49704.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49704.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "27/78",
+      "card_number": "27",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49704.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49780.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49856.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49932.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Sandslash",
+      "title": "Sandslash - Topps Series 1 #28",
+      "link": "/Topps-Series-1-Expansion/Sandslash-Card-28",
+      "image": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49705.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49705.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "28/78",
+      "card_number": "28",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49705.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49781.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49857.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49933.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Nidoran♀",
+      "title": "Nidoran♀ - Topps Series 1 #29",
+      "link": "/Topps-Series-1-Expansion/Nidoran-Card-29",
+      "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49706.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49706.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "29/78",
+      "card_number": "29",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49706.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49782.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49858.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49934.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Nidorina",
+      "title": "Nidorina - Topps Series 1 #30",
+      "link": "/Topps-Series-1-Expansion/Nidorina-Card-30",
+      "image": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49707.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49707.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "30/78",
+      "card_number": "30",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49707.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49783.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49859.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49935.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Nidoqueen",
+      "title": "Nidoqueen - Topps Series 1 #31",
+      "link": "/Topps-Series-1-Expansion/Nidoqueen-Card-31",
+      "image": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49708.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49708.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "31/78",
+      "card_number": "31",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49708.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49784.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49860.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49936.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Nidoran♂",
+      "title": "Nidoran♂ - Topps Series 1 #32",
+      "link": "/Topps-Series-1-Expansion/Nidoran-Card-32",
+      "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49709.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "32/78",
+      "card_number": "32",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49709.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49785.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49861.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49937.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Nidorino",
+      "title": "Nidorino - Topps Series 1 #33",
+      "link": "/Topps-Series-1-Expansion/Nidorino-Card-33",
+      "image": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49710.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49710.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "33/78",
+      "card_number": "33",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49710.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49786.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49862.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49938.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Nidoking",
+      "title": "Nidoking - Topps Series 1 #34",
+      "link": "/Topps-Series-1-Expansion/Nidoking-Card-34",
+      "image": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49711.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49711.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "34/78",
+      "card_number": "34",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49711.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49787.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49863.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49939.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Clefairy",
+      "title": "Clefairy - Topps Series 1 #35",
+      "link": "/Topps-Series-1-Expansion/Clefairy-Card-35",
+      "image": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49712.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49712.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "35/78",
+      "card_number": "35",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49712.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49788.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49864.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49940.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Clefable",
+      "title": "Clefable - Topps Series 1 #36",
+      "link": "/Topps-Series-1-Expansion/Clefable-Card-36",
+      "image": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49713.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49713.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "36/78",
+      "card_number": "36",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49713.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49789.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49865.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49941.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Vulpix",
+      "title": "Vulpix - Topps Series 1 #37",
+      "link": "/Topps-Series-1-Expansion/Vulpix-Card-37",
+      "image": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49714.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49714.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "37/78",
+      "card_number": "37",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49714.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49790.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49866.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49942.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Ninetails",
+      "title": "Ninetails - Topps Series 1 #38",
+      "link": "/Topps-Series-1-Expansion/Ninetails-Card-38",
+      "image": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49715.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49715.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "38/78",
+      "card_number": "38",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49715.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49791.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49867.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49943.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - Topps Series 1 #39",
+      "link": "/Topps-Series-1-Expansion/Jigglypuff-Card-39",
+      "image": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49716.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49716.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "39/78",
+      "card_number": "39",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49716.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49792.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49868.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49944.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Wigglytuff",
+      "title": "Wigglytuff - Topps Series 1 #40",
+      "link": "/Topps-Series-1-Expansion/Wigglytuff-Card-40",
+      "image": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49717.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49717.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "40/78",
+      "card_number": "40",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49717.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49793.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49869.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49945.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Zubat",
+      "title": "Zubat - Topps Series 1 #41",
+      "link": "/Topps-Series-1-Expansion/Zubat-Card-41",
+      "image": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49718.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49718.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "41/78",
+      "card_number": "41",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49718.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49794.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49870.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49946.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Golbat",
+      "title": "Golbat - Topps Series 1 #42",
+      "link": "/Topps-Series-1-Expansion/Golbat-Card-42",
+      "image": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49719.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49719.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "42/78",
+      "card_number": "42",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49719.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49795.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49871.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49947.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Oddish",
+      "title": "Oddish - Topps Series 1 #43",
+      "link": "/Topps-Series-1-Expansion/Oddish-Card-43",
+      "image": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49720.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49720.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "43/78",
+      "card_number": "43",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49720.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49796.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49872.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49948.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Gloom",
+      "title": "Gloom - Topps Series 1 #44",
+      "link": "/Topps-Series-1-Expansion/Gloom-Card-44",
+      "image": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49721.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49721.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "44/78",
+      "card_number": "44",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49721.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49797.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49873.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49949.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Vileplume",
+      "title": "Vileplume - Topps Series 1 #45",
+      "link": "/Topps-Series-1-Expansion/Vileplume-Card-45",
+      "image": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49722.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49722.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "45/78",
+      "card_number": "45",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49722.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49798.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49874.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49950.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Paras",
+      "title": "Paras - Topps Series 1 #46",
+      "link": "/Topps-Series-1-Expansion/Paras-Card-46",
+      "image": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49723.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49723.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "46/78",
+      "card_number": "46",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49723.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49799.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49875.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49951.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Parasect",
+      "title": "Parasect - Topps Series 1 #47",
+      "link": "/Topps-Series-1-Expansion/Parasect-Card-47",
+      "image": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49724.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49724.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "47/78",
+      "card_number": "47",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49724.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49800.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49876.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49952.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Venonat",
+      "title": "Venonat - Topps Series 1 #48",
+      "link": "/Topps-Series-1-Expansion/Venonat-Card-48",
+      "image": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49725.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49725.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "48/78",
+      "card_number": "48",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49725.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49801.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49877.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49953.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Venomoth",
+      "title": "Venomoth - Topps Series 1 #49",
+      "link": "/Topps-Series-1-Expansion/Venomoth-Card-49",
+      "image": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49726.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49726.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "49/78",
+      "card_number": "49",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49726.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49802.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49878.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49954.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Diglett",
+      "title": "Diglett - Topps Series 1 #50",
+      "link": "/Topps-Series-1-Expansion/Diglett-Card-50",
+      "image": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49727.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49727.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "50/78",
+      "card_number": "50",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49727.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49803.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49879.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49955.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Dugtrio",
+      "title": "Dugtrio - Topps Series 1 #51",
+      "link": "/Topps-Series-1-Expansion/Dugtrio-Card-51",
+      "image": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49728.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49728.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "51/78",
+      "card_number": "51",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49728.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49804.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49880.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49956.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Meowth",
+      "title": "Meowth - Topps Series 1 #52",
+      "link": "/Topps-Series-1-Expansion/Meowth-Card-52",
+      "image": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49729.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49729.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "52/78",
+      "card_number": "52",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49729.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49805.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49881.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49957.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Persian",
+      "title": "Persian - Topps Series 1 #53",
+      "link": "/Topps-Series-1-Expansion/Persian-Card-53",
+      "image": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49730.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49730.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "53/78",
+      "card_number": "53",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49730.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49806.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49882.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49958.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Psyduck",
+      "title": "Psyduck - Topps Series 1 #54",
+      "link": "/Topps-Series-1-Expansion/Psyduck-Card-54",
+      "image": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49731.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49731.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "54/78",
+      "card_number": "54",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49731.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49807.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49883.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49959.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Golduck",
+      "title": "Golduck - Topps Series 1 #55",
+      "link": "/Topps-Series-1-Expansion/Golduck-Card-55",
+      "image": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49732.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49732.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "55/78",
+      "card_number": "55",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49732.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49808.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49884.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49960.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Mankey",
+      "title": "Mankey - Topps Series 1 #56",
+      "link": "/Topps-Series-1-Expansion/Mankey-Card-56",
+      "image": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49733.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49733.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "56/78",
+      "card_number": "56",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49733.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49809.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49885.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49961.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Primeape",
+      "title": "Primeape - Topps Series 1 #57",
+      "link": "/Topps-Series-1-Expansion/Primeape-Card-57",
+      "image": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49734.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49734.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "57/78",
+      "card_number": "57",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49734.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49810.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49886.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49962.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Growlithe",
+      "title": "Growlithe - Topps Series 1 #58",
+      "link": "/Topps-Series-1-Expansion/Growlithe-Card-58",
+      "image": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49735.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49735.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "58/78",
+      "card_number": "58",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49735.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49811.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49887.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49963.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Arcanine",
+      "title": "Arcanine - Topps Series 1 #59",
+      "link": "/Topps-Series-1-Expansion/Arcanine-Card-59",
+      "image": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49736.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49736.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "59/78",
+      "card_number": "59",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49736.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49812.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49888.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49964.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Poliwag",
+      "title": "Poliwag - Topps Series 1 #60",
+      "link": "/Topps-Series-1-Expansion/Poliwag-Card-60",
+      "image": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49737.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49737.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "60/78",
+      "card_number": "60",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49737.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49813.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49889.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49965.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Poliwhirl",
+      "title": "Poliwhirl - Topps Series 1 #61",
+      "link": "/Topps-Series-1-Expansion/Poliwhirl-Card-61",
+      "image": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49738.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49738.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "61/78",
+      "card_number": "61",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49738.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49814.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49890.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49966.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Poliwrath",
+      "title": "Poliwrath - Topps Series 1 #62",
+      "link": "/Topps-Series-1-Expansion/Poliwrath-Card-62",
+      "image": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49739.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49739.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "62/78",
+      "card_number": "62",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49739.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49815.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49891.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49967.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Abra",
+      "title": "Abra - Topps Series 1 #63",
+      "link": "/Topps-Series-1-Expansion/Abra-Card-63",
+      "image": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49740.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49740.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "63/78",
+      "card_number": "63",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49740.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49816.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49892.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49968.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Kadabra",
+      "title": "Kadabra - Topps Series 1 #64",
+      "link": "/Topps-Series-1-Expansion/Kadabra-Card-64",
+      "image": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49741.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49741.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "64/78",
+      "card_number": "64",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49741.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49817.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49893.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49969.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Alakazam",
+      "title": "Alakazam - Topps Series 1 #65",
+      "link": "/Topps-Series-1-Expansion/Alakazam-Card-65",
+      "image": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49742.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49742.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "65/78",
+      "card_number": "65",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49742.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49818.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49894.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49970.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Machop",
+      "title": "Machop - Topps Series 1 #66",
+      "link": "/Topps-Series-1-Expansion/Machop-Card-66",
+      "image": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49743.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49743.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "66/78",
+      "card_number": "66",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49743.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49819.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49895.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49971.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Machoke",
+      "title": "Machoke - Topps Series 1 #67",
+      "link": "/Topps-Series-1-Expansion/Machoke-Card-67",
+      "image": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49744.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49744.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "67/78",
+      "card_number": "67",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49744.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49820.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49896.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49972.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Machamp",
+      "title": "Machamp - Topps Series 1 #68",
+      "link": "/Topps-Series-1-Expansion/Machamp-Card-68",
+      "image": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49745.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49745.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "68/78",
+      "card_number": "68",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49745.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49821.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49897.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49973.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Bellsprout",
+      "title": "Bellsprout - Topps Series 1 #69",
+      "link": "/Topps-Series-1-Expansion/Bellsprout-Card-69",
+      "image": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49746.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49746.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "69/78",
+      "card_number": "69",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49746.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49822.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49898.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49974.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Weepinbell",
+      "title": "Weepinbell - Topps Series 1 #70",
+      "link": "/Topps-Series-1-Expansion/Weepinbell-Card-70",
+      "image": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49747.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49747.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "70/78",
+      "card_number": "70",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49747.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49823.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49899.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49975.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Victreebell",
+      "title": "Victreebell - Topps Series 1 #71",
+      "link": "/Topps-Series-1-Expansion/Victreebell-Card-71",
+      "image": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49748.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49748.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "71/78",
+      "card_number": "71",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49748.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49824.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49900.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49976.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Tentacool",
+      "title": "Tentacool - Topps Series 1 #72",
+      "link": "/Topps-Series-1-Expansion/Tentacool-Card-72",
+      "image": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49749.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49749.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "72/78",
+      "card_number": "72",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49749.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49825.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49901.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49977.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Tentacruel",
+      "title": "Tentacruel - Topps Series 1 #73",
+      "link": "/Topps-Series-1-Expansion/Tentacruel-Card-73",
+      "image": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49750.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49750.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "73/78",
+      "card_number": "73",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49750.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49826.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49902.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49978.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Geodude",
+      "title": "Geodude - Topps Series 1 #74",
+      "link": "/Topps-Series-1-Expansion/Geodude-Card-74",
+      "image": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49751.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49751.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "74/78",
+      "card_number": "74",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49751.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49827.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49903.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49979.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Graveler",
+      "title": "Graveler - Topps Series 1 #75",
+      "link": "/Topps-Series-1-Expansion/Graveler-Card-75",
+      "image": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49752.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49752.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "75/78",
+      "card_number": "75",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49752.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49828.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49904.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49980.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Golem",
+      "title": "Golem - Topps Series 1 #76",
+      "link": "/Topps-Series-1-Expansion/Golem-Card-76",
+      "image": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49753.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49753.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "76/78",
+      "card_number": "76",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49753.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49829.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49905.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49981.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Ponyta",
+      "title": "Ponyta - Topps Series 1 #77",
+      "link": "/Topps-Series-1-Expansion/Ponyta-Card-77",
+      "image": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49982.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49982.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "77/78",
+      "card_number": "77",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49982.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49984.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49986.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49988.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Rapidash",
+      "title": "Rapidash - Topps Series 1 #78",
+      "link": "/Topps-Series-1-Expansion/Rapidash-Card-78",
+      "image": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49983.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49983.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Topps Series 1",
+      "set_link": "/Topps-Series-1-Expansion/",
+      "position": "78/78",
+      "card_number": "78",
+      "total_cards": "78",
+      "image_full": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49983.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Spectra Holo",
+          "image": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49985.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Sparkle Holo",
+          "image": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49987.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Tekno Holo",
+          "image": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49989.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 13:58:06"
+}

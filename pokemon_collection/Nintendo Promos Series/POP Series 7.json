@@ -1,0 +1,758 @@
+{
+  "title": "POP Series 7 Set",
+  "link": "/POP-Series-7-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-7.logo.104.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-7.symbol.104.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ampharos",
+      "title": "Ampharos - POP Series 7 #1",
+      "link": "/POP-Series-7-Expansion/Ampharos-Card-1",
+      "image": "https://den-cards.pokellector.com/104/Ampharos.POP7.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Ampharos.POP7.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Ampharos.POP7.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fampharos"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.69",
+          "link": "http://www.trollandtoad.com/p298088.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Ampharos+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.00",
+          "link": "http://stop2shop.com/foil-pop7-1.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/ampharos_117__nonholo_rare/65652"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Gallade",
+      "title": "Gallade - POP Series 7 #2",
+      "link": "/POP-Series-7-Expansion/Gallade-Card-2",
+      "image": "https://den-cards.pokellector.com/104/Gallade.POP7.2.6475.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Gallade.POP7.2.6475.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Gallade.POP7.2.6475.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fgallade"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p202905.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Gallade+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/gallade__217__holo_rare/547143"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.47",
+          "link": "http://stop2shop.com/foil-pop7-2.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Latias",
+      "title": "Latias - POP Series 7 #3",
+      "link": "/POP-Series-7-Expansion/Latias-Card-3",
+      "image": "https://den-cards.pokellector.com/104/Latias.POP7.3.6476.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Latias.POP7.3.6476.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Latias.POP7.3.6476.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$21.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Flatias"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.49",
+          "link": "http://www.trollandtoad.com/p202906.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Latias+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/latias__317__nonholo_rare/65654"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.80",
+          "link": "http://stop2shop.com/foil-pop7-3.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Latios",
+      "title": "Latios - POP Series 7 #4",
+      "link": "/POP-Series-7-Expansion/Latios-Card-4",
+      "image": "https://den-cards.pokellector.com/104/Latios.POP7.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Latios.POP7.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Latios.POP7.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Flatios"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p202907.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Latios+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/latios__417__holo_rare/547173"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.80",
+          "link": "http://stop2shop.com/foil-pop7-4.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Mothim",
+      "title": "Mothim - POP Series 7 #5",
+      "link": "/POP-Series-7-Expansion/Mothim-Card-5",
+      "image": "https://den-cards.pokellector.com/104/Mothim.POP7.5.6478.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Mothim.POP7.5.6478.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Mothim.POP7.5.6478.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fmothim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p202908.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Mothim+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/mothim__011172__rare/656676"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/foil-pop7-5.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Delibird",
+      "title": "Delibird - POP Series 7 #6",
+      "link": "/POP-Series-7-Expansion/Delibird-Card-6",
+      "image": "https://den-cards.pokellector.com/104/Delibird.POP7.6.6479.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Delibird.POP7.6.6479.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Delibird.POP7.6.6479.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fdelibird"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.68",
+          "link": "http://www.trollandtoad.com/p202909.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$33.66",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Delibird+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/delibird__617__uncommon/65657"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Flaaffy",
+      "title": "Flaaffy - POP Series 7 #7",
+      "link": "/POP-Series-7-Expansion/Flaaffy-Card-7",
+      "image": "https://den-cards.pokellector.com/104/Flaaffy.POP7.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Flaaffy.POP7.7.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Flaaffy.POP7.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fflaaffy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p202910.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$70.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Flaaffy+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-7.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/flaaffy__717__uncommon/65658"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Kirlia",
+      "title": "Kirlia - POP Series 7 #8",
+      "link": "/POP-Series-7-Expansion/Kirlia-Card-8",
+      "image": "https://den-cards.pokellector.com/104/Kirlia.POP7.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Kirlia.POP7.8.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Kirlia.POP7.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fkirlia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p202911.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Kirlia+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/kirlia__817__holo_uncommon/547153"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/foil-pop7-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Stantler",
+      "title": "Stantler - POP Series 7 #9",
+      "link": "/POP-Series-7-Expansion/Stantler-Card-9",
+      "image": "https://den-cards.pokellector.com/104/Stantler.POP7.9.6482.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Stantler.POP7.9.6482.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Stantler.POP7.9.6482.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fstantler"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p202912.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Stantler+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/stantler__917__uncommon/65660"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-9.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Wormadam Sandy Cloak",
+      "title": "Wormadam Sandy Cloak - POP Series 7 #10",
+      "link": "/POP-Series-7-Expansion/Wormadam-Sandy-Cloak-Card-10",
+      "image": "https://den-cards.pokellector.com/104/Wormadam-Sandy-Cloak.POP7.10.6488.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Wormadam-Sandy-Cloak.POP7.10.6488.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Wormadam-Sandy-Cloak.POP7.10.6488.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fwormadam-sandy-cloak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p202913.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DPOP+Series+7+Wormadam+Sandy+Cloak+10+-oversized+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-10.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/wormadam_sandy_cloak__1017__uncommon/65661"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Burmy Plant Cloak",
+      "title": "Burmy Plant Cloak - POP Series 7 #11",
+      "link": "/POP-Series-7-Expansion/Burmy-Plant-Cloak-Card-11",
+      "image": "https://den-cards.pokellector.com/104/Burmy-Plant-Cloak.POP7.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Burmy-Plant-Cloak.POP7.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Burmy-Plant-Cloak.POP7.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fburmy-plant-cloak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p202914.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Burmy+Plant+Cloak+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-11.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/burmy_plant_cloak__1117__common/65662"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Burmy Sandy Cloak",
+      "title": "Burmy Sandy Cloak - POP Series 7 #12",
+      "link": "/POP-Series-7-Expansion/Burmy-Sandy-Cloak-Card-12",
+      "image": "https://den-cards.pokellector.com/104/Burmy-Sandy-Cloak.POP7.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Burmy-Sandy-Cloak.POP7.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Burmy-Sandy-Cloak.POP7.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fburmy-sandy-cloak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.86",
+          "link": "http://www.trollandtoad.com/p202915.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Burmy+Sandy+Cloak+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-12.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/burmy_sandy_cloak__1217__common/65663"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Corsola",
+      "title": "Corsola - POP Series 7 #13",
+      "link": "/POP-Series-7-Expansion/Corsola-Card-13",
+      "image": "https://den-cards.pokellector.com/104/Corsola.POP7.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Corsola.POP7.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Corsola.POP7.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fcorsola"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.97",
+          "link": "http://www.trollandtoad.com/p202916.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Corsola+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-13.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/corsola__1317__common/65664"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Mareep",
+      "title": "Mareep - POP Series 7 #14",
+      "link": "/POP-Series-7-Expansion/Mareep-Card-14",
+      "image": "https://den-cards.pokellector.com/104/Mareep.POP7.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Mareep.POP7.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Mareep.POP7.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fmareep"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p202917.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Mareep+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/mareep__1417__common/65665"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Ralts",
+      "title": "Ralts - POP Series 7 #15",
+      "link": "/POP-Series-7-Expansion/Ralts-Card-15",
+      "image": "https://den-cards.pokellector.com/104/Ralts.POP7.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Ralts.POP7.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Ralts.POP7.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fralts"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p202918.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Ralts+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-15.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/ralts__1517__common/65666"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Sentret",
+      "title": "Sentret - POP Series 7 #16",
+      "link": "/POP-Series-7-Expansion/Sentret-Card-16",
+      "image": "https://den-cards.pokellector.com/104/Sentret.POP7.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Sentret.POP7.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Sentret.POP7.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fsentret"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.63",
+          "link": "http://www.trollandtoad.com/p202919.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.84",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Sentret+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/sentret__1617__common/65667"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Spinda",
+      "title": "Spinda - POP Series 7 #17",
+      "link": "/POP-Series-7-Expansion/Spinda-Card-17",
+      "image": "https://den-cards.pokellector.com/104/Spinda.POP7.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/104/Spinda.POP7.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 7",
+      "set_link": "/POP-Series-7-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/104/Spinda.POP7.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-7%2Fspinda"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p202920.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+7+Spinda+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_7/spinda__1717__common/65668"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop7-17.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:53:27"
+}

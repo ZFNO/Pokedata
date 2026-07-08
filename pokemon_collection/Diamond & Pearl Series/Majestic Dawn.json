@@ -1,0 +1,5077 @@
+{
+  "title": "Majestic Dawn Set",
+  "link": "/Majestic-Dawn-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Majestic-Dawn.logo.46.png",
+  "symbol": "https://den-media.pokellector.com/logos/Majestic-Dawn.symbol.46.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Articuno",
+      "title": "Articuno - Majestic Dawn #1",
+      "link": "/Majestic-Dawn-Expansion/Articuno-Card-1",
+      "image": "https://den-cards.pokellector.com/46/Articuno.MD.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Articuno.MD.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "1/100",
+      "card_number": "1",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Articuno.MD.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$35.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Farticuno"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$20.79",
+          "link": "http://www.trollandtoad.com/p208968.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+1+Articuno+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.97",
+          "link": "http://stop2shop.com/md-001.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Articuno+-+1%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Cresselia",
+      "title": "Cresselia - Majestic Dawn #2",
+      "link": "/Majestic-Dawn-Expansion/Cresselia-Card-2",
+      "image": "https://den-cards.pokellector.com/46/Cresselia.MD.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Cresselia.MD.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "2/100",
+      "card_number": "2",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Cresselia.MD.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fcresselia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p1125572.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+2+Cresselia+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.97",
+          "link": "http://stop2shop.com/md-002.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cresselia+-+2%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Darkrai",
+      "title": "Darkrai - Majestic Dawn #3",
+      "link": "/Majestic-Dawn-Expansion/Darkrai-Card-3",
+      "image": "https://den-cards.pokellector.com/46/Darkrai.MD.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Darkrai.MD.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "3/100",
+      "card_number": "3",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Darkrai.MD.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$33.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdarkrai"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.49",
+          "link": "http://www.trollandtoad.com/p208982.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+3+Darkrai+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.97",
+          "link": "http://stop2shop.com/md-003.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkrai+-+3%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Dialga",
+      "title": "Dialga - Majestic Dawn #4",
+      "link": "/Majestic-Dawn-Expansion/Dialga-Card-4",
+      "image": "https://den-cards.pokellector.com/46/Dialga.MD.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Dialga.MD.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "4/100",
+      "card_number": "4",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Dialga.MD.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdialga"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p1125577.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+4+Dialga+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.97",
+          "link": "http://stop2shop.com/md-004.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+-+4%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Glaceon",
+      "title": "Glaceon - Majestic Dawn #5",
+      "link": "/Majestic-Dawn-Expansion/Glaceon-Card-5",
+      "image": "https://den-cards.pokellector.com/46/Glaceon.MD.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Glaceon.MD.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "5/100",
+      "card_number": "5",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Glaceon.MD.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$73.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fglaceon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$43.79",
+          "link": "http://www.trollandtoad.com/p1125592.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+5+Glaceon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.97",
+          "link": "http://stop2shop.com/md-005.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glaceon+-+5%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Kabutops",
+      "title": "Kabutops - Majestic Dawn #6",
+      "link": "/Majestic-Dawn-Expansion/Kabutops-Card-6",
+      "image": "https://den-cards.pokellector.com/46/Kabutops.MD.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Kabutops.MD.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "6/100",
+      "card_number": "6",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Kabutops.MD.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fkabutops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.89",
+          "link": "http://www.trollandtoad.com/p1125602.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+6+Kabutops+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.97",
+          "link": "http://stop2shop.com/md-006.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabutops+-+6%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Leafeon",
+      "title": "Leafeon - Majestic Dawn #7",
+      "link": "/Majestic-Dawn-Expansion/Leafeon-Card-7",
+      "image": "https://den-cards.pokellector.com/46/Leafeon.MD.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Leafeon.MD.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "7/100",
+      "card_number": "7",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Leafeon.MD.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$51.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fleafeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.99",
+          "link": "http://www.trollandtoad.com/p1125605.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+7+Leafeon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.97",
+          "link": "http://stop2shop.com/md-007.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+-+7%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Manaphy",
+      "title": "Manaphy - Majestic Dawn #8",
+      "link": "/Majestic-Dawn-Expansion/Manaphy-Card-8",
+      "image": "https://den-cards.pokellector.com/46/Manaphy.MD.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Manaphy.MD.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "8/100",
+      "card_number": "8",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Manaphy.MD.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmanaphy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1125607.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+8+Manaphy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.97",
+          "link": "http://stop2shop.com/md-008.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Manaphy+-+8%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Mewtwo",
+      "title": "Mewtwo - Majestic Dawn #9",
+      "link": "/Majestic-Dawn-Expansion/Mewtwo-Card-9",
+      "image": "https://den-cards.pokellector.com/46/Mewtwo.MD.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Mewtwo.MD.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "9/100",
+      "card_number": "9",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Mewtwo.MD.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$76.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmewtwo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p1125610.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+9+Mewtwo+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.97",
+          "link": "http://stop2shop.com/md-009.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mewtwo+-+9%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Moltres",
+      "title": "Moltres - Majestic Dawn #10",
+      "link": "/Majestic-Dawn-Expansion/Moltres-Card-10",
+      "image": "https://den-cards.pokellector.com/46/Moltres.MD.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Moltres.MD.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "10/100",
+      "card_number": "10",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Moltres.MD.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$38.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmoltres"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.99",
+          "link": "http://www.trollandtoad.com/p1125612.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+10+Moltres+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.97",
+          "link": "http://stop2shop.com/md-010.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Moltres+-+10%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Palkia",
+      "title": "Palkia - Majestic Dawn #11",
+      "link": "/Majestic-Dawn-Expansion/Palkia-Card-11",
+      "image": "https://den-cards.pokellector.com/46/Palkia.MD.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Palkia.MD.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "11/100",
+      "card_number": "11",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Palkia.MD.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpalkia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p1125621.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+11+Palkia+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.97",
+          "link": "http://stop2shop.com/md-011.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Palkia+-+11%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Phione",
+      "title": "Phione - Majestic Dawn #12",
+      "link": "/Majestic-Dawn-Expansion/Phione-Card-12",
+      "image": "https://den-cards.pokellector.com/46/Phione.MD.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Phione.MD.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "12/100",
+      "card_number": "12",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Phione.MD.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fphione"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p1125622.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+12+Phione+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.97",
+          "link": "http://stop2shop.com/md-012.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Phione+-+12%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Rotom",
+      "title": "Rotom - Majestic Dawn #13",
+      "link": "/Majestic-Dawn-Expansion/Rotom-Card-13",
+      "image": "https://den-cards.pokellector.com/46/Rotom.MD.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Rotom.MD.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "13/100",
+      "card_number": "13",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Rotom.MD.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Frotom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.59",
+          "link": "http://www.trollandtoad.com/p209044.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+13+Rotom+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.97",
+          "link": "http://stop2shop.com/md-013.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rotom+-+13%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Zapdos",
+      "title": "Zapdos - Majestic Dawn #14",
+      "link": "/Majestic-Dawn-Expansion/Zapdos-Card-14",
+      "image": "https://den-cards.pokellector.com/46/Zapdos.MD.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Zapdos.MD.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "14/100",
+      "card_number": "14",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Zapdos.MD.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$26.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fzapdos"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p1125652.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+14+Zapdos+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.97",
+          "link": "http://stop2shop.com/md-014.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zapdos+-+14%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Aerodactyl",
+      "title": "Aerodactyl - Majestic Dawn #15",
+      "link": "/Majestic-Dawn-Expansion/Aerodactyl-Card-15",
+      "image": "https://den-cards.pokellector.com/46/Aerodactyl.MD.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Aerodactyl.MD.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "15/100",
+      "card_number": "15",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Aerodactyl.MD.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Faerodactyl"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p208964.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+15+Aerodactyl+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-015.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aerodactyl+-+15%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Bronzong",
+      "title": "Bronzong - Majestic Dawn #16",
+      "link": "/Majestic-Dawn-Expansion/Bronzong-Card-16",
+      "image": "https://den-cards.pokellector.com/46/Bronzong.MD.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Bronzong.MD.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "16/100",
+      "card_number": "16",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Bronzong.MD.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fbronzong"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.19",
+          "link": "http://www.trollandtoad.com/p1125562.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+16+Bronzong+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-016.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzong+-+16%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Empoleon",
+      "title": "Empoleon - Majestic Dawn #17",
+      "link": "/Majestic-Dawn-Expansion/Empoleon-Card-17",
+      "image": "https://den-cards.pokellector.com/46/Empoleon.MD.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Empoleon.MD.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "17/100",
+      "card_number": "17",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Empoleon.MD.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fempoleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p208991.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+17+Empoleon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.77",
+          "link": "http://stop2shop.com/md-017.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Empoleon+-+17%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Espeon",
+      "title": "Espeon - Majestic Dawn #18",
+      "link": "/Majestic-Dawn-Expansion/Espeon-Card-18",
+      "image": "https://den-cards.pokellector.com/46/Espeon.MD.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Espeon.MD.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "18/100",
+      "card_number": "18",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Espeon.MD.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fespeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p208994.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+18+Espeon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.29",
+          "link": "http://stop2shop.com/md-018.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Espeon+-+18%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Flareon",
+      "title": "Flareon - Majestic Dawn #19",
+      "link": "/Majestic-Dawn-Expansion/Flareon-Card-19",
+      "image": "https://den-cards.pokellector.com/46/Flareon.MD.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Flareon.MD.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "19/100",
+      "card_number": "19",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Flareon.MD.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fflareon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.19",
+          "link": "http://www.trollandtoad.com/p208996.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+19+Flareon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-019.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flareon+-+19%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Glaceon",
+      "title": "Glaceon - Majestic Dawn #20",
+      "link": "/Majestic-Dawn-Expansion/Glaceon-Card-20",
+      "image": "https://den-cards.pokellector.com/46/Glaceon.MD.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Glaceon.MD.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "20/100",
+      "card_number": "20",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Glaceon.MD.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fglaceon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p208999.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+20+Glaceon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.27",
+          "link": "http://stop2shop.com/md-020.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glaceon+-+20%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Hippowdon",
+      "title": "Hippowdon - Majestic Dawn #21",
+      "link": "/Majestic-Dawn-Expansion/Hippowdon-Card-21",
+      "image": "https://den-cards.pokellector.com/46/Hippowdon.MD.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Hippowdon.MD.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "21/100",
+      "card_number": "21",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Hippowdon.MD.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fhippowdon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p1125598.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+21+Hippowdon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.97",
+          "link": "http://stop2shop.com/md-021.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hippowdon+-+21%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Infernape",
+      "title": "Infernape - Majestic Dawn #22",
+      "link": "/Majestic-Dawn-Expansion/Infernape-Card-22",
+      "image": "https://den-cards.pokellector.com/46/Infernape.MD.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Infernape.MD.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "22/100",
+      "card_number": "22",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Infernape.MD.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Finfernape"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p209008.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+22+Infernape+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-022.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Infernape+-+22%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Jolteon",
+      "title": "Jolteon - Majestic Dawn #23",
+      "link": "/Majestic-Dawn-Expansion/Jolteon-Card-23",
+      "image": "https://den-cards.pokellector.com/46/Jolteon.MD.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Jolteon.MD.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "23/100",
+      "card_number": "23",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Jolteon.MD.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fjolteon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p209009.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+23+Jolteon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-023.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jolteon+-+23%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Leafeon",
+      "title": "Leafeon - Majestic Dawn #24",
+      "link": "/Majestic-Dawn-Expansion/Leafeon-Card-24",
+      "image": "https://den-cards.pokellector.com/46/Leafeon.MD.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Leafeon.MD.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "24/100",
+      "card_number": "24",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Leafeon.MD.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fleafeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p209013.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+24+Leafeon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.47",
+          "link": "http://stop2shop.com/md-024.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+-+24%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Minun",
+      "title": "Minun - Majestic Dawn #25",
+      "link": "/Majestic-Dawn-Expansion/Minun-Card-25",
+      "image": "https://den-cards.pokellector.com/46/Minun.MD.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Minun.MD.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "25/100",
+      "card_number": "25",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Minun.MD.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p209021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+25+Minun+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-025.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minun+-+25%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Omastar",
+      "title": "Omastar - Majestic Dawn #26",
+      "link": "/Majestic-Dawn-Expansion/Omastar-Card-26",
+      "image": "https://den-cards.pokellector.com/46/Omastar.MD.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Omastar.MD.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "26/100",
+      "card_number": "26",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Omastar.MD.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fomastar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1125619.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+26+Omastar+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.47",
+          "link": "http://stop2shop.com/md-026.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omastar+-+26%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Phione",
+      "title": "Phione - Majestic Dawn #27",
+      "link": "/Majestic-Dawn-Expansion/Phione-Card-27",
+      "image": "https://den-cards.pokellector.com/46/Phione.MD.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Phione.MD.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "27/100",
+      "card_number": "27",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Phione.MD.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fphione"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1125623.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+27+Phione+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-027.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Phione+-+27%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Plusle",
+      "title": "Plusle - Majestic Dawn #28",
+      "link": "/Majestic-Dawn-Expansion/Plusle-Card-28",
+      "image": "https://den-cards.pokellector.com/46/Plusle.MD.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Plusle.MD.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "28/100",
+      "card_number": "28",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Plusle.MD.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p209037.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+28+Plusle+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-028.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Plusle+-+28%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Scizor",
+      "title": "Scizor - Majestic Dawn #29",
+      "link": "/Majestic-Dawn-Expansion/Scizor-Card-29",
+      "image": "https://den-cards.pokellector.com/46/Scizor.MD.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Scizor.MD.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "29/100",
+      "card_number": "29",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Scizor.MD.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fscizor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p209045.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+29+Scizor+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.77",
+          "link": "http://stop2shop.com/md-029.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+-+29%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Torterra",
+      "title": "Torterra - Majestic Dawn #30",
+      "link": "/Majestic-Dawn-Expansion/Torterra-Card-30",
+      "image": "https://den-cards.pokellector.com/46/Torterra.MD.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Torterra.MD.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "30/100",
+      "card_number": "30",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Torterra.MD.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Ftorterra"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1125643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+30+Torterra+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/md-030.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torterra+-+30%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Toxicroak",
+      "title": "Toxicroak - Majestic Dawn #31",
+      "link": "/Majestic-Dawn-Expansion/Toxicroak-Card-31",
+      "image": "https://den-cards.pokellector.com/46/Toxicroak.MD.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Toxicroak.MD.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "31/100",
+      "card_number": "31",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Toxicroak.MD.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.77",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Ftoxicroak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1125644.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+31+Toxicroak+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-031.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Toxicroak+-+31%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Umbreon",
+      "title": "Umbreon - Majestic Dawn #32",
+      "link": "/Majestic-Dawn-Expansion/Umbreon-Card-32",
+      "image": "https://den-cards.pokellector.com/46/Umbreon.MD.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Umbreon.MD.32.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "32/100",
+      "card_number": "32",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Umbreon.MD.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$39.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fumbreon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p209058.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+32+Umbreon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.47",
+          "link": "http://stop2shop.com/md-032.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Umbreon+-+32%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Unown P",
+      "title": "Unown P - Majestic Dawn #33",
+      "link": "/Majestic-Dawn-Expansion/Unown-P-Card-33",
+      "image": "https://den-cards.pokellector.com/46/Unown-P.MD.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Unown-P.MD.33.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "33/100",
+      "card_number": "33",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Unown-P.MD.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Funown-p"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p209059.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+33+Unown+P+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+P+-+33%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Vaporeon",
+      "title": "Vaporeon - Majestic Dawn #34",
+      "link": "/Majestic-Dawn-Expansion/Vaporeon-Card-34",
+      "image": "https://den-cards.pokellector.com/46/Vaporeon.MD.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Vaporeon.MD.34.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "34/100",
+      "card_number": "34",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Vaporeon.MD.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fvaporeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.98",
+          "link": "http://www.trollandtoad.com/p209061.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+34+Vaporeon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vaporeon+-+34%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.77",
+          "link": "http://stop2shop.com/md-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Ambipom",
+      "title": "Ambipom - Majestic Dawn #35",
+      "link": "/Majestic-Dawn-Expansion/Ambipom-Card-35",
+      "image": "https://den-cards.pokellector.com/46/Ambipom.MD.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Ambipom.MD.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "35/100",
+      "card_number": "35",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Ambipom.MD.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fambipom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208967.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+35+Ambipom+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-035.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ambipom+-+35%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Fearow",
+      "title": "Fearow - Majestic Dawn #36",
+      "link": "/Majestic-Dawn-Expansion/Fearow-Card-36",
+      "image": "https://den-cards.pokellector.com/46/Fearow.MD.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Fearow.MD.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "36/100",
+      "card_number": "36",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Fearow.MD.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Ffearow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208995.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+36+Fearow+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fearow+-+36%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Grotle",
+      "title": "Grotle - Majestic Dawn #37",
+      "link": "/Majestic-Dawn-Expansion/Grotle-Card-37",
+      "image": "https://den-cards.pokellector.com/46/Grotle.MD.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Grotle.MD.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "37/100",
+      "card_number": "37",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Grotle.MD.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fgrotle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209003.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+37+Grotle+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-037.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grotle+-+37%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Kangaskhan",
+      "title": "Kangaskhan - Majestic Dawn #38",
+      "link": "/Majestic-Dawn-Expansion/Kangaskhan-Card-38",
+      "image": "https://den-cards.pokellector.com/46/Kangaskhan.MD.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Kangaskhan.MD.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "38/100",
+      "card_number": "38",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Kangaskhan.MD.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fkangaskhan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+38+Kangaskhan+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kangaskhan+-+38%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Lickitung",
+      "title": "Lickitung - Majestic Dawn #39",
+      "link": "/Majestic-Dawn-Expansion/Lickitung-Card-39",
+      "image": "https://den-cards.pokellector.com/46/Lickitung.MD.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Lickitung.MD.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "39/100",
+      "card_number": "39",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Lickitung.MD.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Flickitung"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209016.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+39+Lickitung+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lickitung+-+39%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-039.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Manectric",
+      "title": "Manectric - Majestic Dawn #40",
+      "link": "/Majestic-Dawn-Expansion/Manectric-Card-40",
+      "image": "https://den-cards.pokellector.com/46/Manectric.MD.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Manectric.MD.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "40/100",
+      "card_number": "40",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Manectric.MD.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmanectric"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209018.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+40+Manectric+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Manectric+-+40%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Monferno",
+      "title": "Monferno - Majestic Dawn #41",
+      "link": "/Majestic-Dawn-Expansion/Monferno-Card-41",
+      "image": "https://den-cards.pokellector.com/46/Monferno.MD.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Monferno.MD.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "41/100",
+      "card_number": "41",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Monferno.MD.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmonferno"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p209024.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+41+Monferno+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Monferno+-+41%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Mothim",
+      "title": "Mothim - Majestic Dawn #42",
+      "link": "/Majestic-Dawn-Expansion/Mothim-Card-42",
+      "image": "https://den-cards.pokellector.com/46/Mothim.MD.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Mothim.MD.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "42/100",
+      "card_number": "42",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Mothim.MD.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmothim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209025.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+42+Mothim+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mothim+-+42%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-042.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Pachirisu",
+      "title": "Pachirisu - Majestic Dawn #43",
+      "link": "/Majestic-Dawn-Expansion/Pachirisu-Card-43",
+      "image": "https://den-cards.pokellector.com/46/Pachirisu.MD.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Pachirisu.MD.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "43/100",
+      "card_number": "43",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Pachirisu.MD.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpachirisu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p209030.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+43+Pachirisu+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-043.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pachirisu+-+43%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Prinplup",
+      "title": "Prinplup - Majestic Dawn #44",
+      "link": "/Majestic-Dawn-Expansion/Prinplup-Card-44",
+      "image": "https://den-cards.pokellector.com/46/Prinplup.MD.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Prinplup.MD.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "44/100",
+      "card_number": "44",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Prinplup.MD.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fprinplup"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209040.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+44+Prinplup+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-044.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Prinplup+-+44%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Raichu",
+      "title": "Raichu - Majestic Dawn #45",
+      "link": "/Majestic-Dawn-Expansion/Raichu-Card-45",
+      "image": "https://den-cards.pokellector.com/46/Raichu.MD.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Raichu.MD.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "45/100",
+      "card_number": "45",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Raichu.MD.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fraichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209042.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+45+Raichu+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+45%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Scyther",
+      "title": "Scyther - Majestic Dawn #46",
+      "link": "/Majestic-Dawn-Expansion/Scyther-Card-46",
+      "image": "https://den-cards.pokellector.com/46/Scyther.MD.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Scyther.MD.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "46/100",
+      "card_number": "46",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Scyther.MD.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fscyther"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p209046.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+46+Scyther+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-046.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scyther+-+46%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Staravia",
+      "title": "Staravia - Majestic Dawn #47",
+      "link": "/Majestic-Dawn-Expansion/Staravia-Card-47",
+      "image": "https://den-cards.pokellector.com/46/Staravia.MD.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Staravia.MD.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "47/100",
+      "card_number": "47",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Staravia.MD.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fstaravia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209049.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+47+Staravia+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Staravia+-+47%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Sudowoodo",
+      "title": "Sudowoodo - Majestic Dawn #48",
+      "link": "/Majestic-Dawn-Expansion/Sudowoodo-Card-48",
+      "image": "https://den-cards.pokellector.com/46/Sudowoodo.MD.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Sudowoodo.MD.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "48/100",
+      "card_number": "48",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Sudowoodo.MD.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fsudowoodo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p209052.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+48+Sudowoodo+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sudowoodo+-+48%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Unown Q",
+      "title": "Unown Q - Majestic Dawn #49",
+      "link": "/Majestic-Dawn-Expansion/Unown-Q-Card-49",
+      "image": "https://den-cards.pokellector.com/46/Unown-Q.MD.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Unown-Q.MD.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "49/100",
+      "card_number": "49",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Unown-Q.MD.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Funown-q"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.09",
+          "link": "http://www.trollandtoad.com/p209060.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+49+Unown+Q+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+Q+-+49%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.77",
+          "link": "http://stop2shop.com/md-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Aipom",
+      "title": "Aipom - Majestic Dawn #50",
+      "link": "/Majestic-Dawn-Expansion/Aipom-Card-50",
+      "image": "https://den-cards.pokellector.com/46/Aipom.MD.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Aipom.MD.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "50/100",
+      "card_number": "50",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Aipom.MD.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Faipom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208965.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+50+Aipom+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aipom+-+50%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Aipom",
+      "title": "Aipom - Majestic Dawn #51",
+      "link": "/Majestic-Dawn-Expansion/Aipom-Card-51",
+      "image": "https://den-cards.pokellector.com/46/Aipom.MD.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Aipom.MD.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "51/100",
+      "card_number": "51",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Aipom.MD.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Faipom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208966.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+51+Aipom+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aipom+-+51%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Bronzor",
+      "title": "Bronzor - Majestic Dawn #52",
+      "link": "/Majestic-Dawn-Expansion/Bronzor-Card-52",
+      "image": "https://den-cards.pokellector.com/46/Bronzor.MD.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Bronzor.MD.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "52/100",
+      "card_number": "52",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Bronzor.MD.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fbronzor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208970.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+52+Bronzor+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-052.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzor+-+52%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Buneary",
+      "title": "Buneary - Majestic Dawn #53",
+      "link": "/Majestic-Dawn-Expansion/Buneary-Card-53",
+      "image": "https://den-cards.pokellector.com/46/Buneary.MD.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Buneary.MD.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "53/100",
+      "card_number": "53",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Buneary.MD.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fbuneary"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208971.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+53+Buneary+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-053.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Buneary+-+53%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Burmy Sandy Cloak",
+      "title": "Burmy Sandy Cloak - Majestic Dawn #54",
+      "link": "/Majestic-Dawn-Expansion/Burmy-Sandy-Cloak-Card-54",
+      "image": "https://den-cards.pokellector.com/46/Burmy-Sandy-Cloak.MD.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Burmy-Sandy-Cloak.MD.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "54/100",
+      "card_number": "54",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Burmy-Sandy-Cloak.MD.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fburmy-sandy-cloak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p208972.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+54+Burmy+Sandy+Cloak+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Chatot",
+      "title": "Chatot - Majestic Dawn #55",
+      "link": "/Majestic-Dawn-Expansion/Chatot-Card-55",
+      "image": "https://den-cards.pokellector.com/46/Chatot.MD.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Chatot.MD.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "55/100",
+      "card_number": "55",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Chatot.MD.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fchatot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208974.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+55+Chatot+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-055.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chatot+-+55%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Chimchar",
+      "title": "Chimchar - Majestic Dawn #56",
+      "link": "/Majestic-Dawn-Expansion/Chimchar-Card-56",
+      "image": "https://den-cards.pokellector.com/46/Chimchar.MD.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Chimchar.MD.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "56/100",
+      "card_number": "56",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Chimchar.MD.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fchimchar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208975.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+56+Chimchar+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chimchar+-+56%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Chimchar",
+      "title": "Chimchar - Majestic Dawn #57",
+      "link": "/Majestic-Dawn-Expansion/Chimchar-Card-57",
+      "image": "https://den-cards.pokellector.com/46/Chimchar.MD.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Chimchar.MD.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "57/100",
+      "card_number": "57",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Chimchar.MD.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fchimchar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208976.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+57+Chimchar+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chimchar+-+57%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Chingling",
+      "title": "Chingling - Majestic Dawn #58",
+      "link": "/Majestic-Dawn-Expansion/Chingling-Card-58",
+      "image": "https://den-cards.pokellector.com/46/Chingling.MD.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Chingling.MD.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "58/100",
+      "card_number": "58",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Chingling.MD.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fchingling"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p208977.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+58+Chingling+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-058.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chingling+-+58%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Combee",
+      "title": "Combee - Majestic Dawn #59",
+      "link": "/Majestic-Dawn-Expansion/Combee-Card-59",
+      "image": "https://den-cards.pokellector.com/46/Combee.MD.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Combee.MD.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "59/100",
+      "card_number": "59",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Combee.MD.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fcombee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208978.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+59+Combee+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-059.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combee+-+59%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Croagunk",
+      "title": "Croagunk - Majestic Dawn #60",
+      "link": "/Majestic-Dawn-Expansion/Croagunk-Card-60",
+      "image": "https://den-cards.pokellector.com/46/Croagunk.MD.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Croagunk.MD.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "60/100",
+      "card_number": "60",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Croagunk.MD.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fcroagunk"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208980.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+60+Croagunk+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Croagunk+-+60%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-060.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Drifloon",
+      "title": "Drifloon - Majestic Dawn #61",
+      "link": "/Majestic-Dawn-Expansion/Drifloon-Card-61",
+      "image": "https://den-cards.pokellector.com/46/Drifloon.MD.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Drifloon.MD.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "61/100",
+      "card_number": "61",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Drifloon.MD.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdrifloon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208986.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+61+Drifloon+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifloon+-+61%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Eevee",
+      "title": "Eevee - Majestic Dawn #62",
+      "link": "/Majestic-Dawn-Expansion/Eevee-Card-62",
+      "image": "https://den-cards.pokellector.com/46/Eevee.MD.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Eevee.MD.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "62/100",
+      "card_number": "62",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Eevee.MD.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p208988.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+62+Eevee+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.67",
+          "link": "http://stop2shop.com/md-062.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+62%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Eevee",
+      "title": "Eevee - Majestic Dawn #63",
+      "link": "/Majestic-Dawn-Expansion/Eevee-Card-63",
+      "image": "https://den-cards.pokellector.com/46/Eevee.MD.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Eevee.MD.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "63/100",
+      "card_number": "63",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Eevee.MD.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p208989.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+63+Eevee+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-063.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Eevee+-+63%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Electrike",
+      "title": "Electrike - Majestic Dawn #64",
+      "link": "/Majestic-Dawn-Expansion/Electrike-Card-64",
+      "image": "https://den-cards.pokellector.com/46/Electrike.MD.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Electrike.MD.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "64/100",
+      "card_number": "64",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Electrike.MD.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Felectrike"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208990.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+64+Electrike+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrike+-+64%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-064.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Glameow",
+      "title": "Glameow - Majestic Dawn #65",
+      "link": "/Majestic-Dawn-Expansion/Glameow-Card-65",
+      "image": "https://den-cards.pokellector.com/46/Glameow.MD.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Glameow.MD.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "65/100",
+      "card_number": "65",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Glameow.MD.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fglameow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209002.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+65+Glameow+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glameow+-+65%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-065.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Hippopotas",
+      "title": "Hippopotas - Majestic Dawn #66",
+      "link": "/Majestic-Dawn-Expansion/Hippopotas-Card-66",
+      "image": "https://den-cards.pokellector.com/46/Hippopotas.MD.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Hippopotas.MD.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "66/100",
+      "card_number": "66",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Hippopotas.MD.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fhippopotas"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209006.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+66+Hippopotas+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hippopotas+-+66%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Kabuto",
+      "title": "Kabuto - Majestic Dawn #67",
+      "link": "/Majestic-Dawn-Expansion/Kabuto-Card-67",
+      "image": "https://den-cards.pokellector.com/46/Kabutops.MD.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Kabutops.MD.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "67/100",
+      "card_number": "67",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Kabutops.MD.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fkabuto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.71",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+67+Kabuto+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kabuto+-+67%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Munchlax",
+      "title": "Munchlax - Majestic Dawn #68",
+      "link": "/Majestic-Dawn-Expansion/Munchlax-Card-68",
+      "image": "https://den-cards.pokellector.com/46/Munchlax.MD.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Munchlax.MD.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "68/100",
+      "card_number": "68",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Munchlax.MD.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmunchlax"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p209026.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+68+Munchlax+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Munchlax+-+68%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-068.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Omanyte",
+      "title": "Omanyte - Majestic Dawn #69",
+      "link": "/Majestic-Dawn-Expansion/Omanyte-Card-69",
+      "image": "https://den-cards.pokellector.com/46/Omanyte.MD.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Omanyte.MD.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "69/100",
+      "card_number": "69",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Omanyte.MD.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fomanyte"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209028.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+69+Omanyte+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Omanyte+-+69%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Pikachu",
+      "title": "Pikachu - Majestic Dawn #70",
+      "link": "/Majestic-Dawn-Expansion/Pikachu-Card-70",
+      "image": "https://den-cards.pokellector.com/46/Pikachu.MD.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Pikachu.MD.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "70/100",
+      "card_number": "70",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Pikachu.MD.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p209034.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+70+Pikachu+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+70%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-070.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Piplup",
+      "title": "Piplup - Majestic Dawn #71",
+      "link": "/Majestic-Dawn-Expansion/Piplup-Card-71",
+      "image": "https://den-cards.pokellector.com/46/Piplup.MD.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Piplup.MD.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "71/100",
+      "card_number": "71",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Piplup.MD.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpiplup"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209035.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+71+Piplup+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piplup+-+71%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Piplup",
+      "title": "Piplup - Majestic Dawn #72",
+      "link": "/Majestic-Dawn-Expansion/Piplup-Card-72",
+      "image": "https://den-cards.pokellector.com/46/Piplup.MD.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Piplup.MD.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "72/100",
+      "card_number": "72",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Piplup.MD.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpiplup"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p209036.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+72+Piplup+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piplup+-+72%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Shellos East Sea",
+      "title": "Shellos East Sea - Majestic Dawn #73",
+      "link": "/Majestic-Dawn-Expansion/Shellos-East-Sea-Card-73",
+      "image": "https://den-cards.pokellector.com/46/Shellos-East-Sea.MD.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Shellos-East-Sea.MD.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "73/100",
+      "card_number": "73",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Shellos-East-Sea.MD.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fshellos-east-sea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209047.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+73+Shellos+East+Sea+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shellos+East+Sea+-+73%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Spearow",
+      "title": "Spearow - Majestic Dawn #74",
+      "link": "/Majestic-Dawn-Expansion/Spearow-Card-74",
+      "image": "https://den-cards.pokellector.com/46/Spearow.MD.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Spearow.MD.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "74/100",
+      "card_number": "74",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Spearow.MD.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fspearow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209048.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+74+Spearow+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spearow+-+74%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Starly",
+      "title": "Starly - Majestic Dawn #75",
+      "link": "/Majestic-Dawn-Expansion/Starly-Card-75",
+      "image": "https://den-cards.pokellector.com/46/Starly.MD.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Starly.MD.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "75/100",
+      "card_number": "75",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Starly.MD.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fstarly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209050.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+75+Starly+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Starly+-+75%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-075.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Stunky",
+      "title": "Stunky - Majestic Dawn #76",
+      "link": "/Majestic-Dawn-Expansion/Stunky-Card-76",
+      "image": "https://den-cards.pokellector.com/46/Stunky.MD.76.3531.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Stunky.MD.76.3531.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "76/100",
+      "card_number": "76",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Stunky.MD.76.3531.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fstunky"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209051.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+76+Stunky+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Stunky+-+76%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Turtwig",
+      "title": "Turtwig - Majestic Dawn #77",
+      "link": "/Majestic-Dawn-Expansion/Turtwig-Card-77",
+      "image": "https://den-cards.pokellector.com/46/Turtwig.MD.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Turtwig.MD.77.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "77/100",
+      "card_number": "77",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Turtwig.MD.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fturtwig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209056.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.71",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+77+Turtwig+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Turtwig+-+77%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Turtwig",
+      "title": "Turtwig - Majestic Dawn #78",
+      "link": "/Majestic-Dawn-Expansion/Turtwig-Card-78",
+      "image": "https://den-cards.pokellector.com/46/Turtwig.MD.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Turtwig.MD.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "78/100",
+      "card_number": "78",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Turtwig.MD.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fturtwig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p209057.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+78+Turtwig+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/md-078.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Turtwig+-+78%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Dawn Stadium",
+      "title": "Dawn Stadium - Majestic Dawn #79",
+      "link": "/Majestic-Dawn-Expansion/Dawn-Stadium-Card-79",
+      "image": "https://den-cards.pokellector.com/46/Dawn-Stadium.MD.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Dawn-Stadium.MD.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "79/100",
+      "card_number": "79",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Dawn-Stadium.MD.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdawn-stadium"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.39",
+          "link": "http://www.trollandtoad.com/p208983.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+79+Dawn+Stadium+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dawn+Stadium+-+79%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.77",
+          "link": "http://stop2shop.com/md-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Dusk Ball",
+      "title": "Dusk Ball - Majestic Dawn #80",
+      "link": "/Majestic-Dawn-Expansion/Dusk-Ball-Card-80",
+      "image": "https://den-cards.pokellector.com/46/Dusk-Ball.MD.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Dusk-Ball.MD.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "80/100",
+      "card_number": "80",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Dusk-Ball.MD.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdusk-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208987.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+80+Dusk+Ball+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusk+Ball+-+80%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-080.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Energy Restore",
+      "title": "Energy Restore - Majestic Dawn #81",
+      "link": "/Majestic-Dawn-Expansion/Energy-Restore-Card-81",
+      "image": "https://den-cards.pokellector.com/46/Energy-Restore.MD.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Energy-Restore.MD.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "81/100",
+      "card_number": "81",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Energy-Restore.MD.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fenergy-restore"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208992.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+81+Energy+Restore+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-081.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Restore+-+81%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Fossil Excavator",
+      "title": "Fossil Excavator - Majestic Dawn #82",
+      "link": "/Majestic-Dawn-Expansion/Fossil-Excavator-Card-82",
+      "image": "https://den-cards.pokellector.com/46/Fossil-Excavator.MD.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Fossil-Excavator.MD.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "82/100",
+      "card_number": "82",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Fossil-Excavator.MD.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Ffossil-excavator"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p208997.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+82+Fossil+Excavator+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fossil+Excavator+-+82%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.47",
+          "link": "http://stop2shop.com/md-082.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Mom's Kindness",
+      "title": "Mom's Kindness - Majestic Dawn #83",
+      "link": "/Majestic-Dawn-Expansion/Moms-Kindness-Card-83",
+      "image": "https://den-cards.pokellector.com/46/Moms-Kindness.MD.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Moms-Kindness.MD.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "83/100",
+      "card_number": "83",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Moms-Kindness.MD.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmoms-kindness"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209023.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+83+Mom%27s+Kindness+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mom%27s+Kindness+-+83%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.47",
+          "link": "http://stop2shop.com/md-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Old Amber",
+      "title": "Old Amber - Majestic Dawn #84",
+      "link": "/Majestic-Dawn-Expansion/Old-Amber-Card-84",
+      "image": "https://den-cards.pokellector.com/46/Old-Amber.MD.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Old-Amber.MD.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "84/100",
+      "card_number": "84",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Old-Amber.MD.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fold-amber"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209027.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+84+Old+Amber+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-084.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Old+Amber+-+84%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Poke Ball",
+      "title": "Poke Ball - Majestic Dawn #85",
+      "link": "/Majestic-Dawn-Expansion/Poke-Ball-Card-85",
+      "image": "https://den-cards.pokellector.com/46/Poke-Ball.MD.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Poke-Ball.MD.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "85/100",
+      "card_number": "85",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Poke-Ball.MD.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fpoke-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209038.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+85+Poke+Ball+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/md-085.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Ball+-+85%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Quick Ball",
+      "title": "Quick Ball - Majestic Dawn #86",
+      "link": "/Majestic-Dawn-Expansion/Quick-Ball-Card-86",
+      "image": "https://den-cards.pokellector.com/46/Quick-Ball.MD.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Quick-Ball.MD.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "86/100",
+      "card_number": "86",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Quick-Ball.MD.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fquick-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p209041.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+86+Quick+Ball+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-086.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Quick+Ball+-+86%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Super Scoop Up",
+      "title": "Super Scoop Up - Majestic Dawn #87",
+      "link": "/Majestic-Dawn-Expansion/Super-Scoop-Up-Card-87",
+      "image": "https://den-cards.pokellector.com/46/Super-Scoop-Up.MD.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Super-Scoop-Up.MD.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "87/100",
+      "card_number": "87",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Super-Scoop-Up.MD.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fsuper-scoop-up"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.88",
+          "link": "http://www.trollandtoad.com/p209053.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+87+Super+Scoop+Up+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Super+Scoop+Up+-+87%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.47",
+          "link": "http://stop2shop.com/md-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Warp Point",
+      "title": "Warp Point - Majestic Dawn #88",
+      "link": "/Majestic-Dawn-Expansion/Warp-Point-Card-88",
+      "image": "https://den-cards.pokellector.com/46/Warp-Point.MD.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Warp-Point.MD.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "88/100",
+      "card_number": "88",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Warp-Point.MD.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fwarp-point"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p209062.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+88+Warp+Point+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Warp+Point+-+88%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.88",
+          "link": "http://stop2shop.com/md-088.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Dome Fossil",
+      "title": "Dome Fossil - Majestic Dawn #89",
+      "link": "/Majestic-Dawn-Expansion/Dome-Fossil-Card-89",
+      "image": "https://den-cards.pokellector.com/46/Dome-Fossil.MD.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Dome-Fossil.MD.89.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "89/100",
+      "card_number": "89",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Dome-Fossil.MD.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdome-fossil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208985.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+89+Dome+Fossil+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/md-089.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dome+Fossil+-+89%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Energy Search",
+      "title": "Energy Search - Majestic Dawn #90",
+      "link": "/Majestic-Dawn-Expansion/Energy-Search-Card-90",
+      "image": "https://den-cards.pokellector.com/46/Energy-Search.MD.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Energy-Search.MD.90.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "90/100",
+      "card_number": "90",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Energy-Search.MD.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fenergy-search"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p208993.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+90+Energy+Search+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Search+-+90%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/md-090.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Helix Fossil",
+      "title": "Helix Fossil - Majestic Dawn #91",
+      "link": "/Majestic-Dawn-Expansion/Helix-Fossil-Card-91",
+      "image": "https://den-cards.pokellector.com/46/Helix-Fossil.MD.91.3546.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Helix-Fossil.MD.91.3546.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "91/100",
+      "card_number": "91",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Helix-Fossil.MD.91.3546.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fhelix-fossil"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p209005.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+91+Helix+Fossil+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Helix+Fossil+-+91%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/md-091.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Call Energy",
+      "title": "Call Energy - Majestic Dawn #92",
+      "link": "/Majestic-Dawn-Expansion/Call-Energy-Card-92",
+      "image": "https://den-cards.pokellector.com/46/Call-Energy.MD.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Call-Energy.MD.92.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "92/100",
+      "card_number": "92",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Call-Energy.MD.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fcall-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.19",
+          "link": "http://www.trollandtoad.com/p208973.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+92+Call+Energy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Call+Energy+-+92%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.77",
+          "link": "http://stop2shop.com/md-092.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - Majestic Dawn #93",
+      "link": "/Majestic-Dawn-Expansion/Darkness-Energy-Card-93",
+      "image": "https://den-cards.pokellector.com/46/Darkness-Energy.MD.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Darkness-Energy.MD.93.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "93/100",
+      "card_number": "93",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Darkness-Energy.MD.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fdarkness-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p208981.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+93+Darkness+Energy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkness+Energy+-+93%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-093.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "94": {
+      "number": "94",
+      "name": "Health Energy",
+      "title": "Health Energy - Majestic Dawn #94",
+      "link": "/Majestic-Dawn-Expansion/Health-Energy-Card-94",
+      "image": "https://den-cards.pokellector.com/46/Health-Energy.MD.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Health-Energy.MD.94.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "94/100",
+      "card_number": "94",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Health-Energy.MD.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fhealth-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209004.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+94+Health+Energy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.77",
+          "link": "http://stop2shop.com/md-094.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Health+Energy+-+94%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Metal Energy",
+      "title": "Metal Energy - Majestic Dawn #95",
+      "link": "/Majestic-Dawn-Expansion/Metal-Energy-Card-95",
+      "image": "https://den-cards.pokellector.com/46/Metal-Energy.MD.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Metal-Energy.MD.95.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "95/100",
+      "card_number": "95",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Metal-Energy.MD.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fmetal-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+95+Metal+Energy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metal+Energy+-+95%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/md-095.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "96": {
+      "number": "96",
+      "name": "Recover Energy",
+      "title": "Recover Energy - Majestic Dawn #96",
+      "link": "/Majestic-Dawn-Expansion/Recover-Energy-Card-96",
+      "image": "https://den-cards.pokellector.com/46/Recover-Energy.MD.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Recover-Energy.MD.96.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "96/100",
+      "card_number": "96",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Recover-Energy.MD.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Frecover-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p209043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+96+Recover+Energy+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Recover+Energy+-+96%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.77",
+          "link": "http://stop2shop.com/md-096.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "97": {
+      "number": "97",
+      "name": "Garchomp LV.X",
+      "title": "Garchomp LV.X - Majestic Dawn #97",
+      "link": "/Majestic-Dawn-Expansion/Garchomp-LVX-Card-97",
+      "image": "https://den-cards.pokellector.com/46/Garchomp-LVX.MD.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Garchomp-LVX.MD.97.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "97/100",
+      "card_number": "97",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Garchomp-LVX.MD.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$100.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fgarchomp-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$93.99",
+          "link": "http://www.trollandtoad.com/p208998.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$55.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+97+Garchomp+LV.X+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$10.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Garchomp+LV.X+-+97%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.77",
+          "link": "http://stop2shop.com/md-097.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Glaceon LV.X",
+      "title": "Glaceon LV.X - Majestic Dawn #98",
+      "link": "/Majestic-Dawn-Expansion/Glaceon-LVX-Card-98",
+      "image": "https://den-cards.pokellector.com/46/Glaceon-LVX.MD.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Glaceon-LVX.MD.98.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "98/100",
+      "card_number": "98",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Glaceon-LVX.MD.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fglaceon-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$249.99",
+          "link": "http://www.trollandtoad.com/p209001.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$85.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+98+Glaceon+LV.X+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$15.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glaceon+LV.X+-+98%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$77.77",
+          "link": "http://stop2shop.com/md-098.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Leafeon LV.X",
+      "title": "Leafeon LV.X - Majestic Dawn #99",
+      "link": "/Majestic-Dawn-Expansion/Leafeon-LVX-Card-99",
+      "image": "https://den-cards.pokellector.com/46/Leafeon-LVX.MD.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Leafeon-LVX.MD.99.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "99/100",
+      "card_number": "99",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Leafeon-LVX.MD.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$200.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fleafeon-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$299.99",
+          "link": "http://www.trollandtoad.com/p209015.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$175.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+99+Leafeon+LV.X+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$21.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Leafeon+LV.X+-+99%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$66.77",
+          "link": "http://stop2shop.com/md-099.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Porygon-Z LV.X",
+      "title": "Porygon-Z LV.X - Majestic Dawn #100",
+      "link": "/Majestic-Dawn-Expansion/Porygon-Z-LVX-Card-100",
+      "image": "https://den-cards.pokellector.com/46/Porygon-Z-LVX.MD.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/46/Porygon-Z-LVX.MD.100.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Majestic Dawn",
+      "set_link": "/Majestic-Dawn-Expansion/",
+      "position": "100/100",
+      "card_number": "100",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/46/Porygon-Z-LVX.MD.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$48.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmajestic-dawn%2Fporygon-z-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$60.99",
+          "link": "http://www.trollandtoad.com/p209039.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Majestic+Dawn+100+Porygon-Z+LV.X+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon-Z+LV.X+-+100%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.77",
+          "link": "http://stop2shop.com/md-100.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:08:53"
+}

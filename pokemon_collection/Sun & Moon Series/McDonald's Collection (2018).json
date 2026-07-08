@@ -1,0 +1,358 @@
+{
+  "title": "McDonald's Collection (2018) Set",
+  "link": "/McDonalds-Collection-2018-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.logo.265.png",
+  "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.symbol.265.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Growlithe",
+      "title": "Growlithe - McDonald's Collection (2018) #1",
+      "link": "/McDonalds-Collection-2018-Expansion/Growlithe-Card-1",
+      "image": "https://den-cards.pokellector.com/265/Growlithe.MCD8.1.24571.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Growlithe.MCD8.1.24571.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "1/12",
+      "card_number": "1",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Growlithe.MCD8.1.24571.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fgrowlithe"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.40",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Growlithe-Take-Down?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Psyduck",
+      "title": "Psyduck - McDonald's Collection (2018) #2",
+      "link": "/McDonalds-Collection-2018-Expansion/Psyduck-Card-2",
+      "image": "https://den-cards.pokellector.com/265/Psyduck.MCD8.2.24575.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Psyduck.MCD8.2.24575.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "2/12",
+      "card_number": "2",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Psyduck.MCD8.2.24575.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$42.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fpsyduck"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Psyduck-Confusion-Wave?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Horsea",
+      "title": "Horsea - McDonald's Collection (2018) #3",
+      "link": "/McDonalds-Collection-2018-Expansion/Horsea-Card-3",
+      "image": "https://den-cards.pokellector.com/265/Horsea.MCD8.3.24572.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Horsea.MCD8.3.24572.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "3/12",
+      "card_number": "3",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Horsea.MCD8.3.24572.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fhorsea"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.35",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Horsea-Water-Arrow?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Pikachu",
+      "title": "Pikachu - McDonald's Collection (2018) #4",
+      "link": "/McDonalds-Collection-2018-Expansion/Pikachu-Card-4",
+      "image": "https://den-cards.pokellector.com/265/Pikachu.MCD8.4.24573.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Pikachu.MCD8.4.24573.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "4/12",
+      "card_number": "4",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Pikachu.MCD8.4.24573.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fpikachu"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Pikachu-Pika-Draw-Quick-Attack?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Slowpoke",
+      "title": "Slowpoke - McDonald's Collection (2018) #5",
+      "link": "/McDonalds-Collection-2018-Expansion/Slowpoke-Card-5",
+      "image": "https://den-cards.pokellector.com/265/Slowpoke.MCD8.5.24576.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Slowpoke.MCD8.5.24576.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "5/12",
+      "card_number": "5",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Slowpoke.MCD8.5.24576.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fslowpoke"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Slowpoke-Headbutt-Whimsy-Tackle?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Machop",
+      "title": "Machop - McDonald's Collection (2018) #6",
+      "link": "/McDonalds-Collection-2018-Expansion/Machop-Card-6",
+      "image": "https://den-cards.pokellector.com/265/Machop.MCD8.6.24577.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Machop.MCD8.6.24577.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "6/12",
+      "card_number": "6",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Machop.MCD8.6.24577.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fmachop"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Machop-Dynamic-Chop?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Cubone",
+      "title": "Cubone - McDonald's Collection (2018) #7",
+      "link": "/McDonalds-Collection-2018-Expansion/Cubone-Card-7",
+      "image": "https://den-cards.pokellector.com/265/Cubone.MCD8.7.24578.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Cubone.MCD8.7.24578.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "7/12",
+      "card_number": "7",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Cubone.MCD8.7.24578.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fcubone"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.48",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Cubone-Leer-Headbutt?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Magnemite",
+      "title": "Magnemite - McDonald's Collection (2018) #8",
+      "link": "/McDonalds-Collection-2018-Expansion/Magnemite-Card-8",
+      "image": "https://den-cards.pokellector.com/265/Magnemite.MCD8.8.24579.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Magnemite.MCD8.8.24579.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "8/12",
+      "card_number": "8",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Magnemite.MCD8.8.24579.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fmagnemite"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Magnemite-Metal-Searching-Magnet-Tackle?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Dratini",
+      "title": "Dratini - McDonald's Collection (2018) #9",
+      "link": "/McDonalds-Collection-2018-Expansion/Dratini-Card-9",
+      "image": "https://den-cards.pokellector.com/265/Dratini.MCD8.9.24574.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Dratini.MCD8.9.24574.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "9/12",
+      "card_number": "9",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Dratini.MCD8.9.24574.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fdratini"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Dratini-Signs-of-Evolution-Tail-Smack?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Chansey",
+      "title": "Chansey - McDonald's Collection (2018) #10",
+      "link": "/McDonalds-Collection-2018-Expansion/Chansey-Card-10",
+      "image": "https://den-cards.pokellector.com/265/Chansey.MCD8.10.24580.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Chansey.MCD8.10.24580.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "10/12",
+      "card_number": "10",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Chansey.MCD8.10.24580.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fchansey"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Chansey-Bind-Wound-Hammer-In?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Eevee",
+      "title": "Eevee - McDonald's Collection (2018) #11",
+      "link": "/McDonalds-Collection-2018-Expansion/Eevee-Card-11",
+      "image": "https://den-cards.pokellector.com/265/Eevee.MCD8.11.24581.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Eevee.MCD8.11.24581.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "11/12",
+      "card_number": "11",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Eevee.MCD8.11.24581.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Feevee"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Eevee-Quick-Draw?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Porygon",
+      "title": "Porygon - McDonald's Collection (2018) #12",
+      "link": "/McDonalds-Collection-2018-Expansion/Porygon-Card-12",
+      "image": "https://den-cards.pokellector.com/265/Porygon.MCD8.12.24582.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/265/Porygon.MCD8.12.24582.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2018)",
+      "set_link": "/McDonalds-Collection-2018-Expansion/",
+      "position": "12/12",
+      "card_number": "12",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/265/Porygon.MCD8.12.24582.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2018%2Fporygon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonald-s-Collection-2018-2/Porygon-Code-Check-Beam?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 04:59:07"
+}

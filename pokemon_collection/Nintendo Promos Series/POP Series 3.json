@@ -1,0 +1,758 @@
+{
+  "title": "POP Series 3 Set",
+  "link": "/POP-Series-3-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-3.logo.70.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-3.symbol.70.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Blastoise",
+      "title": "Blastoise - POP Series 3 #1",
+      "link": "/POP-Series-3-Expansion/Blastoise-Card-1",
+      "image": "https://den-cards.pokellector.com/70/Blastoise.POP3.1.6342.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Blastoise.POP3.1.6342.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Blastoise.POP3.1.6342.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$79.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fblastoise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$104.99",
+          "link": "http://www.trollandtoad.com/p323931.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Blastoise+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.25",
+          "link": "http://stop2shop.com/foil-pop2-1.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$99.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/blastoise__117__rare/65584"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Flareon",
+      "title": "Flareon - POP Series 3 #2",
+      "link": "/POP-Series-3-Expansion/Flareon-Card-2",
+      "image": "https://den-cards.pokellector.com/70/Flareon.POP3.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Flareon.POP3.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Flareon.POP3.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fflareon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.19",
+          "link": "http://www.trollandtoad.com/p183649.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Flareon+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/flareon_gx_sm171_wave_holo_promo__flareon_gx_special_collection/611579"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.02",
+          "link": "http://stop2shop.com/foil-pop2-2.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Jolteon",
+      "title": "Jolteon - POP Series 3 #3",
+      "link": "/POP-Series-3-Expansion/Jolteon-Card-3",
+      "image": "https://den-cards.pokellector.com/70/Jolteon.POP3.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Jolteon.POP3.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Jolteon.POP3.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fjolteon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p183654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Jolteon+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.83",
+          "link": "http://stop2shop.com/foil-pop2-3.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/jolteon__317__holo_rare/546883"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Minun",
+      "title": "Minun - POP Series 3 #4",
+      "link": "/POP-Series-3-Expansion/Minun-Card-4",
+      "image": "https://den-cards.pokellector.com/70/Minun.POP3.4.6345.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Minun.POP3.4.6345.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Minun.POP3.4.6345.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.09",
+          "link": "http://www.trollandtoad.com/p183657.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Minun+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/minun__1217__common/65561"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.83",
+          "link": "http://stop2shop.com/foil-pop2-4.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Plusle",
+      "title": "Plusle - POP Series 3 #5",
+      "link": "/POP-Series-3-Expansion/Plusle-Card-5",
+      "image": "https://den-cards.pokellector.com/70/Plusle.POP3.5.6346.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Plusle.POP3.5.6346.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Plusle.POP3.5.6346.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p183659.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Plusle+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/plusle__517__holo_rare/547393"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/foil-pop2-5.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Vaporeon",
+      "title": "Vaporeon - POP Series 3 #6",
+      "link": "/POP-Series-3-Expansion/Vaporeon-Card-6",
+      "image": "https://den-cards.pokellector.com/70/Vaporeon.POP3.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Vaporeon.POP3.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Vaporeon.POP3.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.36",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fvaporeon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.49",
+          "link": "http://www.trollandtoad.com/p183660.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Vaporeon+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/vaporeon_gx_sm172_wave_holo_promo__vaporeon_gx_special_collection/611577"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$90.70",
+          "link": "http://stop2shop.com/foil-pop2-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Combusken",
+      "title": "Combusken - POP Series 3 #7",
+      "link": "/POP-Series-3-Expansion/Combusken-Card-7",
+      "image": "https://den-cards.pokellector.com/70/Combusken.POP3.7.6348.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Combusken.POP3.7.6348.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Combusken.POP3.7.6348.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fcombusken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.29",
+          "link": "http://www.trollandtoad.com/p183645.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Combusken+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/japanese_pokemon_singles-japanese_adv_ex_1_ex_magma_vs_aqua/combusken__017080__rare/306133"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-7.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Donphan",
+      "title": "Donphan - POP Series 3 #8",
+      "link": "/POP-Series-3-Expansion/Donphan-Card-8",
+      "image": "https://den-cards.pokellector.com/70/Donphan.POP3.8.6349.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Donphan.POP3.8.6349.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Donphan.POP3.8.6349.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fdonphan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.89",
+          "link": "http://www.trollandtoad.com/p183647.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Donphan+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$22.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/donphan__817__uncommon/65591"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Forretress",
+      "title": "Forretress - POP Series 3 #9",
+      "link": "/POP-Series-3-Expansion/Forretress-Card-9",
+      "image": "https://den-cards.pokellector.com/70/Forretress.POP3.9.6350.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Forretress.POP3.9.6350.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Forretress.POP3.9.6350.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fforretress"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p183650.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Forretress+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/forretress__917__uncommon/65592"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-9.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "High Pressure System",
+      "title": "High Pressure System - POP Series 3 #10",
+      "link": "/POP-Series-3-Expansion/High-Pressure-System-Card-10",
+      "image": "https://den-cards.pokellector.com/70/High-Pressure-System.POP3.10.6351.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/High-Pressure-System.POP3.10.6351.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/High-Pressure-System.POP3.10.6351.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fhigh-pressure-system"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p183651.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+High+Pressure+System+10+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/high_pressure_system__1017__uncommon/65593"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Low Pressure System",
+      "title": "Low Pressure System - POP Series 3 #11",
+      "link": "/POP-Series-3-Expansion/Low-Pressure-System-Card-11",
+      "image": "https://den-cards.pokellector.com/70/Low-Pressure-System.POP3.11.6352.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Low-Pressure-System.POP3.11.6352.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Low-Pressure-System.POP3.11.6352.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Flow-pressure-system"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p183655.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Low+Pressure+System+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/low_pressure_system__1117__uncommon/65594"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Ditto (Mr Mime)",
+      "title": "Ditto (Mr Mime) - POP Series 3 #12",
+      "link": "/POP-Series-3-Expansion/Ditto-Mr-Mime-Card-12",
+      "image": "https://den-cards.pokellector.com/70/Ditto-Mr-Mime.POP3.12.6358.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Ditto-Mr-Mime.POP3.12.6358.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Ditto-Mr-Mime.POP3.12.6358.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fditto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p183646.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Ditto+%28Mr+Mime%29+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-mysterious_treasures/mr_mime__30123__rare/65032"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Eevee",
+      "title": "Eevee - POP Series 3 #13",
+      "link": "/POP-Series-3-Expansion/Eevee-Card-13",
+      "image": "https://den-cards.pokellector.com/70/Eevee.POP3.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Eevee.POP3.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Eevee.POP3.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Feevee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.59",
+          "link": "http://www.trollandtoad.com/p183648.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Eevee+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/eevee__1317__common/65596"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Ivysaur",
+      "title": "Ivysaur - POP Series 3 #14",
+      "link": "/POP-Series-3-Expansion/Ivysaur-Card-14",
+      "image": "https://den-cards.pokellector.com/70/Ivysaur.POP3.14.6354.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Ivysaur.POP3.14.6354.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Ivysaur.POP3.14.6354.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fivysaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p183653.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Ivysaur+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-14.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/ivysaur__1417__common/65597"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Marshtomp",
+      "title": "Marshtomp - POP Series 3 #15",
+      "link": "/POP-Series-3-Expansion/Marshtomp-Card-15",
+      "image": "https://den-cards.pokellector.com/70/Marshtomp.POP3.15.6355.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Marshtomp.POP3.15.6355.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Marshtomp.POP3.15.6355.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fmarshtomp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p183656.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Marshtomp+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/marshtomp__1517__common/65598"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Pichu Bros.",
+      "title": "Pichu Bros. - POP Series 3 #16",
+      "link": "/POP-Series-3-Expansion/Pichu-Bros-Card-16",
+      "image": "https://den-cards.pokellector.com/70/Pichu-Bros.POP3.16.6356.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Pichu-Bros.POP3.16.6356.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Pichu-Bros.POP3.16.6356.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fpichu-bros"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.09",
+          "link": "http://www.trollandtoad.com/p183658.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Pichu+Bros.+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$17.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/pichu_bros__1617__common/65599"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop2-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Ho-Oh ex",
+      "title": "Ho-Oh ex - POP Series 3 #17",
+      "link": "/POP-Series-3-Expansion/Ho-Oh-ex-Card-17",
+      "image": "https://den-cards.pokellector.com/70/Ho-Oh-ex.POP3.17.6357.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/70/Ho-Oh-ex.POP3.17.6357.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 3",
+      "set_link": "/POP-Series-3-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/70/Ho-Oh-ex.POP3.17.6357.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-3%2Fho-oh-ex-non-holo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1740805.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+3+Ho-Oh+ex+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$150.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/hooh_ex__1717__holo_rare/614292"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$29.21",
+          "link": "http://stop2shop.com/foil-pop2-17.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:55:47"
+}

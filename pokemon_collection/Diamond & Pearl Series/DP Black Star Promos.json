@@ -1,0 +1,2144 @@
+{
+  "title": "DP Black Star Promos Set",
+  "link": "/DP-Black-Star-Promos-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.logo.101.png",
+  "symbol": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.symbol.101.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Turtwig",
+      "title": "Turtwig - DP Black Star Promos #1",
+      "link": "/DP-Black-Star-Promos-Expansion/Turtwig-Card-1",
+      "image": "https://den-cards.pokellector.com/101/Turtwig.DP.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Turtwig.DP.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "1/56",
+      "card_number": "1",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Turtwig.DP.1.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p203264.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Turtwig+DP01+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Turtwig+-+DP01"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-dp01.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Chimchar",
+      "title": "Chimchar - DP Black Star Promos #2",
+      "link": "/DP-Black-Star-Promos-Expansion/Chimchar-Card-2",
+      "image": "https://den-cards.pokellector.com/101/Chimchar.DP.2.6377.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Chimchar.DP.2.6377.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "2/56",
+      "card_number": "2",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Chimchar.DP.2.6377.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p203265.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chimchar+DP02+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp02.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chimchar+-+DP02"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Piplup",
+      "title": "Piplup - DP Black Star Promos #3",
+      "link": "/DP-Black-Star-Promos-Expansion/Piplup-Card-3",
+      "image": "https://den-cards.pokellector.com/101/Piplup.DP.3.6378.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Piplup.DP.3.6378.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "3/56",
+      "card_number": "3",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Piplup.DP.3.6378.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p203266.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piplup+DP03+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/pp-dp03.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piplup+-+DP03"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Pachirisu",
+      "title": "Pachirisu - DP Black Star Promos #4",
+      "link": "/DP-Black-Star-Promos-Expansion/Pachirisu-Card-4",
+      "image": "https://den-cards.pokellector.com/101/Pachirisu.DP.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Pachirisu.DP.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "4/56",
+      "card_number": "4",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Pachirisu.DP.4.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.80",
+          "link": "http://www.trollandtoad.com/p203267.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pachirisu+DP04+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pachirisu+-+DP04"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Tropical Wind",
+      "title": "Tropical Wind - DP Black Star Promos #5",
+      "link": "/DP-Black-Star-Promos-Expansion/Tropical-Wind-Card-5",
+      "image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.5.6380.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.5.6380.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "5/56",
+      "card_number": "5",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.5.6380.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$60.99",
+          "link": "http://www.trollandtoad.com/p203268.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1,122.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Wind+DP05+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$39.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropical+Wind+-+DP05"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Buneary",
+      "title": "Buneary - DP Black Star Promos #6",
+      "link": "/DP-Black-Star-Promos-Expansion/Buneary-Card-6",
+      "image": "https://den-cards.pokellector.com/101/Buneary.DP.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Buneary.DP.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "6/56",
+      "card_number": "6",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Buneary.DP.6.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p203269.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Buneary+DP06+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/pp-dp06.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Buneary+-+DP06"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Cranidos",
+      "title": "Cranidos - DP Black Star Promos #7",
+      "link": "/DP-Black-Star-Promos-Expansion/Cranidos-Card-7",
+      "image": "https://den-cards.pokellector.com/101/Cranidos.DP.7.6382.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Cranidos.DP.7.6382.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "7/56",
+      "card_number": "7",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Cranidos.DP.7.6382.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p203270.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cranidos+DP07+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cranidos+-+DP07"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp07.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Shieldon",
+      "title": "Shieldon - DP Black Star Promos #8",
+      "link": "/DP-Black-Star-Promos-Expansion/Shieldon-Card-8",
+      "image": "https://den-cards.pokellector.com/101/Shieldon.DP.8.6383.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Shieldon.DP.8.6383.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "8/56",
+      "card_number": "8",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Shieldon.DP.8.6383.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p203271.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shieldon+DP08+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shieldon+-+DP08"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp08.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Torterra LV.X",
+      "title": "Torterra LV.X - DP Black Star Promos #9",
+      "link": "/DP-Black-Star-Promos-Expansion/Torterra-LVX-Card-9",
+      "image": "https://den-cards.pokellector.com/101/Torterra-LVX.DP.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Torterra-LVX.DP.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "9/56",
+      "card_number": "9",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Torterra-LVX.DP.9.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p203272.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Torterra+LV.X+DP09+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torterra+LV.X+-+DP09"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pp-dp09.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Infernape LV.X",
+      "title": "Infernape LV.X - DP Black Star Promos #10",
+      "link": "/DP-Black-Star-Promos-Expansion/Infernape-LVX-Card-10",
+      "image": "https://den-cards.pokellector.com/101/Infernape-LVX.DP.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Infernape-LVX.DP.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "10/56",
+      "card_number": "10",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Infernape-LVX.DP.10.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p203273.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Infernape+LV.X+DP10+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Infernape+LV.X+-+DP10"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/pp-dp10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Empoleon LV.X",
+      "title": "Empoleon LV.X - DP Black Star Promos #11",
+      "link": "/DP-Black-Star-Promos-Expansion/Empoleon-LVX-Card-11",
+      "image": "https://den-cards.pokellector.com/101/Empoleon-LVX.DP.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Empoleon-LVX.DP.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "11/56",
+      "card_number": "11",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Empoleon-LVX.DP.11.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p203274.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Empoleon+LV.X+DP11+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/pp-dp11.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Empoleon+LV.X+-+DP11"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Lucario LV.X",
+      "title": "Lucario LV.X - DP Black Star Promos #12",
+      "link": "/DP-Black-Star-Promos-Expansion/Lucario-LVX-Card-12",
+      "image": "https://den-cards.pokellector.com/101/Lucario-LVX.DP.12.6387.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Lucario-LVX.DP.12.6387.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "12/56",
+      "card_number": "12",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Lucario-LVX.DP.12.6387.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.59",
+          "link": "http://www.trollandtoad.com/p203275.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lucario+LV.X+DP12+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lucario+LV.X+-+DP12"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/pp-dp12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Buizel",
+      "title": "Buizel - DP Black Star Promos #13",
+      "link": "/DP-Black-Star-Promos-Expansion/Buizel-Card-13",
+      "image": "https://den-cards.pokellector.com/101/Buizel.DP.13.6388.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Buizel.DP.13.6388.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "13/56",
+      "card_number": "13",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Buizel.DP.13.6388.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p203276.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Buizel+DP13+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Buizel+-+DP13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/pp-dp13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Chatot",
+      "title": "Chatot - DP Black Star Promos #14",
+      "link": "/DP-Black-Star-Promos-Expansion/Chatot-Card-14",
+      "image": "https://den-cards.pokellector.com/101/Chatot.DP.14.6389.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Chatot.DP.14.6389.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "14/56",
+      "card_number": "14",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Chatot.DP.14.6389.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p203277.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chatot+DP14+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chatot+-+DP14"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/pp-dp14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Shinx",
+      "title": "Shinx - DP Black Star Promos #15",
+      "link": "/DP-Black-Star-Promos-Expansion/Shinx-Card-15",
+      "image": "https://den-cards.pokellector.com/101/Shinx.DP.15.6390.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Shinx.DP.15.6390.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "15/56",
+      "card_number": "15",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Shinx.DP.15.6390.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.49",
+          "link": "http://www.trollandtoad.com/p203278.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shinx+DP15+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shinx+-+DP15"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pp-dp15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Pikachu",
+      "title": "Pikachu - DP Black Star Promos #16",
+      "link": "/DP-Black-Star-Promos-Expansion/Pikachu-Card-16",
+      "image": "https://den-cards.pokellector.com/101/Pikachu.DP.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Pikachu.DP.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "16/56",
+      "card_number": "16",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Pikachu.DP.16.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p203279.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+DP16+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+DP16"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Dialga LV.X",
+      "title": "Dialga LV.X - DP Black Star Promos #17",
+      "link": "/DP-Black-Star-Promos-Expansion/Dialga-LVX-Card-17",
+      "image": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.17.6392.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.17.6392.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "17/56",
+      "card_number": "17",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.17.6392.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.09",
+          "link": "http://www.trollandtoad.com/p203280.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dialga+LV.X+DP17+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+LV.X+-+DP17"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pp-dp17.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Palkia LV.X",
+      "title": "Palkia LV.X - DP Black Star Promos #18",
+      "link": "/DP-Black-Star-Promos-Expansion/Palkia-LVX-Card-18",
+      "image": "https://den-cards.pokellector.com/101/Palkia-LVX.DP.18.6393.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Palkia-LVX.DP.18.6393.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "18/56",
+      "card_number": "18",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Palkia-LVX.DP.18.6393.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p203281.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Palkia+LV.X+DP18+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pp-dp18.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Palkia+LV.X+-+DP18"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Darkrai LV.X",
+      "title": "Darkrai LV.X - DP Black Star Promos #19",
+      "link": "/DP-Black-Star-Promos-Expansion/Darkrai-LVX-Card-19",
+      "image": "https://den-cards.pokellector.com/101/Darkrai-LVX.DP.19.6394.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Darkrai-LVX.DP.19.6394.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "19/56",
+      "card_number": "19",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Darkrai-LVX.DP.19.6394.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p203282.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+LV.X+DP19+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/pp-dp19.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkrai+LV.X+-+DP19"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Magmortar",
+      "title": "Magmortar - DP Black Star Promos #20",
+      "link": "/DP-Black-Star-Promos-Expansion/Magmortar-Card-20",
+      "image": "https://den-cards.pokellector.com/101/Magmortar.DP.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Magmortar.DP.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "20/56",
+      "card_number": "20",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Magmortar.DP.20.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p203283.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Magmortar+DP20+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmortar+-+DP20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp20.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Raichu",
+      "title": "Raichu - DP Black Star Promos #21",
+      "link": "/DP-Black-Star-Promos-Expansion/Raichu-Card-21",
+      "image": "https://den-cards.pokellector.com/101/Raichu.DP.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Raichu.DP.21.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "21/56",
+      "card_number": "21",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Raichu.DP.21.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p203284.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raichu+DP21+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp21.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+DP21"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Mime Jr.",
+      "title": "Mime Jr. - DP Black Star Promos #22",
+      "link": "/DP-Black-Star-Promos-Expansion/Mime-Jr-Card-22",
+      "image": "https://den-cards.pokellector.com/101/Mime-Jr.DP.22.6397.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Mime-Jr.DP.22.6397.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "22/56",
+      "card_number": "22",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Mime-Jr.DP.22.6397.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p183584.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mime+Jr.+DP22+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mime+Jr.+-+DP22"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp22.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Glameow",
+      "title": "Glameow - DP Black Star Promos #23",
+      "link": "/DP-Black-Star-Promos-Expansion/Glameow-Card-23",
+      "image": "https://den-cards.pokellector.com/101/Glameow.DP.23.6398.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Glameow.DP.23.6398.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "23/56",
+      "card_number": "23",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Glameow.DP.23.6398.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p289535.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Glameow+DP23+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glameow+-+DP23"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp23.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Darkrai",
+      "title": "Darkrai - DP Black Star Promos #24",
+      "link": "/DP-Black-Star-Promos-Expansion/Darkrai-Card-24",
+      "image": "https://den-cards.pokellector.com/101/Darkrai.DP.24.6399.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Darkrai.DP.24.6399.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "24/56",
+      "card_number": "24",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Darkrai.DP.24.6399.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p291311.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+DP24+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkrai+-+DP24"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "25": {
+      "number": "25",
+      "name": "Tropical Wind",
+      "title": "Tropical Wind - DP Black Star Promos #25",
+      "link": "/DP-Black-Star-Promos-Expansion/Tropical-Wind-Card-25",
+      "image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.25.6400.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.25.6400.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "25/56",
+      "card_number": "25",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.25.6400.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$60.99",
+          "link": "http://www.trollandtoad.com/p203268.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$750.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Wind+DP25+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$39.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropical+Wind+-+DP25"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "26": {
+      "number": "26",
+      "name": "Dialga",
+      "title": "Dialga - DP Black Star Promos #26",
+      "link": "/DP-Black-Star-Promos-Expansion/Dialga-Card-26",
+      "image": "https://den-cards.pokellector.com/101/Dialga.DP.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Dialga.DP.26.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "26/56",
+      "card_number": "26",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Dialga.DP.26.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p231340.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dialga+DP26+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-dp26.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+-+DP26"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "27": {
+      "number": "27",
+      "name": "Palkia",
+      "title": "Palkia - DP Black Star Promos #27",
+      "link": "/DP-Black-Star-Promos-Expansion/Palkia-Card-27",
+      "image": "https://den-cards.pokellector.com/101/Palkia.DP.27.6402.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Palkia.DP.27.6402.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "27/56",
+      "card_number": "27",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Palkia.DP.27.6402.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p289533.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Palkia+DP27+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Palkia+-+DP27"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-dp27.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Mewtwo LV.X",
+      "title": "Mewtwo LV.X - DP Black Star Promos #28",
+      "link": "/DP-Black-Star-Promos-Expansion/Mewtwo-LVX-Card-28",
+      "image": "https://den-cards.pokellector.com/101/Mewtwo-LVX.DP.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Mewtwo-LVX.DP.28.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "28/56",
+      "card_number": "28",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Mewtwo-LVX.DP.28.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p227278.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+LV.X+DP28+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mewtwo+LV.X+-+DP28"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/pp-dp28.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "29": {
+      "number": "29",
+      "name": "Rhyperior LV.X",
+      "title": "Rhyperior LV.X - DP Black Star Promos #29",
+      "link": "/DP-Black-Star-Promos-Expansion/Rhyperior-LVX-Card-29",
+      "image": "https://den-cards.pokellector.com/101/Rhyperior-LVX.DP.29.6404.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Rhyperior-LVX.DP.29.6404.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "29/56",
+      "card_number": "29",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Rhyperior-LVX.DP.29.6404.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p227279.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rhyperior+LV.X+DP29+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pp-dp29.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rhyperior+LV.X+-+DP29"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Regigigas LV.X",
+      "title": "Regigigas LV.X - DP Black Star Promos #30",
+      "link": "/DP-Black-Star-Promos-Expansion/Regigigas-LVX-Card-30",
+      "image": "https://den-cards.pokellector.com/101/Regigigas-LVX.DP.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Regigigas-LVX.DP.30.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "30/56",
+      "card_number": "30",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Regigigas-LVX.DP.30.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p242606.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Regigigas+LV.X+DP30+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regigigas+LV.X+-+Dp30"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pp-dp30.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Heatran LV.X",
+      "title": "Heatran LV.X - DP Black Star Promos #31",
+      "link": "/DP-Black-Star-Promos-Expansion/Heatran-LVX-Card-31",
+      "image": "https://den-cards.pokellector.com/101/Heatran-LVX.DP.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Heatran-LVX.DP.31.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "31/56",
+      "card_number": "31",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Heatran-LVX.DP.31.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p238397.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Heatran+LV.X+DP31+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pp-dp31.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Heatran+LV.X+-+DP31"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "32": {
+      "number": "32",
+      "name": "Magnezone",
+      "title": "Magnezone - DP Black Star Promos #32",
+      "link": "/DP-Black-Star-Promos-Expansion/Magnezone-Card-32",
+      "image": "https://den-cards.pokellector.com/101/Magnezone.DP.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Magnezone.DP.32.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "32/56",
+      "card_number": "32",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Magnezone.DP.32.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p202810.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Magnezone+DP32+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnezone+-+DP32"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/pp-dp32.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "33": {
+      "number": "33",
+      "name": "Dusknoir",
+      "title": "Dusknoir - DP Black Star Promos #33",
+      "link": "/DP-Black-Star-Promos-Expansion/Dusknoir-Card-33",
+      "image": "https://den-cards.pokellector.com/101/Dusknoir.DP.33.6408.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Dusknoir.DP.33.6408.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "33/56",
+      "card_number": "33",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Dusknoir.DP.33.6408.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p289536.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+DP33+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp33.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusknoir+-+DP33"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "34": {
+      "number": "34",
+      "name": "Drifblim",
+      "title": "Drifblim - DP Black Star Promos #34",
+      "link": "/DP-Black-Star-Promos-Expansion/Drifblim-Card-34",
+      "image": "https://den-cards.pokellector.com/101/Drifblim.DP.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Drifblim.DP.34.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "34/56",
+      "card_number": "34",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Drifblim.DP.34.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p243961.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Drifblim+DP34+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifblim+-+DP34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-dp34.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "35": {
+      "number": "35",
+      "name": "Porygon-Z",
+      "title": "Porygon-Z - DP Black Star Promos #35",
+      "link": "/DP-Black-Star-Promos-Expansion/Porygon-Z-Card-35",
+      "image": "https://den-cards.pokellector.com/101/Porygon-Z.DP.35.6410.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Porygon-Z.DP.35.6410.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "35/56",
+      "card_number": "35",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Porygon-Z.DP.35.6410.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p294746.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Porygon-Z+DP35+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon-Z+-+DP35"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/pp-dp35.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "36": {
+      "number": "36",
+      "name": "Gliscor",
+      "title": "Gliscor - DP Black Star Promos #36",
+      "link": "/DP-Black-Star-Promos-Expansion/Gliscor-Card-36",
+      "image": "https://den-cards.pokellector.com/101/Gliscor.DP.36.6411.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Gliscor.DP.36.6411.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "36/56",
+      "card_number": "36",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Gliscor.DP.36.6411.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p289534.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gliscor+DP36+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gliscor+-+DP36"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-dp36.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "37": {
+      "number": "37",
+      "name": "Dialga LV.X",
+      "title": "Dialga LV.X - DP Black Star Promos #37",
+      "link": "/DP-Black-Star-Promos-Expansion/Dialga-LVX-Card-37",
+      "image": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.37.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "37/56",
+      "card_number": "37",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Dialga-LVX.DP.37.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p242829.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dialga+LV.X+DP37+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+LV.X+-+DP37"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/pp-dp37.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "38": {
+      "number": "38",
+      "name": "Giratina LV.X",
+      "title": "Giratina LV.X - DP Black Star Promos #38",
+      "link": "/DP-Black-Star-Promos-Expansion/Giratina-LVX-Card-38",
+      "image": "https://den-cards.pokellector.com/101/Giratina-LVX.DP.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Giratina-LVX.DP.38.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "38/56",
+      "card_number": "38",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Giratina-LVX.DP.38.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p242830.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Giratina+LV.X+DP38+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/pp-dp38.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Giratina+LV.X+-+DP38"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "39": {
+      "number": "39",
+      "name": "Shaymin LV.X",
+      "title": "Shaymin LV.X - DP Black Star Promos #39",
+      "link": "/DP-Black-Star-Promos-Expansion/Shaymin-LVX-Card-39",
+      "image": "https://den-cards.pokellector.com/101/Shaymin-LVX.DP.39.6414.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Shaymin-LVX.DP.39.6414.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "39/56",
+      "card_number": "39",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Shaymin-LVX.DP.39.6414.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p242831.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shaymin+LV.X+DP39+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shaymin+LV.X+-+DP39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pp-dp39.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Regigigas",
+      "title": "Regigigas - DP Black Star Promos #40",
+      "link": "/DP-Black-Star-Promos-Expansion/Regigigas-Card-40",
+      "image": "https://den-cards.pokellector.com/101/Regigigas.DP.40.6415.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Regigigas.DP.40.6415.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "40/56",
+      "card_number": "40",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Regigigas.DP.40.6415.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p298130.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Regigigas+DP40+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regigigas+-+DP40"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pp-dp40.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "41": {
+      "number": "41",
+      "name": "Toxicroak G",
+      "title": "Toxicroak G - DP Black Star Promos #41",
+      "link": "/DP-Black-Star-Promos-Expansion/Toxicroak-G-Card-41",
+      "image": "https://den-cards.pokellector.com/101/Toxicroak-G.DP.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Toxicroak-G.DP.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "41/56",
+      "card_number": "41",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Toxicroak-G.DP.41.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p297839.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Toxicroak+G+DP41+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Toxicroak+G+-+DP41"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/pp-dp41.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Carnivine G",
+      "title": "Carnivine G - DP Black Star Promos #42",
+      "link": "/DP-Black-Star-Promos-Expansion/Carnivine-G-Card-42",
+      "image": "https://den-cards.pokellector.com/101/Carnivine-G.DP.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Carnivine-G.DP.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "42/56",
+      "card_number": "42",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Carnivine-G.DP.42.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p289172.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Carnivine+G+DP42+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Carnivine+G+-+DP42"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp42.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "43": {
+      "number": "43",
+      "name": "Probopass G",
+      "title": "Probopass G - DP Black Star Promos #43",
+      "link": "/DP-Black-Star-Promos-Expansion/Probopass-G-Card-43",
+      "image": "https://den-cards.pokellector.com/101/Probopass-G.DP.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Probopass-G.DP.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "43/56",
+      "card_number": "43",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Probopass-G.DP.43.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p289173.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Probopass+G+DP43+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-dp43.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Probopass+G+-+DP43"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "44": {
+      "number": "44",
+      "name": "Magnezone",
+      "title": "Magnezone - DP Black Star Promos #44",
+      "link": "/DP-Black-Star-Promos-Expansion/Magnezone-Card-44",
+      "image": "https://den-cards.pokellector.com/101/Magnezone.DP.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Magnezone.DP.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "44/56",
+      "card_number": "44",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Magnezone.DP.44.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p289531.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Magnezone+DP44+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.79",
+          "link": "http://stop2shop.com/pp-dp44.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnezone+-+DP44"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "45": {
+      "number": "45",
+      "name": "Charizard G LV.X",
+      "title": "Charizard G LV.X - DP Black Star Promos #45",
+      "link": "/DP-Black-Star-Promos-Expansion/Charizard-G-LVX-Card-45",
+      "image": "https://den-cards.pokellector.com/101/Charizard-G-LVX.DP.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Charizard-G-LVX.DP.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "45/56",
+      "card_number": "45",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Charizard-G-LVX.DP.45.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.49",
+          "link": "http://www.trollandtoad.com/p280046.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charizard+G+LV.X+DP45+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pp-dp45.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$14.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charizard+G+LV.X+-+DP45"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "46": {
+      "number": "46",
+      "name": "Garchomp C LV.X",
+      "title": "Garchomp C LV.X - DP Black Star Promos #46",
+      "link": "/DP-Black-Star-Promos-Expansion/Garchomp-C-LVX-Card-46",
+      "image": "https://den-cards.pokellector.com/101/Garchomp-C-LVX.DP.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Garchomp-C-LVX.DP.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "46/56",
+      "card_number": "46",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Garchomp-C-LVX.DP.46.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.49",
+          "link": "http://www.trollandtoad.com/p280048.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Garchomp+C+LV.X+DP46+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Garchomp+C+LV.X+-+DP46"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/pp-dp46.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "47": {
+      "number": "47",
+      "name": "Rayquaza C LV.X",
+      "title": "Rayquaza C LV.X - DP Black Star Promos #47",
+      "link": "/DP-Black-Star-Promos-Expansion/Rayquaza-C-LVX-Card-47",
+      "image": "https://den-cards.pokellector.com/101/Rayquaza-C-LVX.DP.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Rayquaza-C-LVX.DP.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "47/56",
+      "card_number": "47",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Rayquaza-C-LVX.DP.47.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p280047.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rayquaza+C+LV.X+DP47+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+C+LV.X+-+DP47"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$11.99",
+          "link": "http://stop2shop.com/pp-dp47.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "48": {
+      "number": "48",
+      "name": "Tropical Wind",
+      "title": "Tropical Wind - DP Black Star Promos #48",
+      "link": "/DP-Black-Star-Promos-Expansion/Tropical-Wind-Card-48",
+      "image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.48.6423.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.48.6423.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "48/56",
+      "card_number": "48",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Tropical-Wind.DP.48.6423.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$87.99",
+          "link": "http://www.trollandtoad.com/p323922.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$947.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Wind+DP48+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$29.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tropical+Wind+-+DP48"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "49": {
+      "number": "49",
+      "name": "Dialga",
+      "title": "Dialga - DP Black Star Promos #49",
+      "link": "/DP-Black-Star-Promos-Expansion/Dialga-Card-49",
+      "image": "https://den-cards.pokellector.com/101/Dialga.DP.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Dialga.DP.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "49/56",
+      "card_number": "49",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Dialga.DP.49.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p289537.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dialga+DP49+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dialga+-+DP49"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/pp-dp49.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "50": {
+      "number": "50",
+      "name": "Arceus",
+      "title": "Arceus - DP Black Star Promos #50",
+      "link": "/DP-Black-Star-Promos-Expansion/Arceus-Card-50",
+      "image": "https://den-cards.pokellector.com/101/Arceus.DP.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Arceus.DP.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "50/56",
+      "card_number": "50",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Arceus.DP.50.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p289530.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arceus+DP50+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/pp-dp50.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Arceus+-+DP50"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "51": {
+      "number": "51",
+      "name": "Cresselia",
+      "title": "Cresselia - DP Black Star Promos #51",
+      "link": "/DP-Black-Star-Promos-Expansion/Cresselia-Card-51",
+      "image": "https://den-cards.pokellector.com/101/Cresselia.DP.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Cresselia.DP.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "51/56",
+      "card_number": "51",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Cresselia.DP.51.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p295818.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cresselia+DP51+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cresselia+-+DP51"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-dp51.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "52": {
+      "number": "52",
+      "name": "Darkrai",
+      "title": "Darkrai - DP Black Star Promos #52",
+      "link": "/DP-Black-Star-Promos-Expansion/Darkrai-Card-52",
+      "image": "https://den-cards.pokellector.com/101/Darkrai.DP.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Darkrai.DP.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "52/56",
+      "card_number": "52",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Darkrai.DP.52.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p290796.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+DP52+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkrai+-+DP52"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-dp52.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "53": {
+      "number": "53",
+      "name": "Arceus LV.X",
+      "title": "Arceus LV.X - DP Black Star Promos #53",
+      "link": "/DP-Black-Star-Promos-Expansion/Arceus-LVX-Card-53",
+      "image": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "53/56",
+      "card_number": "53",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.53.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p288663.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arceus+LV.X+DP53+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Arceus+LV.X+-+DP53"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.49",
+          "link": "http://stop2shop.com/pp-dp53.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "54": {
+      "number": "54",
+      "name": "Beginning Door",
+      "title": "Beginning Door - DP Black Star Promos #54",
+      "link": "/DP-Black-Star-Promos-Expansion/Beginning-Door-Card-54",
+      "image": "https://den-cards.pokellector.com/101/Beginning-Door.DP.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Beginning-Door.DP.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "54/56",
+      "card_number": "54",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Beginning-Door.DP.54.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$22.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Beginning+Door+DP54+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Beginning+Door+-+DP54"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "55": {
+      "number": "55",
+      "name": "Ultimate Zone",
+      "title": "Ultimate Zone - DP Black Star Promos #55",
+      "link": "/DP-Black-Star-Promos-Expansion/Ultimate-Zone-Card-55",
+      "image": "https://den-cards.pokellector.com/101/Ultimate-Zone.DP.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Ultimate-Zone.DP.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "55/56",
+      "card_number": "55",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Ultimate-Zone.DP.55.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$130.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ultimate+Zone+DP55+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ultimate+Zone+-+DP55"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "56": {
+      "number": "56",
+      "name": "Arceus LV.X",
+      "title": "Arceus LV.X - DP Black Star Promos #56",
+      "link": "/DP-Black-Star-Promos-Expansion/Arceus-LVX-Card-56",
+      "image": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "DP Black Star Promos",
+      "set_link": "/DP-Black-Star-Promos-Expansion/",
+      "position": "56/56",
+      "card_number": "56",
+      "total_cards": "56",
+      "image_full": "https://den-cards.pokellector.com/101/Arceus-LVX.DP.56.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p288663.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arceus+LV.X+DP56+-jumbo+-oversize&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Arceus+LV.X+-+DP56"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.99",
+          "link": "http://stop2shop.com/pp-dp56.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:21:46"
+}

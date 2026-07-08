@@ -1,0 +1,3369 @@
+{
+  "title": "Neo Revelation Set",
+  "link": "/Neo-Revelation-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Neo-Revelation.logo.115.png",
+  "symbol": "https://den-media.pokellector.com/logos/Neo-Revelation.symbol.115.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ampharos",
+      "title": "Ampharos - Neo Revelation #1",
+      "link": "/Neo-Revelation-Expansion/Ampharos-Card-1",
+      "image": "https://den-cards.pokellector.com/115/Ampharos.N3.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Ampharos.N3.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "1/64",
+      "card_number": "1",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Ampharos.N3.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/ampharos?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$44.99",
+          "link": "http://www.trollandtoad.com/p148189.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Ampharos+1+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$74.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/ampharos__164__holo_rare__1st_edition/65484"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ampharos+-+1%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Blissey",
+      "title": "Blissey - Neo Revelation #2",
+      "link": "/Neo-Revelation-Expansion/Blissey-Card-2",
+      "image": "https://den-cards.pokellector.com/115/Blissey.N3.2.7376.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Blissey.N3.2.7376.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "2/64",
+      "card_number": "2",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Blissey.N3.2.7376.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$21.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/blissey?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$36.99",
+          "link": "http://www.trollandtoad.com/p148213.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Blissey+2+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$74.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/blissey__264__holo_rare__1st_edition/65495"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blissey+-+2%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Celebi",
+      "title": "Celebi - Neo Revelation #3",
+      "link": "/Neo-Revelation-Expansion/Celebi-Card-3",
+      "image": "https://den-cards.pokellector.com/115/Celebi.N3.3.7377.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Celebi.N3.3.7377.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "3/64",
+      "card_number": "3",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Celebi.N3.3.7377.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.97",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/celebi-3?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$78.79",
+          "link": "http://www.trollandtoad.com/p148225.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Celebi+3+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celebi+-+3%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$59.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/celebi__364__holo_rare__unlimited_edition/194163"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Crobat",
+      "title": "Crobat - Neo Revelation #4",
+      "link": "/Neo-Revelation-Expansion/Crobat-Card-4",
+      "image": "https://den-cards.pokellector.com/115/Crobat.N3.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Crobat.N3.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "4/64",
+      "card_number": "4",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Crobat.N3.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/crobat?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.99",
+          "link": "http://www.trollandtoad.com/p148262.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Crobat+4+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_shrouded_fable/crobat__029064__uncommon/728148"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crobat+-+4%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Delibird",
+      "title": "Delibird - Neo Revelation #5",
+      "link": "/Neo-Revelation-Expansion/Delibird-Card-5",
+      "image": "https://den-cards.pokellector.com/115/Delibird.N3.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Delibird.N3.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "5/64",
+      "card_number": "5",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Delibird.N3.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/delibird?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p148319.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Delibird+5+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$64.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/delibird__564__holo_rare__1st_edition/65528"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Delibird+-+5%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Entei",
+      "title": "Entei - Neo Revelation #6",
+      "link": "/Neo-Revelation-Expansion/Entei-Card-6",
+      "image": "https://den-cards.pokellector.com/115/Entei.N3.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Entei.N3.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "6/64",
+      "card_number": "6",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Entei.N3.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$69.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/entei-6?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$129.99",
+          "link": "http://www.trollandtoad.com/p148358.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Entei+6+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$109.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/entei__664__holo_rare__unlimited_edition/194493"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Entei+-+17%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Ho-oh",
+      "title": "Ho-oh - Neo Revelation #7",
+      "link": "/Neo-Revelation-Expansion/Ho-oh-Card-7",
+      "image": "https://den-cards.pokellector.com/115/Ho-oh.N3.7.7381.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Ho-oh.N3.7.7381.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "7/64",
+      "card_number": "7",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Ho-oh.N3.7.7381.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$102.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/ho-oh-7?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$159.99",
+          "link": "http://www.trollandtoad.com/p148441.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$75.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Ho-oh+7+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$149.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/hooh__764__holo_rare__unlimited_edition/194573"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ho-oh+-+7%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Houndoom",
+      "title": "Houndoom - Neo Revelation #8",
+      "link": "/Neo-Revelation-Expansion/Houndoom-Card-8",
+      "image": "https://den-cards.pokellector.com/115/Houndoom.N3.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Houndoom.N3.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "8/64",
+      "card_number": "8",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Houndoom.N3.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$50.44",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/houndoom?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$133.99",
+          "link": "http://www.trollandtoad.com/p148450.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$80.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Houndoom+8+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_shrouded_fable/houndoom__008064__common__reverse_holo/728197"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Houndoom+-+8%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Jumpluff",
+      "title": "Jumpluff - Neo Revelation #9",
+      "link": "/Neo-Revelation-Expansion/Jumpluff-Card-9",
+      "image": "https://den-cards.pokellector.com/115/Jumpluff.N3.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Jumpluff.N3.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "9/64",
+      "card_number": "9",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Jumpluff.N3.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/jumpluff?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p148468.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Jumpluff+9+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$49.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/jumpluff__964__holo_rare__1st_edition/65549"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jumpluff+-+9%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Magneton",
+      "title": "Magneton - Neo Revelation #10",
+      "link": "/Neo-Revelation-Expansion/Magneton-Card-10",
+      "image": "https://den-cards.pokellector.com/115/Magneton.N3.10.7384.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Magneton.N3.10.7384.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "10/64",
+      "card_number": "10",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Magneton.N3.10.7384.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/magneton?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$31.99",
+          "link": "http://www.trollandtoad.com/p148522.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$22.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Magneton+10+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$94.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/magneton__1064__holo_rare__1st_edition/65485"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+10%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Misdreavus",
+      "title": "Misdreavus - Neo Revelation #11",
+      "link": "/Neo-Revelation-Expansion/Misdreavus-Card-11",
+      "image": "https://den-cards.pokellector.com/115/Misdreavus.N3.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Misdreavus.N3.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "11/64",
+      "card_number": "11",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Misdreavus.N3.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.68",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/misdreavus?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$34.99",
+          "link": "http://www.trollandtoad.com/p148555.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Misdreavus+11+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$79.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/misdreavus__1164__holo_rare__1st_edition/65486"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Misdreavus+-+11%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Porygon2",
+      "title": "Porygon2 - Neo Revelation #12",
+      "link": "/Neo-Revelation-Expansion/Porygon2-Card-12",
+      "image": "https://den-cards.pokellector.com/115/Porygon2.N3.12.7386.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Porygon2.N3.12.7386.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "12/64",
+      "card_number": "12",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Porygon2.N3.12.7386.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/porygon2?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p148617.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.46",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Porygon2+12+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$89.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/porygon2__1264__holo_rare__1st_edition/65487"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon2+-+12%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Raikou",
+      "title": "Raikou - Neo Revelation #13",
+      "link": "/Neo-Revelation-Expansion/Raikou-Card-13",
+      "image": "https://den-cards.pokellector.com/115/Raikou.N3.13.7387.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Raikou.N3.13.7387.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "13/64",
+      "card_number": "13",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Raikou.N3.13.7387.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$62.51",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/raikou-13?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$129.79",
+          "link": "http://www.trollandtoad.com/p148645.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.15",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Raikou+13+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$349.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/raikou__1364__holo_rare__1st_edition/65488"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raikou+-+13%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Suicune",
+      "title": "Suicune - Neo Revelation #14",
+      "link": "/Neo-Revelation-Expansion/Suicune-Card-14",
+      "image": "https://den-cards.pokellector.com/115/Suicune.N3.14.7388.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Suicune.N3.14.7388.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "14/64",
+      "card_number": "14",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Suicune.N3.14.7388.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$99.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/suicune-14?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$127.79",
+          "link": "http://www.trollandtoad.com/p148728.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$39.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Suicune+14+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$427.79",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/suicune__1464__holo_rare__1st_edition/65489"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$14.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Suicune+-+14%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Aerodactyl",
+      "title": "Aerodactyl - Neo Revelation #15",
+      "link": "/Neo-Revelation-Expansion/Aerodactyl-Card-15",
+      "image": "https://den-cards.pokellector.com/115/Aerodactyl.N3.15.7389.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Aerodactyl.N3.15.7389.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "15/64",
+      "card_number": "15",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Aerodactyl.N3.15.7389.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/aerodactyl?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.49",
+          "link": "http://www.trollandtoad.com/p148178.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Aerodactyl+15+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aerodactyl+-+15%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/aerodactyl__1564__rare__1st_edition/65490"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Celebi",
+      "title": "Celebi - Neo Revelation #16",
+      "link": "/Neo-Revelation-Expansion/Celebi-Card-16",
+      "image": "https://den-cards.pokellector.com/115/Celebi.N3.16.7390.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Celebi.N3.16.7390.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "16/64",
+      "card_number": "16",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Celebi.N3.16.7390.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/celebi-16?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p148224.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.04",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Celebi+16+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/celebi__1664__rare__unlimited_edition/194013"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celebi+-+16%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Entei",
+      "title": "Entei - Neo Revelation #17",
+      "link": "/Neo-Revelation-Expansion/Entei-Card-17",
+      "image": "https://den-cards.pokellector.com/115/Entei.N3.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Entei.N3.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "17/64",
+      "card_number": "17",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Entei.N3.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.34",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/entei-17?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p148357.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Entei+17+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/entei__1764__rare__1st_edition/65492"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Entei+-+17%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Ho-oh",
+      "title": "Ho-oh - Neo Revelation #18",
+      "link": "/Neo-Revelation-Expansion/Ho-oh-Card-18",
+      "image": "https://den-cards.pokellector.com/115/Ho-oh.N3.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Ho-oh.N3.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "18/64",
+      "card_number": "18",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Ho-oh.N3.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.98",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/ho-oh-18?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p148440.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Ho-oh+18+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$34.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/hooh__1864__rare__1st_edition/65493"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ho-oh+-+18%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Kingdra",
+      "title": "Kingdra - Neo Revelation #19",
+      "link": "/Neo-Revelation-Expansion/Kingdra-Card-19",
+      "image": "https://den-cards.pokellector.com/115/Kingdra.N3.19.7393.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Kingdra.N3.19.7393.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "19/64",
+      "card_number": "19",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Kingdra.N3.19.7393.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.72",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/kingdra?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.59",
+          "link": "http://www.trollandtoad.com/p148482.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Kingdra+19+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/kingdra__1964__rare__unlimited_edition/194043"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kingdra+-+19%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Lugia",
+      "title": "Lugia - Neo Revelation #20",
+      "link": "/Neo-Revelation-Expansion/Lugia-Card-20",
+      "image": "https://den-cards.pokellector.com/115/Lugia.N3.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Lugia.N3.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "20/64",
+      "card_number": "20",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Lugia.N3.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.42",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/lugia?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p148504.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Lugia+20+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$49.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/lugia__2064__rare__1st_edition/65496"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lugia+-+20%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Raichu",
+      "title": "Raichu - Neo Revelation #21",
+      "link": "/Neo-Revelation-Expansion/Raichu-Card-21",
+      "image": "https://den-cards.pokellector.com/115/Raichu.N3.21.7395.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Raichu.N3.21.7395.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "21/64",
+      "card_number": "21",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Raichu.N3.21.7395.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/raichu?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p148641.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Raichu+21+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/raichu__2164__rare__1st_edition/65497"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+21%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Raikou",
+      "title": "Raikou - Neo Revelation #22",
+      "link": "/Neo-Revelation-Expansion/Raikou-Card-22",
+      "image": "https://den-cards.pokellector.com/115/Raikou.N3.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Raikou.N3.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "22/64",
+      "card_number": "22",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Raikou.N3.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.28",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/raikou-22?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.29",
+          "link": "http://www.trollandtoad.com/p148646.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Raikou+22+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$59.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/raikou__2264__rare__1st_edition/65498"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raikou+-+22%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Skarmory",
+      "title": "Skarmory - Neo Revelation #23",
+      "link": "/Neo-Revelation-Expansion/Skarmory-Card-23",
+      "image": "https://den-cards.pokellector.com/115/Skarmory.N3.23.7397.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Skarmory.N3.23.7397.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "23/64",
+      "card_number": "23",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Skarmory.N3.23.7397.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/skarmory?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p148692.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.38",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Skarmory+23+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/skarmory__2364__rare__unlimited_edition/194093"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skarmory+-+23%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Sneasel",
+      "title": "Sneasel - Neo Revelation #24",
+      "link": "/Neo-Revelation-Expansion/Sneasel-Card-24",
+      "image": "https://den-cards.pokellector.com/115/Sneasel.N3.24.7398.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Sneasel.N3.24.7398.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "24/64",
+      "card_number": "24",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Sneasel.N3.24.7398.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.41",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/sneasel?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p148706.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Sneasel+24+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sneasel+-+24%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/sneasel__2464__rare__1st_edition/65500"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Starmie",
+      "title": "Starmie - Neo Revelation #25",
+      "link": "/Neo-Revelation-Expansion/Starmie-Card-25",
+      "image": "https://den-cards.pokellector.com/115/Starmie.N3.25.7399.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Starmie.N3.25.7399.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "25/64",
+      "card_number": "25",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Starmie.N3.25.7399.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.75",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/starmie?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p148722.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.38",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Starmie+25+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/starmie__2564__rare__1st_edition/65501"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Starmie+-+25%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Sudowoodo",
+      "title": "Sudowoodo - Neo Revelation #26",
+      "link": "/Neo-Revelation-Expansion/Sudowoodo-Card-26",
+      "image": "https://den-cards.pokellector.com/115/Sudowoodo.N3.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Sudowoodo.N3.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "26/64",
+      "card_number": "26",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Sudowoodo.N3.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.88",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/sudowoodo?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p148726.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Sudowoodo+26+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/sudowoodo__2664__rare__1st_edition/65502"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sudowoodo+-+26%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Suicune",
+      "title": "Suicune - Neo Revelation #27",
+      "link": "/Neo-Revelation-Expansion/Suicune-Card-27",
+      "image": "https://den-cards.pokellector.com/115/Suicune.N3.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Suicune.N3.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "27/64",
+      "card_number": "27",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Suicune.N3.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.84",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/suicune-27?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.29",
+          "link": "http://www.trollandtoad.com/p148729.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Suicune+27+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/suicune__2764__rare__unlimited_edition/194133"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Suicune+-+27%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Flaaffy",
+      "title": "Flaaffy - Neo Revelation #28",
+      "link": "/Neo-Revelation-Expansion/Flaaffy-Card-28",
+      "image": "https://den-cards.pokellector.com/115/Flaaffy.N3.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Flaaffy.N3.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "28/64",
+      "card_number": "28",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Flaaffy.N3.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/flaaffy?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148380.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.46",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Flaaffy+28+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_fusion_strike/flaaffy__280264__secret_rare/654032"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Flaaffy+-+28%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Golbat",
+      "title": "Golbat - Neo Revelation #29",
+      "link": "/Neo-Revelation-Expansion/Golbat-Card-29",
+      "image": "https://den-cards.pokellector.com/115/Golbat.N3.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Golbat.N3.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "29/64",
+      "card_number": "29",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Golbat.N3.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.46",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/golbat?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148409.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Golbat+29+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/golbat__2964__uncommon__unlimited_edition/194153"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golbat+-+29%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Graveler",
+      "title": "Graveler - Neo Revelation #30",
+      "link": "/Neo-Revelation-Expansion/Graveler-Card-30",
+      "image": "https://den-cards.pokellector.com/115/Graveler.N3.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Graveler.N3.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "30/64",
+      "card_number": "30",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Graveler.N3.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/graveler?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p148419.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Graveler+30+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/graveler__3064__uncommon__unlimited_edition/194173"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Graveler+-+30%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Jynx",
+      "title": "Jynx - Neo Revelation #31",
+      "link": "/Neo-Revelation-Expansion/Jynx-Card-31",
+      "image": "https://den-cards.pokellector.com/115/Jynx.N3.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Jynx.N3.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "31/64",
+      "card_number": "31",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Jynx.N3.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.51",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/jynx?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p148469.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Jynx+31+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/jynx__3164__uncommon__1st_edition/65508"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jynx+-+31%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Lanturn",
+      "title": "Lanturn - Neo Revelation #32",
+      "link": "/Neo-Revelation-Expansion/Lanturn-Card-32",
+      "image": "https://den-cards.pokellector.com/115/Lanturn.N3.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Lanturn.N3.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "32/64",
+      "card_number": "32",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Lanturn.N3.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/lanturn?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148492.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Lanturn+32+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/lanturn__3264__uncommon__1st_edition/65509"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lanturn+-+32%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Magcargo",
+      "title": "Magcargo - Neo Revelation #33",
+      "link": "/Neo-Revelation-Expansion/Magcargo-Card-33",
+      "image": "https://den-cards.pokellector.com/115/Magcargo.N3.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Magcargo.N3.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "33/64",
+      "card_number": "33",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Magcargo.N3.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/magcargo?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p148514.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Magcargo+33+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/magcargo__3364__uncommon__1st_edition/65510"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magcargo+-+33%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Octillery",
+      "title": "Octillery - Neo Revelation #34",
+      "link": "/Neo-Revelation-Expansion/Octillery-Card-34",
+      "image": "https://den-cards.pokellector.com/115/Octillery.N3.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Octillery.N3.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "34/64",
+      "card_number": "34",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Octillery.N3.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.68",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/octillery?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.59",
+          "link": "http://www.trollandtoad.com/p148577.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Octillery+34+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/octillery__3464__uncommon__1st_edition/65511"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Octillery+-+34%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Parasect",
+      "title": "Parasect - Neo Revelation #35",
+      "link": "/Neo-Revelation-Expansion/Parasect-Card-35",
+      "image": "https://den-cards.pokellector.com/115/Parasect.N3.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Parasect.N3.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "35/64",
+      "card_number": "35",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Parasect.N3.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/parasect?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p148587.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.62",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Parasect+35+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/parasect__3564__uncommon__1st_edition/65512"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Parasect+-+35%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Piloswine",
+      "title": "Piloswine - Neo Revelation #36",
+      "link": "/Neo-Revelation-Expansion/Piloswine-Card-36",
+      "image": "https://den-cards.pokellector.com/115/Piloswine.N3.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Piloswine.N3.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "36/64",
+      "card_number": "36",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Piloswine.N3.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/piloswine?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148598.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.20",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Piloswine+36+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/piloswine__3664__uncommon__unlimited_edition/194233"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piloswine+-+36%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Seaking",
+      "title": "Seaking - Neo Revelation #37",
+      "link": "/Neo-Revelation-Expansion/Seaking-Card-37",
+      "image": "https://den-cards.pokellector.com/115/Seaking.N3.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Seaking.N3.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "37/64",
+      "card_number": "37",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Seaking.N3.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/seaking?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p148674.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.88",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Seaking+37+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/seaking__3764__uncommon__1st_edition/65514"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seaking+-+37%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Stantler",
+      "title": "Stantler - Neo Revelation #38",
+      "link": "/Neo-Revelation-Expansion/Stantler-Card-38",
+      "image": "https://den-cards.pokellector.com/115/Stantler.N3.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Stantler.N3.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "38/64",
+      "card_number": "38",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Stantler.N3.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/stantler?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148720.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.87",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Stantler+38+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/stantler__3864__uncommon__1st_edition/65515"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Stantler+-+38%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Unown B",
+      "title": "Unown B - Neo Revelation #39",
+      "link": "/Neo-Revelation-Expansion/Unown-B-Card-39",
+      "image": "https://den-cards.pokellector.com/115/Unown-B.N3.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Unown-B.N3.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "39/64",
+      "card_number": "39",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Unown-B.N3.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/unown-b?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148779.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.70",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Unown+B+39+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/unown_b__3964__uncommon__1st_edition/65516"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+B+-+39%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Unown Y",
+      "title": "Unown Y - Neo Revelation #40",
+      "link": "/Neo-Revelation-Expansion/Unown-Y-Card-40",
+      "image": "https://den-cards.pokellector.com/115/Unown-Y.N3.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Unown-Y.N3.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "40/64",
+      "card_number": "40",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Unown-Y.N3.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.27",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/unown-y?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p148789.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Unown+Y+40+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/unown_y__4064__uncommon__unlimited_edition/194283"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+Y+-+40%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Aipom",
+      "title": "Aipom - Neo Revelation #41",
+      "link": "/Neo-Revelation-Expansion/Aipom-Card-41",
+      "image": "https://den-cards.pokellector.com/115/Aipom.N3.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Aipom.N3.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "41/64",
+      "card_number": "41",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Aipom.N3.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/aipom?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148183.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.52",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Aipom+41+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/aipom__4164__common__1st_edition/65519"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aipom+-+41%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Chinchou",
+      "title": "Chinchou - Neo Revelation #42",
+      "link": "/Neo-Revelation-Expansion/Chinchou-Card-42",
+      "image": "https://den-cards.pokellector.com/115/Chinchou.N3.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Chinchou.N3.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "42/64",
+      "card_number": "42",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Chinchou.N3.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/chinchou?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148241.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.16",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Chinchou+42+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chinchou+-+42%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/chinchou__4264__common__1st_edition/65520"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Farfetch'd",
+      "title": "Farfetch'd - Neo Revelation #43",
+      "link": "/Neo-Revelation-Expansion/Farfetchd-Card-43",
+      "image": "https://den-cards.pokellector.com/115/Farfetchd.N3.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Farfetchd.N3.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "43/64",
+      "card_number": "43",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Farfetchd.N3.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/farfetchd?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148364.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Farfetch%27d+43+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/farfetchd__4364__common__1st_edition/65521"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Farfetch%27d+-+43%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Geodude",
+      "title": "Geodude - Neo Revelation #44",
+      "link": "/Neo-Revelation-Expansion/Geodude-Card-44",
+      "image": "https://den-cards.pokellector.com/115/Geodude.N3.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Geodude.N3.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "44/64",
+      "card_number": "44",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Geodude.N3.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/geodude?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148404.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.92",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Geodude+44+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/geodude__4464__common__unlimited_edition/194323"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Geodude+-+44%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Goldeen",
+      "title": "Goldeen - Neo Revelation #45",
+      "link": "/Neo-Revelation-Expansion/Goldeen-Card-45",
+      "image": "https://den-cards.pokellector.com/115/Goldeen.N3.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Goldeen.N3.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "45/64",
+      "card_number": "45",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Goldeen.N3.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/goldeen?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148412.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.06",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Goldeen+45+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/goldeen__4564__common__1st_edition/65523"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Goldeen+-+45%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Murkrow",
+      "title": "Murkrow - Neo Revelation #46",
+      "link": "/Neo-Revelation-Expansion/Murkrow-Card-46",
+      "image": "https://den-cards.pokellector.com/115/Murkrow.N3.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Murkrow.N3.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "46/64",
+      "card_number": "46",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Murkrow.N3.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/murkrow?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148563.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.59",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Murkrow+46+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/murkrow__4664__common__1st_edition/65524"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Murkrow+-+46%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Paras",
+      "title": "Paras - Neo Revelation #47",
+      "link": "/Neo-Revelation-Expansion/Paras-Card-47",
+      "image": "https://den-cards.pokellector.com/115/Paras.N3.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Paras.N3.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "47/64",
+      "card_number": "47",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Paras.N3.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/paras?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148586.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.48",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Paras+47+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/paras__4764__common__1st_edition/65525"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Paras+-+47%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Quagsire",
+      "title": "Quagsire - Neo Revelation #48",
+      "link": "/Neo-Revelation-Expansion/Quagsire-Card-48",
+      "image": "https://den-cards.pokellector.com/115/Quagsire.N3.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Quagsire.N3.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "48/64",
+      "card_number": "48",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Quagsire.N3.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/quagsire?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p148634.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.45",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Quagsire+48+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Quagsire+-+48%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/quagsire__4864__common__1st_edition/65526"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Qwilfish",
+      "title": "Qwilfish - Neo Revelation #49",
+      "link": "/Neo-Revelation-Expansion/Qwilfish-Card-49",
+      "image": "https://den-cards.pokellector.com/115/Qwilfish.N3.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Qwilfish.N3.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "49/64",
+      "card_number": "49",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Qwilfish.N3.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/qwilfish?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148640.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Qwilfish+49+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/qwilfish__4964__common__unlimited_edition/194373"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Qwilfish+-+49%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Remoraid",
+      "title": "Remoraid - Neo Revelation #50",
+      "link": "/Neo-Revelation-Expansion/Remoraid-Card-50",
+      "image": "https://den-cards.pokellector.com/115/Remoraid.N3.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Remoraid.N3.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "50/64",
+      "card_number": "50",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Remoraid.N3.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/remoraid?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.16",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Remoraid+50+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/remoraid__5064__common__1st_edition/65529"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Remoraid+-+50%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Shuckle",
+      "title": "Shuckle - Neo Revelation #51",
+      "link": "/Neo-Revelation-Expansion/Shuckle-Card-51",
+      "image": "https://den-cards.pokellector.com/115/Shuckle.N3.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Shuckle.N3.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "51/64",
+      "card_number": "51",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Shuckle.N3.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/shuckle?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p148687.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.80",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Shuckle+51+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/shuckle__5164__common__1st_edition/65530"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuckle+-+51%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Skiploom",
+      "title": "Skiploom - Neo Revelation #52",
+      "link": "/Neo-Revelation-Expansion/Skiploom-Card-52",
+      "image": "https://den-cards.pokellector.com/115/Skiploom.N3.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Skiploom.N3.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "52/64",
+      "card_number": "52",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Skiploom.N3.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/skiploom?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148697.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Skiploom+52+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/skiploom__5264__common__1st_edition/65531"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skiploom+-+52%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Slugma",
+      "title": "Slugma - Neo Revelation #53",
+      "link": "/Neo-Revelation-Expansion/Slugma-Card-53",
+      "image": "https://den-cards.pokellector.com/115/Slugma.N3.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Slugma.N3.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "53/64",
+      "card_number": "53",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Slugma.N3.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/slugma?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148702.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Slugma+53+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/slugma__5364__common__unlimited_edition/194423"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slugma+-+53%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Smoochum",
+      "title": "Smoochum - Neo Revelation #54",
+      "link": "/Neo-Revelation-Expansion/Smoochum-Card-54",
+      "image": "https://den-cards.pokellector.com/115/Smoochum.N3.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Smoochum.N3.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "54/64",
+      "card_number": "54",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Smoochum.N3.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/smoochum?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p148705.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Smoochum+54+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smoochum+-+54%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.79",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/smoochum__5464__common__unlimited_edition/194433"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Snubbull",
+      "title": "Snubbull - Neo Revelation #55",
+      "link": "/Neo-Revelation-Expansion/Snubbull-Card-55",
+      "image": "https://den-cards.pokellector.com/115/Snubbull.N3.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Snubbull.N3.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "55/64",
+      "card_number": "55",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Snubbull.N3.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/snubbull?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148708.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.15",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Snubbull+55+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.79",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/snubbull__5564__common__unlimited_edition/194443"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snubbull+-+55%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Staryu",
+      "title": "Staryu - Neo Revelation #56",
+      "link": "/Neo-Revelation-Expansion/Staryu-Card-56",
+      "image": "https://den-cards.pokellector.com/115/Staryu.N3.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Staryu.N3.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "56/64",
+      "card_number": "56",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Staryu.N3.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/staryu?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p148723.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Staryu+56+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Staryu+-+56%2F64"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/staryu__5664__common__unlimited_edition/194453"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Swinub",
+      "title": "Swinub - Neo Revelation #57",
+      "link": "/Neo-Revelation-Expansion/Swinub-Card-57",
+      "image": "https://den-cards.pokellector.com/115/Swinub.N3.57.7431.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Swinub.N3.57.7431.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "57/64",
+      "card_number": "57",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Swinub.N3.57.7431.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/swinub?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148740.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.16",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Swinub+57+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/swinub__5764__common__unlimited_edition/194463"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swinub+-+57%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Unown K",
+      "title": "Unown K - Neo Revelation #58",
+      "link": "/Neo-Revelation-Expansion/Unown-K-Card-58",
+      "image": "https://den-cards.pokellector.com/115/Unown-K.N3.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Unown-K.N3.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "58/64",
+      "card_number": "58",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Unown-K.N3.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/unown-k?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148784.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.83",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Unown+K+58+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/unown_k__5864__common__unlimited_edition/194473"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+K+-+58%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Zubat",
+      "title": "Zubat - Neo Revelation #59",
+      "link": "/Neo-Revelation-Expansion/Zubat-Card-59",
+      "image": "https://den-cards.pokellector.com/115/Zubat.N3.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Zubat.N3.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "59/64",
+      "card_number": "59",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Zubat.N3.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/zubat?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148823.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.76",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Zubat+59+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/zubat__5964__common__1st_edition/65538"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zubat+-+59%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Balloon Berry",
+      "title": "Balloon Berry - Neo Revelation #60",
+      "link": "/Neo-Revelation-Expansion/Balloon-Berry-Card-60",
+      "image": "https://den-cards.pokellector.com/115/Balloon-Berry.N3.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Balloon-Berry.N3.60.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "60/64",
+      "card_number": "60",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Balloon-Berry.N3.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/balloon-berry?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148201.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Balloon+Berry+60+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/balloon_berry__6064__uncommon__1st_edition/65540"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Balloon+Berry+-+60%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Healing Field",
+      "title": "Healing Field - Neo Revelation #61",
+      "link": "/Neo-Revelation-Expansion/Healing-Field-Card-61",
+      "image": "https://den-cards.pokellector.com/115/Healing-Field.N3.61.7435.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Healing-Field.N3.61.7435.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "61/64",
+      "card_number": "61",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Healing-Field.N3.61.7435.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/healing-field?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p148427.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.86",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Healing+Field+61+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/healing_field__6164__uncommon__1st_edition/65541"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Healing+Field+-+61%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Pokemon Breeder Fields",
+      "title": "Pokemon Breeder Fields - Neo Revelation #62",
+      "link": "/Neo-Revelation-Expansion/Pokemon-Breeder-Fields-Card-62",
+      "image": "https://den-cards.pokellector.com/115/Pokemon-Breeder-Fields.N3.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Pokemon-Breeder-Fields.N3.62.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "62/64",
+      "card_number": "62",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Pokemon-Breeder-Fields.N3.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/pokemon-breeder-fields?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p148602.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.40",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Pokemon+Breeder+Fields+62+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/pokemon_breeder_fields__6264__uncommon__1st_edition/65542"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pokemon+Breeder+Fields+-+62%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Rocket's Hideout",
+      "title": "Rocket's Hideout - Neo Revelation #63",
+      "link": "/Neo-Revelation-Expansion/Rockets-Hideout-Card-63",
+      "image": "https://den-cards.pokellector.com/115/Rockets-Hideout.N3.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Rockets-Hideout.N3.63.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "63/64",
+      "card_number": "63",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Rockets-Hideout.N3.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/rockets-hideout?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p148657.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.62",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Rocket%27s+Hideout+63+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/rockets_hideout__6364__uncommon__unlimited_edition/194533"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rocket%27s+Hideout+-+63%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Old Rod",
+      "title": "Old Rod - Neo Revelation #64",
+      "link": "/Neo-Revelation-Expansion/Old-Rod-Card-64",
+      "image": "https://den-cards.pokellector.com/115/Old-Rod.N3.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Old-Rod.N3.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "64/64",
+      "card_number": "64",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Old-Rod.N3.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/old-rod?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p148582.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.29",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Old+Rod+64+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/old_rod__6464__common__1st_edition/65544"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Old+Rod+-+64%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Shining Gyarados",
+      "title": "Shining Gyarados - Neo Revelation #65",
+      "link": "/Neo-Revelation-Expansion/Shining-Gyarados-Card-65",
+      "image": "https://den-cards.pokellector.com/115/Shining-Gyarados.N3.65.7439.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Shining-Gyarados.N3.65.7439.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "65/64",
+      "card_number": "65",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Shining-Gyarados.N3.65.7439.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$230.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/shining-gyarados?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$449.99",
+          "link": "http://www.trollandtoad.com/p148683.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$152.28",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Shining+Gyarados+65+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$599.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_revelation/shining_gyarados__6564__super_holo_rare__unlimited_edition/194553"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$29.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shining+Gyarados+-+65%2F64"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "66": {
+      "number": "66",
+      "name": "Shining Magikarp",
+      "title": "Shining Magikarp - Neo Revelation #66",
+      "link": "/Neo-Revelation-Expansion/Shining-Magikarp-Card-66",
+      "image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "66/64",
+      "card_number": "66",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$175.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/shining-magikarp?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$257.99",
+          "link": "http://www.trollandtoad.com/p148684.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$97.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Shining+Magikarp+66+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/shining_magikarp__6664__shiny_holo_rare/653191"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shining+Magikarp+-+66%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.40593.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 13:48:11"
+}

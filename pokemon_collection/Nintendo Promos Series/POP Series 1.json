@@ -1,0 +1,758 @@
+{
+  "title": "POP Series 1 Set",
+  "link": "/POP-Series-1-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-1.logo.68.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-1.symbol.68.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Blaziken",
+      "title": "Blaziken - POP Series 1 #1",
+      "link": "/POP-Series-1-Expansion/Blaziken-Card-1",
+      "image": "https://den-cards.pokellector.com/68/Blaziken.POP1.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Blaziken.POP1.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Blaziken.POP1.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fblaziken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p298055.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Blaziken+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-bw__dark_explorers/blaziken__17108__holo_rare/86638"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$22.72",
+          "link": "http://stop2shop.com/pop-series1-1.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Metagross",
+      "title": "Metagross - POP Series 1 #2",
+      "link": "/POP-Series-1-Expansion/Metagross-Card-2",
+      "image": "https://den-cards.pokellector.com/68/Metagross.POP1.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Metagross.POP1.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Metagross.POP1.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fmetagross"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.19",
+          "link": "http://www.trollandtoad.com/p298054.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Metagross+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$30.22",
+          "link": "http://stop2shop.com/pop-series1-2.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$27.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_temporal_forces/metagross__178162__illustration_rare/711027"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Rayquaza",
+      "title": "Rayquaza - POP Series 1 #3",
+      "link": "/POP-Series-1-Expansion/Rayquaza-Card-3",
+      "image": "https://den-cards.pokellector.com/68/Rayquaza.POP1.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Rayquaza.POP1.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Rayquaza.POP1.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Frayquaza"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p183637.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Rayquaza+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/rayquaza__317__nonholo_rare/65552"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$30.22",
+          "link": "http://stop2shop.com/pop-series1-3.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Sceptile",
+      "title": "Sceptile - POP Series 1 #4",
+      "link": "/POP-Series-1-Expansion/Sceptile-Card-4",
+      "image": "https://den-cards.pokellector.com/68/Sceptile.POP1.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Sceptile.POP1.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Sceptile.POP1.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fsceptile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p183638.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Sceptile+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/sceptile__417__nonholo_rare/65553"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$36.24",
+          "link": "http://stop2shop.com/pop-series1-4.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Swampert",
+      "title": "Swampert - POP Series 1 #5",
+      "link": "/POP-Series-1-Expansion/Swampert-Card-5",
+      "image": "https://den-cards.pokellector.com/68/Swampert.POP1.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Swampert.POP1.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Swampert.POP1.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fswampert"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p183640.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Swampert+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.63",
+          "link": "http://stop2shop.com/pop-series1-5.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/swampert__517__holo_rare/193163"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Beautifly",
+      "title": "Beautifly - POP Series 1 #6",
+      "link": "/POP-Series-1-Expansion/Beautifly-Card-6",
+      "image": "https://den-cards.pokellector.com/68/Beautifly.POP1.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Beautifly.POP1.6.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Beautifly.POP1.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fbeautifly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p183628.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Beautifly+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/beautifly__617__uncommon/65555"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/pop-series1-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Masquerain",
+      "title": "Masquerain - POP Series 1 #7",
+      "link": "/POP-Series-1-Expansion/Masquerain-Card-7",
+      "image": "https://den-cards.pokellector.com/68/Masquerain.POP1.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Masquerain.POP1.7.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Masquerain.POP1.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fmasquerain"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p183631.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.84",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Masquerain+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/masquerain__717__uncommon/65556"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/pop-series1-7.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Murkrow",
+      "title": "Murkrow - POP Series 1 #8",
+      "link": "/POP-Series-1-Expansion/Murkrow-Card-8",
+      "image": "https://den-cards.pokellector.com/68/Murkrow.POP1.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Murkrow.POP1.8.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Murkrow.POP1.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fmurkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.09",
+          "link": "http://www.trollandtoad.com/p183634.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Murkrow+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/murkrow__817__uncommon/65557"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/pop-series1-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Pupitar",
+      "title": "Pupitar - POP Series 1 #9",
+      "link": "/POP-Series-1-Expansion/Pupitar-Card-9",
+      "image": "https://den-cards.pokellector.com/68/Pupitar.POP1.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Pupitar.POP1.9.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Pupitar.POP1.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fpupitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p183636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Pupitar+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/pupitar__917__uncommon/65558"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/pop-series1-9.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Torkoal",
+      "title": "Torkoal - POP Series 1 #10",
+      "link": "/POP-Series-1-Expansion/Torkoal-Card-10",
+      "image": "https://den-cards.pokellector.com/68/Torkoal.POP1.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Torkoal.POP1.10.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Torkoal.POP1.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Ftorkoal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.59",
+          "link": "http://www.trollandtoad.com/p183642.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Torkoal+10+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/torkoal__1017__uncommon/65559"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.00",
+          "link": "http://stop2shop.com/pop-series1-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Larvitar",
+      "title": "Larvitar - POP Series 1 #11",
+      "link": "/POP-Series-1-Expansion/Larvitar-Card-11",
+      "image": "https://den-cards.pokellector.com/68/Larvitar.POP1.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Larvitar.POP1.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Larvitar.POP1.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Flarvitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p183630.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Larvitar+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/larvitar__1117__common/65560"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/pop-series1-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Minun",
+      "title": "Minun - POP Series 1 #12",
+      "link": "/POP-Series-1-Expansion/Minun-Card-12",
+      "image": "https://den-cards.pokellector.com/68/Minun.POP1.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Minun.POP1.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Minun.POP1.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p183633.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Minun+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/minun__1217__common/65561"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/pop-series1-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Plusle",
+      "title": "Plusle - POP Series 1 #13",
+      "link": "/POP-Series-1-Expansion/Plusle-Card-13",
+      "image": "https://den-cards.pokellector.com/68/Plusle.POP1.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Plusle.POP1.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Plusle.POP1.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.72",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p183635.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Plusle+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/plusle__1317__common/65562"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/pop-series1-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Surskit",
+      "title": "Surskit - POP Series 1 #14",
+      "link": "/POP-Series-1-Expansion/Surskit-Card-14",
+      "image": "https://den-cards.pokellector.com/68/Surskit.POP1.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Surskit.POP1.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Surskit.POP1.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fsurskit"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p183639.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Surskit+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/surskit__1417__common/65563"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/pop-series1-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Swellow",
+      "title": "Swellow - POP Series 1 #15",
+      "link": "/POP-Series-1-Expansion/Swellow-Card-15",
+      "image": "https://den-cards.pokellector.com/68/Swellow.POP1.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Swellow.POP1.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Swellow.POP1.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Fswellow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p183641.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Swellow+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/swellow__1517__common/65564"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.94",
+          "link": "http://stop2shop.com/pop-series1-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Armaldo ex",
+      "title": "Armaldo ex - POP Series 1 #16",
+      "link": "/POP-Series-1-Expansion/Armaldo-ex-Card-16",
+      "image": "https://den-cards.pokellector.com/68/Armaldo-ex.POP1.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Armaldo-ex.POP1.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Armaldo-ex.POP1.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$23.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Farmaldo-ex-non-holo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1756761.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Armaldo+ex+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$151.21",
+          "link": "http://stop2shop.com/pop-series1-16.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$34.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/armaldo_ex_1617__holo_rare/65565"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Tyranitar ex",
+      "title": "Tyranitar ex - POP Series 1 #17",
+      "link": "/POP-Series-1-Expansion/Tyranitar-ex-Card-17",
+      "image": "https://den-cards.pokellector.com/68/Tyranitar-ex.POP1.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/68/Tyranitar-ex.POP1.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 1",
+      "set_link": "/POP-Series-1-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/68/Tyranitar-ex.POP1.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$139.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-1%2Ftyranitar-ex-holo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.99",
+          "link": "http://www.trollandtoad.com/p183643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+1+Tyranitar+ex+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$44.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/tyranitar_ex_1717__holo_rare/65566"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$151.21",
+          "link": "http://stop2shop.com/pop-series1-17.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:56:54"
+}

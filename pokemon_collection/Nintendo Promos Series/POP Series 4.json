@@ -1,0 +1,748 @@
+{
+  "title": "POP Series 4 Set",
+  "link": "/POP-Series-4-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-4.logo.71.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-4.symbol.71.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Chimecho  (delta species)",
+      "title": "Chimecho  (delta species) - POP Series 4 #1",
+      "link": "/POP-Series-4-Expansion/Chimecho-delta-species-Card-1",
+      "image": "https://den-cards.pokellector.com/71/Chimecho-delta-species.POP4.1.6359.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Chimecho-delta-species.POP4.1.6359.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Chimecho-delta-species.POP4.1.6359.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$500.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fchimecho-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.39",
+          "link": "http://www.trollandtoad.com/p202853.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$39.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DPOP+Series+4+Chimecho++%28delta+species%29+1+-oversized+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-1.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Deoxys Î´ (Normal Forme)",
+      "title": "Deoxys Î´ (Normal Forme) - POP Series 4 #2",
+      "link": "/POP-Series-4-Expansion/Deoxys-Normal-Forme-Card-2",
+      "image": "https://den-cards.pokellector.com/71/Deoxys-Normal-Forme.POP4.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Deoxys-Normal-Forme.POP4.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Deoxys-Normal-Forme.POP4.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$69.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fdeoxys-normal-formedelta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p202854.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.29",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-legends_awakened/deoxys_normal_forme__1146__rare__reverse_holo/64511"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$36.52",
+          "link": "http://stop2shop.com/foil-pop4-2.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Flygon",
+      "title": "Flygon - POP Series 4 #3",
+      "link": "/POP-Series-4-Expansion/Flygon-Card-3",
+      "image": "https://den-cards.pokellector.com/71/Flygon.POP4.3.6360.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Flygon.POP4.3.6360.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Flygon.POP4.3.6360.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fflygon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.79",
+          "link": "http://www.trollandtoad.com/p298070.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Flygon+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/flygon_v__106172__ultra_rare/656608"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-3.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Mew",
+      "title": "Mew - POP Series 4 #4",
+      "link": "/POP-Series-4-Expansion/Mew-Card-4",
+      "image": "https://den-cards.pokellector.com/71/Mew.POP4.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Mew.POP4.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Mew.POP4.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$65.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fmew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.99",
+          "link": "http://www.trollandtoad.com/p298071.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Mew+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$29.21",
+          "link": "http://stop2shop.com/foil-pop4-4.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/mewtwo__056172__rare__reverse_holo/656754"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Sceptile",
+      "title": "Sceptile - POP Series 4 #5",
+      "link": "/POP-Series-4-Expansion/Sceptile-Card-5",
+      "image": "https://den-cards.pokellector.com/71/Sceptile.POP4.5.6362.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Sceptile.POP4.5.6362.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Sceptile.POP4.5.6362.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$228.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fsceptile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$74.99",
+          "link": "http://www.trollandtoad.com/p202857.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Sceptile+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_1/sceptile__417__nonholo_rare/65553"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-5.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Combusken",
+      "title": "Combusken - POP Series 4 #6",
+      "link": "/POP-Series-4-Expansion/Combusken-Card-6",
+      "image": "https://den-cards.pokellector.com/71/Combusken.POP4.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Combusken.POP4.6.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Combusken.POP4.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fcombusken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.49",
+          "link": "http://www.trollandtoad.com/p202858.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Combusken+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/japanese_pokemon_singles-japanese_adv_ex_1_ex_magma_vs_aqua/combusken__017080__rare/306133"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Grovyle",
+      "title": "Grovyle - POP Series 4 #7",
+      "link": "/POP-Series-4-Expansion/Grovyle-Card-7",
+      "image": "https://den-cards.pokellector.com/71/Grovyle.POP4.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Grovyle.POP4.7.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Grovyle.POP4.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$21.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fgrovyle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p202859.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Grovyle+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-7.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/grovyle__717__uncommon/65607"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Heal Energy",
+      "title": "Heal Energy - POP Series 4 #8",
+      "link": "/POP-Series-4-Expansion/Heal-Energy-Card-8",
+      "image": "https://den-cards.pokellector.com/71/Heal-Energy.POP4.8.6365.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Heal-Energy.POP4.8.6365.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Heal-Energy.POP4.8.6365.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fheal-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p202860.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Heal+Energy+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-8.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/heal_energy__817__uncommon/65608"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Pokemon Fan Club",
+      "title": "Pokemon Fan Club - POP Series 4 #9",
+      "link": "/POP-Series-4-Expansion/Pokemon-Fan-Club-Card-9",
+      "image": "https://den-cards.pokellector.com/71/Pokemon-Fan-Club.POP4.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Pokemon-Fan-Club.POP4.9.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Pokemon-Fan-Club.POP4.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$180.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fpokemon-fan-club"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p202861.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Pokemon+Fan+Club+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-9.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$89.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/pokemon_fan_club__917__uncommon/65609"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Scramble Energy",
+      "title": "Scramble Energy - POP Series 4 #10",
+      "link": "/POP-Series-4-Expansion/Scramble-Energy-Card-10",
+      "image": "https://den-cards.pokellector.com/71/Scramble-Energy.POP4.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Scramble-Energy.POP4.10.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Scramble-Energy.POP4.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fscramble-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p202862.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "http://www.ebay.com/sch/i.html?_nkw=POP+Series+4+Scramble+Energy+10+-oversized+-jumbo&_ddo=1&_ipg=5&_pgn=1&_sop=13&LH_Sold=1&LH_Complete=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/scramble_energy__1017__uncommon/65610"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Mudkip",
+      "title": "Mudkip - POP Series 4 #11",
+      "link": "/POP-Series-4-Expansion/Mudkip-Card-11",
+      "image": "https://den-cards.pokellector.com/71/Mudkip.POP4.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Mudkip.POP4.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Mudkip.POP4.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fmudkip"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.89",
+          "link": "http://www.trollandtoad.com/p202863.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Mudkip+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/mudkip__1117__common__holo/65611"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Pidgey",
+      "title": "Pidgey - POP Series 4 #12",
+      "link": "/POP-Series-4-Expansion/Pidgey-Card-12",
+      "image": "https://den-cards.pokellector.com/71/Pidgey.POP4.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Pidgey.POP4.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Pidgey.POP4.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fpidgey"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p202864.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Pidgey+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/pidgey__1217__common/65612"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Pikachu",
+      "title": "Pikachu - POP Series 4 #13",
+      "link": "/POP-Series-4-Expansion/Pikachu-Card-13",
+      "image": "https://den-cards.pokellector.com/71/Pikachu.POP4.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Pikachu.POP4.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Pikachu.POP4.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.19",
+          "link": "http://www.trollandtoad.com/p202865.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Pikachu+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/pikachu__1317_common/65613"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Squirtle",
+      "title": "Squirtle - POP Series 4 #14",
+      "link": "/POP-Series-4-Expansion/Squirtle-Card-14",
+      "image": "https://den-cards.pokellector.com/71/Squirtle.POP4.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Squirtle.POP4.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Squirtle.POP4.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$59.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fsquirtle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p202866.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Squirtle+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/squirtle__1417__common/65614"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Treecko  (delta species)",
+      "title": "Treecko  (delta species) - POP Series 4 #15",
+      "link": "/POP-Series-4-Expansion/Treecko-delta-species-Card-15",
+      "image": "https://den-cards.pokellector.com/71/Treecko-.POP4.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Treecko-.POP4.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Treecko-.POP4.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Ftreecko-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p202867.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Wobbuffet",
+      "title": "Wobbuffet - POP Series 4 #16",
+      "link": "/POP-Series-4-Expansion/Wobbuffet-Card-16",
+      "image": "https://den-cards.pokellector.com/71/Wobbuffet.POP4.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Wobbuffet.POP4.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Wobbuffet.POP4.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fwobbuffet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p202868.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+4+Wobbuffet+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/wobbuffet_1617__holo_common/495263"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Deoxys ex (Speed Forme)",
+      "title": "Deoxys ex (Speed Forme) - POP Series 4 #17",
+      "link": "/POP-Series-4-Expansion/Deoxys-ex-Speed-Forme-Card-17",
+      "image": "https://den-cards.pokellector.com/71/Deoxys-ex-Speed-Forme.POP4.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/71/Deoxys-ex-Speed-Forme.POP4.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 4",
+      "set_link": "/POP-Series-4-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/71/Deoxys-ex-Speed-Forme.POP4.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$359.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-4%2Fdeoxys-ex-speed-forme"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p202869.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$150.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DPOP+Series+4+Deoxys+ex+%28Speed+Forme%29+17+-oversized+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop4-17.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$79.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/deoxys_ex_speed__1717__rare/65617"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:55:15"
+}

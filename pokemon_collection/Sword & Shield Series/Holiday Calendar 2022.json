@@ -1,0 +1,360 @@
+{
+  "title": "Holiday Calendar 2022 Set",
+  "link": "/Holiday-Calendar-2022-Collection/",
+  "logo": "https://den-media.pokellector.com/logos/Holiday-Calendar-2022-collection.5.png",
+  "symbol": null,
+  "scraped": true,
+  "cards": {
+    "10": {
+      "number": "10",
+      "name": "Abomasnow",
+      "title": "Abomasnow - Chilling Reign #10",
+      "link": "/Chilling-Reign-Expansion/Abomasnow-Card-10",
+      "image": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.44533.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.44533.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "10/198",
+      "card_number": "10",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.39014.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fabomasnow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1719286.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.82",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Abomasnow+Chilling+Reign+10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.44533.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Lapras",
+      "title": "Lapras - Sword & Shield #48",
+      "link": "/English-Sword-Shield-Expansion/Lapras-Card-48",
+      "image": "https://den-cards.pokellector.com/286/Lapras.SH01.48.44540.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/286/Lapras.SH01.48.44540.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Sword & Shield",
+      "set_link": "/English-Sword-Shield-Expansion/",
+      "position": "48/202",
+      "card_number": "48",
+      "total_cards": "202",
+      "image_full": "https://den-cards.pokellector.com/286/Lapras.SH01.48.31468.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh01-sword-and-shield-base-set%2Flapras"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1645068.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lapras+Sword+%26+Shield+48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-Aqua-Wash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/286/Lapras.SH01.48.44540.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Eiscue V",
+      "title": "Eiscue V - Rebel Clash #55",
+      "link": "/Rebel-Clash-Expansion/Eiscue-V-Card-55",
+      "image": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.44539.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.44539.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "55/192",
+      "card_number": "55",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.34474.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Feiscue-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1664220.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eiscue+V+Rebel+Clash+55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Eiscue-V-Blizzard?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.44539.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Beartic",
+      "title": "Beartic - Darkness Ablaze #49",
+      "link": "/Darkness-Ablaze-Expansion/Beartic-Card-49",
+      "image": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.44538.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.44538.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "49/189",
+      "card_number": "49",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.35159.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fbeartic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1670347.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Beartic+Darkness+Ablaze+49+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Beartic-DAA49?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.44538.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Delibird",
+      "title": "Delibird - Chilling Reign #32",
+      "link": "/Chilling-Reign-Expansion/Delibird-Card-32",
+      "image": "https://den-cards.pokellector.com/320/Delibird.CRE.32.44534.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Delibird.CRE.32.44534.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "32/198",
+      "card_number": "32",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Delibird.CRE.32.39033.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fdelibird"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1719308.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Delibird+Chilling+Reign+32+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/320/Delibird.CRE.32.44534.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Ice Rider Calyrex V",
+      "title": "Ice Rider Calyrex V - Chilling Reign #45",
+      "link": "/Chilling-Reign-Expansion/Ice-Rider-Calyrex-V-Card-45",
+      "image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.44535.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.44535.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "45/198",
+      "card_number": "45",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.39046.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fice-rider-calyrex-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1719321.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ice+Rider+Calyrex+V+Chilling+Reign+45+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.44535.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Ice Rider Calyrex VMAX",
+      "title": "Ice Rider Calyrex VMAX - Chilling Reign #46",
+      "link": "/Chilling-Reign-Expansion/Ice-Rider-Calyrex-VMAX-Card-46",
+      "image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.44536.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.44536.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "46/198",
+      "card_number": "46",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.39047.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fice-rider-calyrex-vmax"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p1719322.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ice+Rider+Calyrex+VMAX+Chilling+Reign+46+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.44536.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "153": {
+      "number": "153",
+      "name": "Pikachu",
+      "title": "Pikachu - Sword & Shield Promos #153",
+      "link": "/English-Sword-Shield-Promos-Expansion/Pikachu-Card-153",
+      "image": "https://den-cards.pokellector.com/287/Pikachu.SWSH.153.44532.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/287/Pikachu.SWSH.153.44532.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Sword & Shield Promos",
+      "set_link": "/English-Sword-Shield-Promos-Expansion/",
+      "position": "153/307",
+      "card_number": "153",
+      "total_cards": "307",
+      "image_full": "https://den-cards.pokellector.com/287/Pikachu.SWSH.153.44532.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+SWSH+Promo+153+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 00:45:48"
+}

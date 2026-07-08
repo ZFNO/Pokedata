@@ -1,0 +1,3528 @@
+{
+  "title": "Shining Legends Set",
+  "link": "/Shining-Legends-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Shining-Legends.logo.231.png",
+  "symbol": "https://den-media.pokellector.com/logos/Shining-Legends.symbol.231.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - Shining Legends #1",
+      "link": "/Shining-Legends-Expansion/Bulbasaur-Card-1",
+      "image": "https://den-cards.pokellector.com/231/Bulbasaur.SLG.1.19485.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Bulbasaur.SLG.1.19485.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "1/73",
+      "card_number": "1",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Bulbasaur.SLG.1.19485.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fbulbasaur"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bulbasaur+Shining+Legends+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/bulbasaur__173__common/594433"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Bulbasaur-Razor-Leaf?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cereal Promo",
+          "image": "https://den-cards.pokellector.com/231/Bulbasaur.SLG.1.26472.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Ivysaur",
+      "title": "Ivysaur - Shining Legends #2",
+      "link": "/Shining-Legends-Expansion/Ivysaur-Card-2",
+      "image": "https://den-cards.pokellector.com/231/Ivysaur.SLG.2.19486.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Ivysaur.SLG.2.19486.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "2/73",
+      "card_number": "2",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Ivysaur.SLG.2.19486.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fivysaur"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ivysaur+Shining+Legends+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ivysaur-Razor-Leaf-Toxic-Whip?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/ivysaur__273__common__reverse_holo/594506"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Venusaur",
+      "title": "Venusaur - Shining Legends #3",
+      "link": "/Shining-Legends-Expansion/Venusaur-Card-3",
+      "image": "https://den-cards.pokellector.com/231/Venusaur.SLG.3.19487.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Venusaur.SLG.3.19487.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "3/73",
+      "card_number": "3",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Venusaur.SLG.3.19487.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fvenusaur"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Venusaur+Shining+Legends+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Venusaur-Solar-Beam?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/venusaur__373__uncommon/594541"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Shroomish",
+      "title": "Shroomish - Shining Legends #4",
+      "link": "/Shining-Legends-Expansion/Shroomish-Card-4",
+      "image": "https://den-cards.pokellector.com/231/Shroomish.SLG.4.19488.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shroomish.SLG.4.19488.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "4/73",
+      "card_number": "4",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shroomish.SLG.4.19488.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshroomish"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shroomish+Shining+Legends+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shroomish__473__common/594531"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shroomish-Absorb?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Breloom",
+      "title": "Breloom - Shining Legends #5",
+      "link": "/Shining-Legends-Expansion/Breloom-Card-5",
+      "image": "https://den-cards.pokellector.com/231/Breloom.SLG.5.19489.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Breloom.SLG.5.19489.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "5/73",
+      "card_number": "5",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Breloom.SLG.5.19489.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fbreloom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Breloom+Shining+Legends+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Breloom-Hibernation-Spore-Magnum-Punch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/breloom__573__common__reverse_holo/594488"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Carnivine",
+      "title": "Carnivine - Shining Legends #6",
+      "link": "/Shining-Legends-Expansion/Carnivine-Card-6",
+      "image": "https://den-cards.pokellector.com/231/Carnivine.SLG.6.19490.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Carnivine.SLG.6.19490.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "6/73",
+      "card_number": "6",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Carnivine.SLG.6.19490.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fcarnivine"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Carnivine+Shining+Legends+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Carnivine-Flick-Poison-Crunch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/carnivine__673__uncommon/594434"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Shaymin",
+      "title": "Shaymin - Shining Legends #7",
+      "link": "/Shining-Legends-Expansion/Shaymin-Card-7",
+      "image": "https://den-cards.pokellector.com/231/Shaymin.SLG.7.19491.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shaymin.SLG.7.19491.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "7/73",
+      "card_number": "7",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shaymin.SLG.7.19491.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshaymin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shaymin+Shining+Legends+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.60",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shaymin__773__holo_rare/594481"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shaymin-Flippity-Flap-Rally-Back?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Virizion",
+      "title": "Virizion - Shining Legends #8",
+      "link": "/Shining-Legends-Expansion/Virizion-Card-8",
+      "image": "https://den-cards.pokellector.com/231/Virizion.SLG.8.19492.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Virizion.SLG.8.19492.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "8/73",
+      "card_number": "8",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Virizion.SLG.8.19492.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fvirizion"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Virizion+Shining+Legends+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/virizion__873__holo_rare/594542"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Virizion-Wrapped-in-Wind-Pike?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Shining Genesect",
+      "title": "Shining Genesect - Shining Legends #9",
+      "link": "/Shining-Legends-Expansion/Shining-Genesect-Card-9",
+      "image": "https://den-cards.pokellector.com/231/Shining-Genesect.SLG.9.19493.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Genesect.SLG.9.19493.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "9/73",
+      "card_number": "9",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Genesect.SLG.9.19493.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-genesect"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Genesect+Shining+Legends+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_genesect__973__holo_rare/594483"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€9.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Genesect-Gaia-Blaster?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Entei GX",
+      "title": "Entei GX - Shining Legends #10",
+      "link": "/Shining-Legends-Expansion/Entei-GX-Card-10",
+      "image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.10.19494.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.10.19494.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "10/73",
+      "card_number": "10",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Entei-GX.SLG.10.19494.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fentei-gx"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Entei+GX+Shining+Legends+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/entei_gx_10a73_wave_holo_promo__legends_of_johto_gx_collection/599868"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-Combustion-Fire-Fang-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Alternate Art",
+          "image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.10.20631.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Torkoal",
+      "title": "Torkoal - Shining Legends #11",
+      "link": "/Shining-Legends-Expansion/Torkoal-Card-11",
+      "image": "https://den-cards.pokellector.com/231/Torkoal.SLG.11.19495.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Torkoal.SLG.11.19495.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "11/73",
+      "card_number": "11",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Torkoal.SLG.11.19495.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Ftorkoal"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Torkoal+Shining+Legends+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/torkoal__1173__common/594537"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Torkoal-HighPressure-Heat-Flamethrower?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Larvesta",
+      "title": "Larvesta - Shining Legends #12",
+      "link": "/Shining-Legends-Expansion/Larvesta-Card-12",
+      "image": "https://den-cards.pokellector.com/231/Larvesta.SLG.12.19496.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Larvesta.SLG.12.19496.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "12/73",
+      "card_number": "12",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Larvesta.SLG.12.19496.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Flarvesta"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Larvesta+Shining+Legends+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/larvesta__1273__common/594455"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Larvesta-Flare?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Volcarona",
+      "title": "Volcarona - Shining Legends #13",
+      "link": "/Shining-Legends-Expansion/Volcarona-Card-13",
+      "image": "https://den-cards.pokellector.com/231/Volcarona.SLG.13.19497.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Volcarona.SLG.13.19497.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "13/73",
+      "card_number": "13",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Volcarona.SLG.13.19497.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fvolcarona"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Volcarona+Shining+Legends+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Volcarona-Heat-Blast?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/volcarona__1373__uncommon/594543"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Reshiram",
+      "title": "Reshiram - Shining Legends #14",
+      "link": "/Shining-Legends-Expansion/Reshiram-Card-14",
+      "image": "https://den-cards.pokellector.com/231/Reshiram.SLG.14.19305.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Reshiram.SLG.14.19305.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "14/73",
+      "card_number": "14",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Reshiram.SLG.14.19305.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Freshiram"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+Shining+Legends+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/reshiram__1473__rare__reverse_holo/594525"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.09",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Reshiram-Outrage-Scorching-Breath?referrer=MakazuCo"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Litten",
+      "title": "Litten - Shining Legends #15",
+      "link": "/Shining-Legends-Expansion/Litten-Card-15",
+      "image": "https://den-cards.pokellector.com/231/Litten.SLG.15.19498.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Litten.SLG.15.19498.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "15/73",
+      "card_number": "15",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Litten.SLG.15.19498.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Flitten"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Litten+Shining+Legends+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Litten-Live-Coal?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/litten__1573__common/594459"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Torracat",
+      "title": "Torracat - Shining Legends #16",
+      "link": "/Shining-Legends-Expansion/Torracat-Card-16",
+      "image": "https://den-cards.pokellector.com/231/Torracat.SLG.16.19499.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Torracat.SLG.16.19499.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "16/73",
+      "card_number": "16",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Torracat.SLG.16.19499.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Ftorracat"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Torracat+Shining+Legends+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/torracat__1673__common/594538"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Torracat-Swagger-Fire-Claws?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Incineroar",
+      "title": "Incineroar - Shining Legends #17",
+      "link": "/Shining-Legends-Expansion/Incineroar-Card-17",
+      "image": "https://den-cards.pokellector.com/231/Incineroar.SLG.17.19500.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Incineroar.SLG.17.19500.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "17/73",
+      "card_number": "17",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Incineroar.SLG.17.19500.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fincineroar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Incineroar+Shining+Legends+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/incineroar__1773__uncommon__reverse_holo/594505"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Incineroar-Profane-Punch-Flare-Blitz?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Totodile",
+      "title": "Totodile - Shining Legends #18",
+      "link": "/Shining-Legends-Expansion/Totodile-Card-18",
+      "image": "https://den-cards.pokellector.com/231/Totodile.SLG.18.19501.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Totodile.SLG.18.19501.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "18/73",
+      "card_number": "18",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Totodile.SLG.18.19501.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Ftotodile"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Totodile+Shining+Legends+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Totodile-Water-Gun-Bite?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.19",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/totodile__1873__common/594539"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Croconaw",
+      "title": "Croconaw - Shining Legends #19",
+      "link": "/Shining-Legends-Expansion/Croconaw-Card-19",
+      "image": "https://den-cards.pokellector.com/231/Croconaw.SLG.19.19502.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Croconaw.SLG.19.19502.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "19/73",
+      "card_number": "19",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Croconaw.SLG.19.19502.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fcroconaw"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Croconaw+Shining+Legends+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/croconaw__1973__common/594435"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Croconaw-Bite?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Feraligatr",
+      "title": "Feraligatr - Shining Legends #20",
+      "link": "/Shining-Legends-Expansion/Feraligatr-Card-20",
+      "image": "https://den-cards.pokellector.com/231/Feraligatr.SLG.20.19503.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Feraligatr.SLG.20.19503.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "20/73",
+      "card_number": "20",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Feraligatr.SLG.20.19503.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fferaligatr"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Feraligatr+Shining+Legends+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/feraligatr__2073__uncommon/594444"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Feraligatr-Crunch-Hydro-Splash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Qwilfish",
+      "title": "Qwilfish - Shining Legends #21",
+      "link": "/Shining-Legends-Expansion/Qwilfish-Card-21",
+      "image": "https://den-cards.pokellector.com/231/Qwilfish.SLG.21.19504.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Qwilfish.SLG.21.19504.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "21/73",
+      "card_number": "21",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Qwilfish.SLG.21.19504.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fqwilfish"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Qwilfish+Shining+Legends+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Qwilfish-Poison-Sting-Shocking-Sting?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/qwilfish__2173__common__reverse_holo/594523"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Buizel",
+      "title": "Buizel - Shining Legends #22",
+      "link": "/Shining-Legends-Expansion/Buizel-Card-22",
+      "image": "https://den-cards.pokellector.com/231/Buizel.SLG.22.19505.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Buizel.SLG.22.19505.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "22/73",
+      "card_number": "22",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Buizel.SLG.22.19505.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fbuizel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Buizel+Shining+Legends+22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Buizel-Razor-Fin-Water-Gun?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/buizel__2273__common/594432"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Floatzel",
+      "title": "Floatzel - Shining Legends #23",
+      "link": "/Shining-Legends-Expansion/Floatzel-Card-23",
+      "image": "https://den-cards.pokellector.com/231/Floatzel.SLG.23.19506.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Floatzel.SLG.23.19506.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "23/73",
+      "card_number": "23",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Floatzel.SLG.23.19506.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Ffloatzel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Floatzel+Shining+Legends+23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Floatzel-Razor-Fin-Aqua-Bomb?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/floatzel__2373__uncommon/594445"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Palkia",
+      "title": "Palkia - Shining Legends #24",
+      "link": "/Shining-Legends-Expansion/Palkia-Card-24",
+      "image": "https://den-cards.pokellector.com/231/Palkia.SLG.24.19507.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Palkia.SLG.24.19507.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "24/73",
+      "card_number": "24",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Palkia.SLG.24.19507.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpalkia"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Palkia+Shining+Legends+24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/palkia__2473__rare__reverse_holo/594517"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Palkia-Spiral-Drain-Aqua-Blade?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Manaphy",
+      "title": "Manaphy - Shining Legends #25",
+      "link": "/Shining-Legends-Expansion/Manaphy-Card-25",
+      "image": "https://den-cards.pokellector.com/231/Manaphy.SLG.25.19508.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Manaphy.SLG.25.19508.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "25/73",
+      "card_number": "25",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Manaphy.SLG.25.19508.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmanaphy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Manaphy+Shining+Legends+25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/manaphy__2573__holo_rare/594460"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Manaphy-Wave-Splash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/231/Manaphy.SLG.25.22560.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Keldeo",
+      "title": "Keldeo - Shining Legends #26",
+      "link": "/Shining-Legends-Expansion/Keldeo-Card-26",
+      "image": "https://den-cards.pokellector.com/231/Keldeo.SLG.26.19509.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Keldeo.SLG.26.19509.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "26/73",
+      "card_number": "26",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Keldeo.SLG.26.19509.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fkeldeo"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Keldeo+Shining+Legends+26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Keldeo-Bail-Out-Resolute-Blade?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.59",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/keldeo__2673__holo_rare/594454"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Shining Volcanion",
+      "title": "Shining Volcanion - Shining Legends #27",
+      "link": "/Shining-Legends-Expansion/Shining-Volcanion-Card-27",
+      "image": "https://den-cards.pokellector.com/231/Shining-Volcanion.SLG.27.19510.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Volcanion.SLG.27.19510.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "27/73",
+      "card_number": "27",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Volcanion.SLG.27.19510.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-volcanion"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Volcanion+Shining+Legends+27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€7.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Volcanion-Dual-Pump-Quad-Smash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_volcanion__2773__holo_rare/594530"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Pikachu",
+      "title": "Pikachu - Shining Legends #28",
+      "link": "/Shining-Legends-Expansion/Pikachu-Card-28",
+      "image": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.19511.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.19511.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "28/73",
+      "card_number": "28",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.19511.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpikachu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Shining+Legends+28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pikachu-Iron-Tail?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/pikachu__2873__common/594468"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cereal Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.28107.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Holo",
+          "image": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.32000.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Raichu GX",
+      "title": "Raichu GX - Shining Legends #29",
+      "link": "/Shining-Legends-Expansion/Raichu-GX-Card-29",
+      "image": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.29.19512.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.29.19512.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "29/73",
+      "card_number": "29",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.29.19512.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fraichu-gx"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raichu+GX+Shining+Legends+29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/raichu_gx__2973__ultra_rare/594475"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raichu-GX-Powerful-Spark-Thunder-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Voltorb",
+      "title": "Voltorb - Shining Legends #30",
+      "link": "/Shining-Legends-Expansion/Voltorb-Card-30",
+      "image": "https://den-cards.pokellector.com/231/Voltorb.SLG.30.19513.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Voltorb.SLG.30.19513.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "30/73",
+      "card_number": "30",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Voltorb.SLG.30.19513.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fvoltorb"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Voltorb+Shining+Legends+30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Voltorb-Electro-Ball?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/voltorb__3073__common/594544"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Electrode",
+      "title": "Electrode - Shining Legends #31",
+      "link": "/Shining-Legends-Expansion/Electrode-Card-31",
+      "image": "https://den-cards.pokellector.com/231/Electrode.SLG.31.19514.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Electrode.SLG.31.19514.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "31/73",
+      "card_number": "31",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Electrode.SLG.31.19514.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Felectrode"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Electrode+Shining+Legends+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Electrode-Swift?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/electrode__3173__uncommon__reverse_holo/594496"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Raikou",
+      "title": "Raikou - Shining Legends #32",
+      "link": "/Shining-Legends-Expansion/Raikou-Card-32",
+      "image": "https://den-cards.pokellector.com/231/Raikou.SLG.32.19515.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Raikou.SLG.32.19515.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "32/73",
+      "card_number": "32",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Raikou.SLG.32.19515.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fraikou"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raikou+Shining+Legends+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/raikou__3273__holo_rare/594477"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.04",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raikou-Booming-Thunder-Electric-Ball?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://den-cards.pokellector.com/231/Raikou.SLG.32.28108.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Plusle",
+      "title": "Plusle - Shining Legends #33",
+      "link": "/Shining-Legends-Expansion/Plusle-Card-33",
+      "image": "https://den-cards.pokellector.com/231/Plusle.SLG.33.19516.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Plusle.SLG.33.19516.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "33/73",
+      "card_number": "33",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Plusle.SLG.33.19516.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fplusle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Plusle+Shining+Legends+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Plusle-Tag-Team-Boost?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/plusle__3373__common/594469"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Minun",
+      "title": "Minun - Shining Legends #34",
+      "link": "/Shining-Legends-Expansion/Minun-Card-34",
+      "image": "https://den-cards.pokellector.com/231/Minun.SLG.34.19517.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Minun.SLG.34.19517.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "34/73",
+      "card_number": "34",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Minun.SLG.34.19517.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fminun"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Minun+Shining+Legends+34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.32",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/minun__3473__common/594466"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Minun-Collect-Spark?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Zekrom",
+      "title": "Zekrom - Shining Legends #35",
+      "link": "/Shining-Legends-Expansion/Zekrom-Card-35",
+      "image": "https://den-cards.pokellector.com/231/Zekrom.SLG.35.19518.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Zekrom.SLG.35.19518.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "35/73",
+      "card_number": "35",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Zekrom.SLG.35.19518.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fzekrom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Shining+Legends+35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/zekrom__3573__holo_rare/594547"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zekrom-Outrage-Storm-Blade?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Ekans",
+      "title": "Ekans - Shining Legends #36",
+      "link": "/Shining-Legends-Expansion/Ekans-Card-36",
+      "image": "https://den-cards.pokellector.com/231/Ekans.SLG.36.19519.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Ekans.SLG.36.19519.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "36/73",
+      "card_number": "36",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Ekans.SLG.36.19519.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fekans"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ekans+Shining+Legends+36&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ekans-Poison-Sting?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/ekans__3673__common/594438"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Arbok",
+      "title": "Arbok - Shining Legends #37",
+      "link": "/Shining-Legends-Expansion/Arbok-Card-37",
+      "image": "https://den-cards.pokellector.com/231/Arbok.SLG.37.19520.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Arbok.SLG.37.19520.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "37/73",
+      "card_number": "37",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Arbok.SLG.37.19520.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Farbok"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Arbok+Shining+Legends+37&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Arbok-Venomous-Fang?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/arbok__3773__uncommon__reverse_holo/594487"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Jynx",
+      "title": "Jynx - Shining Legends #38",
+      "link": "/Shining-Legends-Expansion/Jynx-Card-38",
+      "image": "https://den-cards.pokellector.com/231/Jynx.SLG.38.19521.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Jynx.SLG.38.19521.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "38/73",
+      "card_number": "38",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Jynx.SLG.38.19521.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fjynx"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jynx+Shining+Legends+38&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Jynx-Whiny-Voice-Feverish-Kiss?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/jynx__3873__common/594453"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Mewtwo GX",
+      "title": "Mewtwo GX - Shining Legends #39",
+      "link": "/Shining-Legends-Expansion/Mewtwo-GX-Card-39",
+      "image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.39.19306.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.39.19306.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "39/73",
+      "card_number": "39",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.39.19306.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.79",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmewtwo-gx"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+GX+Shining+Legends+39&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-Full-Burst-Super-Absorption-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.60",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/mewtwo_gx__3973__ultra_rare/594462"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Shining Mew",
+      "title": "Shining Mew - Shining Legends #40",
+      "link": "/Shining-Legends-Expansion/Shining-Mew-Card-40",
+      "image": "https://den-cards.pokellector.com/231/Shining-Mew.SLG.40.19522.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Mew.SLG.40.19522.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "40/73",
+      "card_number": "40",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Mew.SLG.40.19522.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$75.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-mew"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$70.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Mew+Shining+Legends+40&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€29.95",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Mew-Legendary-Guidance-Beam?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$44.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_mew__4073__holo_rare/594485"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "41": {
+      "number": "41",
+      "name": "Latios",
+      "title": "Latios - Shining Legends #41",
+      "link": "/Shining-Legends-Expansion/Latios-Card-41",
+      "image": "https://den-cards.pokellector.com/231/Latios.SLG.41.19523.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Latios.SLG.41.19523.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "41/73",
+      "card_number": "41",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Latios.SLG.41.19523.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Flatios"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Latios+Shining+Legends+41&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.04",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Latios-Break-Through-Lagoon-Flight?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.95",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/latios__4173__rare__reverse_holo/594510"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Shining Jirachi",
+      "title": "Shining Jirachi - Shining Legends #42",
+      "link": "/Shining-Legends-Expansion/Shining-Jirachi-Card-42",
+      "image": "https://den-cards.pokellector.com/231/Shining-Jirachi.SLG.42.19524.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Jirachi.SLG.42.19524.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "42/73",
+      "card_number": "42",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Jirachi.SLG.42.19524.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.84",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-jirachi"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Jirachi+Shining+Legends+42&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_jirachi__4273__holo_rare/594484"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€7.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Jirachi-Stellar-Reign?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "43": {
+      "number": "43",
+      "name": "Golett",
+      "title": "Golett - Shining Legends #43",
+      "link": "/Shining-Legends-Expansion/Golett-Card-43",
+      "image": "https://den-cards.pokellector.com/231/Golett.SLG.43.19525.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Golett.SLG.43.19525.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "43/73",
+      "card_number": "43",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Golett.SLG.43.19525.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fgolett"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Golett+Shining+Legends+43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/golett__4373__common/594446"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Golett-Mega-Punch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Golurk",
+      "title": "Golurk - Shining Legends #44",
+      "link": "/Shining-Legends-Expansion/Golurk-Card-44",
+      "image": "https://den-cards.pokellector.com/231/Golurk.SLG.44.19526.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Golurk.SLG.44.19526.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "44/73",
+      "card_number": "44",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Golurk.SLG.44.19526.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fgolurk"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Golurk+Shining+Legends+44&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/golurk__4473__uncommon__reverse_holo/594501"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Golurk-Triple-Smash-Golurk-Hammer?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Marshadow",
+      "title": "Marshadow - Shining Legends #45",
+      "link": "/Shining-Legends-Expansion/Marshadow-Card-45",
+      "image": "https://den-cards.pokellector.com/231/Marshadow.SLG.45.19527.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Marshadow.SLG.45.19527.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "45/73",
+      "card_number": "45",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Marshadow.SLG.45.19527.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmarshadow"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Marshadow+Shining+Legends+45&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/marshadow__4573__rare__reverse_holo/594515"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Marshadow-Shadow-Punch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Stunfisk",
+      "title": "Stunfisk - Shining Legends #46",
+      "link": "/Shining-Legends-Expansion/Stunfisk-Card-46",
+      "image": "https://den-cards.pokellector.com/231/Stunfisk.SLG.46.19528.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Stunfisk.SLG.46.19528.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "46/73",
+      "card_number": "46",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Stunfisk.SLG.46.19528.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fstunfisk"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stunfisk+Shining+Legends+46&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Stunfisk-Thunder-Shock-Head-Bolt?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/stunfisk__4673__common/594534"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Spiritomb",
+      "title": "Spiritomb - Shining Legends #47",
+      "link": "/Shining-Legends-Expansion/Spiritomb-Card-47",
+      "image": "https://den-cards.pokellector.com/231/Spiritomb.SLG.47.19529.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Spiritomb.SLG.47.19529.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "47/73",
+      "card_number": "47",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Spiritomb.SLG.47.19529.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fspiritomb"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Spiritomb+Shining+Legends+47&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Spiritomb-Cursed-Drop?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.32",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/spiritomb__4773__uncommon/594533"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Purrloin",
+      "title": "Purrloin - Shining Legends #48",
+      "link": "/Shining-Legends-Expansion/Purrloin-Card-48",
+      "image": "https://den-cards.pokellector.com/231/Purrloin.SLG.48.19530.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Purrloin.SLG.48.19530.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "48/73",
+      "card_number": "48",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Purrloin.SLG.48.19530.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpurrloin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Purrloin+Shining+Legends+48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Purrloin-Scratch-Tail-Rap?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/purrloin__4873__common/594473"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Liepard",
+      "title": "Liepard - Shining Legends #49",
+      "link": "/Shining-Legends-Expansion/Liepard-Card-49",
+      "image": "https://den-cards.pokellector.com/231/Liepard.SLG.49.19531.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Liepard.SLG.49.19531.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "49/73",
+      "card_number": "49",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Liepard.SLG.49.19531.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fliepard"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Liepard+Shining+Legends+49&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/liepard__4973__uncommon/594457"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Liepard-Torment-Slash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Scraggy",
+      "title": "Scraggy - Shining Legends #50",
+      "link": "/Shining-Legends-Expansion/Scraggy-Card-50",
+      "image": "https://den-cards.pokellector.com/231/Scraggy.SLG.50.19532.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Scraggy.SLG.50.19532.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "50/73",
+      "card_number": "50",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Scraggy.SLG.50.19532.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fscraggy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scraggy+Shining+Legends+50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Scraggy-Call-for-Family-Headbutt?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.32",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/scraggy__5073__common/594480"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Scrafty",
+      "title": "Scrafty - Shining Legends #51",
+      "link": "/Shining-Legends-Expansion/Scrafty-Card-51",
+      "image": "https://den-cards.pokellector.com/231/Scrafty.SLG.51.19533.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Scrafty.SLG.51.19533.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "51/73",
+      "card_number": "51",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Scrafty.SLG.51.19533.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fscrafty"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scrafty+Shining+Legends+51&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Scrafty-Dangerous-Head-Hammer-In?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/scrafty__5173__uncommon/594479"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Zorua",
+      "title": "Zorua - Shining Legends #52",
+      "link": "/Shining-Legends-Expansion/Zorua-Card-52",
+      "image": "https://den-cards.pokellector.com/231/Zorua.SLG.52.19534.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Zorua.SLG.52.19534.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "52/73",
+      "card_number": "52",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Zorua.SLG.52.19534.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fzorua"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zorua+Shining+Legends+52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zorua-Stampede-Ram?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.19",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/zorua__5273__common/594550"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Zoroark GX",
+      "title": "Zoroark GX - Shining Legends #53",
+      "link": "/Shining-Legends-Expansion/Zoroark-GX-Card-53",
+      "image": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.53.19535.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.53.19535.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "53/73",
+      "card_number": "53",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.53.19535.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fzoroark-gx"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.07",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zoroark+GX+Shining+Legends+53&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zoroark-GX-Riotous-Beating-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/zoroark_gx__5373__ultra_rare/594548"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "54": {
+      "number": "54",
+      "name": "Yveltal",
+      "title": "Yveltal - Shining Legends #54",
+      "link": "/Shining-Legends-Expansion/Yveltal-Card-54",
+      "image": "https://den-cards.pokellector.com/231/Yveltal.SLG.54.19536.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Yveltal.SLG.54.19536.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "54/73",
+      "card_number": "54",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Yveltal.SLG.54.19536.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fyveltal"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Yveltal+Shining+Legends+54&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.08",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Yveltal-Strafe-Oblivion-Wing?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.60",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/yveltal__5473__holo_rare/594546"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Hoopa",
+      "title": "Hoopa - Shining Legends #55",
+      "link": "/Shining-Legends-Expansion/Hoopa-Card-55",
+      "image": "https://den-cards.pokellector.com/231/Hoopa.SLG.55.19307.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Hoopa.SLG.55.19307.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "55/73",
+      "card_number": "55",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Hoopa.SLG.55.19307.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fhoopa"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hoopa+Shining+Legends+55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/hoopa__5573__rare__reverse_holo/594504"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Hoopa-Super-Psy-Bolt?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Shining Rayquaza",
+      "title": "Shining Rayquaza - Shining Legends #56",
+      "link": "/Shining-Legends-Expansion/Shining-Rayquaza-Card-56",
+      "image": "https://den-cards.pokellector.com/231/Shining-Rayquaza.SLG.56.19537.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Rayquaza.SLG.56.19537.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "56/73",
+      "card_number": "56",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Rayquaza.SLG.56.19537.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$63.57",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-rayquaza"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Rayquaza+Shining+Legends+56&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€18.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Rayquaza-Dragon-Pulse-Sky-Judgment?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$94.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_rayquaza__5673__holo_rare/594486"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "57": {
+      "number": "57",
+      "name": "Shining Arceus",
+      "title": "Shining Arceus - Shining Legends #57",
+      "link": "/Shining-Legends-Expansion/Shining-Arceus-Card-57",
+      "image": "https://den-cards.pokellector.com/231/Shining-Arceus.SLG.57.19538.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Shining-Arceus.SLG.57.19538.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "57/73",
+      "card_number": "57",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Shining-Arceus.SLG.57.19538.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fshining-arceus"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shining+Arceus+Shining+Legends+57&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€9.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Arceus-Ultimate-Arrow?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/shining_arceus__5773__shiny_holo_rare/594482"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "58": {
+      "number": "58",
+      "name": "Damage Mover",
+      "title": "Damage Mover - Shining Legends #58",
+      "link": "/Shining-Legends-Expansion/Damage-Mover-Card-58",
+      "image": "https://den-cards.pokellector.com/231/Damage-Mover.SLG.58.19539.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Damage-Mover.SLG.58.19539.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "58/73",
+      "card_number": "58",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Damage-Mover.SLG.58.19539.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fdamage-mover"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Damage+Mover+Shining+Legends+58&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Damage-Mover?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/damage_mover__5873__uncommon/594436"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Energy Retrieval",
+      "title": "Energy Retrieval - Shining Legends #59",
+      "link": "/Shining-Legends-Expansion/Energy-Retrieval-Card-59",
+      "image": "https://den-cards.pokellector.com/231/Energy-Retrieval.SLG.59.19540.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Energy-Retrieval.SLG.59.19540.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "59/73",
+      "card_number": "59",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Energy-Retrieval.SLG.59.19540.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fenergy-retrieval"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Energy+Retrieval+Shining+Legends+59&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/energy_retrieval__5973__uncommon/594440"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Energy-Retrieval?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Great Ball",
+      "title": "Great Ball - Shining Legends #60",
+      "link": "/Shining-Legends-Expansion/Great-Ball-Card-60",
+      "image": "https://den-cards.pokellector.com/231/Great-Ball.SLG.60.19541.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Great-Ball.SLG.60.19541.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "60/73",
+      "card_number": "60",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Great-Ball.SLG.60.19541.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fgreat-ball"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Great+Ball+Shining+Legends+60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Great-Ball?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/great_ball__6073__uncommon/594448"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Hau",
+      "title": "Hau - Shining Legends #61",
+      "link": "/Shining-Legends-Expansion/Hau-Card-61",
+      "image": "https://den-cards.pokellector.com/231/Hau.SLG.61.19542.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Hau.SLG.61.19542.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "61/73",
+      "card_number": "61",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Hau.SLG.61.19542.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fhau"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hau+Shining+Legends+61&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/hau__6173__uncommon/594449"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Hau?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Lillie",
+      "title": "Lillie - Shining Legends #62",
+      "link": "/Shining-Legends-Expansion/Lillie-Card-62",
+      "image": "https://den-cards.pokellector.com/231/Lillie.SLG.62.19543.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Lillie.SLG.62.19543.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "62/73",
+      "card_number": "62",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Lillie.SLG.62.19543.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Flillie"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lillie+Shining+Legends+62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.45",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/lillie__6273__uncommon__reverse_holo/594512"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Lillie?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Pokémon Breeder",
+      "title": "Pokémon Breeder - Shining Legends #63",
+      "link": "/Shining-Legends-Expansion/Pokmon-Breeder-Card-63",
+      "image": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.63.19558.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.63.19558.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "63/73",
+      "card_number": "63",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.63.19558.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpokemon-breeder"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pok%C3%A9mon+Breeder+Shining+Legends+63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/pokemon_breeder__6373__uncommon/594470"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Breeder-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Pokémon Catcher",
+      "title": "Pokémon Catcher - Shining Legends #64",
+      "link": "/Shining-Legends-Expansion/Pokmon-Catcher-Card-64",
+      "image": "https://den-cards.pokellector.com/231/Pokmon-Catcher.SLG.64.19559.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Pokmon-Catcher.SLG.64.19559.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "64/73",
+      "card_number": "64",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Pokmon-Catcher.SLG.64.19559.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpokemon-catcher"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pok%C3%A9mon+Catcher+Shining+Legends+64&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.32",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/pokemon_catcher__6473__uncommon/594472"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Catcher?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Sophocles",
+      "title": "Sophocles - Shining Legends #65",
+      "link": "/Shining-Legends-Expansion/Sophocles-Card-65",
+      "image": "https://den-cards.pokellector.com/231/Sophocles.SLG.65.19544.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Sophocles.SLG.65.19544.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "65/73",
+      "card_number": "65",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Sophocles.SLG.65.19544.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fsophocles"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sophocles+Shining+Legends+65&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/sophocles__6573__uncommon/594532"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Sophocles?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Super Scoop Up",
+      "title": "Super Scoop Up - Shining Legends #66",
+      "link": "/Shining-Legends-Expansion/Super-Scoop-Up-Card-66",
+      "image": "https://den-cards.pokellector.com/231/Super-Scoop-Up.SLG.66.19545.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Super-Scoop-Up.SLG.66.19545.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "66/73",
+      "card_number": "66",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Super-Scoop-Up.SLG.66.19545.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fsuper-scoop-up"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Super+Scoop+Up+Shining+Legends+66&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/super_scoop_up__6673__uncommon/594535"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Super-Scoop-Up?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Switch",
+      "title": "Switch - Shining Legends #67",
+      "link": "/Shining-Legends-Expansion/Switch-Card-67",
+      "image": "https://den-cards.pokellector.com/231/Switch.SLG.67.19546.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Switch.SLG.67.19546.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "67/73",
+      "card_number": "67",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Switch.SLG.67.19546.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fswitch"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Switch+Shining+Legends+67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.65",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/switch__6773__uncommon__reverse_holo/594556"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Switch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Ultra Ball",
+      "title": "Ultra Ball - Shining Legends #68",
+      "link": "/Shining-Legends-Expansion/Ultra-Ball-Card-68",
+      "image": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.19547.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.19547.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "68/73",
+      "card_number": "68",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.19547.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fultra-ball"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ultra+Ball+Shining+Legends+68&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/ultra_ball__6873__uncommon/594540"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.75",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ultra-Ball-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.22597.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "League Cup Promo",
+          "image": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.32001.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Staff Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Double Colorless Energy",
+      "title": "Double Colorless Energy - Shining Legends #69",
+      "link": "/Shining-Legends-Expansion/Double-Colorless-Energy-Card-69",
+      "image": "https://den-cards.pokellector.com/231/Double-Colorless-Energy.SLG.69.19548.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Double-Colorless-Energy.SLG.69.19548.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "69/73",
+      "card_number": "69",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Double-Colorless-Energy.SLG.69.19548.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fdouble-colorless-energy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Double+Colorless+Energy+Shining+Legends+69&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/double_colorless_energy__6973__uncommon/594437"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Double-Colorless-Energy?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Warp Energy",
+      "title": "Warp Energy - Shining Legends #70",
+      "link": "/Shining-Legends-Expansion/Warp-Energy-Card-70",
+      "image": "https://den-cards.pokellector.com/231/Warp-Energy.SLG.70.19549.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Warp-Energy.SLG.70.19549.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "70/73",
+      "card_number": "70",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Warp-Energy.SLG.70.19549.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fwarp-energy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Warp+Energy+Shining+Legends+70&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.40",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/warp_energy__7073__uncommon/594545"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Warp-Energy?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Entei GX",
+      "title": "Entei GX - Shining Legends #71",
+      "link": "/Shining-Legends-Expansion/Entei-GX-Card-71",
+      "image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.71.19550.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.71.19550.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "71/73",
+      "card_number": "71",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Entei-GX.SLG.71.19550.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fentei-gx-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Entei+GX+Shining+Legends+71&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/entei_gx__7173__full_art_ultra_rare/594443"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-Combustion-Fire-Fang-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Mewtwo GX",
+      "title": "Mewtwo GX - Shining Legends #72",
+      "link": "/Shining-Legends-Expansion/Mewtwo-GX-Card-72",
+      "image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.72.19551.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.72.19551.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "72/73",
+      "card_number": "72",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.72.19551.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmewtwo-gx-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+GX+Shining+Legends+72&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/mewtwo_gx__7273__full_art_ultra_rare/594464"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€6.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-Full-Burst-Super-Absorption-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Pokémon Breeder",
+      "title": "Pokémon Breeder - Shining Legends #73",
+      "link": "/Shining-Legends-Expansion/Pokmon-Breeder-Card-73",
+      "image": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.73.19560.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.73.19560.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "73/73",
+      "card_number": "73",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.73.19560.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fpokemon-breeder-full-art"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pok%C3%A9mon+Breeder+Shining+Legends+73+full+art&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/pokemon_breeder__7373__full_art_ultra_rare/594471"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.80",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Breeder-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "74": {
+      "number": "74",
+      "name": "Entei GX",
+      "title": "Entei GX - Shining Legends #74",
+      "link": "/Shining-Legends-Expansion/Entei-GX-Card-74",
+      "image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.74.19552.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Entei-GX.SLG.74.19552.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "74/73",
+      "card_number": "74",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Entei-GX.SLG.74.19552.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fentei-gx-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$23.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Entei+GX+Shining+Legends+74&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$22.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/entei_gx__7473__secret_rare/594442"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€9.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-Combustion-Fire-Fang-V-3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Raichu GX",
+      "title": "Raichu GX - Shining Legends #75",
+      "link": "/Shining-Legends-Expansion/Raichu-GX-Card-75",
+      "image": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.75.19553.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.75.19553.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "75/73",
+      "card_number": "75",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.75.19553.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$33.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fraichu-gx-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raichu+GX+Shining+Legends+75&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/raichu_gx__2973__ultra_rare/594475"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€8.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raichu-GX-Powerful-Spark-Thunder-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Mewtwo GX",
+      "title": "Mewtwo GX - Shining Legends #76",
+      "link": "/Shining-Legends-Expansion/Mewtwo-GX-Card-76",
+      "image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.76.19554.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.76.19554.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "76/73",
+      "card_number": "76",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.76.19554.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$59.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmewtwo-gx-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$81.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+GX+Shining+Legends+76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$68.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/mewtwo_gx__7673__secret_rare/594463"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€60.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-Full-Burst-Super-Absorption-V-3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Zoroark GX",
+      "title": "Zoroark GX - Shining Legends #77",
+      "link": "/Shining-Legends-Expansion/Zoroark-GX-Card-77",
+      "image": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.77.19555.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.77.19555.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "77/73",
+      "card_number": "77",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.77.19555.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fzoroark-gx-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$79.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zoroark+GX+Shining+Legends+77&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/zoroark_gx__7773__secret_rare/594549"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€6.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zoroark-GX-Riotous-Beating?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "77a Alternate Art",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Mewtwo GX",
+      "title": "Mewtwo GX - Shining Legends #78",
+      "link": "/Shining-Legends-Expansion/Mewtwo-GX-Card-78",
+      "image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.78.19556.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.78.19556.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Shining Legends",
+      "set_link": "/Shining-Legends-Expansion/",
+      "position": "78/73",
+      "card_number": "78",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.78.19556.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$448.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fshining-legends%2Fmewtwo-gx-secret-shining"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$485.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+GX+Shining+Legends+78&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$514.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_shining_legends/mewtwo_gx__7873__secret_rare/594465"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€50.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-Full-Burst-Super-Absorption-V-4?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 05:27:53"
+}

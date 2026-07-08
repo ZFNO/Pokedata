@@ -1,0 +1,840 @@
+{
+  "title": "Brilliant Stars - Trainer Gallery Set",
+  "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.logo.349.png",
+  "symbol": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.symbol.349.png",
+  "scraped": true,
+  "cards": {
+    "TG1": {
+      "number": "TG1",
+      "name": "Flareon",
+      "title": "Flareon - Brilliant Stars - Trainer Gallery #1",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Flareon-Card-TG1",
+      "image": "https://den-cards.pokellector.com/349/Flareon.SWSH09.TG1.42896.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Flareon.SWSH09.TG1.42896.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG1",
+      "image_full": "https://den-cards.pokellector.com/349/Flareon.SWSH09.TG1.42896.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fflareon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flareon+Brilliant+Stars+TG1+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG2": {
+      "number": "TG2",
+      "name": "Vaporeon",
+      "title": "Vaporeon - Brilliant Stars - Trainer Gallery #2",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Vaporeon-Card-TG2",
+      "image": "https://den-cards.pokellector.com/349/Vaporeon.SWSH09.TG2.42897.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Vaporeon.SWSH09.TG2.42897.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG2",
+      "image_full": "https://den-cards.pokellector.com/349/Vaporeon.SWSH09.TG2.42897.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fvaporeon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vaporeon+Brilliant+Stars+TG2+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG3": {
+      "number": "TG3",
+      "name": "Octillery",
+      "title": "Octillery - Brilliant Stars - Trainer Gallery #3",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Octillery-Card-TG3",
+      "image": "https://den-cards.pokellector.com/349/Octillery.SWSH09.TG3.42898.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Octillery.SWSH09.TG3.42898.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG3",
+      "image_full": "https://den-cards.pokellector.com/349/Octillery.SWSH09.TG3.42898.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Foctillery"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Octillery+Brilliant+Stars+TG3+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG4": {
+      "number": "TG4",
+      "name": "Jolteon",
+      "title": "Jolteon - Brilliant Stars - Trainer Gallery #4",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Jolteon-Card-TG4",
+      "image": "https://den-cards.pokellector.com/349/Jolteon.SWSH09.TG4.42899.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Jolteon.SWSH09.TG4.42899.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG4",
+      "image_full": "https://den-cards.pokellector.com/349/Jolteon.SWSH09.TG4.42899.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fjolteon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jolteon+Brilliant+Stars+TG4+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG5": {
+      "number": "TG5",
+      "name": "Zekrom",
+      "title": "Zekrom - Brilliant Stars - Trainer Gallery #5",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Zekrom-Card-TG5",
+      "image": "https://den-cards.pokellector.com/349/Zekrom.SWSH09.TG5.42709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Zekrom.SWSH09.TG5.42709.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG5",
+      "image_full": "https://den-cards.pokellector.com/349/Zekrom.SWSH09.TG5.42709.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fzekrom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Brilliant+Stars+TG5+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Tropius-BRS005?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG6": {
+      "number": "TG6",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Brilliant Stars - Trainer Gallery #6",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Dusknoir-Card-TG6",
+      "image": "https://den-cards.pokellector.com/349/Dusknoir.SWSH09.TG6.42900.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Dusknoir.SWSH09.TG6.42900.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG6",
+      "image_full": "https://den-cards.pokellector.com/349/Dusknoir.SWSH09.TG6.42900.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fdusknoir"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+Brilliant+Stars+TG6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG7": {
+      "number": "TG7",
+      "name": "Dedenne",
+      "title": "Dedenne - Brilliant Stars - Trainer Gallery #7",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Dedenne-Card-TG7",
+      "image": "https://den-cards.pokellector.com/349/Dedenne.SWSH09.TG7.42901.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Dedenne.SWSH09.TG7.42901.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG7",
+      "image_full": "https://den-cards.pokellector.com/349/Dedenne.SWSH09.TG7.42901.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fdedenne"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dedenne+Brilliant+Stars+TG7+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG8": {
+      "number": "TG8",
+      "name": "Alcremie",
+      "title": "Alcremie - Brilliant Stars - Trainer Gallery #8",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Alcremie-Card-TG8",
+      "image": "https://den-cards.pokellector.com/349/Alcremie.SWSH09.TG8.42902.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Alcremie.SWSH09.TG8.42902.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG8",
+      "image_full": "https://den-cards.pokellector.com/349/Alcremie.SWSH09.TG8.42902.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Falcremie"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Alcremie+Brilliant+Stars+TG8+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG9": {
+      "number": "TG9",
+      "name": "Ariados",
+      "title": "Ariados - Brilliant Stars - Trainer Gallery #9",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Ariados-Card-TG9",
+      "image": "https://den-cards.pokellector.com/349/Ariados.SWSH09.TG9.42705.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Ariados.SWSH09.TG9.42705.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG9",
+      "image_full": "https://den-cards.pokellector.com/349/Ariados.SWSH09.TG9.42705.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fariados"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ariados+Brilliant+Stars+TG9+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Burmy-BRS009?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG10": {
+      "number": "TG10",
+      "name": "Houndoom",
+      "title": "Houndoom - Brilliant Stars - Trainer Gallery #10",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Houndoom-Card-TG10",
+      "image": "https://den-cards.pokellector.com/349/Houndoom.SWSH09.TG10.42903.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Houndoom.SWSH09.TG10.42903.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG10",
+      "image_full": "https://den-cards.pokellector.com/349/Houndoom.SWSH09.TG10.42903.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fhoundoom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndoom+Brilliant+Stars+TG10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG11": {
+      "number": "TG11",
+      "name": "Eevee",
+      "title": "Eevee - Brilliant Stars - Trainer Gallery #11",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Eevee-Card-TG11",
+      "image": "https://den-cards.pokellector.com/349/Eevee.SWSH09.TG11.42904.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Eevee.SWSH09.TG11.42904.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG11",
+      "image_full": "https://den-cards.pokellector.com/349/Eevee.SWSH09.TG11.42904.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Feevee"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eevee+Brilliant+Stars+TG11+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG12": {
+      "number": "TG12",
+      "name": "Oranguru",
+      "title": "Oranguru - Brilliant Stars - Trainer Gallery #12",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Oranguru-Card-TG12",
+      "image": "https://den-cards.pokellector.com/349/Oranguru.SWSH09.TG12.42905.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Oranguru.SWSH09.TG12.42905.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG12",
+      "image_full": "https://den-cards.pokellector.com/349/Oranguru.SWSH09.TG12.42905.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Foranguru"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oranguru+Brilliant+Stars+TG12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG13": {
+      "number": "TG13",
+      "name": "Boltund V",
+      "title": "Boltund V - Brilliant Stars - Trainer Gallery #13",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Boltund-V-Card-TG13",
+      "image": "https://den-cards.pokellector.com/349/Boltund-V.SWSH09.TG13.42700.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Boltund-V.SWSH09.TG13.42700.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG13",
+      "image_full": "https://den-cards.pokellector.com/349/Boltund-V.SWSH09.TG13.42700.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fboltund-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Boltund+V+Brilliant+Stars+TG13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Shaymin-V-V1-BRS013?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG14": {
+      "number": "TG14",
+      "name": "Sylveon V",
+      "title": "Sylveon V - Brilliant Stars - Trainer Gallery #14",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Sylveon-V-Card-TG14",
+      "image": "https://den-cards.pokellector.com/349/Sylveon-V.SWSH09.TG14.42873.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Sylveon-V.SWSH09.TG14.42873.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG14",
+      "image_full": "https://den-cards.pokellector.com/349/Sylveon-V.SWSH09.TG14.42873.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$52.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsylveon-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sylveon+V+Brilliant+Stars+TG14+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG15": {
+      "number": "TG15",
+      "name": "Sylveon VMAX",
+      "title": "Sylveon VMAX - Brilliant Stars - Trainer Gallery #15",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Sylveon-VMAX-Card-TG15",
+      "image": "https://den-cards.pokellector.com/349/Sylveon-VMAX.SWSH09.TG15.42874.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Sylveon-VMAX.SWSH09.TG15.42874.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG15",
+      "image_full": "https://den-cards.pokellector.com/349/Sylveon-VMAX.SWSH09.TG15.42874.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$52.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsylveon-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sylveon+VMAX+Brilliant+Stars+TG15+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG16": {
+      "number": "TG16",
+      "name": "Mimikyu V",
+      "title": "Mimikyu V - Brilliant Stars - Trainer Gallery #16",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Mimikyu-V-Card-TG16",
+      "image": "https://den-cards.pokellector.com/349/Mimikyu-V.SWSH09.TG16.42906.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Mimikyu-V.SWSH09.TG16.42906.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG16",
+      "image_full": "https://den-cards.pokellector.com/349/Mimikyu-V.SWSH09.TG16.42906.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$53.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fmimikyu-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+V+Brilliant+Stars+TG16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG17": {
+      "number": "TG17",
+      "name": "Mimikyu VMAX",
+      "title": "Mimikyu VMAX - Brilliant Stars - Trainer Gallery #17",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Mimikyu-VMAX-Card-TG17",
+      "image": "https://den-cards.pokellector.com/349/Mimikyu-VMAX.SWSH09.TG17.42872.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Mimikyu-VMAX.SWSH09.TG17.42872.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG17",
+      "image_full": "https://den-cards.pokellector.com/349/Mimikyu-VMAX.SWSH09.TG17.42872.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fmimikyu-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+VMAX+Brilliant+Stars+TG17+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG18": {
+      "number": "TG18",
+      "name": "Single Strike Urshifu V",
+      "title": "Single Strike Urshifu V - Brilliant Stars - Trainer Gallery #18",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Single-Strike-Urshifu-V-Card-TG18",
+      "image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-V.SWSH09.TG18.42710.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-V.SWSH09.TG18.42710.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG18",
+      "image_full": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-V.SWSH09.TG18.42710.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsingle-strike-urshifu-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Single+Strike+Urshifu+V+Brilliant+Stars+TG18+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG19": {
+      "number": "TG19",
+      "name": "Single Strike Urshifu VMAX",
+      "title": "Single Strike Urshifu VMAX - Brilliant Stars - Trainer Gallery #19",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Single-Strike-Urshifu-VMAX-Card-TG19",
+      "image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG19.42907.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG19.42907.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG19",
+      "image_full": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG19.42907.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsingle-strike-urshifu-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Single+Strike+Urshifu+VMAX+Brilliant+Stars+TG19+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG20": {
+      "number": "TG20",
+      "name": "Rapid Strike Urshifu V",
+      "title": "Rapid Strike Urshifu V - Brilliant Stars - Trainer Gallery #20",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Rapid-Strike-Urshifu-V-Card-TG20",
+      "image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-V.SWSH09.TG20.42908.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-V.SWSH09.TG20.42908.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG20",
+      "image_full": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-V.SWSH09.TG20.42908.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Frapid-strike-urshifu-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rapid+Strike+Urshifu+V+Brilliant+Stars+TG20+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG21": {
+      "number": "TG21",
+      "name": "Rapid Strike Urshifu VMAX",
+      "title": "Rapid Strike Urshifu VMAX - Brilliant Stars - Trainer Gallery #21",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Rapid-Strike-Urshifu-VMAX-Card-TG21",
+      "image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG21.42909.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG21.42909.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG21",
+      "image_full": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG21.42909.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Frapid-strike-urshifu-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rapid+Strike+Urshifu+VMAX+Brilliant+Stars+TG21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG22": {
+      "number": "TG22",
+      "name": "Umbreon V",
+      "title": "Umbreon V - Brilliant Stars - Trainer Gallery #22",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Umbreon-V-Card-TG22",
+      "image": "https://den-cards.pokellector.com/349/Umbreon-V.SWSH09.TG22.42875.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Umbreon-V.SWSH09.TG22.42875.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG22",
+      "image_full": "https://den-cards.pokellector.com/349/Umbreon-V.SWSH09.TG22.42875.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$43.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fumbreon-v"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Umbreon+V+Brilliant+Stars+TG22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG23": {
+      "number": "TG23",
+      "name": "Umbreon VMAX",
+      "title": "Umbreon VMAX - Brilliant Stars - Trainer Gallery #23",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Umbreon-VMAX-Card-TG23",
+      "image": "https://den-cards.pokellector.com/349/Umbreon-VMAX.SWSH09.TG23.42876.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Umbreon-VMAX.SWSH09.TG23.42876.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG23",
+      "image_full": "https://den-cards.pokellector.com/349/Umbreon-VMAX.SWSH09.TG23.42876.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fumbreon-vmax"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$28.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Umbreon+VMAX+Brilliant+Stars+TG23+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG24": {
+      "number": "TG24",
+      "name": "Acerola's Premonition",
+      "title": "Acerola's Premonition - Brilliant Stars - Trainer Gallery #24",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Acerolas-Premonition-Card-TG24",
+      "image": "https://den-cards.pokellector.com/349/Acerolas-Premonition.SWSH09.TG24.42910.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Acerolas-Premonition.SWSH09.TG24.42910.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG24",
+      "image_full": "https://den-cards.pokellector.com/349/Acerolas-Premonition.SWSH09.TG24.42910.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Facerolas-premonition"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Acerola%27s+Premonition+Brilliant+Stars+TG24+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG25": {
+      "number": "TG25",
+      "name": "Cafe Master",
+      "title": "Cafe Master - Brilliant Stars - Trainer Gallery #25",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Cafe-Master-Card-TG25",
+      "image": "https://den-cards.pokellector.com/349/Cafe-Master.SWSH09.TG25.42706.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Cafe-Master.SWSH09.TG25.42706.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG25",
+      "image_full": "https://den-cards.pokellector.com/349/Cafe-Master.SWSH09.TG25.42706.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F264203%2Fpokemon-swsh09-brilliant-stars-trainer-gallery-cafe-master"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cafe+Master+Brilliant+Stars+TG25+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Monferno-BRS025?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG26": {
+      "number": "TG26",
+      "name": "Gloria",
+      "title": "Gloria - Brilliant Stars - Trainer Gallery #26",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Gloria-Card-TG26",
+      "image": "https://den-cards.pokellector.com/349/Gloria.SWSH09.TG26.42911.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Gloria.SWSH09.TG26.42911.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG26",
+      "image_full": "https://den-cards.pokellector.com/349/Gloria.SWSH09.TG26.42911.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.77",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fgloria"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gloria+Brilliant+Stars+TG26+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG27": {
+      "number": "TG27",
+      "name": "Rapid Strike Style Mustard",
+      "title": "Rapid Strike Style Mustard - Brilliant Stars - Trainer Gallery #27",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Rapid-Strike-Style-Mustard-Card-TG27",
+      "image": "https://den-cards.pokellector.com/349/Rapid-Strike-Style-Mustard.SWSH09.TG27.42912.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Rapid-Strike-Style-Mustard.SWSH09.TG27.42912.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG27",
+      "image_full": "https://den-cards.pokellector.com/349/Rapid-Strike-Style-Mustard.SWSH09.TG27.42912.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Frapid-strike-style-mustard"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rapid+Strike+Style+Mustard+Brilliant+Stars+TG27+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG28": {
+      "number": "TG28",
+      "name": "Single Strike Style Mustard",
+      "title": "Single Strike Style Mustard - Brilliant Stars - Trainer Gallery #28",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Single-Strike-Style-Mustard-Card-TG28",
+      "image": "https://den-cards.pokellector.com/349/Single-Strike-Style-Mustard.SWSH09.TG28.42913.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Single-Strike-Style-Mustard.SWSH09.TG28.42913.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG28",
+      "image_full": "https://den-cards.pokellector.com/349/Single-Strike-Style-Mustard.SWSH09.TG28.42913.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsingle-strike-style-mustard"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Single+Strike+Style+Mustard+Brilliant+Stars+TG28+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG29": {
+      "number": "TG29",
+      "name": "Single Strike Urshifu VMAX",
+      "title": "Single Strike Urshifu VMAX - Brilliant Stars - Trainer Gallery #29",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Single-Strike-Urshifu-VMAX-Card-TG29",
+      "image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG29.42914.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG29.42914.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG29",
+      "image_full": "https://den-cards.pokellector.com/349/Single-Strike-Urshifu-VMAX.SWSH09.TG29.42914.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Fsingle-strike-urshifu-vmax-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Single+Strike+Urshifu+VMAX+Brilliant+Stars+TG29+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "TG30": {
+      "number": "TG30",
+      "name": "Rapid Strike Urshifu VMAX",
+      "title": "Rapid Strike Urshifu VMAX - Brilliant Stars - Trainer Gallery #30",
+      "link": "/Brilliant-Stars-Trainer-Gallery-Expansion/Rapid-Strike-Urshifu-VMAX-Card-TG30",
+      "image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG30.42915.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG30.42915.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars - Trainer Gallery",
+      "set_link": "/Brilliant-Stars-Trainer-Gallery-Expansion/",
+      "position": "TG30",
+      "image_full": "https://den-cards.pokellector.com/349/Rapid-Strike-Urshifu-VMAX.SWSH09.TG30.42915.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars-trainer-gallery%2Frapid-strike-urshifu-vmax-secret"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rapid+Strike+Urshifu+VMAX+Brilliant+Stars+TG30+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 01:06:07"
+}

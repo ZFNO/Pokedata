@@ -1,0 +1,642 @@
+{
+  "title": "Scarlet & Violet Energies Set",
+  "link": "/Scarlet-Violet-Energies-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.logo.404.png",
+  "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.symbol.404.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Basic Grass Energy",
+      "title": "Basic Grass Energy - Scarlet & Violet Energies #1",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Grass-Energy-Card-1",
+      "image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.1.54429.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.1.54429.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "1/24",
+      "card_number": "1",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.1.54429.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475425%2Fpokemon-sve-scarlet-and-violet-energies-basic-grass-energy-001"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Basic Fire Energy",
+      "title": "Basic Fire Energy - Scarlet & Violet Energies #2",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fire-Energy-Card-2",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.2.54430.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.2.54430.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "2/24",
+      "card_number": "2",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.2.54430.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475426%2Fpokemon-sve-scarlet-and-violet-energies-basic-fire-energy-002"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Basic Water Energy",
+      "title": "Basic Water Energy - Scarlet & Violet Energies #3",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Water-Energy-Card-3",
+      "image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.3.54431.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.3.54431.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "3/24",
+      "card_number": "3",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.3.54431.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475427%2Fpokemon-sve-scarlet-and-violet-energies-basic-water-energy-003"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Basic Electric Energy",
+      "title": "Basic Electric Energy - Scarlet & Violet Energies #4",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Electric-Energy-Card-4",
+      "image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.4.54432.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.4.54432.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "4/24",
+      "card_number": "4",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.4.54432.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475428%2Fpokemon-sve-scarlet-and-violet-energies-basic-lightning-energy-004"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Basic Psychic Energy",
+      "title": "Basic Psychic Energy - Scarlet & Violet Energies #5",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Psychic-Energy-Card-5",
+      "image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.5.54433.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.5.54433.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "5/24",
+      "card_number": "5",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.5.54433.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475429%2Fpokemon-sve-scarlet-and-violet-energies-basic-psychic-energy-005"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Basic Fighting Energy",
+      "title": "Basic Fighting Energy - Scarlet & Violet Energies #6",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fighting-Energy-Card-6",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.6.54434.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.6.54434.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "6/24",
+      "card_number": "6",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.6.54434.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475430%2Fpokemon-sve-scarlet-and-violet-energies-basic-fighting-energy-006"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Basic Dark Energy",
+      "title": "Basic Dark Energy - Scarlet & Violet Energies #7",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Dark-Energy-Card-7",
+      "image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.7.54435.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.7.54435.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "7/24",
+      "card_number": "7",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.7.54435.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475431%2Fpokemon-sve-scarlet-and-violet-energies-basic-darkness-energy-007"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Basic Steel Energy",
+      "title": "Basic Steel Energy - Scarlet & Violet Energies #8",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Steel-Energy-Card-8",
+      "image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.8.54436.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.8.54436.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "8/24",
+      "card_number": "8",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.8.54436.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475432%2Fpokemon-sve-scarlet-and-violet-energies-basic-metal-energy-008"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Basic Grass Energy",
+      "title": "Basic Grass Energy - Scarlet & Violet Energies #9",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Grass-Energy-Card-9",
+      "image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.9.54437.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.9.54437.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "9/24",
+      "card_number": "9",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.9.54437.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578864%2Fpokemon-sve-scarlet-and-violet-energies-basic-grass-energy-009"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Basic Fire Energy",
+      "title": "Basic Fire Energy - Scarlet & Violet Energies #10",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fire-Energy-Card-10",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.10.54438.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.10.54438.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "10/24",
+      "card_number": "10",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.10.54438.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578863%2Fpokemon-sve-scarlet-and-violet-energies-basic-fire-energy-010"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Basic Water Energy",
+      "title": "Basic Water Energy - Scarlet & Violet Energies #11",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Water-Energy-Card-11",
+      "image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.11.54439.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.11.54439.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "11/24",
+      "card_number": "11",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.11.54439.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578862%2Fpokemon-sve-scarlet-and-violet-energies-basic-water-energy-011"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Basic Electric Energy",
+      "title": "Basic Electric Energy - Scarlet & Violet Energies #12",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Electric-Energy-Card-12",
+      "image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.12.54440.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.12.54440.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "12/24",
+      "card_number": "12",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.12.54440.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578866%2Fpokemon-sve-scarlet-and-violet-energies-basic-lightning-energy-012"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Basic Psychic Energy",
+      "title": "Basic Psychic Energy - Scarlet & Violet Energies #13",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Psychic-Energy-Card-13",
+      "image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.13.54441.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.13.54441.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "13/24",
+      "card_number": "13",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.13.54441.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578865%2Fpokemon-sve-scarlet-and-violet-energies-basic-psychic-energy-013"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Basic Fighting Energy",
+      "title": "Basic Fighting Energy - Scarlet & Violet Energies #14",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fighting-Energy-Card-14",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.14.54442.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.14.54442.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "14/24",
+      "card_number": "14",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.14.54442.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578867%2Fpokemon-sve-scarlet-and-violet-energies-basic-fighting-energy-014"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Basic Dark Energy",
+      "title": "Basic Dark Energy - Scarlet & Violet Energies #15",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Dark-Energy-Card-15",
+      "image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.15.54443.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.15.54443.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "15/24",
+      "card_number": "15",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.15.54443.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578868%2Fpokemon-sve-scarlet-and-violet-energies-basic-darkness-energy-015"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Basic Steel Energy",
+      "title": "Basic Steel Energy - Scarlet & Violet Energies #16",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Steel-Energy-Card-16",
+      "image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.16.54444.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.16.54444.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "16/24",
+      "card_number": "16",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.16.54444.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578869%2Fpokemon-sve-scarlet-and-violet-energies-basic-metal-energy-016"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Basic Grass Energy",
+      "title": "Basic Grass Energy - Scarlet & Violet Energies #17",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Grass-Energy-Card-17",
+      "image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.17.59259.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.17.59259.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "17/24",
+      "card_number": "17",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Grass-Energy.SVE.17.59259.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645286%2Fpokemon-sve-scarlet-and-violet-energies-basic-grass-energy-017"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Basic Fire Energy",
+      "title": "Basic Fire Energy - Scarlet & Violet Energies #18",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fire-Energy-Card-18",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.18.59260.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.18.59260.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "18/24",
+      "card_number": "18",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fire-Energy.SVE.18.59260.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645287%2Fpokemon-sve-scarlet-and-violet-energies-basic-fire-energy-018"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Basic Water Energy",
+      "title": "Basic Water Energy - Scarlet & Violet Energies #19",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Water-Energy-Card-19",
+      "image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.19.59261.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.19.59261.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "19/24",
+      "card_number": "19",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Water-Energy.SVE.19.59261.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645288%2Fpokemon-sve-scarlet-and-violet-energies-basic-water-energy-019"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Basic Electric Energy",
+      "title": "Basic Electric Energy - Scarlet & Violet Energies #20",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Electric-Energy-Card-20",
+      "image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.20.59262.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.20.59262.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "20/24",
+      "card_number": "20",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Electric-Energy.SVE.20.59262.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645289%2Fpokemon-sve-scarlet-and-violet-energies-basic-lightning-energy-020"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Basic Psychic Energy",
+      "title": "Basic Psychic Energy - Scarlet & Violet Energies #21",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Psychic-Energy-Card-21",
+      "image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.21.59263.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.21.59263.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "21/24",
+      "card_number": "21",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Psychic-Energy.SVE.21.59263.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645301%2Fpokemon-sve-scarlet-and-violet-energies-basic-psychic-energy-021"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Basic Fighting Energy",
+      "title": "Basic Fighting Energy - Scarlet & Violet Energies #22",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Fighting-Energy-Card-22",
+      "image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.22.59264.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.22.59264.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "22/24",
+      "card_number": "22",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Fighting-Energy.SVE.22.59264.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645302%2Fpokemon-sve-scarlet-and-violet-energies-basic-fighting-energy-022"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Basic Dark Energy",
+      "title": "Basic Dark Energy - Scarlet & Violet Energies #23",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Dark-Energy-Card-23",
+      "image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.23.59265.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.23.59265.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "23/24",
+      "card_number": "23",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Dark-Energy.SVE.23.59265.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645303%2Fpokemon-sve-scarlet-and-violet-energies-basic-darkness-energy-023"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Basic Steel Energy",
+      "title": "Basic Steel Energy - Scarlet & Violet Energies #24",
+      "link": "/Scarlet-Violet-Energies-Expansion/Basic-Steel-Energy-Card-24",
+      "image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.24.59266.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.24.59266.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet Energies",
+      "set_link": "/Scarlet-Violet-Energies-Expansion/",
+      "position": "24/24",
+      "card_number": "24",
+      "total_cards": "24",
+      "image_full": "https://den-cards.pokellector.com/404/Basic-Steel-Energy.SVE.24.59266.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F645304%2Fpokemon-sve-scarlet-and-violet-energies-basic-metal-energy-024"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-27 23:03:09"
+}

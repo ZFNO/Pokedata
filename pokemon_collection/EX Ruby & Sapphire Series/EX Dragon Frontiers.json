@@ -1,0 +1,4674 @@
+{
+  "title": "EX Dragon Frontiers Set",
+  "link": "/EX-Dragon-Frontiers-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.logo.66.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.symbol.66.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ampharos  (delta species)",
+      "title": "Ampharos  (delta species) - EX Dragon Frontiers #1",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ampharos-delta-species-Card-1",
+      "image": "https://den-cards.pokellector.com/66/Ampharos-delta-species.DF.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ampharos-delta-species.DF.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "1/101",
+      "card_number": "1",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ampharos-delta-species.DF.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$29.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fampharos-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.49",
+          "link": "http://www.trollandtoad.com/p1124011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ampharos++%28delta+species%29+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.95",
+          "link": "http://stop2shop.com/df-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Feraligatr  (delta species)",
+      "title": "Feraligatr  (delta species) - EX Dragon Frontiers #2",
+      "link": "/EX-Dragon-Frontiers-Expansion/Feraligatr-delta-species-Card-2",
+      "image": "https://den-cards.pokellector.com/66/Feraligatr-.DF.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Feraligatr-.DF.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "2/101",
+      "card_number": "2",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Feraligatr-.DF.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$42.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fferaligatr-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.99",
+          "link": "http://www.trollandtoad.com/p157021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Feraligatr++%28delta+species%29+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.95",
+          "link": "http://stop2shop.com/df-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Heracross  (delta species)",
+      "title": "Heracross  (delta species) - EX Dragon Frontiers #3",
+      "link": "/EX-Dragon-Frontiers-Expansion/Heracross-delta-species-Card-3",
+      "image": "https://den-cards.pokellector.com/66/Heracross-delta-species.DF.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Heracross-delta-species.DF.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "3/101",
+      "card_number": "3",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Heracross-delta-species.DF.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fheracross-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.69",
+          "link": "http://www.trollandtoad.com/p157081.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Heracross++%28delta+species%29+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/df-003.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Meganium  (delta species)",
+      "title": "Meganium  (delta species) - EX Dragon Frontiers #4",
+      "link": "/EX-Dragon-Frontiers-Expansion/Meganium-delta-species-Card-4",
+      "image": "https://den-cards.pokellector.com/66/Meganium-delta-species.DF.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Meganium-delta-species.DF.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "4/101",
+      "card_number": "4",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Meganium-delta-species.DF.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmeganium-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.29",
+          "link": "http://www.trollandtoad.com/p157239.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Meganium++%28delta+species%29+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/df-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Milotic  (delta species)",
+      "title": "Milotic  (delta species) - EX Dragon Frontiers #5",
+      "link": "/EX-Dragon-Frontiers-Expansion/Milotic-delta-species-Card-5",
+      "image": "https://den-cards.pokellector.com/66/Milotic-.DF.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Milotic-.DF.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "5/101",
+      "card_number": "5",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Milotic-.DF.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$72.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmilotic-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.09",
+          "link": "http://www.trollandtoad.com/p157270.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Milotic++%28delta+species%29+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/df-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Nidoking  (delta species)",
+      "title": "Nidoking  (delta species) - EX Dragon Frontiers #6",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidoking-delta-species-Card-6",
+      "image": "https://den-cards.pokellector.com/66/Nidoking-.DF.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidoking-.DF.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "6/101",
+      "card_number": "6",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidoking-.DF.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidoking-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.95",
+          "link": "http://www.trollandtoad.com/p157286.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Nidoking++%28delta+species%29+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/df-006.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Nidoqueen  (delta species)",
+      "title": "Nidoqueen  (delta species) - EX Dragon Frontiers #7",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidoqueen-delta-species-Card-7",
+      "image": "https://den-cards.pokellector.com/66/Nidoqueen-delta-species.DF.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidoqueen-delta-species.DF.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "7/101",
+      "card_number": "7",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidoqueen-delta-species.DF.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidoqueen-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.49",
+          "link": "http://www.trollandtoad.com/p157287.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Nidoqueen++%28delta+species%29+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.95",
+          "link": "http://stop2shop.com/df-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Ninetales  (delta species)",
+      "title": "Ninetales  (delta species) - EX Dragon Frontiers #8",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ninetales-delta-species-Card-8",
+      "image": "https://den-cards.pokellector.com/66/Ninetales-delta-species.DF.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ninetales-delta-species.DF.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "8/101",
+      "card_number": "8",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ninetales-delta-species.DF.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$89.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fninetales-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$49.09",
+          "link": "http://www.trollandtoad.com/p157292.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ninetales++%28delta+species%29+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/df-008.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Pinsir  (delta species)",
+      "title": "Pinsir  (delta species) - EX Dragon Frontiers #9",
+      "link": "/EX-Dragon-Frontiers-Expansion/Pinsir-delta-species-Card-9",
+      "image": "https://den-cards.pokellector.com/66/Pinsir-.DF.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Pinsir-.DF.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "9/101",
+      "card_number": "9",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Pinsir-.DF.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fpinsir-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.19",
+          "link": "http://www.trollandtoad.com/p157332.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Pinsir++%28delta+species%29+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.95",
+          "link": "http://stop2shop.com/df-009.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Snorlax  (delta species)",
+      "title": "Snorlax  (delta species) - EX Dragon Frontiers #10",
+      "link": "/EX-Dragon-Frontiers-Expansion/Snorlax-delta-species-Card-10",
+      "image": "https://den-cards.pokellector.com/66/Snorlax-delta-species.DF.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Snorlax-delta-species.DF.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "10/101",
+      "card_number": "10",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Snorlax-delta-species.DF.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$110.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fsnorlax-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$49.99",
+          "link": "http://www.trollandtoad.com/p157473.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Snorlax++%28delta+species%29+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/df-010.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Togetic  (delta species)",
+      "title": "Togetic  (delta species) - EX Dragon Frontiers #11",
+      "link": "/EX-Dragon-Frontiers-Expansion/Togetic-delta-species-Card-11",
+      "image": "https://den-cards.pokellector.com/66/Togetic-.DF.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Togetic-.DF.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "11/101",
+      "card_number": "11",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Togetic-.DF.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftogetic-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p157537.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Togetic++%28delta+species%29+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.95",
+          "link": "http://stop2shop.com/df-011.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Typhlosion  (delta species)",
+      "title": "Typhlosion  (delta species) - EX Dragon Frontiers #12",
+      "link": "/EX-Dragon-Frontiers-Expansion/Typhlosion-delta-species-Card-12",
+      "image": "https://den-cards.pokellector.com/66/Typhlosion-.DF.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Typhlosion-.DF.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "12/101",
+      "card_number": "12",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Typhlosion-.DF.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$29.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftyphlosion-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$20.59",
+          "link": "http://www.trollandtoad.com/p157560.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Typhlosion++%28delta+species%29+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.95",
+          "link": "http://stop2shop.com/df-012.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Arbok  (delta species)",
+      "title": "Arbok  (delta species) - EX Dragon Frontiers #13",
+      "link": "/EX-Dragon-Frontiers-Expansion/Arbok-delta-species-Card-13",
+      "image": "https://den-cards.pokellector.com/66/Arbok-delta-species.DF.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Arbok-delta-species.DF.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "13/101",
+      "card_number": "13",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Arbok-delta-species.DF.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Farbok-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156819.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Arbok++%28delta+species%29+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Cloyster  (delta species)",
+      "title": "Cloyster  (delta species) - EX Dragon Frontiers #14",
+      "link": "/EX-Dragon-Frontiers-Expansion/Cloyster-delta-species-Card-14",
+      "image": "https://den-cards.pokellector.com/66/Cloyster-.DF.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Cloyster-.DF.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "14/101",
+      "card_number": "14",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Cloyster-.DF.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fcloyster-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p156913.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Cloyster++%28delta+species%29+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Dewgong  (delta species)",
+      "title": "Dewgong  (delta species) - EX Dragon Frontiers #15",
+      "link": "/EX-Dragon-Frontiers-Expansion/Dewgong-delta-species-Card-15",
+      "image": "https://den-cards.pokellector.com/66/Dewgong-delta-species.DF.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Dewgong-delta-species.DF.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "15/101",
+      "card_number": "15",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Dewgong-delta-species.DF.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fdewgong-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p156955.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Dewgong++%28delta+species%29+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Gligar  (delta species)",
+      "title": "Gligar  (delta species) - EX Dragon Frontiers #16",
+      "link": "/EX-Dragon-Frontiers-Expansion/Gligar-delta-species-Card-16",
+      "image": "https://den-cards.pokellector.com/66/Gligar-.DF.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Gligar-.DF.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "16/101",
+      "card_number": "16",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Gligar-.DF.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fgligar-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p157050.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Gligar++%28delta+species%29+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-016.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Jynx  (delta species)",
+      "title": "Jynx  (delta species) - EX Dragon Frontiers #17",
+      "link": "/EX-Dragon-Frontiers-Expansion/Jynx-delta-species-Card-17",
+      "image": "https://den-cards.pokellector.com/66/Jynx-delta-species.DF.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Jynx-delta-species.DF.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "17/101",
+      "card_number": "17",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Jynx-delta-species.DF.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fjynx-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157138.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Jynx++%28delta+species%29+17+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Ledian  (delta species)",
+      "title": "Ledian  (delta species) - EX Dragon Frontiers #18",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ledian-delta-species-Card-18",
+      "image": "https://den-cards.pokellector.com/66/Ledian-delta-species.DF.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ledian-delta-species.DF.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "18/101",
+      "card_number": "18",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ledian-delta-species.DF.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fledian-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157180.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ledian++%28delta+species%29+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-018.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Lickitung  (delta species)",
+      "title": "Lickitung  (delta species) - EX Dragon Frontiers #19",
+      "link": "/EX-Dragon-Frontiers-Expansion/Lickitung-delta-species-Card-19",
+      "image": "https://den-cards.pokellector.com/66/Lickitung-.DF.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Lickitung-.DF.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "19/101",
+      "card_number": "19",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Lickitung-.DF.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Flickitung-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157183.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Lickitung++%28delta+species%29+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Mantine  (delta species)",
+      "title": "Mantine  (delta species) - EX Dragon Frontiers #20",
+      "link": "/EX-Dragon-Frontiers-Expansion/Mantine-delta-species-Card-20",
+      "image": "https://den-cards.pokellector.com/66/Mantine-.DF.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Mantine-.DF.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "20/101",
+      "card_number": "20",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Mantine-.DF.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.58",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmantine-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157216.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Mantine++%28delta+species%29+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Quagsire  (delta species)",
+      "title": "Quagsire  (delta species) - EX Dragon Frontiers #21",
+      "link": "/EX-Dragon-Frontiers-Expansion/Quagsire-delta-species-Card-21",
+      "image": "https://den-cards.pokellector.com/66/Quagsire-.DF.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Quagsire-.DF.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "21/101",
+      "card_number": "21",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Quagsire-.DF.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$20.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fquagsire-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p157368.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Quagsire++%28delta+species%29+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Seadra  (delta species)",
+      "title": "Seadra  (delta species) - EX Dragon Frontiers #22",
+      "link": "/EX-Dragon-Frontiers-Expansion/Seadra-delta-species-Card-22",
+      "image": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "22/101",
+      "card_number": "22",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fseadra-22-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157426.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Seadra++%28delta+species%29+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-022.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Tropius  (delta species)",
+      "title": "Tropius  (delta species) - EX Dragon Frontiers #23",
+      "link": "/EX-Dragon-Frontiers-Expansion/Tropius-delta-species-Card-23",
+      "image": "https://den-cards.pokellector.com/66/Tropius-.DF.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Tropius-.DF.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "23/101",
+      "card_number": "23",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Tropius-.DF.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.88",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftropius-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p157555.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Tropius++%28delta+species%29+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-023.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Vibrava  (delta species)",
+      "title": "Vibrava  (delta species) - EX Dragon Frontiers #24",
+      "link": "/EX-Dragon-Frontiers-Expansion/Vibrava-delta-species-Card-24",
+      "image": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "24/101",
+      "card_number": "24",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fvibrava-24-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157604.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Vibrava++%28delta+species%29+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Xatu  (delta species)",
+      "title": "Xatu  (delta species) - EX Dragon Frontiers #25",
+      "link": "/EX-Dragon-Frontiers-Expansion/Xatu-delta-species-Card-25",
+      "image": "https://den-cards.pokellector.com/66/Xatu-delta-species.DF.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Xatu-delta-species.DF.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "25/101",
+      "card_number": "25",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Xatu-delta-species.DF.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fxatu-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157646.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Xatu++%28delta+species%29+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/df-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Bayleef  (delta species)",
+      "title": "Bayleef  (delta species) - EX Dragon Frontiers #26",
+      "link": "/EX-Dragon-Frontiers-Expansion/Bayleef-delta-species-Card-26",
+      "image": "https://den-cards.pokellector.com/66/Bayleef-delta-species.DF.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Bayleef-delta-species.DF.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "26/101",
+      "card_number": "26",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Bayleef-delta-species.DF.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fbayleef-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p156842.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Bayleef++%28delta+species%29+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Croconaw  (delta species)",
+      "title": "Croconaw  (delta species) - EX Dragon Frontiers #27",
+      "link": "/EX-Dragon-Frontiers-Expansion/Croconaw-delta-species-Card-27",
+      "image": "https://den-cards.pokellector.com/66/Croconaw-.DF.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Croconaw-.DF.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "27/101",
+      "card_number": "27",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Croconaw-.DF.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fcroconaw-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156929.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Croconaw++%28delta+species%29+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Dragonair  (delta species)",
+      "title": "Dragonair  (delta species) - EX Dragon Frontiers #28",
+      "link": "/EX-Dragon-Frontiers-Expansion/Dragonair-delta-species-Card-28",
+      "image": "https://den-cards.pokellector.com/66/Dragonair-delta-species.DF.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Dragonair-delta-species.DF.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "28/101",
+      "card_number": "28",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Dragonair-delta-species.DF.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.88",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fdragonair-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.39",
+          "link": "http://www.trollandtoad.com/p156974.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Dragonair++%28delta+species%29+28+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/df-028.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Electabuzz  (delta species)",
+      "title": "Electabuzz  (delta species) - EX Dragon Frontiers #29",
+      "link": "/EX-Dragon-Frontiers-Expansion/Electabuzz-delta-species-Card-29",
+      "image": "https://den-cards.pokellector.com/66/Electabuzz-delta-species.DF.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Electabuzz-delta-species.DF.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "29/101",
+      "card_number": "29",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Electabuzz-delta-species.DF.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.74",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Felectabuzz-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p156994.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Electabuzz++%28delta+species%29+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-029.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Flaaffy  (delta species)",
+      "title": "Flaaffy  (delta species) - EX Dragon Frontiers #30",
+      "link": "/EX-Dragon-Frontiers-Expansion/Flaaffy-delta-species-Card-30",
+      "image": "https://den-cards.pokellector.com/66/Flaaffy-delta-species.DF.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Flaaffy-delta-species.DF.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "30/101",
+      "card_number": "30",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Flaaffy-delta-species.DF.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fflaaffy-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157028.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.62",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Flaaffy++%28delta+species%29+30+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Horsea  (delta species)",
+      "title": "Horsea  (delta species) - EX Dragon Frontiers #31",
+      "link": "/EX-Dragon-Frontiers-Expansion/Horsea-delta-species-Card-31",
+      "image": "https://den-cards.pokellector.com/66/Horsea-delta-species.DF.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Horsea-delta-species.DF.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "31/101",
+      "card_number": "31",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Horsea-delta-species.DF.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fhorsea-31-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157114.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Horsea++%28delta+species%29+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Kirlia",
+      "title": "Kirlia - EX Dragon Frontiers #32",
+      "link": "/EX-Dragon-Frontiers-Expansion/Kirlia-Card-32",
+      "image": "https://den-cards.pokellector.com/66/Kirlia.DF.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Kirlia.DF.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "32/101",
+      "card_number": "32",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Kirlia.DF.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fkirlia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157149.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Kirlia+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kirlia+-+32%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-032.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Kirlia  (delta species)",
+      "title": "Kirlia  (delta species) - EX Dragon Frontiers #33",
+      "link": "/EX-Dragon-Frontiers-Expansion/Kirlia-delta-species-Card-33",
+      "image": "https://den-cards.pokellector.com/66/Kirlia-delta-species.DF.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Kirlia-delta-species.DF.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "33/101",
+      "card_number": "33",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Kirlia-delta-species.DF.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.84",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fkirlia-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157150.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Kirlia++%28delta+species%29+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Nidorina  (delta species)",
+      "title": "Nidorina  (delta species) - EX Dragon Frontiers #34",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidorina-delta-species-Card-34",
+      "image": "https://den-cards.pokellector.com/66/Nidorina-.DF.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidorina-.DF.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "34/101",
+      "card_number": "34",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidorina-.DF.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidorina-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p157290.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Nidorina++%28delta+species%29+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Nidorino  (delta species)",
+      "title": "Nidorino  (delta species) - EX Dragon Frontiers #35",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidorino-delta-species-Card-35",
+      "image": "https://den-cards.pokellector.com/66/Nidorino-delta-species.DF.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidorino-delta-species.DF.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "35/101",
+      "card_number": "35",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidorino-delta-species.DF.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidorino-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157291.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Nidorino++%28delta+species%29+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-035.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Quilava  (delta species)",
+      "title": "Quilava  (delta species) - EX Dragon Frontiers #36",
+      "link": "/EX-Dragon-Frontiers-Expansion/Quilava-delta-species-Card-36",
+      "image": "https://den-cards.pokellector.com/66/Quilava-delta-species.DF.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Quilava-delta-species.DF.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "36/101",
+      "card_number": "36",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Quilava-delta-species.DF.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fquilava-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p157371.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Quilava++%28delta+species%29+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Seadra  (delta species)",
+      "title": "Seadra  (delta species) - EX Dragon Frontiers #37",
+      "link": "/EX-Dragon-Frontiers-Expansion/Seadra-delta-species-Card-37",
+      "image": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.37.6065.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.37.6065.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "37/101",
+      "card_number": "37",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.37.6065.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fseadra-37-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p157427.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.07",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Seadra++%28delta+species%29+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Shelgon  (delta species)",
+      "title": "Shelgon  (delta species) - EX Dragon Frontiers #38",
+      "link": "/EX-Dragon-Frontiers-Expansion/Shelgon-delta-species-Card-38",
+      "image": "https://den-cards.pokellector.com/66/Shelgon-delta-species.DF.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Shelgon-delta-species.DF.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "38/101",
+      "card_number": "38",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Shelgon-delta-species.DF.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.61",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fshelgon-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157440.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Shelgon++%28delta+species%29+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Smeargle  (delta species)",
+      "title": "Smeargle  (delta species) - EX Dragon Frontiers #39",
+      "link": "/EX-Dragon-Frontiers-Expansion/Smeargle-delta-species-Card-39",
+      "image": "https://den-cards.pokellector.com/66/Smeargle-delta-species.DF.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Smeargle-delta-species.DF.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "39/101",
+      "card_number": "39",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Smeargle-delta-species.DF.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fsmeargle-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157468.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Smeargle++%28delta+species%29+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-039.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Swellow  (delta species)",
+      "title": "Swellow  (delta species) - EX Dragon Frontiers #40",
+      "link": "/EX-Dragon-Frontiers-Expansion/Swellow-delta-species-Card-40",
+      "image": "https://den-cards.pokellector.com/66/Swellow-delta-species.DF.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Swellow-delta-species.DF.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "40/101",
+      "card_number": "40",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Swellow-delta-species.DF.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.84",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fswellow-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157523.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Swellow++%28delta+species%29+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Togepi  (delta species)",
+      "title": "Togepi  (delta species) - EX Dragon Frontiers #41",
+      "link": "/EX-Dragon-Frontiers-Expansion/Togepi-delta-species-Card-41",
+      "image": "https://den-cards.pokellector.com/66/Togepi-delta-species.DF.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Togepi-delta-species.DF.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "41/101",
+      "card_number": "41",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Togepi-delta-species.DF.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftogepi-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157535.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Togepi++%28delta+species%29+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Vibrava  (delta species)",
+      "title": "Vibrava  (delta species) - EX Dragon Frontiers #42",
+      "link": "/EX-Dragon-Frontiers-Expansion/Vibrava-delta-species-Card-42",
+      "image": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "42/101",
+      "card_number": "42",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fvibrava-42-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157606.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Vibrava++%28delta+species%29+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/df-042.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Bagon  (delta species)",
+      "title": "Bagon  (delta species) - EX Dragon Frontiers #43",
+      "link": "/EX-Dragon-Frontiers-Expansion/Bagon-delta-species-Card-43",
+      "image": "https://den-cards.pokellector.com/66/Bagon-.DF.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Bagon-.DF.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "43/101",
+      "card_number": "43",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Bagon-.DF.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fbagon-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156830.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Bagon++%28delta+species%29+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-043.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Chikorita  (delta species)",
+      "title": "Chikorita  (delta species) - EX Dragon Frontiers #44",
+      "link": "/EX-Dragon-Frontiers-Expansion/Chikorita-delta-species-Card-44",
+      "image": "https://den-cards.pokellector.com/66/Chikorita-.DF.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Chikorita-.DF.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "44/101",
+      "card_number": "44",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Chikorita-.DF.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fchikorita-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p156893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Chikorita++%28delta+species%29+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-044.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Cyndaquil  (delta species)",
+      "title": "Cyndaquil  (delta species) - EX Dragon Frontiers #45",
+      "link": "/EX-Dragon-Frontiers-Expansion/Cyndaquil-delta-species-Card-45",
+      "image": "https://den-cards.pokellector.com/66/Cyndaquil-delta-species.DF.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Cyndaquil-delta-species.DF.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "45/101",
+      "card_number": "45",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Cyndaquil-delta-species.DF.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fcyndaquil-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156937.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Cyndaquil++%28delta+species%29+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Dratini  (delta species)",
+      "title": "Dratini  (delta species) - EX Dragon Frontiers #46",
+      "link": "/EX-Dragon-Frontiers-Expansion/Dratini-delta-species-Card-46",
+      "image": "https://den-cards.pokellector.com/66/Dratini-.DF.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Dratini-.DF.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "46/101",
+      "card_number": "46",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Dratini-.DF.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fdratini-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p156978.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Dratini++%28delta+species%29+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-046.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Ekans  (delta species)",
+      "title": "Ekans  (delta species) - EX Dragon Frontiers #47",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ekans-delta-species-Card-47",
+      "image": "https://den-cards.pokellector.com/66/Ekans-delta-species.DF.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ekans-delta-species.DF.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "47/101",
+      "card_number": "47",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ekans-delta-species.DF.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fekans-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p156993.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ekans++%28delta+species%29+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Elekid  (delta species)",
+      "title": "Elekid  (delta species) - EX Dragon Frontiers #48",
+      "link": "/EX-Dragon-Frontiers-Expansion/Elekid-delta-species-Card-48",
+      "image": "https://den-cards.pokellector.com/66/Elekid-delta-species.DF.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Elekid-delta-species.DF.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "48/101",
+      "card_number": "48",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Elekid-delta-species.DF.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Felekid-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157000.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Elekid++%28delta+species%29+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Feebas  (delta species)",
+      "title": "Feebas  (delta species) - EX Dragon Frontiers #49",
+      "link": "/EX-Dragon-Frontiers-Expansion/Feebas-delta-species-Card-49",
+      "image": "https://den-cards.pokellector.com/66/Feebas-delta-species.DF.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Feebas-delta-species.DF.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "49/101",
+      "card_number": "49",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Feebas-delta-species.DF.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ffeebas-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Feebas++%28delta+species%29+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Horsea  (delta species)",
+      "title": "Horsea  (delta species) - EX Dragon Frontiers #50",
+      "link": "/EX-Dragon-Frontiers-Expansion/Horsea-delta-species-Card-50",
+      "image": "https://den-cards.pokellector.com/66/Horsea-.DF.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Horsea-.DF.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "50/101",
+      "card_number": "50",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Horsea-.DF.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fhorsea-50-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157115.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Horsea++%28delta+species%29+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Larvitar",
+      "title": "Larvitar - EX Dragon Frontiers #51",
+      "link": "/EX-Dragon-Frontiers-Expansion/Larvitar-Card-51",
+      "image": "https://den-cards.pokellector.com/66/Larvitar.DF.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Larvitar.DF.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "51/101",
+      "card_number": "51",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Larvitar.DF.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Flarvitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157167.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Larvitar+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Larvitar+-+51%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Larvitar (delta species)",
+      "title": "Larvitar (delta species) - EX Dragon Frontiers #52",
+      "link": "/EX-Dragon-Frontiers-Expansion/Larvitar-delta-species-Card-52",
+      "image": "https://den-cards.pokellector.com/66/Larvitar.DF.52.6080.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Larvitar.DF.52.6080.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "52/101",
+      "card_number": "52",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Larvitar.DF.52.6080.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Flarvitar-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157168.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.05",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Larvitar+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Larvitar+-+52%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-052.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Ledyba  (delta species)",
+      "title": "Ledyba  (delta species) - EX Dragon Frontiers #53",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ledyba-delta-species-Card-53",
+      "image": "https://den-cards.pokellector.com/66/Ledyba-delta-species.DF.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ledyba-delta-species.DF.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "53/101",
+      "card_number": "53",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ledyba-delta-species.DF.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fledyba-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157181.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ledyba++%28delta+species%29+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-053.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Mareep  (delta species)",
+      "title": "Mareep  (delta species) - EX Dragon Frontiers #54",
+      "link": "/EX-Dragon-Frontiers-Expansion/Mareep-delta-species-Card-54",
+      "image": "https://den-cards.pokellector.com/66/Mareep-delta-species.DF.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Mareep-delta-species.DF.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "54/101",
+      "card_number": "54",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Mareep-delta-species.DF.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmareep-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157217.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Mareep++%28delta+species%29+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Natu  (delta species)",
+      "title": "Natu  (delta species) - EX Dragon Frontiers #55",
+      "link": "/EX-Dragon-Frontiers-Expansion/Natu-delta-species-Card-55",
+      "image": "https://den-cards.pokellector.com/66/Natu-delta-species.DF.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Natu-delta-species.DF.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "55/101",
+      "card_number": "55",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Natu-delta-species.DF.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnatu-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157283.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Natu++%28delta+species%29+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-055.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Nidoran F  (delta species)",
+      "title": "Nidoran F  (delta species) - EX Dragon Frontiers #56",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidoran-F-delta-species-Card-56",
+      "image": "https://den-cards.pokellector.com/66/Nidoran-F-.DF.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidoran-F-.DF.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "56/101",
+      "card_number": "56",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidoran-F-.DF.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidoran-f-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157288.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.43",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Nidoran+F++%28delta+species%29+56+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Nidoran M  (delta species)",
+      "title": "Nidoran M  (delta species) - EX Dragon Frontiers #57",
+      "link": "/EX-Dragon-Frontiers-Expansion/Nidoran-M-delta-species-Card-57",
+      "image": "https://den-cards.pokellector.com/66/Nidoran-M-.DF.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Nidoran-M-.DF.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "57/101",
+      "card_number": "57",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Nidoran-M-.DF.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fnidoran-m-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157289.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Nidoran+M++%28delta+species%29+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Pupitar",
+      "title": "Pupitar - EX Dragon Frontiers #58",
+      "link": "/EX-Dragon-Frontiers-Expansion/Pupitar-Card-58",
+      "image": "https://den-cards.pokellector.com/66/Pupitar.DF.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Pupitar.DF.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "58/101",
+      "card_number": "58",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Pupitar.DF.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fpupitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157365.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Pupitar+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pupitar+-+58%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-058.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Pupitar  (delta species)",
+      "title": "Pupitar  (delta species) - EX Dragon Frontiers #59",
+      "link": "/EX-Dragon-Frontiers-Expansion/Pupitar-delta-species-Card-59",
+      "image": "https://den-cards.pokellector.com/66/Pupitar-.DF.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Pupitar-.DF.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "59/101",
+      "card_number": "59",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Pupitar-.DF.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fpupitar-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157366.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Pupitar++%28delta+species%29+59+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Ralts",
+      "title": "Ralts - EX Dragon Frontiers #60",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ralts-Card-60",
+      "image": "https://den-cards.pokellector.com/66/Ralts.DF.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ralts.DF.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "60/101",
+      "card_number": "60",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ralts.DF.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fralts"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157382.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ralts+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ralts+-+60%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-060.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Ralts  (delta species)",
+      "title": "Ralts  (delta species) - EX Dragon Frontiers #61",
+      "link": "/EX-Dragon-Frontiers-Expansion/Ralts-delta-species-Card-61",
+      "image": "https://den-cards.pokellector.com/66/Ralts-.DF.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Ralts-.DF.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "61/101",
+      "card_number": "61",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Ralts-.DF.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fralts-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157383.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Ralts++%28delta+species%29+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Seel  (delta species)",
+      "title": "Seel  (delta species) - EX Dragon Frontiers #62",
+      "link": "/EX-Dragon-Frontiers-Expansion/Seel-delta-species-Card-62",
+      "image": "https://den-cards.pokellector.com/66/Seel-delta-species.DF.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Seel-delta-species.DF.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "62/101",
+      "card_number": "62",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Seel-delta-species.DF.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fseel-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157434.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Seel++%28delta+species%29+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-062.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Shellder  (delta species)",
+      "title": "Shellder  (delta species) - EX Dragon Frontiers #63",
+      "link": "/EX-Dragon-Frontiers-Expansion/Shellder-delta-species-Card-63",
+      "image": "https://den-cards.pokellector.com/66/Shellder-delta-species.DF.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Shellder-delta-species.DF.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "63/101",
+      "card_number": "63",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Shellder-delta-species.DF.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fshellder-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157444.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Shellder++%28delta+species%29+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Smoochum  (delta species)",
+      "title": "Smoochum  (delta species) - EX Dragon Frontiers #64",
+      "link": "/EX-Dragon-Frontiers-Expansion/Smoochum-delta-species-Card-64",
+      "image": "https://den-cards.pokellector.com/66/Smoochum-delta-species.DF.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Smoochum-delta-species.DF.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "64/101",
+      "card_number": "64",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Smoochum-delta-species.DF.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fsmoochum-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p157471.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Smoochum++%28delta+species%29+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-064.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Swablu  (delta species)",
+      "title": "Swablu  (delta species) - EX Dragon Frontiers #65",
+      "link": "/EX-Dragon-Frontiers-Expansion/Swablu-delta-species-Card-65",
+      "image": "https://den-cards.pokellector.com/66/Swablu-delta-species.DF.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Swablu-delta-species.DF.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "65/101",
+      "card_number": "65",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Swablu-delta-species.DF.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.36",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fswablu-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157516.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Swablu++%28delta+species%29+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-065.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Taillow  (delta species)",
+      "title": "Taillow  (delta species) - EX Dragon Frontiers #66",
+      "link": "/EX-Dragon-Frontiers-Expansion/Taillow-delta-species-Card-66",
+      "image": "https://den-cards.pokellector.com/66/Taillow-delta-species.DF.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Taillow-delta-species.DF.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "66/101",
+      "card_number": "66",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Taillow-delta-species.DF.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftaillow-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157526.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Taillow++%28delta+species%29+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Totodile  (delta species)",
+      "title": "Totodile  (delta species) - EX Dragon Frontiers #67",
+      "link": "/EX-Dragon-Frontiers-Expansion/Totodile-delta-species-Card-67",
+      "image": "https://den-cards.pokellector.com/66/Totodile-.DF.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Totodile-.DF.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "67/101",
+      "card_number": "67",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Totodile-.DF.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftotodile-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p157543.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Totodile++%28delta+species%29+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Trapinch  (delta species)",
+      "title": "Trapinch  (delta species) - EX Dragon Frontiers #68",
+      "link": "/EX-Dragon-Frontiers-Expansion/Trapinch-delta-species-Card-68",
+      "image": "https://den-cards.pokellector.com/66/Trapinch-.DF.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Trapinch-.DF.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "68/101",
+      "card_number": "68",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Trapinch-.DF.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftrapinch-68-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157549.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Dragon+Frontiers+Trapinch++%28delta+species%29+68+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-068.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Trapinch  (delta species)",
+      "title": "Trapinch  (delta species) - EX Dragon Frontiers #69",
+      "link": "/EX-Dragon-Frontiers-Expansion/Trapinch-delta-species-Card-69",
+      "image": "https://den-cards.pokellector.com/66/Trapinch-delta-species.DF.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Trapinch-delta-species.DF.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "69/101",
+      "card_number": "69",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Trapinch-delta-species.DF.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftrapinch-69-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157550.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Trapinch++%28delta+species%29+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Vulpix  (delta species)",
+      "title": "Vulpix  (delta species) - EX Dragon Frontiers #70",
+      "link": "/EX-Dragon-Frontiers-Expansion/Vulpix-delta-species-Card-70",
+      "image": "https://den-cards.pokellector.com/66/Vulpix-.DF.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Vulpix-.DF.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "70/101",
+      "card_number": "70",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Vulpix-.DF.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fvulpix-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157614.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Vulpix++%28delta+species%29+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-070.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Wooper  (delta species)",
+      "title": "Wooper  (delta species) - EX Dragon Frontiers #71",
+      "link": "/EX-Dragon-Frontiers-Expansion/Wooper-delta-species-Card-71",
+      "image": "https://den-cards.pokellector.com/66/Wooper-delta-species.DF.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Wooper-delta-species.DF.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "71/101",
+      "card_number": "71",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Wooper-delta-species.DF.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fwooper-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p157643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Wooper++%28delta+species%29+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/df-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Buffer Piece",
+      "title": "Buffer Piece - EX Dragon Frontiers #72",
+      "link": "/EX-Dragon-Frontiers-Expansion/Buffer-Piece-Card-72",
+      "image": "https://den-cards.pokellector.com/66/Buffer-Piece.DF.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Buffer-Piece.DF.72.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "72/101",
+      "card_number": "72",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Buffer-Piece.DF.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fbuffer-piece"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p156863.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Buffer+Piece+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/df-072.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Buffer+Piece+-+72%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Copycat",
+      "title": "Copycat - EX Dragon Frontiers #73",
+      "link": "/EX-Dragon-Frontiers-Expansion/Copycat-Card-73",
+      "image": "https://den-cards.pokellector.com/66/Copycat.DF.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Copycat.DF.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "73/101",
+      "card_number": "73",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Copycat.DF.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fcopycat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p156918.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Copycat+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Copycat+-+73%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Holon Legacy",
+      "title": "Holon Legacy - EX Dragon Frontiers #74",
+      "link": "/EX-Dragon-Frontiers-Expansion/Holon-Legacy-Card-74",
+      "image": "https://den-cards.pokellector.com/66/Holon-Legacy.DF.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Holon-Legacy.DF.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "74/101",
+      "card_number": "74",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Holon-Legacy.DF.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fholon-legacy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p157098.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Holon+Legacy+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Legacy+-+74%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Holon Mentor",
+      "title": "Holon Mentor - EX Dragon Frontiers #75",
+      "link": "/EX-Dragon-Frontiers-Expansion/Holon-Mentor-Card-75",
+      "image": "https://den-cards.pokellector.com/66/Holon-Mentor.DF.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Holon-Mentor.DF.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "75/101",
+      "card_number": "75",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Holon-Mentor.DF.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fholon-mentor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p157099.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Holon+Mentor+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Mentor+-+75%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/df-075.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Island Hermit",
+      "title": "Island Hermit - EX Dragon Frontiers #76",
+      "link": "/EX-Dragon-Frontiers-Expansion/Island-Hermit-Card-76",
+      "image": "https://den-cards.pokellector.com/66/Island-Hermit.DF.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Island-Hermit.DF.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "76/101",
+      "card_number": "76",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Island-Hermit.DF.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fisland-hermit"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p157127.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Island+Hermit+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-076.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Island+Hermit+-+76%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Mr. Stone's Project",
+      "title": "Mr. Stone's Project - EX Dragon Frontiers #77",
+      "link": "/EX-Dragon-Frontiers-Expansion/Mr-Stones-Project-Card-77",
+      "image": "https://den-cards.pokellector.com/66/Mr-Stones-Project.DF.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Mr-Stones-Project.DF.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "77/101",
+      "card_number": "77",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Mr-Stones-Project.DF.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmr-stones-project"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157274.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Mr.+Stone%27s+Project+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/df-077.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mr.+Stone%27s+Project+-+77%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Old Rod",
+      "title": "Old Rod - EX Dragon Frontiers #78",
+      "link": "/EX-Dragon-Frontiers-Expansion/Old-Rod-Card-78",
+      "image": "https://den-cards.pokellector.com/66/Old-Rod.DF.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Old-Rod.DF.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "78/101",
+      "card_number": "78",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Old-Rod.DF.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fold-rod"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.74",
+          "link": "http://www.trollandtoad.com/p157307.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Old+Rod+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Old+Rod+-+78%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/df-078.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Professor Elm's Training Method",
+      "title": "Professor Elm's Training Method - EX Dragon Frontiers #79",
+      "link": "/EX-Dragon-Frontiers-Expansion/Professor-Elms-Training-Method-Card-79",
+      "image": "https://den-cards.pokellector.com/66/Professor-Elms-Training-Method.DF.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Professor-Elms-Training-Method.DF.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "79/101",
+      "card_number": "79",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Professor-Elms-Training-Method.DF.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fprofessor-elms-training-method"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157358.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Professor+Elm%27s+Training+Method+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Professor+Elm%27s+Training+Method+-+79%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Professor Oak's Research",
+      "title": "Professor Oak's Research - EX Dragon Frontiers #80",
+      "link": "/EX-Dragon-Frontiers-Expansion/Professor-Oaks-Research-Card-80",
+      "image": "https://den-cards.pokellector.com/66/Professor-Oaks-Research.DF.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Professor-Oaks-Research.DF.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "80/101",
+      "card_number": "80",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Professor-Oaks-Research.DF.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fprofessor-oaks-research"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157354.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Professor+Oak%27s+Research+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-080.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Professor+Oak%27s+Research+-+80%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Strength Charm",
+      "title": "Strength Charm - EX Dragon Frontiers #81",
+      "link": "/EX-Dragon-Frontiers-Expansion/Strength-Charm-Card-81",
+      "image": "https://den-cards.pokellector.com/66/Strength-Charm.DF.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Strength-Charm.DF.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "81/101",
+      "card_number": "81",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Strength-Charm.DF.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fstrength-charm"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p157505.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Strength+Charm+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-081.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Strength+Charm+-+81%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "TV Reporter",
+      "title": "TV Reporter - EX Dragon Frontiers #82",
+      "link": "/EX-Dragon-Frontiers-Expansion/TV-Reporter-Card-82",
+      "image": "https://den-cards.pokellector.com/66/TV-Reporter.DF.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/TV-Reporter.DF.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "82/101",
+      "card_number": "82",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/TV-Reporter.DF.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftv-reporter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p157558.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+TV+Reporter+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/TV+Reporter+-+82%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-082.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Switch",
+      "title": "Switch - EX Dragon Frontiers #83",
+      "link": "/EX-Dragon-Frontiers-Expansion/Switch-Card-83",
+      "image": "https://den-cards.pokellector.com/66/Switch.DF.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Switch.DF.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "83/101",
+      "card_number": "83",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Switch.DF.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fswitch"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p157525.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.61",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Switch+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Switch+-+83%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/df-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Holon Energy FF",
+      "title": "Holon Energy FF - EX Dragon Frontiers #84",
+      "link": "/EX-Dragon-Frontiers-Expansion/Holon-Energy-FF-Card-84",
+      "image": "https://den-cards.pokellector.com/66/Holon-Energy-FF.DF.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Holon-Energy-FF.DF.84.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "84/101",
+      "card_number": "84",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Holon-Energy-FF.DF.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fholon-energy-ff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p157090.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Holon+Energy+FF+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/df-084.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Energy+FF+-+84%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Holon Energy GL",
+      "title": "Holon Energy GL - EX Dragon Frontiers #85",
+      "link": "/EX-Dragon-Frontiers-Expansion/Holon-Energy-GL-Card-85",
+      "image": "https://den-cards.pokellector.com/66/Holon-Energy-GL.DF.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Holon-Energy-GL.DF.85.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "85/101",
+      "card_number": "85",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Holon-Energy-GL.DF.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fholon-energy-gl"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p157091.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Holon+Energy+GL+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Energy+GL+-+85%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/df-085.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Holon Energy WP",
+      "title": "Holon Energy WP - EX Dragon Frontiers #86",
+      "link": "/EX-Dragon-Frontiers-Expansion/Holon-Energy-WP-Card-86",
+      "image": "https://den-cards.pokellector.com/66/Holon-Energy-WP.DF.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Holon-Energy-WP.DF.86.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "86/101",
+      "card_number": "86",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Holon-Energy-WP.DF.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fholon-energy-wp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p157092.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Holon+Energy+WP+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/df-086.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Holon+Energy+WP+-+86%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Boost Energy",
+      "title": "Boost Energy - EX Dragon Frontiers #87",
+      "link": "/EX-Dragon-Frontiers-Expansion/Boost-Energy-Card-87",
+      "image": "https://den-cards.pokellector.com/66/Boost-Energy.DF.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Boost-Energy.DF.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "87/101",
+      "card_number": "87",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Boost-Energy.DF.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fboost-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p156862.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Boost+Energy+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Boost+Energy+-+87%2F101"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Î´ Rainbow Energy",
+      "title": "Î´ Rainbow Energy - EX Dragon Frontiers #88",
+      "link": "/EX-Dragon-Frontiers-Expansion/-Rainbow-Energy-Card-88",
+      "image": "https://den-cards.pokellector.com/66/-Rainbow-Energy.DF.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/-Rainbow-Energy.DF.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "88/101",
+      "card_number": "88",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/-Rainbow-Energy.DF.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fdelta-species-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p156949.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.29",
+          "link": "http://stop2shop.com/df-088.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Scramble Energy",
+      "title": "Scramble Energy - EX Dragon Frontiers #89",
+      "link": "/EX-Dragon-Frontiers-Expansion/Scramble-Energy-Card-89",
+      "image": "https://den-cards.pokellector.com/66/Scramble-Energy.DF.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Scramble-Energy.DF.89.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "89/101",
+      "card_number": "89",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Scramble-Energy.DF.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.79",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fscramble-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.69",
+          "link": "http://www.trollandtoad.com/p157424.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Scramble+Energy+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/df-089.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scramble+Energy+-+89%2F101"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Altaria ex  (delta species)",
+      "title": "Altaria ex  (delta species) - EX Dragon Frontiers #90",
+      "link": "/EX-Dragon-Frontiers-Expansion/Altaria-ex-delta-species-Card-90",
+      "image": "https://den-cards.pokellector.com/66/Altaria-ex-.DF.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Altaria-ex-.DF.90.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "90/101",
+      "card_number": "90",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Altaria-ex-.DF.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$51.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Faltaria-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$76.99",
+          "link": "http://www.trollandtoad.com/p156809.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$23.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Altaria+ex++%28delta+species%29+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.95",
+          "link": "http://stop2shop.com/df-090.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Dragonite ex  (delta species)",
+      "title": "Dragonite ex  (delta species) - EX Dragon Frontiers #91",
+      "link": "/EX-Dragon-Frontiers-Expansion/Dragonite-ex-delta-species-Card-91",
+      "image": "https://den-cards.pokellector.com/66/Dragonite-ex-delta-species.DF.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Dragonite-ex-delta-species.DF.91.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "91/101",
+      "card_number": "91",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Dragonite-ex-delta-species.DF.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$192.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fdragonite-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$179.99",
+          "link": "http://www.trollandtoad.com/p156976.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$45.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Dragonite+ex++%28delta+species%29+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.95",
+          "link": "http://stop2shop.com/df-091.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Flygon ex  (delta species)",
+      "title": "Flygon ex  (delta species) - EX Dragon Frontiers #92",
+      "link": "/EX-Dragon-Frontiers-Expansion/Flygon-ex-delta-species-Card-92",
+      "image": "https://den-cards.pokellector.com/66/Flygon-ex-delta-species.DF.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Flygon-ex-delta-species.DF.92.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "92/101",
+      "card_number": "92",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Flygon-ex-delta-species.DF.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$89.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fflygon-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$76.69",
+          "link": "http://www.trollandtoad.com/p157036.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$61.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Flygon+ex++%28delta+species%29+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$54.95",
+          "link": "http://stop2shop.com/df-092.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Gardevoir ex (delta species)",
+      "title": "Gardevoir ex (delta species) - EX Dragon Frontiers #93",
+      "link": "/EX-Dragon-Frontiers-Expansion/Gardevoir-ex-delta-species-Card-93",
+      "image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "93/101",
+      "card_number": "93",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$180.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fgardevoir-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p157043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Gardevoir+ex++%28delta+species%29+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.95",
+          "link": "http://stop2shop.com/df-093.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.40598.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "94": {
+      "number": "94",
+      "name": "Kingdra ex  (delta species)",
+      "title": "Kingdra ex  (delta species) - EX Dragon Frontiers #94",
+      "link": "/EX-Dragon-Frontiers-Expansion/Kingdra-ex-delta-species-Card-94",
+      "image": "https://den-cards.pokellector.com/66/Kingdra-ex-delta-species.DF.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Kingdra-ex-delta-species.DF.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "94/101",
+      "card_number": "94",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Kingdra-ex-delta-species.DF.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$105.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fkingdra-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p157146.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Kingdra+ex++%28delta+species%29+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$54.95",
+          "link": "http://stop2shop.com/df-094.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Latias ex (delta species)",
+      "title": "Latias ex (delta species) - EX Dragon Frontiers #95",
+      "link": "/EX-Dragon-Frontiers-Expansion/Latias-ex-delta-species-Card-95",
+      "image": "https://den-cards.pokellector.com/66/Latias-ex-.DF.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Latias-ex-.DF.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "95/101",
+      "card_number": "95",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Latias-ex-.DF.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$180.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Flatias-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p157174.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Latias+ex++%28delta+species%29+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$64.95",
+          "link": "http://stop2shop.com/df-095.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Latios ex (delta species)",
+      "title": "Latios ex (delta species) - EX Dragon Frontiers #96",
+      "link": "/EX-Dragon-Frontiers-Expansion/Latios-ex-delta-species-Card-96",
+      "image": "https://den-cards.pokellector.com/66/Latios-ex-.DF.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Latios-ex-.DF.96.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "96/101",
+      "card_number": "96",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Latios-ex-.DF.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$160.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Flatios-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$100.19",
+          "link": "http://www.trollandtoad.com/p157178.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$23.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Latios+ex++%28delta+species%29+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$64.95",
+          "link": "http://stop2shop.com/df-096.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Rayquaza ex (delta species)",
+      "title": "Rayquaza ex (delta species) - EX Dragon Frontiers #97",
+      "link": "/EX-Dragon-Frontiers-Expansion/Rayquaza-ex-delta-species-Card-97",
+      "image": "https://den-cards.pokellector.com/66/Rayquaza-ex-delta-species.DF.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Rayquaza-ex-delta-species.DF.97.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "97/101",
+      "card_number": "97",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Rayquaza-ex-delta-species.DF.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$192.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Frayquaza-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$177.29",
+          "link": "http://www.trollandtoad.com/p157390.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$31.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Rayquaza+ex++%28delta+species%29+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$64.95",
+          "link": "http://stop2shop.com/df-097.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Salamence ex (delta species)",
+      "title": "Salamence ex (delta species) - EX Dragon Frontiers #98",
+      "link": "/EX-Dragon-Frontiers-Expansion/Salamence-ex-delta-species-Card-98",
+      "image": "https://den-cards.pokellector.com/66/Salamence-ex-delta-species.DF.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Salamence-ex-delta-species.DF.98.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "98/101",
+      "card_number": "98",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Salamence-ex-delta-species.DF.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$114.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fsalamence-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$104.49",
+          "link": "http://www.trollandtoad.com/p157415.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$34.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Salamence+ex++%28delta+species%29+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$64.95",
+          "link": "http://stop2shop.com/df-098.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Tyranitar ex (delta species)",
+      "title": "Tyranitar ex (delta species) - EX Dragon Frontiers #99",
+      "link": "/EX-Dragon-Frontiers-Expansion/Tyranitar-ex-delta-species-Card-99",
+      "image": "https://den-cards.pokellector.com/66/Tyranitar-ex-delta-species.DF.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Tyranitar-ex-delta-species.DF.99.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "99/101",
+      "card_number": "99",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Tyranitar-ex-delta-species.DF.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$164.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Ftyranitar-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$142.49",
+          "link": "http://www.trollandtoad.com/p157565.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Tyranitar+ex++%28delta+species%29+99+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$64.95",
+          "link": "http://stop2shop.com/df-099.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Charizard â˜†  (delta species)",
+      "title": "Charizard â˜†  (delta species) - EX Dragon Frontiers #100",
+      "link": "/EX-Dragon-Frontiers-Expansion/Charizard-delta-species-Card-100",
+      "image": "https://den-cards.pokellector.com/66/Charizard-delta-species.DF.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Charizard-delta-species.DF.100.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "100/101",
+      "card_number": "100",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Charizard-delta-species.DF.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$39,500.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fcharizard-star-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2,499.99",
+          "link": "http://www.trollandtoad.com/p156884.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$119.95",
+          "link": "http://stop2shop.com/df-100.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Mew â˜†  (delta species)",
+      "title": "Mew â˜†  (delta species) - EX Dragon Frontiers #101",
+      "link": "/EX-Dragon-Frontiers-Expansion/Mew-delta-species-Card-101",
+      "image": "https://den-cards.pokellector.com/66/Mew-delta-species.DF.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Mew-delta-species.DF.101.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "101/101",
+      "card_number": "101",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Mew-delta-species.DF.101.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2,200.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fmew-star-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1,199.99",
+          "link": "http://www.trollandtoad.com/p157259.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$109.95",
+          "link": "http://stop2shop.com/df-101.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:32:59"
+}

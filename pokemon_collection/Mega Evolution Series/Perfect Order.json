@@ -1,0 +1,236 @@
+{
+  "title": "Perfect Order Set",
+  "link": "/Perfect-Order-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Perfect-Order.logo.429.png",
+  "symbol": "https://den-media.pokellector.com/logos/Perfect-Order.symbol.429.png",
+  "scraped": true,
+  "cards": {
+    "19": {
+      "number": "19",
+      "name": "Dewgong",
+      "title": "Dewgong - Perfect Order #19",
+      "link": "/Perfect-Order-Expansion/Dewgong-Card-19",
+      "image": "https://den-cards.pokellector.com/429/Dewgong.POR.19.60892.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Dewgong.POR.19.60892.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "19/88",
+      "card_number": "19",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Dewgong.POR.19.60892.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Mega Starmie ex",
+      "title": "Mega Starmie ex - Perfect Order #21",
+      "link": "/Perfect-Order-Expansion/Mega-Starmie-ex-Card-21",
+      "image": "https://den-cards.pokellector.com/429/Mega-Starmie-ex.POR.21.61040.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Mega-Starmie-ex.POR.21.61040.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "21/88",
+      "card_number": "21",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Mega-Starmie-ex.POR.21.61040.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Starmie+ex+Perfect+Order+21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Lapras ex",
+      "title": "Lapras ex - Perfect Order #22",
+      "link": "/Perfect-Order-Expansion/Lapras-ex-Card-22",
+      "image": "https://den-cards.pokellector.com/429/Lapras-ex.POR.22.60895.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Lapras-ex.POR.22.60895.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "22/88",
+      "card_number": "22",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Lapras-ex.POR.22.60895.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lapras+ex+Perfect+Order+22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Luxray",
+      "title": "Luxray - Perfect Order #28",
+      "link": "/Perfect-Order-Expansion/Luxray-Card-28",
+      "image": "https://den-cards.pokellector.com/429/Luxray.POR.28.60893.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Luxray.POR.28.60893.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "28/88",
+      "card_number": "28",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Luxray.POR.28.60893.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Mega Clefable ex",
+      "title": "Mega Clefable ex - Perfect Order #31",
+      "link": "/Perfect-Order-Expansion/Mega-Clefable-ex-Card-31",
+      "image": "https://den-cards.pokellector.com/429/Mega-Clefable-ex.POR.31.61039.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Mega-Clefable-ex.POR.31.61039.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "31/88",
+      "card_number": "31",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Mega-Clefable-ex.POR.31.61039.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "47": {
+      "number": "47",
+      "name": "Mega Zygarde ex",
+      "title": "Mega Zygarde ex - Perfect Order #47",
+      "link": "/Perfect-Order-Expansion/Mega-Zygarde-ex-Card-47",
+      "image": "https://den-cards.pokellector.com/429/Mega-Zygarde-ex.POR.47.60175.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Mega-Zygarde-ex.POR.47.60175.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "47/88",
+      "card_number": "47",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Mega-Zygarde-ex.POR.47.60175.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F684336%2Fpokemon-me03-perfect-order-mega-zygarde-ex-047-088"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Zygarde+ex+Perfect+Order+47+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "62": {
+      "number": "62",
+      "name": "Meowth ex",
+      "title": "Meowth ex - Perfect Order #62",
+      "link": "/Perfect-Order-Expansion/Meowth-ex-Card-62",
+      "image": "https://den-cards.pokellector.com/429/Meowth-ex.POR.62.60174.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Meowth-ex.POR.62.60174.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "62/88",
+      "card_number": "62",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Meowth-ex.POR.62.60174.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F684340%2Fpokemon-me03-perfect-order-meowth-ex-062-088"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meowth+ex+Perfect+Order+62+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Tarragon",
+      "title": "Tarragon - Perfect Order #85",
+      "link": "/Perfect-Order-Expansion/Tarragon-Card-85",
+      "image": "https://den-cards.pokellector.com/429/Tarragon.POR.85.60891.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Tarragon.POR.85.60891.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "85/88",
+      "card_number": "85",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Tarragon.POR.85.60891.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "111": {
+      "number": "111",
+      "name": "Lumiose City",
+      "title": "Lumiose City - Perfect Order #111",
+      "link": "/Perfect-Order-Expansion/Lumiose-City-Card-111",
+      "image": "https://den-cards.pokellector.com/429/Lumiose-City.POR.111.60894.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/429/Lumiose-City.POR.111.60894.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "111/88",
+      "card_number": "111",
+      "total_cards": "88",
+      "image_full": "https://den-cards.pokellector.com/429/Lumiose-City.POR.111.60894.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$11.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lumiose+City+Perfect+Order+111+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "122": {
+      "number": "122",
+      "name": "Jacinthe",
+      "title": "Jacinthe - Perfect Order #122",
+      "link": "/Perfect-Order-Expansion/Jacinthe-Card-122",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Perfect Order",
+      "set_link": "/Perfect-Order-Expansion/",
+      "position": "122/88",
+      "card_number": "122",
+      "total_cards": "88",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$49.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jacinthe+Perfect+Order+122+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-27 20:33:45"
+}

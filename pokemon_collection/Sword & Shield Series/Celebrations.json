@@ -1,0 +1,1941 @@
+{
+  "title": "Celebrations Set",
+  "link": "/Celebrations-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Celebrations.logo.329.png",
+  "symbol": "https://den-media.pokellector.com/logos/Celebrations.symbol.329.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ho-Oh",
+      "title": "Ho-Oh - Celebrations #1",
+      "link": "/Celebrations-Expansion/Ho-Oh-Card-1",
+      "image": "https://den-cards.pokellector.com/329/Ho-Oh.25TH.1.40540.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Ho-Oh.25TH.1.40540.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "1/25",
+      "card_number": "1",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Ho-Oh.25TH.1.40540.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fho-oh"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1732999.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ho-Oh+Celebrations+1+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Ho-Oh?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Blastoise",
+      "title": "Blastoise (Celebrations Promo) - Base Set #2",
+      "link": "/Base-Set-Expansion/Blastoise-Card-2",
+      "image": "https://den-cards.pokellector.com/119/Blastoise.BS.2.40564.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/119/Blastoise.BS.2.40564.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Base Set",
+      "set_link": "/Base-Set-Expansion/",
+      "position": "2/102",
+      "card_number": "2",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/119/Blastoise.BS.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$182.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbase-set%2Fblastoise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1756714.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$65.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DBase+Set+Blastoise+2+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$11.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/blastoise__2102__holo_rare/653174"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blastoise+-+2%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Shadowless",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "U.K. Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Misprint",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/119/Blastoise.BS.2.40564.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Kyogre",
+      "title": "Kyogre - Celebrations #3",
+      "link": "/Celebrations-Expansion/Kyogre-Card-3",
+      "image": "https://den-cards.pokellector.com/329/Kyogre.25TH.3.40542.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Kyogre.25TH.3.40542.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "3/25",
+      "card_number": "3",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Kyogre.25TH.3.40542.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fkyogre"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1733001.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kyogre+Celebrations+3+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Kyogre?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Charizard",
+      "title": "Charizard (Celebrations Promo) - Base Set #4",
+      "link": "/Base-Set-Expansion/Charizard-Card-4",
+      "image": "https://den-cards.pokellector.com/119/Charizard.BS.4.40566.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/119/Charizard.BS.4.40566.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Base Set",
+      "set_link": "/Base-Set-Expansion/",
+      "position": "4/102",
+      "card_number": "4",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/119/Charizard.BS.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$499.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbase-set%2Fcharizard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1754117.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$101.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DBase+Set+Charizard+4+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$139.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/charizard__4102__holo_rare/653175"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$49.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charizard+-+4%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Shadowless",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "U.K. Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/119/Charizard.BS.4.40566.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Metal Version",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Pikachu",
+      "title": "Pikachu - Celebrations #5",
+      "link": "/Celebrations-Expansion/Pikachu-Card-5",
+      "image": "https://den-cards.pokellector.com/329/Pikachu.25TH.5.40544.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Pikachu.25TH.5.40544.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "5/25",
+      "card_number": "5",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Pikachu.25TH.5.40544.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p1733003.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Celebrations+5+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Flying Pikachu V",
+      "title": "Flying Pikachu V - Celebrations #6",
+      "link": "/Celebrations-Expansion/Flying-Pikachu-V-Card-6",
+      "image": "https://den-cards.pokellector.com/329/Flying-Pikachu-V.25TH.6.40545.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Flying-Pikachu-V.25TH.6.40545.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "6/25",
+      "card_number": "6",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Flying-Pikachu-V.25TH.6.40545.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fflying-pikachu-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1733004.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flying+Pikachu+V+Celebrations+6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.45",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-V?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Flying Pikachu VMAX",
+      "title": "Flying Pikachu VMAX - Celebrations #7",
+      "link": "/Celebrations-Expansion/Flying-Pikachu-VMAX-Card-7",
+      "image": "https://den-cards.pokellector.com/329/Flying-Pikachu-VMAX.25TH.7.40546.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Flying-Pikachu-VMAX.25TH.7.40546.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "7/25",
+      "card_number": "7",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Flying-Pikachu-VMAX.25TH.7.40546.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fflying-pikachu-vmax"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p1733005.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flying+Pikachu+VMAX+Celebrations+7+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-VMAX?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Dark Gyarados",
+      "title": "Dark Gyarados (Celebrations Promo) - Team Rocket #8",
+      "link": "/Team-Rocket-Expansion/Dark-Gyarados-Card-8",
+      "image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.40588.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.40588.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Team Rocket",
+      "set_link": "/Team-Rocket-Expansion/",
+      "position": "8/82",
+      "card_number": "8",
+      "total_cards": "82",
+      "image_full": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://store.tcgplayer.com/pokemon/team-rocket/dark-gyarados-8?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.89",
+          "link": "http://www.trollandtoad.com/p183667.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DTeam+Rocket+Dark+Gyarados+8+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$69.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-team_rocket/dark_gyarados__882__holo_rare__unlimited_edition/190623"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dark+Gyarados+-+25%2F82"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Prerelease Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.40588.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Team Magma's Groudon",
+      "title": "Team Magma's Groudon (Celebrations Promo) - EX Team Magma vs Team Aqua #9",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Groudon-Card-9",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.40594.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.40594.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "9/95",
+      "card_number": "9",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$84.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-groudon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.99",
+          "link": "http://www.trollandtoad.com/p1121936.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Groudon+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Groudon+-+9%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.47",
+          "link": "http://stop2shop.com/team-ma-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.40594.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Zekrom",
+      "title": "Zekrom - Celebrations #10",
+      "link": "/Celebrations-Expansion/Zekrom-Card-10",
+      "image": "https://den-cards.pokellector.com/329/Zekrom.25TH.10.40549.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Zekrom.25TH.10.40549.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "10/25",
+      "card_number": "10",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Zekrom.25TH.10.40549.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fzekrom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1733008.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Celebrations+10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zekrom-V1-CEL010?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Mew",
+      "title": "Mew - Celebrations #11",
+      "link": "/Celebrations-Expansion/Mew-Card-11",
+      "image": "https://den-cards.pokellector.com/329/Mew.25TH.11.40550.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Mew.25TH.11.40550.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "11/25",
+      "card_number": "11",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Mew.25TH.11.40550.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fmew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1733009.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mew+Celebrations+11+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Mew-V1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Xerneas",
+      "title": "Xerneas - Celebrations #12",
+      "link": "/Celebrations-Expansion/Xerneas-Card-12",
+      "image": "https://den-cards.pokellector.com/329/Xerneas.25TH.12.40551.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Xerneas.25TH.12.40551.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "12/25",
+      "card_number": "12",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Xerneas.25TH.12.40551.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fxerneas"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1733010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Xerneas+Celebrations+12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Xerneas?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Cosmog",
+      "title": "Cosmog - Celebrations #13",
+      "link": "/Celebrations-Expansion/Cosmog-Card-13",
+      "image": "https://den-cards.pokellector.com/329/Cosmog.25TH.13.40552.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Cosmog.25TH.13.40552.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "13/25",
+      "card_number": "13",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Cosmog.25TH.13.40552.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fcosmog"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1733011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cosmog+Celebrations+13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Cosmog?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Cosmoem",
+      "title": "Cosmoem - Celebrations #14",
+      "link": "/Celebrations-Expansion/Cosmoem-Card-14",
+      "image": "https://den-cards.pokellector.com/329/Cosmoem.25TH.14.40553.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Cosmoem.25TH.14.40553.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "14/25",
+      "card_number": "14",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Cosmoem.25TH.14.40553.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fcosmoem"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1733012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cosmoem+Celebrations+14+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Cosmoem?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Claydol",
+      "title": "Claydol (Celebrations Promo) - Great Encounters #15",
+      "link": "/Great-Encounters-Expansion/Claydol-Card-15",
+      "image": "https://den-cards.pokellector.com/45/Claydol.GE.15.40599.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/45/Claydol.GE.15.40599.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Great Encounters",
+      "set_link": "/Great-Encounters-Expansion/",
+      "position": "15/106",
+      "card_number": "15",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/45/Claydol.GE.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fgreat-encounters%2Fclaydol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p1125344.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Great+Encounters+15+Claydol+-oversized+-jumbo+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Claydol+-+15%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$27.99",
+          "link": "http://stop2shop.com/ge-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "League Promo",
+          "image": "https://den-cards.pokellector.com/45/Claydol.GE.15.36500.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/45/Claydol.GE.15.40599.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Zacian V",
+      "title": "Zacian V - Celebrations #16",
+      "link": "/Celebrations-Expansion/Zacian-V-Card-16",
+      "image": "https://den-cards.pokellector.com/329/Zacian-V.25TH.16.40516.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Zacian-V.25TH.16.40516.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "16/25",
+      "card_number": "16",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Zacian-V.25TH.16.40516.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fzacian-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1733014.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zacian+V+Celebrations+16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.23",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zacian-V?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Umbreon *",
+      "title": "Umbreon * (Celebrations Promo) - POP Series 5 #17",
+      "link": "/POP-Series-5-Expansion/Umbreon--Card-17",
+      "image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.40597.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.40597.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.6456.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$47.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fumbreon-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3,299.99",
+          "link": "http://www.trollandtoad.com/p202886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2,375.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Umbreon+%2A+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-17.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$65.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/shining_umbreon_star__1717__ultra_rare/653294"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.40597.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Zamazenta V",
+      "title": "Zamazenta V - Celebrations #18",
+      "link": "/Celebrations-Expansion/Zamazenta-V-Card-18",
+      "image": "https://den-cards.pokellector.com/329/Zamazenta-V.25TH.18.40556.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Zamazenta-V.25TH.18.40556.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "18/25",
+      "card_number": "18",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Zamazenta-V.25TH.18.40556.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fzamazenta-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1733016.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zamazenta+V+Celebrations+18+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.16",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zamazenta-V?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Yveltal",
+      "title": "Yveltal - Celebrations #19",
+      "link": "/Celebrations-Expansion/Yveltal-Card-19",
+      "image": "https://den-cards.pokellector.com/329/Yveltal.25TH.19.40557.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Yveltal.25TH.19.40557.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "19/25",
+      "card_number": "19",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Yveltal.25TH.19.40557.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fyveltal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1733017.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Yveltal+Celebrations+19+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Yveltal?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Cleffa",
+      "title": "Cleffa (Celebrations Promo) - Neo Genesis #20",
+      "link": "/Neo-Genesis-Expansion/Cleffa-Card-20",
+      "image": "https://den-cards.pokellector.com/113/Cleffa.N1.20.40592.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/113/Cleffa.N1.20.40592.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Neo Genesis",
+      "set_link": "/Neo-Genesis-Expansion/",
+      "position": "20/111",
+      "card_number": "20",
+      "total_cards": "111",
+      "image_full": "https://den-cards.pokellector.com/113/Cleffa.N1.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fneo-genesis%2Fcleffa"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.49",
+          "link": "http://www.trollandtoad.com/p148249.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Genesis+Cleffa+20+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$14.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_genesis/cleffa__20111__rare__1st_edition/65393"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cleffa+-+20%2F111"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/113/Cleffa.N1.20.40592.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Solgaleo",
+      "title": "Solgaleo - Celebrations #21",
+      "link": "/Celebrations-Expansion/Solgaleo-Card-21",
+      "image": "https://den-cards.pokellector.com/329/Solgaleo.25TH.21.40559.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Solgaleo.25TH.21.40559.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "21/25",
+      "card_number": "21",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Solgaleo.25TH.21.40559.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fsolgaleo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1733019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Solgaleo+Celebrations+21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Solgaleo?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Lugia",
+      "title": "Lugia - Celebrations #22",
+      "link": "/Celebrations-Expansion/Lugia-Card-22",
+      "image": "https://den-cards.pokellector.com/329/Lugia.25TH.22.40560.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Lugia.25TH.22.40560.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "22/25",
+      "card_number": "22",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Lugia.25TH.22.40560.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Flugia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1733020.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lugia+Celebrations+22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Lugia?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Professor's Research",
+      "title": "Professor's Research - Celebrations #23",
+      "link": "/Celebrations-Expansion/Professors-Research-Card-23",
+      "image": "https://den-cards.pokellector.com/329/Professors-Research.25TH.23.40561.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Professors-Research.25TH.23.40561.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "23/25",
+      "card_number": "23",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Professors-Research.25TH.23.40561.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fprofessors-research"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1733021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Professor%27s+Research+Celebrations+23+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Professors-Research-V1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "_____'s Pikachu",
+      "title": "_____'s Pikachu (Celebrations Promo) - Wizards of the Coast Promos #24",
+      "link": "/Wizards-of-the-Coast-Promos-Expansion/___s-Pikachu-Card-24",
+      "image": "https://den-cards.pokellector.com/125/___s-Pikachu.WOTC.24.40591.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/125/___s-Pikachu.WOTC.24.40591.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Wizards of the Coast Promos",
+      "set_link": "/Wizards-of-the-Coast-Promos-Expansion/",
+      "position": "24/53",
+      "card_number": "24",
+      "total_cards": "53",
+      "image_full": "https://den-cards.pokellector.com/125/___s-Pikachu.WOTC.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$301.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fwotc-promo%2Fpikachu-birthday"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$99.99",
+          "link": "http://www.trollandtoad.com/p183672.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$25.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/_s_pikachu__2453__holo_rare/653173"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$14.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/_____%27s+Pikachu+-+24+%28Birthday+Pikachu%29"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/125/___s-Pikachu.WOTC.24.40591.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Mew",
+      "title": "Mew - Celebrations #25",
+      "link": "/Celebrations-Expansion/Mew-Card-25",
+      "image": "https://den-cards.pokellector.com/329/Mew.25TH.25.40563.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/329/Mew.25TH.25.40563.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Celebrations",
+      "set_link": "/Celebrations-Expansion/",
+      "position": "25/25",
+      "card_number": "25",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/329/Mew.25TH.25.40563.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$48.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fcelebrations%2Fmew-secret"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.59",
+          "link": "http://www.trollandtoad.com/p1733023.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$85.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mew+Celebrations+25+-complete+-playset+-set+-lot+-digital+-PTCGO+shiny&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€55.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Mew-V2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Imposter Professor Oak",
+      "title": "Imposter Professor Oak (Celebrations Promo) - Base Set #73",
+      "link": "/Base-Set-Expansion/Imposter-Professor-Oak-Card-73",
+      "image": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.40587.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.40587.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Base Set",
+      "set_link": "/Base-Set-Expansion/",
+      "position": "73/102",
+      "card_number": "73",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.66",
+          "link": "https://store.tcgplayer.com/pokemon/base-set/impostor-professor-oak?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p149126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DBase+Set+Imposter+Professor+Oak+73+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/imposter_professor_oak__73102__holo_rare/653183"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Imposter+Professor+Oak+-+73%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "First Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Shadowless",
+          "image": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.14247.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "U.K. Edition",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.40587.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Shining Magikarp",
+      "title": "Shining Magikarp (Celebrations Promo) - Neo Revelation #66",
+      "link": "/Neo-Revelation-Expansion/Shining-Magikarp-Card-66",
+      "image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.40593.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.40593.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Neo Revelation",
+      "set_link": "/Neo-Revelation-Expansion/",
+      "position": "66/64",
+      "card_number": "66",
+      "total_cards": "64",
+      "image_full": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$175.00",
+          "link": "https://store.tcgplayer.com/pokemon/neo-revelation/shining-magikarp?partner=POKELLECTOR"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$257.99",
+          "link": "http://www.trollandtoad.com/p148684.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$97.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DNeo+Revelation+Shining+Magikarp+66+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/shining_magikarp__6664__shiny_holo_rare/653191"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shining+Magikarp+-+66%2F64"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.40593.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Rocket's Admin",
+      "title": "Rocket's Admin (Celebrations Promo) - EX Team Rocket Returns #86",
+      "link": "/EX-Team-Rocket-Returns-Expansion/Rockets-Admin-Card-86",
+      "image": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.40595.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.40595.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Rocket Returns",
+      "set_link": "/EX-Team-Rocket-Returns-Expansion/",
+      "position": "86/109",
+      "card_number": "86",
+      "total_cards": "109",
+      "image_full": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-rocket-returns%2Frockets-admin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.09",
+          "link": "http://www.trollandtoad.com/p160958.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$39.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Rocket+Returns+Rocket%27s+Admin+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.95",
+          "link": "http://stop2shop.com/trr-86.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rocket%27s+Admin.+-+86%2F109"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.40595.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Mew ex",
+      "title": "Mew ex (Celebrations Promo) - EX Legend Maker #88",
+      "link": "/EX-Legend-Maker-Expansion/Mew-ex-Card-88",
+      "image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.40596.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.40596.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Legend Maker",
+      "set_link": "/EX-Legend-Maker-Expansion/",
+      "position": "88/92",
+      "card_number": "88",
+      "total_cards": "92",
+      "image_full": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Flegend-maker%2Fmew-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$160.99",
+          "link": "http://www.trollandtoad.com/p163392.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$42.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Legend+Maker+Mew+ex+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mew+ex+-+88%2F92"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$59.90",
+          "link": "http://stop2shop.com/pokemon-ex-legend-maker-card-88.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.40596.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Gardevoir ex (delta species)",
+      "title": "Gardevoir ex (delta species) (Celebrations Promo) - EX Dragon Frontiers #93",
+      "link": "/EX-Dragon-Frontiers-Expansion/Gardevoir-ex-delta-species-Card-93",
+      "image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.40598.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.40598.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Dragon Frontiers",
+      "set_link": "/EX-Dragon-Frontiers-Expansion/",
+      "position": "93/101",
+      "card_number": "93",
+      "total_cards": "101",
+      "image_full": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$180.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-frontiers%2Fgardevoir-ex-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p157043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Dragon+Frontiers+Gardevoir+ex++%28delta+species%29+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$44.95",
+          "link": "http://stop2shop.com/df-093.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.40598.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "109": {
+      "number": "109",
+      "name": "Luxray GL LV. X",
+      "title": "Luxray GL LV. X (Celebrations Promo) - Platinum - Rising Rivals #109",
+      "link": "/Platinum-Rising-Rivals-Expansion/Luxray-GL-LV-X-Card-109",
+      "image": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.40600.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.40600.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Platinum - Rising Rivals",
+      "set_link": "/Platinum-Rising-Rivals-Expansion/",
+      "position": "109/111",
+      "card_number": "109",
+      "total_cards": "111",
+      "image_full": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$97.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frising-rivals%2Fluxray-gl-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p249430.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$162.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Platinum+-+Rising+Rivals+Luxray+GL+LV.+X+109+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luxray+GL+LV.X+-+109%2F111"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$89.99",
+          "link": "http://stop2shop.com/rr-109.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.40600.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "145": {
+      "number": "145",
+      "name": "Garchomp C LV. X",
+      "title": "Garchomp C LV. X (Celebrations Promo) - Platinum - Supreme Victors #145",
+      "link": "/Platinum-Supreme-Victors-Expansion/Garchomp-C-LV-X-Card-145",
+      "image": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.40601.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.40601.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Platinum - Supreme Victors",
+      "set_link": "/Platinum-Supreme-Victors-Expansion/",
+      "position": "145/147",
+      "card_number": "145",
+      "total_cards": "147",
+      "image_full": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$56.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsupreme-victors%2Fgarchomp-c-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p279471.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Platinum+-+Supreme+Victors+Garchomp+C+LV.+X+145+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Garchomp+C+LV.X+-+145%2F147"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$31.99",
+          "link": "http://stop2shop.com/sv-145.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.40601.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "107": {
+      "number": "107",
+      "name": "Donphan",
+      "title": "Donphan (Celebrations Promo) - HeartGold SoulSilver #107",
+      "link": "/HeartGold-SoulSilver-Expansion/Donphan-Card-107",
+      "image": "https://den-cards.pokellector.com/34/Donphan.HGSS.107.40602.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/34/Donphan.HGSS.107.40602.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HeartGold SoulSilver",
+      "set_link": "/HeartGold-SoulSilver-Expansion/",
+      "position": "107/123",
+      "card_number": "107",
+      "total_cards": "123",
+      "image_full": "https://den-cards.pokellector.com/34/Donphan.HGSS.107.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fheartgold-soulsilver%2Fdonphan-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p291449.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HGSS+107+Donphan+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Donphan+%28Prime%29+-+107%2F123"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$22.99",
+          "link": "http://stop2shop.com/hgss-107.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/34/Donphan.HGSS.107.40602.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "113": {
+      "number": "113",
+      "name": "Reshiram",
+      "title": "Reshiram (Celebrations Promo) - Black & White #113",
+      "link": "/English-Black-White-Expansion/Reshiram-Card-113",
+      "image": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.40603.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.40603.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Black & White",
+      "set_link": "/English-Black-White-Expansion/",
+      "position": "113/114",
+      "card_number": "113",
+      "total_cards": "114",
+      "image_full": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$74.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white%2Freshiram-113-full-art"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.59",
+          "link": "http://www.trollandtoad.com/p307836.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$415.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+Black+%26+White+113+-oversized+-jumbo+full+art&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$75.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-black_and_white/reshiram__113114__full_art_ultra_rare/58597"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Reshiram+%28Full+Art%29+-+113%2F114"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.85",
+          "link": "http://stop2shop.com/pkbw-113.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.40603.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "114": {
+      "number": "114",
+      "name": "Zekrom",
+      "title": "Zekrom (Celebrations Promo) - Black & White #114",
+      "link": "/English-Black-White-Expansion/Zekrom-Card-114",
+      "image": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.40604.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.40604.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Black & White",
+      "set_link": "/English-Black-White-Expansion/",
+      "position": "114/114",
+      "card_number": "114",
+      "total_cards": "114",
+      "image_full": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$75.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fblack-and-white%2Fzekrom-114-full-art"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$41.89",
+          "link": "http://www.trollandtoad.com/p307837.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zekrom+Black+%26+White+114+-oversized+-jumbo+full+art&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/zekrom__114114__ultra_rare/653197"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zekrom+%28Full+Art%29+-+114%2F114"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.75",
+          "link": "http://stop2shop.com/pkbw-114.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.40604.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Mewtwo EX",
+      "title": "Mewtwo EX (Celebrations Promo) - Next Destinies #54",
+      "link": "/Next-Destinies-Expansion/Mewtwo-EX-Card-54",
+      "image": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.40605.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.40605.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Next Destinies",
+      "set_link": "/Next-Destinies-Expansion/",
+      "position": "54/99",
+      "card_number": "54",
+      "total_cards": "99",
+      "image_full": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fnext-destinies%2Fmewtwo-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p325895.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+EX+Next+Destinies+54+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-bw__next_destinies/mewtwoex__5499__holo_rare_ex/57516"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mewtwo-EX+-+54%2F99"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.79",
+          "link": "http://stop2shop.com/pk-bw4-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Sheen Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Jumbo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.40605.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "97": {
+      "number": "97",
+      "name": "Xerneas EX",
+      "title": "Xerneas EX (Celebrations Promo) - XY #97",
+      "link": "/XY-Expansion/Xerneas-EX-Card-97",
+      "image": "https://den-cards.pokellector.com/142/Xerneas-EX.XY.97.40606.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/142/Xerneas-EX.XY.97.40606.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "XY",
+      "set_link": "/XY-Expansion/",
+      "position": "97/146",
+      "card_number": "97",
+      "total_cards": "146",
+      "image_full": "https://den-cards.pokellector.com/142/Xerneas-EX.XY.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fxy-base-set%2Fxerneas-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.39",
+          "link": "http://www.trollandtoad.com/p1048220.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=XY+Xerneas+EX+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.49",
+          "link": "http://stop2shop.com/pok-xy01-097.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_base_set/xerneasex__97146__rare_holo_ex/155053"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Xerneas-EX+-+97%2F146"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/142/Xerneas-EX.XY.97.40606.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "M Rayquaza EX",
+      "title": "M Rayquaza EX (Celebrations Promo) - Roaring Skies #76",
+      "link": "/Roaring-Skies-Expansion/M-Rayquaza-EX-Card-76",
+      "image": "https://den-cards.pokellector.com/169/M-Rayquaza-EX.ROS.76.40607.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/169/M-Rayquaza-EX.ROS.76.40607.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Roaring Skies",
+      "set_link": "/Roaring-Skies-Expansion/",
+      "position": "76/108",
+      "card_number": "76",
+      "total_cards": "108",
+      "image_full": "https://den-cards.pokellector.com/169/M-Rayquaza-EX.RSK.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.83",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fxy-roaring-skies%2Fm-rayquaza-ex-76"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.69",
+          "link": "http://www.trollandtoad.com/p1070863.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=M+Rayquaza+EX+Roaring+Skies+76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/M+Rayquaza-EX+-+76%2F108"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$15.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_roaring_skies/megarayquazaex__76108__holo_rare_ex/227513"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$16.19",
+          "link": "http://stop2shop.com/pok-xy06-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/169/M-Rayquaza-EX.ROS.76.40607.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Tapu Lele GX",
+      "title": "Tapu Lele GX (Celebrations Promo) - Guardians Rising #60",
+      "link": "/Guardians-Rising-Expansion/Tapu-Lele-GX-Card-60",
+      "image": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.40608.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.40608.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Guardians Rising",
+      "set_link": "/Guardians-Rising-Expansion/",
+      "position": "60/145",
+      "card_number": "60",
+      "total_cards": "145",
+      "image_full": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.17369.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsm-guardians-rising%2Ftapu-lele-gx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p1115185.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.13",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tapu+Lele+GX+Guardians+Rising+60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Tapu-Lele-GX-Energy-Drive-V-4?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$39.99",
+          "link": "http://stop2shop.com/pok-sm02-060.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/tapu_lele_gx__60145__ultra_rare/653192"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "60a Alternate Art",
+          "image": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.28742.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.40608.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 01:16:49"
+}

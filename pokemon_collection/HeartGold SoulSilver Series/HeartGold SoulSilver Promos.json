@@ -1,0 +1,940 @@
+{
+  "title": "HeartGold SoulSilver Promos Set",
+  "link": "/HeartGold-SoulSilver-Promos-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.logo.107.png",
+  "symbol": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.symbol.107.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ho-Oh",
+      "title": "Ho-Oh - HeartGold SoulSilver Promos #1",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Ho-Oh-Card-1",
+      "image": "https://den-cards.pokellector.com/107/Ho-Oh.HGSS.1.6525.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Ho-Oh.HGSS.1.6525.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "1/25",
+      "card_number": "1",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Ho-Oh.HGSS.1.6525.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.19",
+          "link": "http://www.trollandtoad.com/p298124.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pp-hgss01.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ho-oh+-+HGSS01"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Lugia",
+      "title": "Lugia - HeartGold SoulSilver Promos #2",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Lugia-Card-2",
+      "image": "https://den-cards.pokellector.com/107/Lugia.HGSS.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Lugia.HGSS.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "2/25",
+      "card_number": "2",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Lugia.HGSS.2.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p298127.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DLugia+Promo+HGSS2+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lugia+-+HGSS02"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pp-hgss02.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Pikachu",
+      "title": "Pikachu - HeartGold SoulSilver Promos #3",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Pikachu-Card-3",
+      "image": "https://den-cards.pokellector.com/107/Pikachu.HGSS.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Pikachu.HGSS.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "3/25",
+      "card_number": "3",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Pikachu.HGSS.3.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p298129.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Promo+HGSS3+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/pp-hgss03.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+HGSS03"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Wobbuffet",
+      "title": "Wobbuffet - HeartGold SoulSilver Promos #4",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Wobbuffet-Card-4",
+      "image": "https://den-cards.pokellector.com/107/Wobbuffet.HGSS.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Wobbuffet.HGSS.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "4/25",
+      "card_number": "4",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Wobbuffet.HGSS.4.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p296562.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wobbuffet+-+HGSS04"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pp-hgss04.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Hoothoot",
+      "title": "Hoothoot - HeartGold SoulSilver Promos #5",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Hoothoot-Card-5",
+      "image": "https://den-cards.pokellector.com/107/Hoothoot.HGSS.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Hoothoot.HGSS.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "5/25",
+      "card_number": "5",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Hoothoot.HGSS.5.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p298125.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-hgss05.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hoothoot+-+HGSS05"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Noctowl",
+      "title": "Noctowl - HeartGold SoulSilver Promos #6",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Noctowl-Card-6",
+      "image": "https://den-cards.pokellector.com/107/Noctowl.HGSS.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Noctowl.HGSS.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "6/25",
+      "card_number": "6",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Noctowl.HGSS.6.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.16",
+          "link": "http://www.trollandtoad.com/p295826.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-hgss06.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Noctowl+-+HGSS06"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Feraligatr",
+      "title": "Feraligatr - HeartGold SoulSilver Promos #7",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Feraligatr-Card-7",
+      "image": "https://den-cards.pokellector.com/107/Feraligatr.HGSS.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Feraligatr.HGSS.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "7/25",
+      "card_number": "7",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Feraligatr.HGSS.7.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p292055.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.89",
+          "link": "http://stop2shop.com/pp-hgss07.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Feraligatr+%28Prime%29+-+HGSS07"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Meganium",
+      "title": "Meganium - HeartGold SoulSilver Promos #8",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Meganium-Card-8",
+      "image": "https://den-cards.pokellector.com/107/Meganium.HGSS.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Meganium.HGSS.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "8/25",
+      "card_number": "8",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Meganium.HGSS.8.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p292057.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.89",
+          "link": "http://stop2shop.com/pp-hgss08.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meganium+%28Prime%29+-+HGSS08"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Typhlosion",
+      "title": "Typhlosion - HeartGold SoulSilver Promos #9",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Typhlosion-Card-9",
+      "image": "https://den-cards.pokellector.com/107/Typhlosion.HGSS.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Typhlosion.HGSS.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "9/25",
+      "card_number": "9",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Typhlosion.HGSS.9.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.89",
+          "link": "http://www.trollandtoad.com/p292056.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.79",
+          "link": "http://stop2shop.com/pp-hgss09.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Typhlosion+%28Prime%29+-+HGSS09"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Latias",
+      "title": "Latias - HeartGold SoulSilver Promos #10",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Latias-Card-10",
+      "image": "https://den-cards.pokellector.com/107/Latias.HGSS.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Latias.HGSS.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "10/25",
+      "card_number": "10",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Latias.HGSS.10.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p298126.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Latias+Promo+HGSS10+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-hgss10.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latias+-+HGSS10"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Latios",
+      "title": "Latios - HeartGold SoulSilver Promos #11",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Latios-Card-11",
+      "image": "https://den-cards.pokellector.com/107/Latios.HGSS.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Latios.HGSS.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "11/25",
+      "card_number": "11",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Latios.HGSS.11.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p298128.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Latios+Promo+HGSS11+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pp-hgss11.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latios+-+HGSS11"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Cleffa",
+      "title": "Cleffa - HeartGold SoulSilver Promos #12",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Cleffa-Card-12",
+      "image": "https://den-cards.pokellector.com/107/Cleffa.HGSS.12.6536.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Cleffa.HGSS.12.6536.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "12/25",
+      "card_number": "12",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Cleffa.HGSS.12.6536.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p302009.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cleffa+Promo+HGSS12+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cleffa+-+HGSS12"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pp-hgss12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Smoochum",
+      "title": "Smoochum - HeartGold SoulSilver Promos #13",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Smoochum-Card-13",
+      "image": "https://den-cards.pokellector.com/107/Smoochum.HGSS.13.6537.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Smoochum.HGSS.13.6537.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "13/25",
+      "card_number": "13",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Smoochum.HGSS.13.6537.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p302010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Smoochum+Promo+HGSS13+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Smoochum+-+HGSS13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-hgss13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Lapras",
+      "title": "Lapras - HeartGold SoulSilver Promos #14",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Lapras-Card-14",
+      "image": "https://den-cards.pokellector.com/107/Lapras.HGSS.14.6538.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Lapras.HGSS.14.6538.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "14/25",
+      "card_number": "14",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Lapras.HGSS.14.6538.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p314359.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lapras+Promo+HGSS14+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lapras+-+HGSS14"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/pp-hgss14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Shuckle",
+      "title": "Shuckle - HeartGold SoulSilver Promos #15",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Shuckle-Card-15",
+      "image": "https://den-cards.pokellector.com/107/Shuckle.HGSS.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Shuckle.HGSS.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "15/25",
+      "card_number": "15",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Shuckle.HGSS.15.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p313758.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shuckle+Promo+HGSS15+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuckle+-+HGSS15"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/pp-hgss15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Plusle",
+      "title": "Plusle - HeartGold SoulSilver Promos #16",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Plusle-Card-16",
+      "image": "https://den-cards.pokellector.com/107/Plusle.HGSS.16.6540.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Plusle.HGSS.16.6540.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "16/25",
+      "card_number": "16",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Plusle.HGSS.16.6540.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p302011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Plusle+Promo+HGSS16+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Plusle+-+HGSS16"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pp-hgss16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Minun",
+      "title": "Minun - HeartGold SoulSilver Promos #17",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Minun-Card-17",
+      "image": "https://den-cards.pokellector.com/107/Minun.HGSS.17.6541.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Minun.HGSS.17.6541.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "17/25",
+      "card_number": "17",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Minun.HGSS.17.6541.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p302012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Minun+Promo+HGSS17+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minun+-+HGSS17"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pp-hgss17.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Tropical Tidal Wave",
+      "title": "Tropical Tidal Wave - HeartGold SoulSilver Promos #18",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Tropical-Tidal-Wave-Card-18",
+      "image": "https://den-cards.pokellector.com/107/Tropical-Tidal-Wave.HGSS.18.6542.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Tropical-Tidal-Wave.HGSS.18.6542.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "18/25",
+      "card_number": "18",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Tropical-Tidal-Wave.HGSS.18.6542.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$109.99",
+          "link": "http://www.trollandtoad.com/p1032503.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$207.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tropical+Tidal+Wave+Promo+HGSS18+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Raikou",
+      "title": "Raikou - HeartGold SoulSilver Promos #19",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Raikou-Card-19",
+      "image": "https://den-cards.pokellector.com/107/Raikou.HGSS.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Raikou.HGSS.19.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "19/25",
+      "card_number": "19",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Raikou.HGSS.19.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p300535.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Raikou+Promo+HGSS19+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.29",
+          "link": "http://stop2shop.com/pp-hgss19.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raikou+-+HGSS19"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Entei",
+      "title": "Entei - HeartGold SoulSilver Promos #20",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Entei-Card-20",
+      "image": "https://den-cards.pokellector.com/107/Entei.HGSS.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Entei.HGSS.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "20/25",
+      "card_number": "20",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Entei.HGSS.20.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.79",
+          "link": "http://www.trollandtoad.com/p300534.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Entei+Promo+HGSS20+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Entei+-+HGSS20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-hgss20.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Suicune",
+      "title": "Suicune - HeartGold SoulSilver Promos #21",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Suicune-Card-21",
+      "image": "https://den-cards.pokellector.com/107/Suicune.HGSS.21.6545.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Suicune.HGSS.21.6545.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "21/25",
+      "card_number": "21",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Suicune.HGSS.21.6545.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.09",
+          "link": "http://www.trollandtoad.com/p300536.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Suicune+Promo+HGSS21+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Suicune+-+HGSS21"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.29",
+          "link": "http://stop2shop.com/pp-hgss21.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Porygon",
+      "title": "Porygon - HeartGold SoulSilver Promos #22",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Porygon-Card-22",
+      "image": "https://den-cards.pokellector.com/107/Porygon.HGSS.22.6546.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Porygon.HGSS.22.6546.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "22/25",
+      "card_number": "22",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Porygon.HGSS.22.6546.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p303614.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.87",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Porygon+Promo+HGSS22+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon+-+HGSS22"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-hgss22.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Porygon2",
+      "title": "Porygon2 - HeartGold SoulSilver Promos #23",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Porygon2-Card-23",
+      "image": "https://den-cards.pokellector.com/107/Porygon2.HGSS.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Porygon2.HGSS.23.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "23/25",
+      "card_number": "23",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Porygon2.HGSS.23.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p303615.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$16.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Porygon2+Promo+HGSS23+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-hgss23.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon2+-+HGSS23"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Hitmonchan",
+      "title": "Hitmonchan - HeartGold SoulSilver Promos #24",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Hitmonchan-Card-24",
+      "image": "https://den-cards.pokellector.com/107/Hitmonchan.HGSS.24.6548.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Hitmonchan.HGSS.24.6548.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "24/25",
+      "card_number": "24",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Hitmonchan.HGSS.24.6548.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p314340.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hitmonchan+Promo+HGSS24+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonchan+-+HGSS24"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/pp-hgss24.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "25": {
+      "number": "25",
+      "name": "Hitmonlee",
+      "title": "Hitmonlee - HeartGold SoulSilver Promos #25",
+      "link": "/HeartGold-SoulSilver-Promos-Expansion/Hitmonlee-Card-25",
+      "image": "https://den-cards.pokellector.com/107/Hitmonlee.HGSS.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/107/Hitmonlee.HGSS.25.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HeartGold SoulSilver Promos",
+      "set_link": "/HeartGold-SoulSilver-Promos-Expansion/",
+      "position": "25/25",
+      "card_number": "25",
+      "total_cards": "25",
+      "image_full": "https://den-cards.pokellector.com/107/Hitmonlee.HGSS.25.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p316674.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hitmonlee+Promo+HGSS25+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/pp-hgss25.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hitmonlee+-+HGSS25"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:56:33"
+}

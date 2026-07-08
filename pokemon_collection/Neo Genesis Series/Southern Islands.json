@@ -1,0 +1,682 @@
+{
+  "title": "Southern Islands Set",
+  "link": "/Southern-Islands-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Southern-Islands.logo.124.png",
+  "symbol": "https://den-media.pokellector.com/logos/Southern-Islands.symbol.124.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Mew",
+      "title": "Mew - Southern Islands #1",
+      "link": "/Southern-Islands-Expansion/Mew-Card-1",
+      "image": "https://den-cards.pokellector.com/124/Mew.SI.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Mew.SI.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "1/18",
+      "card_number": "1",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Mew.SI.1.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$133.69",
+          "link": "http://www.trollandtoad.com/p211930.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Mew+1+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/mewtwo_ex_xy183_holo_promo__2016_mewtwo_ex_box_excclusive/539043"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Pidgeot",
+      "title": "Pidgeot - Southern Islands #2",
+      "link": "/Southern-Islands-Expansion/Pidgeot-Card-2",
+      "image": "https://den-cards.pokellector.com/124/Pidgeot.SI.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Pidgeot.SI.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "2/18",
+      "card_number": "2",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Pidgeot.SI.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fpidgeot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.49",
+          "link": "http://www.trollandtoad.com/p211932.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.24",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Pidgeot+2+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_team_up/pidgeotto__123181__common/612323"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Onix",
+      "title": "Onix - Southern Islands #3",
+      "link": "/Southern-Islands-Expansion/Onix-Card-3",
+      "image": "https://den-cards.pokellector.com/124/Onix.SI.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Onix.SI.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "3/18",
+      "card_number": "3",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Onix.SI.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fonix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p211931.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.25",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Onix+3+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_paradox_rift/onix__090182__common/698486"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Togepi",
+      "title": "Togepi - Southern Islands #4",
+      "link": "/Southern-Islands-Expansion/Togepi-Card-4",
+      "image": "https://den-cards.pokellector.com/124/Togepi.SI.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Togepi.SI.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "4/18",
+      "card_number": "4",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Togepi.SI.4.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$51.49",
+          "link": "http://www.trollandtoad.com/p211937.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Togepi+4+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_astral_radiance/togepi__055189__common__reverse_holo/662077"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Ivysaur",
+      "title": "Ivysaur - Southern Islands #5",
+      "link": "/Southern-Islands-Expansion/Ivysaur-Card-5",
+      "image": "https://den-cards.pokellector.com/124/Ivysaur.SI.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Ivysaur.SI.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "5/18",
+      "card_number": "5",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Ivysaur.SI.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$37.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fivysaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p211924.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Ivysaur+5+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$19.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-southern_islands/ivysaur__518__promotional/66483"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Raticate",
+      "title": "Raticate - Southern Islands #6",
+      "link": "/Southern-Islands-Expansion/Raticate-Card-6",
+      "image": "https://den-cards.pokellector.com/124/Raticate.SI.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Raticate.SI.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "6/18",
+      "card_number": "6",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Raticate.SI.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fraticate"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p211934.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.45",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Raticate+6+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_destined_rivals/team_rockets_raticate__148182__common/753197"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Ledyba",
+      "title": "Ledyba - Southern Islands #7",
+      "link": "/Southern-Islands-Expansion/Ledyba-Card-7",
+      "image": "https://den-cards.pokellector.com/124/Ledyba.SI.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Ledyba.SI.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "7/18",
+      "card_number": "7",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Ledyba.SI.7.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.48",
+          "link": "http://www.trollandtoad.com/p211927.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.98",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Ledyba+7+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/yugioh_singles-2018_mega_tin/digital_bug_ledybug__mp18en006__common__1st_edition/606854"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - Southern Islands #8",
+      "link": "/Southern-Islands-Expansion/Jigglypuff-Card-8",
+      "image": "https://den-cards.pokellector.com/124/Jigglypuff.SI.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Jigglypuff.SI.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "8/18",
+      "card_number": "8",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Jigglypuff.SI.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fjigglypuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$26.49",
+          "link": "http://www.trollandtoad.com/p211925.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.49",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Jigglypuff+8+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_darkness_ablaze/jigglypuff__067189__common__reverse_holo/633068"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Butterfree",
+      "title": "Butterfree - Southern Islands #9",
+      "link": "/Southern-Islands-Expansion/Butterfree-Card-9",
+      "image": "https://den-cards.pokellector.com/124/Butterfree.SI.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Butterfree.SI.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "9/18",
+      "card_number": "9",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Butterfree.SI.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fbutterfree"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p211922.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.60",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Butterfree+9+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-southern_islands/butterfree_918__southern_island_promo/66496"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Tentacruel",
+      "title": "Tentacruel - Southern Islands #10",
+      "link": "/Southern-Islands-Expansion/Tentacruel-Card-10",
+      "image": "https://den-cards.pokellector.com/124/Tentacruel.SI.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Tentacruel.SI.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "10/18",
+      "card_number": "10",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Tentacruel.SI.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.56",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Ftentacruel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.49",
+          "link": "http://www.trollandtoad.com/p211936.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Tentacruel+10+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-hs_triumphant/tentacruel__50102__uncommon__reverse_holo/63676"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Marill",
+      "title": "Marill - Southern Islands #11",
+      "link": "/Southern-Islands-Expansion/Marill-Card-11",
+      "image": "https://den-cards.pokellector.com/124/Marill.SI.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Marill.SI.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "11/18",
+      "card_number": "11",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Marill.SI.11.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$31.89",
+          "link": "http://www.trollandtoad.com/p211929.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Marill+11+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-neo_genesis/marill__66111__common__1st_edition/65441"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Lapras",
+      "title": "Lapras - Southern Islands #12",
+      "link": "/Southern-Islands-Expansion/Lapras-Card-12",
+      "image": "https://den-cards.pokellector.com/124/Lapras.SI.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Lapras.SI.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "12/18",
+      "card_number": "12",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Lapras.SI.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$45.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Flapras"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p211926.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.80",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Lapras+12+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/lapras__512__mcdonalds_promo_2019/681018"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Exeggutor",
+      "title": "Exeggutor - Southern Islands #13",
+      "link": "/Southern-Islands-Expansion/Exeggutor-Card-13",
+      "image": "https://den-cards.pokellector.com/124/Exeggutor.SI.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Exeggutor.SI.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "13/18",
+      "card_number": "13",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Exeggutor.SI.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fexeggutor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p211923.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Exeggutor+13+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-mega_evolution_base_set/exeggutor__135132__illustration_rare/767308"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Slowking",
+      "title": "Slowking - Southern Islands #14",
+      "link": "/Southern-Islands-Expansion/Slowking-Card-14",
+      "image": "https://den-cards.pokellector.com/124/Slowking.SI.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Slowking.SI.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "14/18",
+      "card_number": "14",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Slowking.SI.14.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$42.79",
+          "link": "http://www.trollandtoad.com/p211935.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Slowking+14+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$149.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-southern_islands/slowking_1418_southern_island_promo/66461"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Wartortle",
+      "title": "Wartortle - Southern Islands #15",
+      "link": "/Southern-Islands-Expansion/Wartortle-Card-15",
+      "image": "https://den-cards.pokellector.com/124/Wartortle.SI.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Wartortle.SI.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "15/18",
+      "card_number": "15",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Wartortle.SI.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$59.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fwartortle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.39",
+          "link": "http://www.trollandtoad.com/p211939.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Wartortle+15+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$15.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-southern_islands/wartortle__15__promotional/66462"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Lickitung",
+      "title": "Lickitung - Southern Islands #16",
+      "link": "/Southern-Islands-Expansion/Lickitung-Card-16",
+      "image": "https://den-cards.pokellector.com/124/Lickitung.SI.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Lickitung.SI.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "16/18",
+      "card_number": "16",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Lickitung.SI.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Flickitung"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.99",
+          "link": "http://www.trollandtoad.com/p211928.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Lickitung+16+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-detective_pikachu_miniset/lickitung__1618__holo_common/613866"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Vileplume",
+      "title": "Vileplume - Southern Islands #17",
+      "link": "/Southern-Islands-Expansion/Vileplume-Card-17",
+      "image": "https://den-cards.pokellector.com/124/Vileplume.SI.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Vileplume.SI.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "17/18",
+      "card_number": "17",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Vileplume.SI.17.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p211938.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.95",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Vileplume+17+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_holon_phantoms/vileplume__17110__holo_rare/61110"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Primeape",
+      "title": "Primeape - Southern Islands #18",
+      "link": "/Southern-Islands-Expansion/Primeape-Card-18",
+      "image": "https://den-cards.pokellector.com/124/Primeape.SI.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/124/Primeape.SI.18.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Southern Islands",
+      "set_link": "/Southern-Islands-Expansion/",
+      "position": "18/18",
+      "card_number": "18",
+      "total_cards": "18",
+      "image_full": "https://den-cards.pokellector.com/124/Primeape.SI.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fsouthern-islands%2Fprimeape"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.59",
+          "link": "http://www.trollandtoad.com/p211933.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.41",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DSouthern+Islands+Primeape+18+-jumbo+-oversize%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.29",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_team_up/primeape__72181__rare/612310"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 13:48:40"
+}

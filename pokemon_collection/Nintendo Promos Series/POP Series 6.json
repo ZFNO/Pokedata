@@ -1,0 +1,765 @@
+{
+  "title": "POP Series 6 Set",
+  "link": "/POP-Series-6-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-6.logo.103.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-6.symbol.103.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Bastiodon",
+      "title": "Bastiodon - POP Series 6 #1",
+      "link": "/POP-Series-6-Expansion/Bastiodon-Card-1",
+      "image": "https://den-cards.pokellector.com/103/Bastiodon.POP6.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Bastiodon.POP6.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Bastiodon.POP6.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fbastiodon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p202887.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Bastiodon+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-1.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/bastiodon_117__rare/65635"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Lucario",
+      "title": "Lucario - POP Series 6 #2",
+      "link": "/POP-Series-6-Expansion/Lucario-Card-2",
+      "image": "https://den-cards.pokellector.com/103/Lucario.POP6.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Lucario.POP6.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Lucario.POP6.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Flucario"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p202888.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Lucario+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-2.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/lucario__217__rare/65644"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Manaphy",
+      "title": "Manaphy - POP Series 6 #3",
+      "link": "/POP-Series-6-Expansion/Manaphy-Card-3",
+      "image": "https://den-cards.pokellector.com/103/Manaphy.POP6.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Manaphy.POP6.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Manaphy.POP6.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fmanaphy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.89",
+          "link": "http://www.trollandtoad.com/p202889.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Manaphy+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.72",
+          "link": "http://stop2shop.com/foil-pop6-3.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/manaphy__317__holo_rare/547093"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Pachirisu",
+      "title": "Pachirisu - POP Series 6 #4",
+      "link": "/POP-Series-6-Expansion/Pachirisu-Card-4",
+      "image": "https://den-cards.pokellector.com/103/Pachirisu.POP6.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Pachirisu.POP6.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Pachirisu.POP6.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.83",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fpachirisu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p202890.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.01",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DPOP+Series+6+Pachirisu+4+-oversized+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-4.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_9/pachirisu__1017__uncommon/230323"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Rampardos",
+      "title": "Rampardos - POP Series 6 #5",
+      "link": "/POP-Series-6-Expansion/Rampardos-Card-5",
+      "image": "https://den-cards.pokellector.com/103/Rampardos.POP6.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Rampardos.POP6.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Rampardos.POP6.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Frampardos"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p202891.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Rampardos+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-5.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/rampardos__517__rare/65647"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Drifloon",
+      "title": "Drifloon - POP Series 6 #6",
+      "link": "/POP-Series-6-Expansion/Drifloon-Card-6",
+      "image": "https://den-cards.pokellector.com/103/Drifloon.POP6.6.6462.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Drifloon.POP6.6.6462.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Drifloon.POP6.6.6462.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$100.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fdrifloon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.99",
+          "link": "http://www.trollandtoad.com/p202892.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DPOP+Series+6+Drifloon+6+-oversized+-jumbo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/drifloon__617__uncommon/65648"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Gible",
+      "title": "Gible - POP Series 6 #7",
+      "link": "/POP-Series-6-Expansion/Gible-Card-7",
+      "image": "https://den-cards.pokellector.com/103/Gible.POP6.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Gible.POP6.7.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Gible.POP6.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fgible"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p202893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Gible+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/gible__107172__common/656609"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.24",
+          "link": "http://stop2shop.com/foil-pop6-7.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Riolu",
+      "title": "Riolu - POP Series 6 #8",
+      "link": "/POP-Series-6-Expansion/Riolu-Card-8",
+      "image": "https://den-cards.pokellector.com/103/Riolu.POP6.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Riolu.POP6.8.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Riolu.POP6.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Friolu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p202894.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Riolu+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_brilliant_stars/starly__117172__common/656709"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.17",
+          "link": "http://stop2shop.com/foil-pop6-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Pikachu",
+      "title": "Pikachu - POP Series 6 #9",
+      "link": "/POP-Series-6-Expansion/Pikachu-Card-9",
+      "image": "https://den-cards.pokellector.com/103/Pikachu.POP6.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Pikachu.POP6.9.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Pikachu.POP6.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$155.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$29.99",
+          "link": "http://www.trollandtoad.com/p202895.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Pikachu+9+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.72",
+          "link": "http://stop2shop.com/foil-pop6-9.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$12.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_4/pikachu__1317_common/65613"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Pokemon Day Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Staravia",
+      "title": "Staravia - POP Series 6 #10",
+      "link": "/POP-Series-6-Expansion/Staravia-Card-10",
+      "image": "https://den-cards.pokellector.com/103/Staravia.POP6.10.6466.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Staravia.POP6.10.6466.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Staravia.POP6.10.6466.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fstaravia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p202896.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Staravia+10+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/staravia__1017__uncommon/65636"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Bidoof",
+      "title": "Bidoof - POP Series 6 #11",
+      "link": "/POP-Series-6-Expansion/Bidoof-Card-11",
+      "image": "https://den-cards.pokellector.com/103/Bidoof.POP6.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Bidoof.POP6.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Bidoof.POP6.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$27.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fbidoof"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p202897.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Bidoof+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_primal_clash/bidoof__117160__uncommon/224073"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Buneary",
+      "title": "Buneary - POP Series 6 #12",
+      "link": "/POP-Series-6-Expansion/Buneary-Card-12",
+      "image": "https://den-cards.pokellector.com/103/Buneary.POP6.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Buneary.POP6.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Buneary.POP6.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fbuneary"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p202898.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$42.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Buneary+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/buneary__1217__common/65638"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Cherubi",
+      "title": "Cherubi - POP Series 6 #13",
+      "link": "/POP-Series-6-Expansion/Cherubi-Card-13",
+      "image": "https://den-cards.pokellector.com/103/Cherubi.POP6.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Cherubi.POP6.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Cherubi.POP6.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fcherubi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p202899.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Cherubi+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-13.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/cherubi__1317__common/65639"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Chimchar",
+      "title": "Chimchar - POP Series 6 #14",
+      "link": "/POP-Series-6-Expansion/Chimchar-Card-14",
+      "image": "https://den-cards.pokellector.com/103/Chimchar.POP6.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Chimchar.POP6.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Chimchar.POP6.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fchimchar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p202900.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Chimchar+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/chimchar__1417__nonholo_common/65640"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.15",
+          "link": "http://stop2shop.com/foil-pop6-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Piplup",
+      "title": "Piplup - POP Series 6 #15",
+      "link": "/POP-Series-6-Expansion/Piplup-Card-15",
+      "image": "https://den-cards.pokellector.com/103/Piplup.POP6.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Piplup.POP6.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Piplup.POP6.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fpiplup"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p202901.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Piplup+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.24",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/piplup__1517__nonholo_common/65641"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.15",
+          "link": "http://stop2shop.com/foil-pop6-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Starly",
+      "title": "Starly - POP Series 6 #16",
+      "link": "/POP-Series-6-Expansion/Starly-Card-16",
+      "image": "https://den-cards.pokellector.com/103/Starly.POP6.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Starly.POP6.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Starly.POP6.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fstarly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p202902.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Starly+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop6-16.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/starly__1617__common/65642"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Turtwig",
+      "title": "Turtwig - POP Series 6 #17",
+      "link": "/POP-Series-6-Expansion/Turtwig-Card-17",
+      "image": "https://den-cards.pokellector.com/103/Turtwig.POP6.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/103/Turtwig.POP6.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 6",
+      "set_link": "/POP-Series-6-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/103/Turtwig.POP6.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-6%2Fturtwig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p202903.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+6+Turtwig+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_6/turtwig__1717__holo_common/547133"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.15",
+          "link": "http://stop2shop.com/foil-pop6-17.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:54:12"
+}

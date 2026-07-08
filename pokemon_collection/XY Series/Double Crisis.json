@@ -1,0 +1,1900 @@
+{
+  "title": "Double Crisis Set",
+  "link": "/Double-Crisis-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Double-Crisis.logo.172.png",
+  "symbol": "https://den-media.pokellector.com/logos/Double-Crisis.symbol.172.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Team Magma's Numel",
+      "title": "Team Magma's Numel - Double Crisis #1",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Numel-Card-1",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Numel.DCR.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Numel.DCR.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "1/34",
+      "card_number": "1",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Numel.DCR.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-numel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070049.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Numel+Double+Crisis+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_numel__134__common__reverse_holo/230463"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Numel+-+1%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/pok-dcra-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Team Magma's Camerupt",
+      "title": "Team Magma's Camerupt - Double Crisis #2",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Camerupt-Card-2",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Camerupt.DCR.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Camerupt.DCR.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "2/34",
+      "card_number": "2",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Camerupt.DCR.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-camerupt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1070043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Camerupt+Double+Crisis+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_camerupt__234__holo_rare/230473"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Camerupt+-+2%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/pok-dcra-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Team Aqua's Spheal",
+      "title": "Team Aqua's Spheal - Double Crisis #3",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Spheal-Card-3",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Spheal.DCR.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Spheal.DCR.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "3/34",
+      "card_number": "3",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Spheal.DCR.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-spheal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.87",
+          "link": "http://www.trollandtoad.com/p1070036.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Spheal+Double+Crisis+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_spheal__334__common/230493"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Spheal+-+3%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-003.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Team Aqua's Sealeo",
+      "title": "Team Aqua's Sealeo - Double Crisis #4",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Sealeo-Card-4",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Sealeo.DCR.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Sealeo.DCR.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "4/34",
+      "card_number": "4",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Sealeo.DCR.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-sealeo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1070032.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Sealeo+Double+Crisis+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_sealeo__434__common/230513"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sealeo+-+4%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$28.88",
+          "link": "http://stop2shop.com/pok-dcra-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Team Aqua's Walrein",
+      "title": "Team Aqua's Walrein - Double Crisis #5",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Walrein-Card-5",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Walrein.DCR.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Walrein.DCR.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "5/34",
+      "card_number": "5",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Walrein.DCR.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-walrein"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070037.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Walrein+Double+Crisis+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_walrein__534__holo_rare/230533"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Walrein+-+5%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pok-dcra-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Team Aqua's Kyogre EX",
+      "title": "Team Aqua's Kyogre EX - Double Crisis #6",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Kyogre-EX-Card-6",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Kyogre.DCR.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Kyogre.DCR.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "6/34",
+      "card_number": "6",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Kyogre.DCR.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$344.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-kyogre-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$113.49",
+          "link": "http://www.trollandtoad.com/p1070028.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$275.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Kyogre+EX+Double+Crisis+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$244.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_kyogreex__634__holo_rare_ex/230553"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Kyogre-Ex+-+6%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.49",
+          "link": "http://stop2shop.com/pok-dcra-006.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Team Aqua's Grimer",
+      "title": "Team Aqua's Grimer - Double Crisis #7",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Grimer-Card-7",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Grimer.DCR.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Grimer.DCR.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "7/34",
+      "card_number": "7",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Grimer.DCR.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-grimer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.62",
+          "link": "http://www.trollandtoad.com/p1070027.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Grimer+Double+Crisis+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_grimer__734__common/230563"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Grimer+-+7%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pok-dcra-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Team Aqua's Muk",
+      "title": "Team Aqua's Muk - Double Crisis #8",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Muk-Card-8",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Muk.DCR.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Muk.DCR.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "8/34",
+      "card_number": "8",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Muk.DCR.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-muk"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070030.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Muk+Double+Crisis+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Muk+-+8%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$28.88",
+          "link": "http://stop2shop.com/pok-dcra-008.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_muk__834__holo_rare/230583"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Team Aqua's Seviper",
+      "title": "Team Aqua's Seviper - Double Crisis #9",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Seviper-Card-9",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Seviper.DCR.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Seviper.DCR.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "9/34",
+      "card_number": "9",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Seviper.DCR.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-seviper"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1070034.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.43",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Seviper+Double+Crisis+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_seviper__934__common/230603"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Seviper+-+9%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-009.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Team Magma's Baltoy",
+      "title": "Team Magma's Baltoy - Double Crisis #10",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Baltoy-Card-10",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Baltoy.DCR.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Baltoy.DCR.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "10/34",
+      "card_number": "10",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Baltoy.DCR.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-baltoy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1070042.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Baltoy+Double+Crisis+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_baltoy__1034__common/230623"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Baltoy+-+10%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$28.88",
+          "link": "http://stop2shop.com/pok-dcra-010.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Team Magma's Claydol",
+      "title": "Team Magma's Claydol - Double Crisis #11",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Claydol-Card-11",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Claydol.DCR.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Claydol.DCR.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "11/34",
+      "card_number": "11",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Claydol.DCR.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-claydol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1070044.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Claydol+Double+Crisis+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_claydol__1134__holo_rare/230643"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Claydol+-+11%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pok-dcra-011.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Team Magma's Aron",
+      "title": "Team Magma's Aron - Double Crisis #12",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Aron-Card-12",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Aron.DCR.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Aron.DCR.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "12/34",
+      "card_number": "12",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Aron.DCR.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-aron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.97",
+          "link": "http://www.trollandtoad.com/p1070041.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Aron+Double+Crisis+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.59",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_aron__1234__common/230663"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Aron+-+12%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-012.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Team Magma's Lairon",
+      "title": "Team Magma's Lairon - Double Crisis #13",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Lairon-Card-13",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Lairon.DCR.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Lairon.DCR.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "13/34",
+      "card_number": "13",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Lairon.DCR.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-lairon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1070047.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Lairon+Double+Crisis+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_lairon__1334__common__reverse_holo/230693"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Lairon+-+13%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Team Magma's Aggron",
+      "title": "Team Magma's Aggron - Double Crisis #14",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Aggron-Card-14",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Aggron.DCR.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Aggron.DCR.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "14/34",
+      "card_number": "14",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Aggron.DCR.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-aggron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p1070040.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Aggron+Double+Crisis+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_aggron__1434__holo_rare/230703"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Aggron+-+14%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pok-dcra-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Team Magma's Groudon EX",
+      "title": "Team Magma's Groudon EX - Double Crisis #15",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Groudon-EX-Card-15",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Groudon-EX.DCR.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Groudon-EX.DCR.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "15/34",
+      "card_number": "15",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Groudon-EX.DCR.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$329.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-groudon-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$126.89",
+          "link": "http://www.trollandtoad.com/p1070045.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$282.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Groudon+EX+Double+Crisis+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$499.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_groudonex__1534__holo_rare_ex/230723"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Groudon-EX+-+15%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.49",
+          "link": "http://stop2shop.com/pok-dcra-015.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Team Aqua's Poochyena",
+      "title": "Team Aqua's Poochyena - Double Crisis #16",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Poochyena-Card-16",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Poochyena.DCR.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Poochyena.DCR.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "16/34",
+      "card_number": "16",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Poochyena.DCR.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-poochyena"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070031.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Poochyena+Double+Crisis+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_poochyena__1634__common/230733"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Poochyena+-+16%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-016.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Team Magma's Poochyena",
+      "title": "Team Magma's Poochyena - Double Crisis #17",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Poochyena-Card-17",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Poochyena.DCR.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Poochyena.DCR.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "17/34",
+      "card_number": "17",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Poochyena.DCR.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-poochyena"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.42",
+          "link": "http://www.trollandtoad.com/p1070050.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Poochyena+Double+Crisis+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_poochyena__1734__common/230753"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Poochyena+-+17%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Team Aqua's Mightyena",
+      "title": "Team Aqua's Mightyena - Double Crisis #18",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Mightyena-Card-18",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Mightyena.DCR.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Mightyena.DCR.18.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "18/34",
+      "card_number": "18",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Mightyena.DCR.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-mightyena"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.53",
+          "link": "http://www.trollandtoad.com/p1070029.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Mightyena+Double+Crisis+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-018.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.74",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_team_magma_vs_team_aqua/team_aquas_mightyena__3095__uncommon/61504"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Mightyena+-+18%2F34"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Team Magma's Mightyena",
+      "title": "Team Magma's Mightyena - Double Crisis #19",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Mightyena-Card-19",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Mightyena.DCR.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Mightyena.DCR.19.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "19/34",
+      "card_number": "19",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Mightyena.DCR.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-mightyena"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p1070048.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Mightyena+Double+Crisis+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_mightyena__1934__common/230793"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Mightyena+-+19%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Team Aqua's Carvanha",
+      "title": "Team Aqua's Carvanha - Double Crisis #20",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Carvanha-Card-20",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Carvanha.DCR.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Carvanha.DCR.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "20/34",
+      "card_number": "20",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Carvanha.DCR.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-carvanha"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070025.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Carvanha+Double+Crisis+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_carvanha__2034__common/230813"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Carvanha+-+20%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Team Aqua's Sharpedo",
+      "title": "Team Aqua's Sharpedo - Double Crisis #21",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Sharpedo-Card-21",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Sharpedo.DCR.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Sharpedo.DCR.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "21/34",
+      "card_number": "21",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Sharpedo.DCR.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-sharpedo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1070035.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Sharpedo+Double+Crisis+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.37",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_sharpedo__2134__holo_rare/230833"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sharpedo+-+21%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pok-dcra-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Team Magma's Zangoose",
+      "title": "Team Magma's Zangoose - Double Crisis #22",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Zangoose-Card-22",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Zangoose.DCR.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Zangoose.DCR.22.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "22/34",
+      "card_number": "22",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Zangoose.DCR.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-zangoose"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070052.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Zangoose+Double+Crisis+22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-022.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_zangoose__2234__common/230853"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.39",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Zangoose+-+22%2F34"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Aqua Diffuser",
+      "title": "Aqua Diffuser - Double Crisis #23",
+      "link": "/Double-Crisis-Expansion/Aqua-Diffuser-Card-23",
+      "image": "https://den-cards.pokellector.com/172/Aqua-Diffuser.DCR.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Aqua-Diffuser.DCR.23.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "23/34",
+      "card_number": "23",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Aqua-Diffuser.DCR.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Faqua-diffuser"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1070019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Aqua+Diffuser+Double+Crisis+23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.60",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/aqua_diffuser__2334__uncommon/230873"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aqua+Diffuser+-+23%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pok-dcra-023.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Magma Pointer",
+      "title": "Magma Pointer - Double Crisis #24",
+      "link": "/Double-Crisis-Expansion/Magma-Pointer-Card-24",
+      "image": "https://den-cards.pokellector.com/172/Magma-Pointer.DCR.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Magma-Pointer.DCR.24.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "24/34",
+      "card_number": "24",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Magma-Pointer.DCR.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fmagma-pointer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070022.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Magma+Pointer+Double+Crisis+24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.59",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/magma_pointer__2434__uncommon__reverse_holo/230903"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magma+Pointer+-+24%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pok-dcra-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Team Aqua Admin",
+      "title": "Team Aqua Admin - Double Crisis #25",
+      "link": "/Double-Crisis-Expansion/Team-Aqua-Admin-Card-25",
+      "image": "https://den-cards.pokellector.com/172/Team-Aqua-Admin.DCR.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aqua-Admin.DCR.25.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "25/34",
+      "card_number": "25",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aqua-Admin.DCR.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aqua-admin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1070023.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua+Admin+Double+Crisis+25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Admin+-+25%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-025.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aqua_admin__2534__uncommon/230913"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Team Aqua Grunt",
+      "title": "Team Aqua Grunt - Double Crisis #26",
+      "link": "/Double-Crisis-Expansion/Team-Aqua-Grunt-Card-26",
+      "image": "https://den-cards.pokellector.com/172/Team-Aqua-Grunt.DCR.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aqua-Grunt.DCR.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "26/34",
+      "card_number": "26",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aqua-Grunt.DCR.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aqua-grunt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1070024.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua+Grunt+Double+Crisis+26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aqua_grunt__2634__uncommon/230933"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Grunt+-+26%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/pok-dcra-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Team Aqua's Great Ball",
+      "title": "Team Aqua's Great Ball - Double Crisis #27",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Great-Ball-Card-27",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Great-Ball.DCR.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Great-Ball.DCR.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "27/34",
+      "card_number": "27",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Great-Ball.DCR.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-great-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1070026.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Great+Ball+Double+Crisis+27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_great_ball__2734__uncommon/230953"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Great+Ball+-+27%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pok-dcra-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Team Aqua's Secret Base",
+      "title": "Team Aqua's Secret Base - Double Crisis #28",
+      "link": "/Double-Crisis-Expansion/Team-Aquas-Secret-Base-Card-28",
+      "image": "https://den-cards.pokellector.com/172/Team-Aquas-Secret-Base.DCR.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Aquas-Secret-Base.DCR.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "28/34",
+      "card_number": "28",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Aquas-Secret-Base.DCR.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-aquas-secret-base"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1070033.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Aqua%27s+Secret+Base+Double+Crisis+28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Secret+Base+-+28%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pok-dcra-028.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.79",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_aquas_secret_base__2834__uncommon/230973"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Team Magma Admin",
+      "title": "Team Magma Admin - Double Crisis #29",
+      "link": "/Double-Crisis-Expansion/Team-Magma-Admin-Card-29",
+      "image": "https://den-cards.pokellector.com/172/Team-Magma-Admin.DCR.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magma-Admin.DCR.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "29/34",
+      "card_number": "29",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magma-Admin.DCR.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magma-admin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1070038.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma+Admin+Double+Crisis+29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magma_admin__2934__uncommon/230993"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.39",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Admin+-+29%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/pok-dcra-029.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Team Magma Grunt",
+      "title": "Team Magma Grunt - Double Crisis #30",
+      "link": "/Double-Crisis-Expansion/Team-Magma-Grunt-Card-30",
+      "image": "https://den-cards.pokellector.com/172/Team-Magma-Grunt.DCR.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magma-Grunt.DCR.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "30/34",
+      "card_number": "30",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magma-Grunt.DCR.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magma-grunt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1070039.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma+Grunt+Double+Crisis+30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/pok-dcra-030.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magma_grunt__3034__uncommon/231013"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Grunt+-+30%2F34"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Team Magma's Great Ball",
+      "title": "Team Magma's Great Ball - Double Crisis #31",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Great-Ball-Card-31",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Great-Ball.DCR.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Great-Ball.DCR.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "31/34",
+      "card_number": "31",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Great-Ball.DCR.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-great-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1070046.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Great+Ball+Double+Crisis+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_great_ball__3134__uncommon/231033"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Great+Ball+-+31%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/pok-dcra-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Team Magma's Secret Base",
+      "title": "Team Magma's Secret Base - Double Crisis #32",
+      "link": "/Double-Crisis-Expansion/Team-Magmas-Secret-Base-Card-32",
+      "image": "https://den-cards.pokellector.com/172/Team-Magmas-Secret-Base.DCR.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Team-Magmas-Secret-Base.DCR.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "32/34",
+      "card_number": "32",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Team-Magmas-Secret-Base.DCR.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fteam-magmas-secret-base"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.75",
+          "link": "http://www.trollandtoad.com/p1070051.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Team+Magma%27s+Secret+Base+Double+Crisis+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$12.99",
+          "link": "http://stop2shop.com/pok-dcra-032.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/team_magmas_secret_base__3234__uncommon/231053"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Secret+Base+-+32%2F34"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Double Aqua Energy",
+      "title": "Double Aqua Energy - Double Crisis #33",
+      "link": "/Double-Crisis-Expansion/Double-Aqua-Energy-Card-33",
+      "image": "https://den-cards.pokellector.com/172/Double-Aqua-Energy.DCR.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Double-Aqua-Energy.DCR.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "33/34",
+      "card_number": "33",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Double-Aqua-Energy.DCR.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fdouble-aqua-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1070020.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Double+Aqua+Energy+Double+Crisis+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.38",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/double_aqua_energy__3334__uncommon/231073"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Aqua+Energy+-+33%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pok-dcra-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Double Magma Energy",
+      "title": "Double Magma Energy - Double Crisis #34",
+      "link": "/Double-Crisis-Expansion/Double-Magma-Energy-Card-34",
+      "image": "https://den-cards.pokellector.com/172/Double-Magma-Energy.DCR.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/172/Double-Magma-Energy.DCR.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Double Crisis",
+      "set_link": "/Double-Crisis-Expansion/",
+      "position": "34/34",
+      "card_number": "34",
+      "total_cards": "34",
+      "image_full": "https://den-cards.pokellector.com/172/Double-Magma-Energy.DCR.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdouble-crisis%2Fdouble-magma-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1070021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Double+Magma+Energy+Double+Crisis+34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Magma+Energy+-+34%2F34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/pok-dcra-034.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-double_crisis/double_magma_energy__3434__uncommon/231093"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 06:24:00"
+}

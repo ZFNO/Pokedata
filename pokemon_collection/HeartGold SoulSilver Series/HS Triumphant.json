@@ -1,0 +1,5165 @@
+{
+  "title": "HS Triumphant Set",
+  "link": "/HS-Triumphant-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/HS-Triumphant.logo.37.png",
+  "symbol": "https://den-media.pokellector.com/logos/HS-Triumphant.symbol.37.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Aggron",
+      "title": "Aggron - HS Triumphant #1",
+      "link": "/HS-Triumphant-Expansion/Aggron-Card-1",
+      "image": "https://den-cards.pokellector.com/37/Aggron.TM.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Aggron.TM.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "1/102",
+      "card_number": "1",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Aggron.TM.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Faggron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1067410.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Aggron+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aggron+-+1%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/hs-triumphant-1.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Altaria",
+      "title": "Altaria - HS Triumphant #2",
+      "link": "/HS-Triumphant-Expansion/Altaria-Card-2",
+      "image": "https://den-cards.pokellector.com/37/Altaria.TM.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Altaria.TM.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "2/102",
+      "card_number": "2",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Altaria.TM.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Faltaria"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p302973.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Altaria+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-2.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Altaria+-+2%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Celebi",
+      "title": "Celebi - HS Triumphant #3",
+      "link": "/HS-Triumphant-Expansion/Celebi-Card-3",
+      "image": "https://den-cards.pokellector.com/37/Celebi.TM.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Celebi.TM.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "3/102",
+      "card_number": "3",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Celebi.TM.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fcelebi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.79",
+          "link": "http://www.trollandtoad.com/p302974.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Celebi+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celebi+-+3%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.99",
+          "link": "http://stop2shop.com/hs-triumphant-3.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/37/Celebi.TM.3.32060.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Drapion",
+      "title": "Drapion - HS Triumphant #4",
+      "link": "/HS-Triumphant-Expansion/Drapion-Card-4",
+      "image": "https://den-cards.pokellector.com/37/Drapion.TM.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Drapion.TM.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "4/102",
+      "card_number": "4",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Drapion.TM.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdrapion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p1067428.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Drapion+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drapion+-+4%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-4.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Mamoswine",
+      "title": "Mamoswine - HS Triumphant #5",
+      "link": "/HS-Triumphant-Expansion/Mamoswine-Card-5",
+      "image": "https://den-cards.pokellector.com/37/Mamoswine.TM.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Mamoswine.TM.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "5/102",
+      "card_number": "5",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Mamoswine.TM.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmamoswine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1067458.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Mamoswine+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mamoswine+-+5%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-5.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Nidoking",
+      "title": "Nidoking - HS Triumphant #6",
+      "link": "/HS-Triumphant-Expansion/Nidoking-Card-6",
+      "image": "https://den-cards.pokellector.com/37/Nidoking.TM.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidoking.TM.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "6/102",
+      "card_number": "6",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidoking.TM.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidoking"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p1067460.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$89.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidoking+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nidoking+-+6%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/hs-triumphant-6.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Porygon-Z",
+      "title": "Porygon-Z - HS Triumphant #7",
+      "link": "/HS-Triumphant-Expansion/Porygon-Z-Card-7",
+      "image": "https://den-cards.pokellector.com/37/Porygon-Z.TM.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Porygon-Z.TM.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "7/102",
+      "card_number": "7",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Porygon-Z.TM.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fporygon-z"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1067472.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Porygon-Z+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon-Z+-+7%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-7.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Rapidash",
+      "title": "Rapidash - HS Triumphant #8",
+      "link": "/HS-Triumphant-Expansion/Rapidash-Card-8",
+      "image": "https://den-cards.pokellector.com/37/Rapidash.TM.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Rapidash.TM.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "8/102",
+      "card_number": "8",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Rapidash.TM.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Frapidash"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p1067475.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Rapidash+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rapidash+-+8%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-8.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Solrock",
+      "title": "Solrock - HS Triumphant #9",
+      "link": "/HS-Triumphant-Expansion/Solrock-Card-9",
+      "image": "https://den-cards.pokellector.com/37/Solrock.TM.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Solrock.TM.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "9/102",
+      "card_number": "9",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Solrock.TM.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fsolrock"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1067481.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Solrock+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Solrock+-+9%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Spiritomb",
+      "title": "Spiritomb - HS Triumphant #10",
+      "link": "/HS-Triumphant-Expansion/Spiritomb-Card-10",
+      "image": "https://den-cards.pokellector.com/37/Spiritomb.TM.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Spiritomb.TM.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "10/102",
+      "card_number": "10",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Spiritomb.TM.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fspiritomb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1067482.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Spiritomb+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/hs-triumphant-10.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spiritomb+-+10%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Venomoth",
+      "title": "Venomoth - HS Triumphant #11",
+      "link": "/HS-Triumphant-Expansion/Venomoth-Card-11",
+      "image": "https://den-cards.pokellector.com/37/Venomoth.TM.11.2367.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Venomoth.TM.11.2367.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "11/102",
+      "card_number": "11",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Venomoth.TM.11.2367.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fvenomoth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1067490.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Venomoth+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Venomoth+-+11%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-11.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/37/Venomoth.TM.11.32068.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Victreebel",
+      "title": "Victreebel - HS Triumphant #12",
+      "link": "/HS-Triumphant-Expansion/Victreebel-Card-12",
+      "image": "https://den-cards.pokellector.com/37/Victreebel.TM.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Victreebel.TM.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "12/102",
+      "card_number": "12",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Victreebel.TM.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fvictreebel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p302983.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Victreebel+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Victreebel+-+12%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-12.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Ambipom",
+      "title": "Ambipom - HS Triumphant #13",
+      "link": "/HS-Triumphant-Expansion/Ambipom-Card-13",
+      "image": "https://den-cards.pokellector.com/37/Ambipom.TM.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Ambipom.TM.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "13/102",
+      "card_number": "13",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Ambipom.TM.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fambipom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p302984.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Ambipom+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-13.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ambipom+-+13%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Banette",
+      "title": "Banette - HS Triumphant #14",
+      "link": "/HS-Triumphant-Expansion/Banette-Card-14",
+      "image": "https://den-cards.pokellector.com/37/Banette.TM.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Banette.TM.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "14/102",
+      "card_number": "14",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Banette.TM.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fbanette"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p302985.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Banette+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Banette+-+14%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/hs-triumphant-14.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Bronzong",
+      "title": "Bronzong - HS Triumphant #15",
+      "link": "/HS-Triumphant-Expansion/Bronzong-Card-15",
+      "image": "https://den-cards.pokellector.com/37/Bronzong.TM.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Bronzong.TM.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "15/102",
+      "card_number": "15",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Bronzong.TM.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fbronzong"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p302986.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Bronzong+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzong+-+15%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-15.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Carnivine",
+      "title": "Carnivine - HS Triumphant #16",
+      "link": "/HS-Triumphant-Expansion/Carnivine-Card-16",
+      "image": "https://den-cards.pokellector.com/37/Carnivine.TM.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Carnivine.TM.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "16/102",
+      "card_number": "16",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Carnivine.TM.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fcarnivine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p302987.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Carnivine+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-16.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Carnivine+-+16%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Ditto",
+      "title": "Ditto - HS Triumphant #17",
+      "link": "/HS-Triumphant-Expansion/Ditto-Card-17",
+      "image": "https://den-cards.pokellector.com/37/Ditto.TM.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Ditto.TM.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "17/102",
+      "card_number": "17",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Ditto.TM.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fditto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.79",
+          "link": "http://www.trollandtoad.com/p302988.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Ditto+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ditto+-+17%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-17.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Dragonite",
+      "title": "Dragonite - HS Triumphant #18",
+      "link": "/HS-Triumphant-Expansion/Dragonite-Card-18",
+      "image": "https://den-cards.pokellector.com/37/Dragonite.TM.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Dragonite.TM.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "18/102",
+      "card_number": "18",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Dragonite.TM.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdragonite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p302989.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Dragonite+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonite+-+18%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-18.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Dugtrio",
+      "title": "Dugtrio - HS Triumphant #19",
+      "link": "/HS-Triumphant-Expansion/Dugtrio-Card-19",
+      "image": "https://den-cards.pokellector.com/37/Dugtrio.TM.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Dugtrio.TM.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "19/102",
+      "card_number": "19",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Dugtrio.TM.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdugtrio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p302990.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Dugtrio+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dugtrio+-+19%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/hs-triumphant-19.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Electivire",
+      "title": "Electivire - HS Triumphant #20",
+      "link": "/HS-Triumphant-Expansion/Electivire-Card-20",
+      "image": "https://den-cards.pokellector.com/37/Electivire.TM.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Electivire.TM.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "20/102",
+      "card_number": "20",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Electivire.TM.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Felectivire"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p302991.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Electivire+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/hs-triumphant-20.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electivire+-+20%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Prerelease Promo",
+          "image": "https://den-cards.pokellector.com/37/Electivire.TM.20.39211.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Staff Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Elekid",
+      "title": "Elekid - HS Triumphant #21",
+      "link": "/HS-Triumphant-Expansion/Elekid-Card-21",
+      "image": "https://den-cards.pokellector.com/37/Elekid.TM.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Elekid.TM.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "21/102",
+      "card_number": "21",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Elekid.TM.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Felekid"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p302992.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Elekid+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Elekid+-+21%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-21.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Golduck",
+      "title": "Golduck - HS Triumphant #22",
+      "link": "/HS-Triumphant-Expansion/Golduck-Card-22",
+      "image": "https://den-cards.pokellector.com/37/Golduck.TM.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Golduck.TM.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "22/102",
+      "card_number": "22",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Golduck.TM.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fgolduck"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p302993.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Golduck+22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Golduck+-+22%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-22.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Grumpig",
+      "title": "Grumpig - HS Triumphant #23",
+      "link": "/HS-Triumphant-Expansion/Grumpig-Card-23",
+      "image": "https://den-cards.pokellector.com/37/Grumpig.TM.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Grumpig.TM.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "23/102",
+      "card_number": "23",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Grumpig.TM.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fgrumpig"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p302994.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Grumpig+23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grumpig+-+23%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/hs-triumphant-23.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Kricketune",
+      "title": "Kricketune - HS Triumphant #24",
+      "link": "/HS-Triumphant-Expansion/Kricketune-Card-24",
+      "image": "https://den-cards.pokellector.com/37/Kricketune.TM.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Kricketune.TM.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "24/102",
+      "card_number": "24",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Kricketune.TM.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fkricketune"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p302995.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Kricketune+24&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kricketune+-+24%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-24.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Lunatone",
+      "title": "Lunatone - HS Triumphant #25",
+      "link": "/HS-Triumphant-Expansion/Lunatone-Card-25",
+      "image": "https://den-cards.pokellector.com/37/Lunatone.TM.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Lunatone.TM.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "25/102",
+      "card_number": "25",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Lunatone.TM.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Flunatone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p302996.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Lunatone+25&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lunatone+-+25%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.99",
+          "link": "http://stop2shop.com/hs-triumphant-25.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Machamp",
+      "title": "Machamp - HS Triumphant #26",
+      "link": "/HS-Triumphant-Expansion/Machamp-Card-26",
+      "image": "https://den-cards.pokellector.com/37/Machamp.TM.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Machamp.TM.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "26/102",
+      "card_number": "26",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Machamp.TM.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.83",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmachamp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p302997.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Machamp+26&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+-+26%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-26.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Magmortar",
+      "title": "Magmortar - HS Triumphant #27",
+      "link": "/HS-Triumphant-Expansion/Magmortar-Card-27",
+      "image": "https://den-cards.pokellector.com/37/Magmortar.TM.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magmortar.TM.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "27/102",
+      "card_number": "27",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magmortar.TM.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagmortar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p302998.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magmortar+27&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmortar+-+27%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/hs-triumphant-27.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Nidoqueen",
+      "title": "Nidoqueen - HS Triumphant #28",
+      "link": "/HS-Triumphant-Expansion/Nidoqueen-Card-28",
+      "image": "https://den-cards.pokellector.com/37/Nidoqueen.TM.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidoqueen.TM.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "28/102",
+      "card_number": "28",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidoqueen.TM.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidoqueen"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p302999.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidoqueen+28&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nidoqueen+-+28%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-28.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Pidgeot",
+      "title": "Pidgeot - HS Triumphant #29",
+      "link": "/HS-Triumphant-Expansion/Pidgeot-Card-29",
+      "image": "https://den-cards.pokellector.com/37/Pidgeot.TM.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Pidgeot.TM.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "29/102",
+      "card_number": "29",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Pidgeot.TM.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpidgeot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.19",
+          "link": "http://www.trollandtoad.com/p303000.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Pidgeot+29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgeot+-+29%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/hs-triumphant-29.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Sharpedo",
+      "title": "Sharpedo - HS Triumphant #30",
+      "link": "/HS-Triumphant-Expansion/Sharpedo-Card-30",
+      "image": "https://den-cards.pokellector.com/37/Sharpedo.TM.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Sharpedo.TM.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "30/102",
+      "card_number": "30",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Sharpedo.TM.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fsharpedo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p303001.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Sharpedo+30&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sharpedo+-+30%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.59",
+          "link": "http://stop2shop.com/hs-triumphant-30.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Wailord",
+      "title": "Wailord - HS Triumphant #31",
+      "link": "/HS-Triumphant-Expansion/Wailord-Card-31",
+      "image": "https://den-cards.pokellector.com/37/Wailord.TM.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Wailord.TM.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "31/102",
+      "card_number": "31",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Wailord.TM.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.64",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fwailord"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p303002.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Wailord+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wailord+-+31%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/hs-triumphant-31.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Dragonair",
+      "title": "Dragonair - HS Triumphant #32",
+      "link": "/HS-Triumphant-Expansion/Dragonair-Card-32",
+      "image": "https://den-cards.pokellector.com/37/Dragonair.TM.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Dragonair.TM.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "32/102",
+      "card_number": "32",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Dragonair.TM.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdragonair"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p303003.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Dragonair+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonair+-+32%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-32.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Electabuzz",
+      "title": "Electabuzz - HS Triumphant #33",
+      "link": "/HS-Triumphant-Expansion/Electabuzz-Card-33",
+      "image": "https://den-cards.pokellector.com/37/Electabuzz.TM.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Electabuzz.TM.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "33/102",
+      "card_number": "33",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Electabuzz.TM.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Felectabuzz"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p303004.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Electabuzz+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electabuzz+-+33%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-33.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Electrode",
+      "title": "Electrode - HS Triumphant #34",
+      "link": "/HS-Triumphant-Expansion/Electrode-Card-34",
+      "image": "https://den-cards.pokellector.com/37/Electrode.TM.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Electrode.TM.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "34/102",
+      "card_number": "34",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Electrode.TM.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303005.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Electrode+34&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+34%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-34.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Haunter",
+      "title": "Haunter - HS Triumphant #35",
+      "link": "/HS-Triumphant-Expansion/Haunter-Card-35",
+      "image": "https://den-cards.pokellector.com/37/Haunter.TM.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Haunter.TM.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "35/102",
+      "card_number": "35",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Haunter.TM.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fhaunter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p303006.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Haunter+35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Haunter+-+35%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-35.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Kangaskhan",
+      "title": "Kangaskhan - HS Triumphant #36",
+      "link": "/HS-Triumphant-Expansion/Kangaskhan-Card-36",
+      "image": "https://den-cards.pokellector.com/37/Kangaskhan.TM.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Kangaskhan.TM.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "36/102",
+      "card_number": "36",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Kangaskhan.TM.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fkangaskhan"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303007.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Kangaskhan+36&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kangaskhan+-+36%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-36.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Lairon",
+      "title": "Lairon - HS Triumphant #37",
+      "link": "/HS-Triumphant-Expansion/Lairon-Card-37",
+      "image": "https://den-cards.pokellector.com/37/Lairon.TM.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Lairon.TM.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "37/102",
+      "card_number": "37",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Lairon.TM.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Flairon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303008.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Lairon+37&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lairon+-+37%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-37.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Lickilicky",
+      "title": "Lickilicky - HS Triumphant #38",
+      "link": "/HS-Triumphant-Expansion/Lickilicky-Card-38",
+      "image": "https://den-cards.pokellector.com/37/Lickilicky.TM.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Lickilicky.TM.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "38/102",
+      "card_number": "38",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Lickilicky.TM.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Flickilicky"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303009.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Lickilicky+38&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lickilicky+-+38%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-38.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Luvdisc",
+      "title": "Luvdisc - HS Triumphant #39",
+      "link": "/HS-Triumphant-Expansion/Luvdisc-Card-39",
+      "image": "https://den-cards.pokellector.com/37/Luvdisc.TM.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Luvdisc.TM.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "39/102",
+      "card_number": "39",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Luvdisc.TM.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fluvdisc"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303010.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Luvdisc+39&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-39.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luvdisc+-+39%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Machoke",
+      "title": "Machoke - HS Triumphant #40",
+      "link": "/HS-Triumphant-Expansion/Machoke-Card-40",
+      "image": "https://den-cards.pokellector.com/37/Machoke.TM.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Machoke.TM.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "40/102",
+      "card_number": "40",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Machoke.TM.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmachoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303011.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Machoke+40&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machoke+-+40%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-40.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Magby",
+      "title": "Magby - HS Triumphant #41",
+      "link": "/HS-Triumphant-Expansion/Magby-Card-41",
+      "image": "https://den-cards.pokellector.com/37/Magby.TM.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magby.TM.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "41/102",
+      "card_number": "41",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magby.TM.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagby"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.97",
+          "link": "http://www.trollandtoad.com/p303012.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magby+41&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magby+-+41%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-41.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Magmar",
+      "title": "Magmar - HS Triumphant #42",
+      "link": "/HS-Triumphant-Expansion/Magmar-Card-42",
+      "image": "https://den-cards.pokellector.com/37/Magmar.TM.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magmar.TM.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "42/102",
+      "card_number": "42",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magmar.TM.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagmar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303013.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magmar+42&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magmar+-+42%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-42.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Magneton",
+      "title": "Magneton - HS Triumphant #43",
+      "link": "/HS-Triumphant-Expansion/Magneton-Card-43",
+      "image": "https://den-cards.pokellector.com/37/Magneton.TM.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magneton.TM.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "43/102",
+      "card_number": "43",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magneton.TM.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagneton"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303014.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magneton+43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+43%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-43.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Marowak",
+      "title": "Marowak - HS Triumphant #44",
+      "link": "/HS-Triumphant-Expansion/Marowak-Card-44",
+      "image": "https://den-cards.pokellector.com/37/Marowak.TM.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Marowak.TM.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "44/102",
+      "card_number": "44",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Marowak.TM.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmarowak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303015.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Marowak+44&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marowak+-+44%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-44.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Nidorina",
+      "title": "Nidorina - HS Triumphant #45",
+      "link": "/HS-Triumphant-Expansion/Nidorina-Card-45",
+      "image": "https://den-cards.pokellector.com/37/Nidorina.TM.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidorina.TM.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "45/102",
+      "card_number": "45",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidorina.TM.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidorina"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303016.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidorina+45&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nidorina+-+45%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-45.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Nidorino",
+      "title": "Nidorino - HS Triumphant #46",
+      "link": "/HS-Triumphant-Expansion/Nidorino-Card-46",
+      "image": "https://den-cards.pokellector.com/37/Nidorino.TM.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidorino.TM.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "46/102",
+      "card_number": "46",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidorino.TM.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidorino"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303017.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidorino+46&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nidorino+-+46%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-46.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Pidgeotto",
+      "title": "Pidgeotto - HS Triumphant #47",
+      "link": "/HS-Triumphant-Expansion/Pidgeotto-Card-47",
+      "image": "https://den-cards.pokellector.com/37/Pidgeotto.TM.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Pidgeotto.TM.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "47/102",
+      "card_number": "47",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Pidgeotto.TM.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpidgeotto"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303018.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Pidgeotto+47&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgeotto+-+47%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-47.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Piloswine",
+      "title": "Piloswine - HS Triumphant #48",
+      "link": "/HS-Triumphant-Expansion/Piloswine-Card-48",
+      "image": "https://den-cards.pokellector.com/37/Piloswine.TM.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Piloswine.TM.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "48/102",
+      "card_number": "48",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Piloswine.TM.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpiloswine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303019.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Piloswine+48&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piloswine+-+48%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-48.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Porygon 2",
+      "title": "Porygon 2 - HS Triumphant #49",
+      "link": "/HS-Triumphant-Expansion/Porygon-2-Card-49",
+      "image": "https://den-cards.pokellector.com/37/Porygon-2.TM.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Porygon-2.TM.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "49/102",
+      "card_number": "49",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Porygon-2.TM.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fporygon2"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303020.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Porygon+2+49&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon2+-+49%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.35",
+          "link": "http://stop2shop.com/hs-triumphant-49.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Tentacruel",
+      "title": "Tentacruel - HS Triumphant #50",
+      "link": "/HS-Triumphant-Expansion/Tentacruel-Card-50",
+      "image": "https://den-cards.pokellector.com/37/Tentacruel.TM.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Tentacruel.TM.50.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "50/102",
+      "card_number": "50",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Tentacruel.TM.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Ftentacruel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p303021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Tentacruel+50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-50.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacruel+-+50%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Unown",
+      "title": "Unown - HS Triumphant #51",
+      "link": "/HS-Triumphant-Expansion/Unown-Card-51",
+      "image": "https://den-cards.pokellector.com/37/Unown.TM.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Unown.TM.51.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "51/102",
+      "card_number": "51",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Unown.TM.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Funown"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303022.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Unown+51&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-51.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Unown+-+51%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Wailmer",
+      "title": "Wailmer - HS Triumphant #52",
+      "link": "/HS-Triumphant-Expansion/Wailmer-Card-52",
+      "image": "https://den-cards.pokellector.com/37/Wailmer.TM.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Wailmer.TM.52.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "52/102",
+      "card_number": "52",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Wailmer.TM.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fwailmer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303023.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Wailmer+52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wailmer+-+52%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-52.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Weepinbell",
+      "title": "Weepinbell - HS Triumphant #53",
+      "link": "/HS-Triumphant-Expansion/Weepinbell-Card-53",
+      "image": "https://den-cards.pokellector.com/37/Weepinbell.TM.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Weepinbell.TM.53.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "53/102",
+      "card_number": "53",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Weepinbell.TM.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fweepinbell"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303024.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Weepinbell+53&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weepinbell+-+53%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-53.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Yanmega",
+      "title": "Yanmega - HS Triumphant #54",
+      "link": "/HS-Triumphant-Expansion/Yanmega-Card-54",
+      "image": "https://den-cards.pokellector.com/37/Yanmega.TM.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Yanmega.TM.54.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "54/102",
+      "card_number": "54",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Yanmega.TM.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fyanmega"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303025.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Yanmega+54&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Yanmega+-+54%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-54.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Aipom",
+      "title": "Aipom - HS Triumphant #55",
+      "link": "/HS-Triumphant-Expansion/Aipom-Card-55",
+      "image": "https://den-cards.pokellector.com/37/Aipom.TM.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Aipom.TM.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "55/102",
+      "card_number": "55",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Aipom.TM.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Faipom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303026.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Aipom+55&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aipom+-+55%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-55.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Aron",
+      "title": "Aron - HS Triumphant #56",
+      "link": "/HS-Triumphant-Expansion/Aron-Card-56",
+      "image": "https://den-cards.pokellector.com/37/Aron.TM.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Aron.TM.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "56/102",
+      "card_number": "56",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Aron.TM.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Faron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303027.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Aron+56&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aron+-+56%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-56.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Bellsprout",
+      "title": "Bellsprout - HS Triumphant #57",
+      "link": "/HS-Triumphant-Expansion/Bellsprout-Card-57",
+      "image": "https://den-cards.pokellector.com/37/Bellsprout.TM.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Bellsprout.TM.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "57/102",
+      "card_number": "57",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Bellsprout.TM.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fbellsprout"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303028.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Bellsprout+57&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bellsprout+-+57%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-57.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Bronzor",
+      "title": "Bronzor - HS Triumphant #58",
+      "link": "/HS-Triumphant-Expansion/Bronzor-Card-58",
+      "image": "https://den-cards.pokellector.com/37/Bronzor.TM.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Bronzor.TM.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "58/102",
+      "card_number": "58",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Bronzor.TM.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fbronzor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303029.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Bronzor+58&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzor+-+58%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-58.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Carvanha",
+      "title": "Carvanha - HS Triumphant #59",
+      "link": "/HS-Triumphant-Expansion/Carvanha-Card-59",
+      "image": "https://den-cards.pokellector.com/37/Carvanha.TM.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Carvanha.TM.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "59/102",
+      "card_number": "59",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Carvanha.TM.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fcarvanha"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303030.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Carvanha+59&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Carvanha+-+59%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-59.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Cubone",
+      "title": "Cubone - HS Triumphant #60",
+      "link": "/HS-Triumphant-Expansion/Cubone-Card-60",
+      "image": "https://den-cards.pokellector.com/37/Cubone.TM.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Cubone.TM.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "60/102",
+      "card_number": "60",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Cubone.TM.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fcubone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303031.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Cubone+60&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cubone+-+60%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-60.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Diglett",
+      "title": "Diglett - HS Triumphant #61",
+      "link": "/HS-Triumphant-Expansion/Diglett-Card-61",
+      "image": "https://den-cards.pokellector.com/37/Diglett.TM.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Diglett.TM.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "61/102",
+      "card_number": "61",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Diglett.TM.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdiglett"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303032.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Diglett+61&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-61.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Dratini",
+      "title": "Dratini - HS Triumphant #62",
+      "link": "/HS-Triumphant-Expansion/Dratini-Card-62",
+      "image": "https://den-cards.pokellector.com/37/Dratini.TM.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Dratini.TM.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "62/102",
+      "card_number": "62",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Dratini.TM.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.32",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdratini"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303033.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Dratini+62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dratini+-+62%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-62.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Gastly",
+      "title": "Gastly - HS Triumphant #63",
+      "link": "/HS-Triumphant-Expansion/Gastly-Card-63",
+      "image": "https://den-cards.pokellector.com/37/Gastly.TM.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Gastly.TM.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "63/102",
+      "card_number": "63",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Gastly.TM.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fgastly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303034.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Gastly+63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gastly+-+63%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-63.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Illumise",
+      "title": "Illumise - HS Triumphant #64",
+      "link": "/HS-Triumphant-Expansion/Illumise-Card-64",
+      "image": "https://den-cards.pokellector.com/37/Illumise.TM.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Illumise.TM.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "64/102",
+      "card_number": "64",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Illumise.TM.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fillumise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303035.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Illumise+64&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Illumise+-+64%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-64.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Kricketot",
+      "title": "Kricketot - HS Triumphant #65",
+      "link": "/HS-Triumphant-Expansion/Kricketot-Card-65",
+      "image": "https://den-cards.pokellector.com/37/Kricketot.TM.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Kricketot.TM.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "65/102",
+      "card_number": "65",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Kricketot.TM.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fkricketot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303036.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Kricketot+65&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kricketot+-+65%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-65.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Lickitung",
+      "title": "Lickitung - HS Triumphant #66",
+      "link": "/HS-Triumphant-Expansion/Lickitung-Card-66",
+      "image": "https://den-cards.pokellector.com/37/Lickitung.TM.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Lickitung.TM.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "66/102",
+      "card_number": "66",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Lickitung.TM.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Flickitung"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p303037.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Lickitung+66&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-66.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lickitung+-+66%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Machop",
+      "title": "Machop - HS Triumphant #67",
+      "link": "/HS-Triumphant-Expansion/Machop-Card-67",
+      "image": "https://den-cards.pokellector.com/37/Machop.TM.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Machop.TM.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "67/102",
+      "card_number": "67",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Machop.TM.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmachop"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303038.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Machop+67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machop+-+67%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-67.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Magnemite",
+      "title": "Magnemite - HS Triumphant #68",
+      "link": "/HS-Triumphant-Expansion/Magnemite-Card-68",
+      "image": "https://den-cards.pokellector.com/37/Magnemite.TM.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magnemite.TM.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "68/102",
+      "card_number": "68",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magnemite.TM.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagnemite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303039.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magnemite+68&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+68%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-68.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Nidoran F",
+      "title": "Nidoran F - HS Triumphant #69",
+      "link": "/HS-Triumphant-Expansion/Nidoran-F-Card-69",
+      "image": "https://den-cards.pokellector.com/37/Nidoran-F.TM.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidoran-F.TM.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "69/102",
+      "card_number": "69",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidoran-F.TM.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidoran-f"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1067462.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidoran+F+69&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-69.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nidoran+-+69%2F102+%28Reverse+Foil%29"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Nidoran M",
+      "title": "Nidoran M - HS Triumphant #70",
+      "link": "/HS-Triumphant-Expansion/Nidoran-M-Card-70",
+      "image": "https://den-cards.pokellector.com/37/Nidoran-M.TM.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Nidoran-M.TM.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "70/102",
+      "card_number": "70",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Nidoran-M.TM.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fnidoran-m"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p303041.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Nidoran+M+70&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-70.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Pidgey",
+      "title": "Pidgey - HS Triumphant #71",
+      "link": "/HS-Triumphant-Expansion/Pidgey-Card-71",
+      "image": "https://den-cards.pokellector.com/37/Pidgey.TM.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Pidgey.TM.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "71/102",
+      "card_number": "71",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Pidgey.TM.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpidgey"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303042.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Pidgey+71&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pidgey+-+71%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-71.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Ponyta",
+      "title": "Ponyta - HS Triumphant #72",
+      "link": "/HS-Triumphant-Expansion/Ponyta-Card-72",
+      "image": "https://den-cards.pokellector.com/37/Ponyta.TM.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Ponyta.TM.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "72/102",
+      "card_number": "72",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Ponyta.TM.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fponyta"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Ponyta+72&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ponyta+-+72%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-72.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Porygon",
+      "title": "Porygon - HS Triumphant #73",
+      "link": "/HS-Triumphant-Expansion/Porygon-Card-73",
+      "image": "https://den-cards.pokellector.com/37/Porygon.TM.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Porygon.TM.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "73/102",
+      "card_number": "73",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Porygon.TM.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fporygon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303044.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Porygon+73&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Porygon+-+73%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-73.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Psyduck",
+      "title": "Psyduck - HS Triumphant #74",
+      "link": "/HS-Triumphant-Expansion/Psyduck-Card-74",
+      "image": "https://den-cards.pokellector.com/37/Psyduck.TM.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Psyduck.TM.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "74/102",
+      "card_number": "74",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Psyduck.TM.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpsyduck"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p303045.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Psyduck+74&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Psyduck+-+74%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-74.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Shuppet",
+      "title": "Shuppet - HS Triumphant #75",
+      "link": "/HS-Triumphant-Expansion/Shuppet-Card-75",
+      "image": "https://den-cards.pokellector.com/37/Shuppet.TM.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Shuppet.TM.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "75/102",
+      "card_number": "75",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Shuppet.TM.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fshuppet"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303046.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Shuppet+75&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shuppet+-+75%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-75.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Skorupi",
+      "title": "Skorupi - HS Triumphant #76",
+      "link": "/HS-Triumphant-Expansion/Skorupi-Card-76",
+      "image": "https://den-cards.pokellector.com/37/Skorupi.TM.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Skorupi.TM.76.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "76/102",
+      "card_number": "76",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Skorupi.TM.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fskorupi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303047.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Skorupi+76&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skorupi+-+76%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-76.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Spoink",
+      "title": "Spoink - HS Triumphant #77",
+      "link": "/HS-Triumphant-Expansion/Spoink-Card-77",
+      "image": "https://den-cards.pokellector.com/37/Spoink.TM.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Spoink.TM.77.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "77/102",
+      "card_number": "77",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Spoink.TM.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fspoink"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303048.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Spoink+77&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-77.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+77%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Swablu",
+      "title": "Swablu - HS Triumphant #78",
+      "link": "/HS-Triumphant-Expansion/Swablu-Card-78",
+      "image": "https://den-cards.pokellector.com/37/Swablu.TM.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Swablu.TM.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "78/102",
+      "card_number": "78",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Swablu.TM.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fswablu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303049.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Swablu+78&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swablu+-+78%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-78.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Swinub",
+      "title": "Swinub - HS Triumphant #79",
+      "link": "/HS-Triumphant-Expansion/Swinub-Card-79",
+      "image": "https://den-cards.pokellector.com/37/Swinub.TM.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Swinub.TM.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "79/102",
+      "card_number": "79",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Swinub.TM.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fswinub"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303050.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Swinub+79&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swinub+-+79%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-79.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Tentacool",
+      "title": "Tentacool - HS Triumphant #80",
+      "link": "/HS-Triumphant-Expansion/Tentacool-Card-80",
+      "image": "https://den-cards.pokellector.com/37/Tentacool.TM.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Tentacool.TM.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "80/102",
+      "card_number": "80",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Tentacool.TM.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Ftentacool"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1067486.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Tentacool+80&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tentacool+-+80%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-80.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Venonat",
+      "title": "Venonat - HS Triumphant #81",
+      "link": "/HS-Triumphant-Expansion/Venonat-Card-81",
+      "image": "https://den-cards.pokellector.com/37/Venonat.TM.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Venonat.TM.81.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "81/102",
+      "card_number": "81",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Venonat.TM.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fvenonat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303052.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Venonat+81&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Venonat+-+81%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-81.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Volbeat",
+      "title": "Volbeat - HS Triumphant #82",
+      "link": "/HS-Triumphant-Expansion/Volbeat-Card-82",
+      "image": "https://den-cards.pokellector.com/37/Volbeat.TM.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Volbeat.TM.82.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "82/102",
+      "card_number": "82",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Volbeat.TM.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fvolbeat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303053.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Volbeat+82&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-82.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Volbeat+-+82%2F102"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Voltorb",
+      "title": "Voltorb - HS Triumphant #83",
+      "link": "/HS-Triumphant-Expansion/Voltorb-Card-83",
+      "image": "https://den-cards.pokellector.com/37/Voltorb.TM.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Voltorb.TM.83.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "83/102",
+      "card_number": "83",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Voltorb.TM.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fvoltorb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303054.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Voltorb+83&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+83%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/hs-triumphant-83.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Yanma",
+      "title": "Yanma - HS Triumphant #84",
+      "link": "/HS-Triumphant-Expansion/Yanma-Card-84",
+      "image": "https://den-cards.pokellector.com/37/Yanma.TM.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Yanma.TM.84.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "84/102",
+      "card_number": "84",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Yanma.TM.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fyanma"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p303055.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Yanma+84&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Yanma+-+84%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.27",
+          "link": "http://stop2shop.com/hs-triumphant-84.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Black Belt",
+      "title": "Black Belt - HS Triumphant #85",
+      "link": "/HS-Triumphant-Expansion/Black-Belt-Card-85",
+      "image": "https://den-cards.pokellector.com/37/Black-Belt.TM.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Black-Belt.TM.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "85/102",
+      "card_number": "85",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Black-Belt.TM.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fblack-belt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303056.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Black+Belt+85&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Black+Belt+-+85%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/hs-triumphant-85.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "League Promo",
+          "image": "https://den-cards.pokellector.com/37/Black-Belt.TM.85.32057.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Indigo Plateau",
+      "title": "Indigo Plateau - HS Triumphant #86",
+      "link": "/HS-Triumphant-Expansion/Indigo-Plateau-Card-86",
+      "image": "https://den-cards.pokellector.com/37/Indigo-Plateau.TM.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Indigo-Plateau.TM.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "86/102",
+      "card_number": "86",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Indigo-Plateau.TM.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Findigo-plateau"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p303057.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Indigo+Plateau+86&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Indigo+Plateau+-+86%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/hs-triumphant-86.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Junk Arm",
+      "title": "Junk Arm - HS Triumphant #87",
+      "link": "/HS-Triumphant-Expansion/Junk-Arm-Card-87",
+      "image": "https://den-cards.pokellector.com/37/Junk-Arm.TM.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Junk-Arm.TM.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "87/102",
+      "card_number": "87",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Junk-Arm.TM.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fjunk-arm"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.19",
+          "link": "http://www.trollandtoad.com/p303058.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Junk+Arm+87&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Junk+Arm+-+87%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.19",
+          "link": "http://stop2shop.com/hs-triumphant-87.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/37/Junk-Arm.TM.87.32144.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Seeker",
+      "title": "Seeker - HS Triumphant #88",
+      "link": "/HS-Triumphant-Expansion/Seeker-Card-88",
+      "image": "https://den-cards.pokellector.com/37/Seeker.TM.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Seeker.TM.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "88/102",
+      "card_number": "88",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Seeker.TM.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fseeker"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p303059.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Seeker+88&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seeker+-+88%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.44",
+          "link": "http://stop2shop.com/hs-triumphant-88.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Twins",
+      "title": "Twins - HS Triumphant #89",
+      "link": "/HS-Triumphant-Expansion/Twins-Card-89",
+      "image": "https://den-cards.pokellector.com/37/Twins.TM.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Twins.TM.89.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "89/102",
+      "card_number": "89",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Twins.TM.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Ftwins"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p303060.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Twins+89&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Twins+-+89%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/hs-triumphant-89.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Rescue Energy",
+      "title": "Rescue Energy - HS Triumphant #90",
+      "link": "/HS-Triumphant-Expansion/Rescue-Energy-Card-90",
+      "image": "https://den-cards.pokellector.com/37/Rescue-Energy.TM.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Rescue-Energy.TM.90.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "90/102",
+      "card_number": "90",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Rescue-Energy.TM.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Frescue-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p303061.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Rescue+Energy+90&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rescue+Energy+-+90%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/hs-triumphant-90.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Absol",
+      "title": "Absol - HS Triumphant #91",
+      "link": "/HS-Triumphant-Expansion/Absol-Card-91",
+      "image": "https://den-cards.pokellector.com/37/Absol.TM.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Absol.TM.91.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "91/102",
+      "card_number": "91",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Absol.TM.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$58.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fabsol-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.69",
+          "link": "http://www.trollandtoad.com/p303062.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Absol+91&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Absol+%28Prime%29+-+91%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/hs-triumphant-91.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Celebi",
+      "title": "Celebi - HS Triumphant #92",
+      "link": "/HS-Triumphant-Expansion/Celebi-Card-92",
+      "image": "https://den-cards.pokellector.com/37/Celebi.TM.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Celebi.TM.92.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "92/102",
+      "card_number": "92",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Celebi.TM.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$36.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fcelebi-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p303063.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$12.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Celebi+92&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Celebi+%28Prime%29+-+92%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$22.99",
+          "link": "http://stop2shop.com/hs-triumphant-92.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Electrode",
+      "title": "Electrode - HS Triumphant #93",
+      "link": "/HS-Triumphant-Expansion/Electrode-Card-93",
+      "image": "https://den-cards.pokellector.com/37/Electrode.TM.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Electrode.TM.93.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "93/102",
+      "card_number": "93",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Electrode.TM.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Felectrode-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.49",
+          "link": "http://www.trollandtoad.com/p303064.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Electrode+93&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+%28Prime%29+-+93%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/hs-triumphant-93.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Gengar",
+      "title": "Gengar - HS Triumphant #94",
+      "link": "/HS-Triumphant-Expansion/Gengar-Card-94",
+      "image": "https://den-cards.pokellector.com/37/Gengar.TM.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Gengar.TM.94.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "94/102",
+      "card_number": "94",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Gengar.TM.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$329.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fgengar-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$111.59",
+          "link": "http://www.trollandtoad.com/p303065.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$98.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Gengar+94&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gengar+%28Prime%29+-+94%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$19.99",
+          "link": "http://stop2shop.com/hs-triumphant-94.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Machamp",
+      "title": "Machamp - HS Triumphant #95",
+      "link": "/HS-Triumphant-Expansion/Machamp-Card-95",
+      "image": "https://den-cards.pokellector.com/37/Machamp.TM.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Machamp.TM.95.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "95/102",
+      "card_number": "95",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Machamp.TM.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$65.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmachamp-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$22.59",
+          "link": "http://www.trollandtoad.com/p303066.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.64",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Machamp+95&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/hs-triumphant-95.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+%28Prime%29+-+95%2F102"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Magnezone",
+      "title": "Magnezone - HS Triumphant #96",
+      "link": "/HS-Triumphant-Expansion/Magnezone-Card-96",
+      "image": "https://den-cards.pokellector.com/37/Magnezone.TM.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Magnezone.TM.96.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "96/102",
+      "card_number": "96",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Magnezone.TM.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmagnezone-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.99",
+          "link": "http://www.trollandtoad.com/p303067.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Magnezone+96&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnezone+%28Prime%29+-+96%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.99",
+          "link": "http://stop2shop.com/hs-triumphant-96.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Mew",
+      "title": "Mew - HS Triumphant #97",
+      "link": "/HS-Triumphant-Expansion/Mew-Card-97",
+      "image": "https://den-cards.pokellector.com/37/Mew.TM.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Mew.TM.97.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "97/102",
+      "card_number": "97",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Mew.TM.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$190.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fmew-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$52.79",
+          "link": "http://www.trollandtoad.com/p303068.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$38.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Mew+97&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mew+%28Prime%29+-+97%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.99",
+          "link": "http://stop2shop.com/hs-triumphant-97.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Yanmega",
+      "title": "Yanmega - HS Triumphant #98",
+      "link": "/HS-Triumphant-Expansion/Yanmega-Card-98",
+      "image": "https://den-cards.pokellector.com/37/Yanmega.TM.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Yanmega.TM.98.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "98/102",
+      "card_number": "98",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Yanmega.TM.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fyanmega-prime"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.98",
+          "link": "http://www.trollandtoad.com/p303069.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Yanmega+98&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Yanmega+%28Prime%29+-+98%2F102"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.88",
+          "link": "http://stop2shop.com/hs-triumphant-98.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Darkrai & Cresselia LEGEND (top)",
+      "title": "Darkrai & Cresselia LEGEND (top) - HS Triumphant #99",
+      "link": "/HS-Triumphant-Expansion/Darkrai-Cresselia-LEGEND-top-Card-99",
+      "image": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-top.TM.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-top.TM.99.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "99/102",
+      "card_number": "99",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-top.TM.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$213.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdarkrai-and-cresselia-legend-top"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p303021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Darkrai+%26+Cresselia+LEGEND+%28top%29+99&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.49",
+          "link": "http://stop2shop.com/hs-triumphant-99.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Darkrai & Cresselia LEGEND (bottom)",
+      "title": "Darkrai & Cresselia LEGEND (bottom) - HS Triumphant #100",
+      "link": "/HS-Triumphant-Expansion/Darkrai-Cresselia-LEGEND-bottom-Card-100",
+      "image": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-bottom.TM.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-bottom.TM.100.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "100/102",
+      "card_number": "100",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-bottom.TM.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$94.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fdarkrai-and-cresselia-legend-bottom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p303021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Darkrai+%26+Cresselia+LEGEND+%28bottom%29+100&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/hs-triumphant-100.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Palkia & Dialga LEGEND (top)",
+      "title": "Palkia & Dialga LEGEND (top) - HS Triumphant #101",
+      "link": "/HS-Triumphant-Expansion/Palkia-Dialga-LEGEND-top-Card-101",
+      "image": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-top.TM.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-top.TM.101.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "101/102",
+      "card_number": "101",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-top.TM.101.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$103.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpalkia-and-dialga-legend-top"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p303021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$57.87",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Palkia+%26+Dialga+LEGEND+%28top%29+101&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.49",
+          "link": "http://stop2shop.com/hs-triumphant-101.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "102": {
+      "number": "102",
+      "name": "Palkia & Dialga LEGEND (bottom)",
+      "title": "Palkia & Dialga LEGEND (bottom) - HS Triumphant #102",
+      "link": "/HS-Triumphant-Expansion/Palkia-Dialga-LEGEND-bottom-Card-102",
+      "image": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-bottom.TM.102.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-bottom.TM.102.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "102/102",
+      "card_number": "102",
+      "total_cards": "102",
+      "image_full": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-bottom.TM.102.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$118.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Fpalkia-and-dialga-legend-bottom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p303021.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Palkia+%26+Dialga+LEGEND+%28bottom%29+102&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.95",
+          "link": "http://stop2shop.com/hs-triumphant-102.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "FOUR": {
+      "number": "FOUR",
+      "name": "Alph Lithograph",
+      "title": "Alph Lithograph - HS Triumphant #0",
+      "link": "/HS-Triumphant-Expansion/Alph-Lithograph-Card-FOUR0",
+      "image": "https://den-cards.pokellector.com/37/Alph-Lithograph.TM.0.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/37/Alph-Lithograph.TM.0.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "HS Triumphant",
+      "set_link": "/HS-Triumphant-Expansion/",
+      "position": "FOUR",
+      "image_full": "https://den-cards.pokellector.com/37/Alph-Lithograph.TM.0.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$77.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Ftriumphant%2Falph-lithograph"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.19",
+          "link": "http://www.trollandtoad.com/p303074.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$71.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=HS+Triumphant+Alph+Lithograph+FOUR&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/hs-triumphant-0.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:49:56"
+}

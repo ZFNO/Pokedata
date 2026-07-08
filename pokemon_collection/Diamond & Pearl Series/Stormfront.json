@@ -1,0 +1,5333 @@
+{
+  "title": "Stormfront Set",
+  "link": "/Stormfront-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Stormfront.logo.48.png",
+  "symbol": "https://den-media.pokellector.com/logos/Stormfront.symbol.48.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Stormfront #1",
+      "link": "/Stormfront-Expansion/Dusknoir-Card-1",
+      "image": "https://den-cards.pokellector.com/48/Dusknoir.SF.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Dusknoir.SF.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "1/100",
+      "card_number": "1",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Dusknoir.SF.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusknoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p1125827.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Dusknoir+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusknoir+-+1%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Empoleon",
+      "title": "Empoleon - Stormfront #2",
+      "link": "/Stormfront-Expansion/Empoleon-Card-2",
+      "image": "https://den-cards.pokellector.com/48/Empoleon.SF.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Empoleon.SF.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "2/100",
+      "card_number": "2",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Empoleon.SF.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fempoleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.79",
+          "link": "http://www.trollandtoad.com/p1125833.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Empoleon+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Empoleon+-+2%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.25",
+          "link": "http://stop2shop.com/pksf-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Infernape",
+      "title": "Infernape - Stormfront #3",
+      "link": "/Stormfront-Expansion/Infernape-Card-3",
+      "image": "https://den-cards.pokellector.com/48/Infernape.SF.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Infernape.SF.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "3/100",
+      "card_number": "3",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Infernape.SF.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$14.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Finfernape"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p230893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Infernape+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-003.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Infernape+-+3%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Lumineon",
+      "title": "Lumineon - Stormfront #4",
+      "link": "/Stormfront-Expansion/Lumineon-Card-4",
+      "image": "https://den-cards.pokellector.com/48/Lumineon.SF.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Lumineon.SF.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "4/100",
+      "card_number": "4",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Lumineon.SF.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Flumineon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1125846.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Lumineon+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.75",
+          "link": "http://stop2shop.com/pksf-004.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lumineon+-+4%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Magnezone",
+      "title": "Magnezone - Stormfront #5",
+      "link": "/Stormfront-Expansion/Magnezone-Card-5",
+      "image": "https://den-cards.pokellector.com/48/Magnezone.SF.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magnezone.SF.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "5/100",
+      "card_number": "5",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magnezone.SF.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagnezone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p1125856.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magnezone+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnezone+-+5%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.75",
+          "link": "http://stop2shop.com/pksf-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Magnezone",
+      "title": "Magnezone - Stormfront #6",
+      "link": "/Stormfront-Expansion/Magnezone-Card-6",
+      "image": "https://den-cards.pokellector.com/48/Magnezone.SF.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magnezone.SF.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "6/100",
+      "card_number": "6",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magnezone.SF.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagnezone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p1125857.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magnezone+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnezone+-+6%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-006.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Mismagius",
+      "title": "Mismagius - Stormfront #7",
+      "link": "/Stormfront-Expansion/Mismagius-Card-7",
+      "image": "https://den-cards.pokellector.com/48/Mismagius.SF.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Mismagius.SF.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "7/100",
+      "card_number": "7",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Mismagius.SF.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmismagius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1125862.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Mismagius+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mismagius+-+7%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.50",
+          "link": "http://stop2shop.com/pksf-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Raichu",
+      "title": "Raichu - Stormfront #8",
+      "link": "/Stormfront-Expansion/Raichu-Card-8",
+      "image": "https://den-cards.pokellector.com/48/Raichu.SF.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Raichu.SF.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "8/100",
+      "card_number": "8",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Raichu.SF.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fraichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p1125874.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Raichu+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.25",
+          "link": "http://stop2shop.com/pksf-008.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+8%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Regigigas",
+      "title": "Regigigas - Stormfront #9",
+      "link": "/Stormfront-Expansion/Regigigas-Card-9",
+      "image": "https://den-cards.pokellector.com/48/Regigigas.SF.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Regigigas.SF.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "9/100",
+      "card_number": "9",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Regigigas.SF.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fregigigas"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1125876.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Regigigas+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-009.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regigigas+-+9%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Sceptile",
+      "title": "Sceptile - Stormfront #10",
+      "link": "/Stormfront-Expansion/Sceptile-Card-10",
+      "image": "https://den-cards.pokellector.com/48/Sceptile.SF.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Sceptile.SF.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "10/100",
+      "card_number": "10",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Sceptile.SF.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fsceptile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.69",
+          "link": "http://www.trollandtoad.com/p1125881.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.04",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Sceptile+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-010.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sceptile+-+10%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Torterra",
+      "title": "Torterra - Stormfront #11",
+      "link": "/Stormfront-Expansion/Torterra-Card-11",
+      "image": "https://den-cards.pokellector.com/48/Torterra.SF.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Torterra.SF.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "11/100",
+      "card_number": "11",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Torterra.SF.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ftorterra"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.39",
+          "link": "http://www.trollandtoad.com/p230950.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.53",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Torterra+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torterra+-+11%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.25",
+          "link": "http://stop2shop.com/pksf-011.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Abomasnow",
+      "title": "Abomasnow - Stormfront #12",
+      "link": "/Stormfront-Expansion/Abomasnow-Card-12",
+      "image": "https://den-cards.pokellector.com/48/Abomasnow.SF.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Abomasnow.SF.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "12/100",
+      "card_number": "12",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Abomasnow.SF.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fabomasnow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p230852.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Abomasnow+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-012.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Abomasnow+-+12%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Bronzong",
+      "title": "Bronzong - Stormfront #13",
+      "link": "/Stormfront-Expansion/Bronzong-Card-13",
+      "image": "https://den-cards.pokellector.com/48/Bronzong.SF.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Bronzong.SF.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "13/100",
+      "card_number": "13",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Bronzong.SF.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbronzong"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p230856.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Bronzong+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzong+-+13%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-013.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Cherrim",
+      "title": "Cherrim - Stormfront #14",
+      "link": "/Stormfront-Expansion/Cherrim-Card-14",
+      "image": "https://den-cards.pokellector.com/48/Cherrim.SF.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Cherrim.SF.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "14/100",
+      "card_number": "14",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Cherrim.SF.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcherrim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1125817.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Cherrim+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cherrim+-+14%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-014.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Drapion",
+      "title": "Drapion - Stormfront #15",
+      "link": "/Stormfront-Expansion/Drapion-Card-15",
+      "image": "https://den-cards.pokellector.com/48/Drapion.SF.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Drapion.SF.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "15/100",
+      "card_number": "15",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Drapion.SF.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdrapion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p230867.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.86",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Drapion+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.75",
+          "link": "http://stop2shop.com/pksf-015.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drapion+-+15%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Drifblim",
+      "title": "Drifblim - Stormfront #16",
+      "link": "/Stormfront-Expansion/Drifblim-Card-16",
+      "image": "https://den-cards.pokellector.com/48/Drifblim.SF.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Drifblim.SF.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "16/100",
+      "card_number": "16",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Drifblim.SF.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdrifblim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p1125823.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Drifblim+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifblim+-+16%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-016.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Stormfront #17",
+      "link": "/Stormfront-Expansion/Dusknoir-Card-17",
+      "image": "https://den-cards.pokellector.com/48/Dusknoir.SF.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Dusknoir.SF.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "17/100",
+      "card_number": "17",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Dusknoir.SF.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.91",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusknoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p1125828.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Dusknoir+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusknoir+-+17%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Gengar",
+      "title": "Gengar - Stormfront #18",
+      "link": "/Stormfront-Expansion/Gengar-Card-18",
+      "image": "https://den-cards.pokellector.com/48/Gengar.SF.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Gengar.SF.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "18/100",
+      "card_number": "18",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Gengar.SF.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$22.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fgengar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p230887.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Gengar+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.75",
+          "link": "http://stop2shop.com/pksf-018.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gengar+-+18%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Gyarados",
+      "title": "Gyarados - Stormfront #19",
+      "link": "/Stormfront-Expansion/Gyarados-Card-19",
+      "image": "https://den-cards.pokellector.com/48/Gyarados.SF.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Gyarados.SF.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "19/100",
+      "card_number": "19",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Gyarados.SF.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fgyarados"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p230890.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Gyarados+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gyarados+-+19%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.75",
+          "link": "http://stop2shop.com/pksf-019.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Machamp",
+      "title": "Machamp - Stormfront #20",
+      "link": "/Stormfront-Expansion/Machamp-Card-20",
+      "image": "https://den-cards.pokellector.com/48/Machamp.SF.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Machamp.SF.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "20/100",
+      "card_number": "20",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Machamp.SF.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmachamp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p230897.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Machamp+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+-+20%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.75",
+          "link": "http://stop2shop.com/pksf-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Mamoswine",
+      "title": "Mamoswine - Stormfront #21",
+      "link": "/Stormfront-Expansion/Mamoswine-Card-21",
+      "image": "https://den-cards.pokellector.com/48/Mamoswine.SF.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Mamoswine.SF.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "21/100",
+      "card_number": "21",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Mamoswine.SF.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmamoswine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.09",
+          "link": "http://www.trollandtoad.com/p1125858.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Mamoswine+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.50",
+          "link": "http://stop2shop.com/pksf-021.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mamoswine+-+21%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Rapidash",
+      "title": "Rapidash - Stormfront #22",
+      "link": "/Stormfront-Expansion/Rapidash-Card-22",
+      "image": "https://den-cards.pokellector.com/48/Rapidash.SF.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Rapidash.SF.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "22/100",
+      "card_number": "22",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Rapidash.SF.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Frapidash"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p230926.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Rapidash+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.50",
+          "link": "http://stop2shop.com/pksf-022.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rapidash+-+22%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Roserade",
+      "title": "Roserade - Stormfront #23",
+      "link": "/Stormfront-Expansion/Roserade-Card-23",
+      "image": "https://den-cards.pokellector.com/48/Roserade.SF.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Roserade.SF.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "23/100",
+      "card_number": "23",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Roserade.SF.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Froserade"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p230930.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Roserade+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-023.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Roserade+-+23%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Salamence",
+      "title": "Salamence - Stormfront #24",
+      "link": "/Stormfront-Expansion/Salamence-Card-24",
+      "image": "https://den-cards.pokellector.com/48/Salamence.SF.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Salamence.SF.24.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "24/100",
+      "card_number": "24",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Salamence.SF.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fsalamence"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p230932.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Salamence+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Salamence+-+24%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.25",
+          "link": "http://stop2shop.com/pksf-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Scizor",
+      "title": "Scizor - Stormfront #25",
+      "link": "/Stormfront-Expansion/Scizor-Card-25",
+      "image": "https://den-cards.pokellector.com/48/Scizor.SF.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Scizor.SF.25.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "25/100",
+      "card_number": "25",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Scizor.SF.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fscizor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p230934.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Scizor+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scizor+-+25%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.50",
+          "link": "http://stop2shop.com/pksf-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Skuntank",
+      "title": "Skuntank - Stormfront #26",
+      "link": "/Stormfront-Expansion/Skuntank-Card-26",
+      "image": "https://den-cards.pokellector.com/48/Skuntank.SF.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Skuntank.SF.26.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "26/100",
+      "card_number": "26",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Skuntank.SF.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fskuntank"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230939.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Skuntank+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.75",
+          "link": "http://stop2shop.com/pksf-026.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skuntank+-+26%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Staraptor",
+      "title": "Staraptor - Stormfront #27",
+      "link": "/Stormfront-Expansion/Staraptor-Card-27",
+      "image": "https://den-cards.pokellector.com/48/Staraptor.SF.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Staraptor.SF.27.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "27/100",
+      "card_number": "27",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Staraptor.SF.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fstaraptor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p230941.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Staraptor+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Staraptor+-+27%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.50",
+          "link": "http://stop2shop.com/pksf-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Steelix",
+      "title": "Steelix - Stormfront #28",
+      "link": "/Stormfront-Expansion/Steelix-Card-28",
+      "image": "https://den-cards.pokellector.com/48/Steelix.SF.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Steelix.SF.28.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "28/100",
+      "card_number": "28",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Steelix.SF.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fsteelix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p230944.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Steelix+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Steelix+-+28%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.25",
+          "link": "http://stop2shop.com/pksf-028.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Tangrowth",
+      "title": "Tangrowth - Stormfront #29",
+      "link": "/Stormfront-Expansion/Tangrowth-Card-29",
+      "image": "https://den-cards.pokellector.com/48/Tangrowth.SF.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Tangrowth.SF.29.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "29/100",
+      "card_number": "29",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Tangrowth.SF.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ftangrowth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p230949.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Tangrowth+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-029.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tangrowth+-+29%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Tyranitar",
+      "title": "Tyranitar - Stormfront #30",
+      "link": "/Stormfront-Expansion/Tyranitar-Card-30",
+      "image": "https://den-cards.pokellector.com/48/Tyranitar.SF.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Tyranitar.SF.30.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "30/100",
+      "card_number": "30",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Tyranitar.SF.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ftyranitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.39",
+          "link": "http://www.trollandtoad.com/p230952.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Tyranitar+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tyranitar+-+30%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Vespiquen",
+      "title": "Vespiquen - Stormfront #31",
+      "link": "/Stormfront-Expansion/Vespiquen-Card-31",
+      "image": "https://den-cards.pokellector.com/48/Vespiquen.SF.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Vespiquen.SF.31.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "31/100",
+      "card_number": "31",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Vespiquen.SF.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fvespiquen"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1125901.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Vespiquen+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vespiquen+-+31%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Bibarel",
+      "title": "Bibarel - Stormfront #32",
+      "link": "/Stormfront-Expansion/Bibarel-Card-32",
+      "image": "https://den-cards.pokellector.com/48/Bibarel.SF.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Bibarel.SF.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "32/100",
+      "card_number": "32",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Bibarel.SF.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbibarel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230854.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Bibarel+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bibarel+-+32%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-032.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Budew",
+      "title": "Budew - Stormfront #33",
+      "link": "/Stormfront-Expansion/Budew-Card-33",
+      "image": "https://den-cards.pokellector.com/48/Budew.SF.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Budew.SF.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "33/100",
+      "card_number": "33",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Budew.SF.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbudew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p230858.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Budew+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-033.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Budew+-+33%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Dusclops",
+      "title": "Dusclops - Stormfront #34",
+      "link": "/Stormfront-Expansion/Dusclops-Card-34",
+      "image": "https://den-cards.pokellector.com/48/Dusclops.SF.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Dusclops.SF.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "34/100",
+      "card_number": "34",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Dusclops.SF.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusclops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230871.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.63",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Dusclops+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusclops+-+34%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Dusclops",
+      "title": "Dusclops - Stormfront #35",
+      "link": "/Stormfront-Expansion/Dusclops-Card-35",
+      "image": "https://den-cards.pokellector.com/48/Dusclops.SF.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Dusclops.SF.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "35/100",
+      "card_number": "35",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Dusclops.SF.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusclops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p230872.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Dusclops+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-035.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusclops+-+35%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Electrode",
+      "title": "Electrode - Stormfront #36",
+      "link": "/Stormfront-Expansion/Electrode-Card-36",
+      "image": "https://den-cards.pokellector.com/48/Electrode.SF.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Electrode.SF.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "36/100",
+      "card_number": "36",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Electrode.SF.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230879.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Electrode+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+36%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-036.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Electrode",
+      "title": "Electrode - Stormfront #37",
+      "link": "/Stormfront-Expansion/Electrode-Card-37",
+      "image": "https://den-cards.pokellector.com/48/Electrode.SF.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Electrode.SF.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "37/100",
+      "card_number": "37",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Electrode.SF.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230880.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Electrode+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+37%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Farfetch'd",
+      "title": "Farfetch'd - Stormfront #38",
+      "link": "/Stormfront-Expansion/Farfetchd-Card-38",
+      "image": "https://den-cards.pokellector.com/48/Farfetchd.SF.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Farfetchd.SF.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "38/100",
+      "card_number": "38",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Farfetchd.SF.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ffarfetchd"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p230884.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Farfetch%27d+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-038.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Farfetch%27d+-+38%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Grovyle",
+      "title": "Grovyle - Stormfront #39",
+      "link": "/Stormfront-Expansion/Grovyle-Card-39",
+      "image": "https://den-cards.pokellector.com/48/Grovyle.SF.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Grovyle.SF.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "39/100",
+      "card_number": "39",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Grovyle.SF.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fgrovyle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p230889.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Grovyle+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grovyle+-+39%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-039.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Haunter",
+      "title": "Haunter - Stormfront #40",
+      "link": "/Stormfront-Expansion/Haunter-Card-40",
+      "image": "https://den-cards.pokellector.com/48/Haunter.SF.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Haunter.SF.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "40/100",
+      "card_number": "40",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Haunter.SF.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fhaunter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1125843.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Haunter+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Haunter+-+40%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Machoke",
+      "title": "Machoke - Stormfront #41",
+      "link": "/Stormfront-Expansion/Machoke-Card-41",
+      "image": "https://den-cards.pokellector.com/48/Machoke.SF.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Machoke.SF.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "41/100",
+      "card_number": "41",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Machoke.SF.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmachoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230899.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Machoke+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-041.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machoke+-+41%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Magneton",
+      "title": "Magneton - Stormfront #42",
+      "link": "/Stormfront-Expansion/Magneton-Card-42",
+      "image": "https://den-cards.pokellector.com/48/Magneton.SF.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magneton.SF.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "42/100",
+      "card_number": "42",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magneton.SF.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagneton"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p230904.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magneton+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-042.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+42%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Magneton",
+      "title": "Magneton - Stormfront #43",
+      "link": "/Stormfront-Expansion/Magneton-Card-43",
+      "image": "https://den-cards.pokellector.com/48/Magneton.SF.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magneton.SF.43.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "43/100",
+      "card_number": "43",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magneton.SF.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagneton"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p230905.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magneton+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magneton+-+43%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-043.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Miltank",
+      "title": "Miltank - Stormfront #44",
+      "link": "/Stormfront-Expansion/Miltank-Card-44",
+      "image": "https://den-cards.pokellector.com/48/Miltank.SF.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Miltank.SF.44.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "44/100",
+      "card_number": "44",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Miltank.SF.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmiltank"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230910.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Miltank+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Miltank+-+44%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-044.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Pichu",
+      "title": "Pichu - Stormfront #45",
+      "link": "/Stormfront-Expansion/Pichu-Card-45",
+      "image": "https://den-cards.pokellector.com/48/Pichu.SF.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Pichu.SF.45.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "45/100",
+      "card_number": "45",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Pichu.SF.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.81",
+          "link": "http://www.trollandtoad.com/p230914.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Pichu+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-045.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pichu+-+45%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Piloswine",
+      "title": "Piloswine - Stormfront #46",
+      "link": "/Stormfront-Expansion/Piloswine-Card-46",
+      "image": "https://den-cards.pokellector.com/48/Piloswine.SF.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Piloswine.SF.46.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "46/100",
+      "card_number": "46",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Piloswine.SF.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpiloswine"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230916.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Piloswine+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Piloswine+-+46%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-046.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Pupitar",
+      "title": "Pupitar - Stormfront #47",
+      "link": "/Stormfront-Expansion/Pupitar-Card-47",
+      "image": "https://den-cards.pokellector.com/48/Pupitar.SF.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Pupitar.SF.47.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "47/100",
+      "card_number": "47",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Pupitar.SF.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpupitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230923.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Pupitar+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-047.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pupitar+-+47%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Sableye",
+      "title": "Sableye - Stormfront #48",
+      "link": "/Stormfront-Expansion/Sableye-Card-48",
+      "image": "https://den-cards.pokellector.com/48/Sableye.SF.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Sableye.SF.48.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "48/100",
+      "card_number": "48",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Sableye.SF.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fsableye"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.49",
+          "link": "http://www.trollandtoad.com/p230931.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Sableye+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sableye+-+48%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.89",
+          "link": "http://stop2shop.com/pksf-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Scyther",
+      "title": "Scyther - Stormfront #49",
+      "link": "/Stormfront-Expansion/Scyther-Card-49",
+      "image": "https://den-cards.pokellector.com/48/Scyther.SF.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Scyther.SF.49.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "49/100",
+      "card_number": "49",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Scyther.SF.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fscyther"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.97",
+          "link": "http://www.trollandtoad.com/p230935.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Scyther+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scyther+-+49%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Shelgon",
+      "title": "Shelgon - Stormfront #50",
+      "link": "/Stormfront-Expansion/Shelgon-Card-50",
+      "image": "https://den-cards.pokellector.com/48/Shelgon.SF.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Shelgon.SF.50.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "50/100",
+      "card_number": "50",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Shelgon.SF.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fshelgon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p230936.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Shelgon+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shelgon+-+50%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Skarmory",
+      "title": "Skarmory - Stormfront #51",
+      "link": "/Stormfront-Expansion/Skarmory-Card-51",
+      "image": "https://den-cards.pokellector.com/48/Skarmory.SF.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Skarmory.SF.51.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "51/100",
+      "card_number": "51",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Skarmory.SF.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fskarmory"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230937.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Skarmory+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-051.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skarmory+-+51%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Staravia",
+      "title": "Staravia - Stormfront #52",
+      "link": "/Stormfront-Expansion/Staravia-Card-52",
+      "image": "https://den-cards.pokellector.com/48/Staravia.SF.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Staravia.SF.52.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "52/100",
+      "card_number": "52",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Staravia.SF.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fstaravia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1125890.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Staravia+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Staravia+-+52%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-052.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Bagon",
+      "title": "Bagon - Stormfront #53",
+      "link": "/Stormfront-Expansion/Bagon-Card-53",
+      "image": "https://den-cards.pokellector.com/48/Bagon.SF.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Bagon.SF.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "53/100",
+      "card_number": "53",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Bagon.SF.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbagon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230853.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Bagon+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bagon+-+53%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-053.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Bidoof",
+      "title": "Bidoof - Stormfront #54",
+      "link": "/Stormfront-Expansion/Bidoof-Card-54",
+      "image": "https://den-cards.pokellector.com/48/Bidoof.SF.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Bidoof.SF.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "54/100",
+      "card_number": "54",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Bidoof.SF.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbidoof"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230855.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Bidoof+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-054.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bidoof+-+54%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Bronzor",
+      "title": "Bronzor - Stormfront #55",
+      "link": "/Stormfront-Expansion/Bronzor-Card-55",
+      "image": "https://den-cards.pokellector.com/48/Bronzor.SF.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Bronzor.SF.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "55/100",
+      "card_number": "55",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Bronzor.SF.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fbronzor"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230857.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Bronzor+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-055.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bronzor+-+55%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Cherubi",
+      "title": "Cherubi - Stormfront #56",
+      "link": "/Stormfront-Expansion/Cherubi-Card-56",
+      "image": "https://den-cards.pokellector.com/48/Cherubi.SF.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Cherubi.SF.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "56/100",
+      "card_number": "56",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Cherubi.SF.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcherubi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230863.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Cherubi+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cherubi+-+56%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Combee",
+      "title": "Combee - Stormfront #57",
+      "link": "/Stormfront-Expansion/Combee-Card-57",
+      "image": "https://den-cards.pokellector.com/48/Combee.SF.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Combee.SF.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "57/100",
+      "card_number": "57",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Combee.SF.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcombee"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230864.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Combee+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combee+-+57%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-057.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Drifloon",
+      "title": "Drifloon - Stormfront #58",
+      "link": "/Stormfront-Expansion/Drifloon-Card-58",
+      "image": "https://den-cards.pokellector.com/48/Drifloon.SF.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Drifloon.SF.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "58/100",
+      "card_number": "58",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Drifloon.SF.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdrifloon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230869.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Drifloon+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifloon+-+58%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-058.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Duskull",
+      "title": "Duskull - Stormfront #59",
+      "link": "/Stormfront-Expansion/Duskull-Card-59",
+      "image": "https://den-cards.pokellector.com/48/Duskull.SF.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Duskull.SF.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "59/100",
+      "card_number": "59",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Duskull.SF.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230876.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Duskull+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Duskull+-+59%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Duskull",
+      "title": "Duskull - Stormfront #60",
+      "link": "/Stormfront-Expansion/Duskull-Card-60",
+      "image": "https://den-cards.pokellector.com/48/Duskull.SF.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Duskull.SF.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "60/100",
+      "card_number": "60",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Duskull.SF.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230877.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Duskull+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Duskull+-+60%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-060.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Finneon",
+      "title": "Finneon - Stormfront #61",
+      "link": "/Stormfront-Expansion/Finneon-Card-61",
+      "image": "https://den-cards.pokellector.com/48/Finneon.SF.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Finneon.SF.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "61/100",
+      "card_number": "61",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Finneon.SF.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ffinneon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230885.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Finneon+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Finneon+-+61%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Gastly",
+      "title": "Gastly - Stormfront #62",
+      "link": "/Stormfront-Expansion/Gastly-Card-62",
+      "image": "https://den-cards.pokellector.com/48/Gastly.SF.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Gastly.SF.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "62/100",
+      "card_number": "62",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Gastly.SF.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fgastly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p230886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Gastly+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-062.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gastly+-+62%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Larvitar",
+      "title": "Larvitar - Stormfront #63",
+      "link": "/Stormfront-Expansion/Larvitar-Card-63",
+      "image": "https://den-cards.pokellector.com/48/Larvitar.SF.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Larvitar.SF.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "63/100",
+      "card_number": "63",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Larvitar.SF.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Flarvitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230894.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Larvitar+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Larvitar+-+63%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Machop",
+      "title": "Machop - Stormfront #64",
+      "link": "/Stormfront-Expansion/Machop-Card-64",
+      "image": "https://den-cards.pokellector.com/48/Machop.SF.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Machop.SF.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "64/100",
+      "card_number": "64",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Machop.SF.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmachop"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230900.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Machop+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-064.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machop+-+64%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Magikarp",
+      "title": "Magikarp - Stormfront #65",
+      "link": "/Stormfront-Expansion/Magikarp-Card-65",
+      "image": "https://den-cards.pokellector.com/48/Magikarp.SF.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magikarp.SF.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "65/100",
+      "card_number": "65",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magikarp.SF.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagikarp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p230901.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magikarp+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-065.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magikarp+-+65%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Magnemite",
+      "title": "Magnemite - Stormfront #66",
+      "link": "/Stormfront-Expansion/Magnemite-Card-66",
+      "image": "https://den-cards.pokellector.com/48/Magnemite.SF.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magnemite.SF.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "66/100",
+      "card_number": "66",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magnemite.SF.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagnemite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230902.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magnemite+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+66%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Magnemite",
+      "title": "Magnemite - Stormfront #67",
+      "link": "/Stormfront-Expansion/Magnemite-Card-67",
+      "image": "https://den-cards.pokellector.com/48/Magnemite.SF.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Magnemite.SF.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "67/100",
+      "card_number": "67",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Magnemite.SF.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmagnemite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230903.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Magnemite+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magnemite+-+67%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-067.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Misdreavus",
+      "title": "Misdreavus - Stormfront #68",
+      "link": "/Stormfront-Expansion/Misdreavus-Card-68",
+      "image": "https://den-cards.pokellector.com/48/Misdreavus.SF.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Misdreavus.SF.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "68/100",
+      "card_number": "68",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Misdreavus.SF.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmisdreavus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230911.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Misdreavus+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-068.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Misdreavus+-+68%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Onix",
+      "title": "Onix - Stormfront #69",
+      "link": "/Stormfront-Expansion/Onix-Card-69",
+      "image": "https://den-cards.pokellector.com/48/Onix.SF.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Onix.SF.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "69/100",
+      "card_number": "69",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Onix.SF.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fonix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230913.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Onix+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Onix+-+69%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Pikachu",
+      "title": "Pikachu - Stormfront #70",
+      "link": "/Stormfront-Expansion/Pikachu-Card-70",
+      "image": "https://den-cards.pokellector.com/48/Pikachu.SF.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Pikachu.SF.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "70/100",
+      "card_number": "70",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Pikachu.SF.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p230915.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Pikachu+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-070.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+70%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Ponyta",
+      "title": "Ponyta - Stormfront #71",
+      "link": "/Stormfront-Expansion/Ponyta-Card-71",
+      "image": "https://den-cards.pokellector.com/48/Ponyta.SF.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Ponyta.SF.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "71/100",
+      "card_number": "71",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Ponyta.SF.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fponyta"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230920.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Ponyta+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ponyta+-+71%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Roselia",
+      "title": "Roselia - Stormfront #72",
+      "link": "/Stormfront-Expansion/Roselia-Card-72",
+      "image": "https://den-cards.pokellector.com/48/Roselia.SF.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Roselia.SF.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "72/100",
+      "card_number": "72",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Roselia.SF.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Froselia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230929.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Roselia+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Roselia+-+72%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Skorupi",
+      "title": "Skorupi - Stormfront #73",
+      "link": "/Stormfront-Expansion/Skorupi-Card-73",
+      "image": "https://den-cards.pokellector.com/48/Skorupi.SF.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Skorupi.SF.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "73/100",
+      "card_number": "73",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Skorupi.SF.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fskorupi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230938.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.33",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Skorupi+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skorupi+-+73%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Snover",
+      "title": "Snover - Stormfront #74",
+      "link": "/Stormfront-Expansion/Snover-Card-74",
+      "image": "https://den-cards.pokellector.com/48/Snover.SF.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Snover.SF.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "74/100",
+      "card_number": "74",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Snover.SF.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fsnover"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230940.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.71",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Snover+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snover+-+74%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Starly",
+      "title": "Starly - Stormfront #75",
+      "link": "/Stormfront-Expansion/Starly-Card-75",
+      "image": "https://den-cards.pokellector.com/48/Starly.SF.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Starly.SF.75.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "75/100",
+      "card_number": "75",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Starly.SF.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fstarly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230943.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Starly+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Starly+-+75%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-075.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Stunky",
+      "title": "Stunky - Stormfront #76",
+      "link": "/Stormfront-Expansion/Stunky-Card-76",
+      "image": "https://den-cards.pokellector.com/48/Stunky.SF.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Stunky.SF.76.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "76/100",
+      "card_number": "76",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Stunky.SF.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fstunky"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230945.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Stunky+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Stunky+-+76%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Swinub",
+      "title": "Swinub - Stormfront #77",
+      "link": "/Stormfront-Expansion/Swinub-Card-77",
+      "image": "https://den-cards.pokellector.com/48/Swinub.SF.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Swinub.SF.77.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "77/100",
+      "card_number": "77",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Swinub.SF.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fswinub"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230946.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Swinub+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swinub+-+77%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Tangela",
+      "title": "Tangela - Stormfront #78",
+      "link": "/Stormfront-Expansion/Tangela-Card-78",
+      "image": "https://den-cards.pokellector.com/48/Tangela.SF.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Tangela.SF.78.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "78/100",
+      "card_number": "78",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Tangela.SF.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ftangela"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230948.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Tangela+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tangela+-+78%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-078.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Treecko",
+      "title": "Treecko - Stormfront #79",
+      "link": "/Stormfront-Expansion/Treecko-Card-79",
+      "image": "https://den-cards.pokellector.com/48/Treecko.SF.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Treecko.SF.79.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "79/100",
+      "card_number": "79",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Treecko.SF.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Ftreecko"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230951.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Treecko+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Treecko+-+79%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Voltorb",
+      "title": "Voltorb - Stormfront #80",
+      "link": "/Stormfront-Expansion/Voltorb-Card-80",
+      "image": "https://den-cards.pokellector.com/48/Voltorb.SF.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Voltorb.SF.80.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "80/100",
+      "card_number": "80",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Voltorb.SF.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fvoltorb-80"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230954.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Voltorb+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+80%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-080.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Voltorb",
+      "title": "Voltorb - Stormfront #81",
+      "link": "/Stormfront-Expansion/Voltorb-Card-81",
+      "image": "https://den-cards.pokellector.com/48/Voltorb.SF.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Voltorb.SF.81.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "81/100",
+      "card_number": "81",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Voltorb.SF.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fvoltorb-81"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230955.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Voltorb+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+81%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.15",
+          "link": "http://stop2shop.com/pksf-081.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Conductive Quarry",
+      "title": "Conductive Quarry - Stormfront #82",
+      "link": "/Stormfront-Expansion/Conductive-Quarry-Card-82",
+      "image": "https://den-cards.pokellector.com/48/Conductive-Quarry.SF.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Conductive-Quarry.SF.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "82/100",
+      "card_number": "82",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Conductive-Quarry.SF.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fconductive-quarry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230865.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Conductive+Quarry+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-082.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Conductive+Quarry+-+82%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Energy Link",
+      "title": "Energy Link - Stormfront #83",
+      "link": "/Stormfront-Expansion/Energy-Link-Card-83",
+      "image": "https://den-cards.pokellector.com/48/Energy-Link.SF.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Energy-Link.SF.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "83/100",
+      "card_number": "83",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Energy-Link.SF.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fenergy-link"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230882.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Energy+Link+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Link+-+83%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Energy Switch",
+      "title": "Energy Switch - Stormfront #84",
+      "link": "/Stormfront-Expansion/Energy-Switch-Card-84",
+      "image": "https://den-cards.pokellector.com/48/Energy-Switch.SF.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Energy-Switch.SF.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "84/100",
+      "card_number": "84",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Energy-Switch.SF.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fenergy-switch"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230883.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Energy+Switch+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Energy+Switch+-+84%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.50",
+          "link": "http://stop2shop.com/pksf-084.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Great Ball",
+      "title": "Great Ball - Stormfront #85",
+      "link": "/Stormfront-Expansion/Great-Ball-Card-85",
+      "image": "https://den-cards.pokellector.com/48/Great-Ball.SF.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Great-Ball.SF.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "85/100",
+      "card_number": "85",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Great-Ball.SF.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fgreat-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p230888.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Great+Ball+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Great+Ball+-+85%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-085.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Luxury Ball",
+      "title": "Luxury Ball - Stormfront #86",
+      "link": "/Stormfront-Expansion/Luxury-Ball-Card-86",
+      "image": "https://den-cards.pokellector.com/48/Luxury-Ball.SF.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Luxury-Ball.SF.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "86/100",
+      "card_number": "86",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Luxury-Ball.SF.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fluxury-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p230896.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Luxury+Ball+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luxury+Ball+-+86%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.45",
+          "link": "http://stop2shop.com/pksf-086.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Marley's Request",
+      "title": "Marley's Request - Stormfront #87",
+      "link": "/Stormfront-Expansion/Marleys-Request-Card-87",
+      "image": "https://den-cards.pokellector.com/48/Marleys-Request.SF.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Marleys-Request.SF.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "87/100",
+      "card_number": "87",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Marleys-Request.SF.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmarleys-request"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p230909.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Marley%27s+Request+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marley%27s+Request+-+87%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Poke Blower +",
+      "title": "Poke Blower + - Stormfront #88",
+      "link": "/Stormfront-Expansion/Poke-Blower--Card-88",
+      "image": "https://den-cards.pokellector.com/48/Poke-Blower-.SF.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Poke-Blower-.SF.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "88/100",
+      "card_number": "88",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Poke-Blower-.SF.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpoke-blower-plus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230917.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Poke+Blower+%2B+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Blower+%2B+-+88%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.25",
+          "link": "http://stop2shop.com/pksf-088.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Poke Drawer +",
+      "title": "Poke Drawer + - Stormfront #89",
+      "link": "/Stormfront-Expansion/Poke-Drawer--Card-89",
+      "image": "https://den-cards.pokellector.com/48/Poke-Drawer-.SF.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Poke-Drawer-.SF.89.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "89/100",
+      "card_number": "89",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Poke-Drawer-.SF.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpoke-drawer-plus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p230918.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Poke+Drawer+%2B+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Drawer+%2B+-+89%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-089.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Poke Healer +",
+      "title": "Poke Healer + - Stormfront #90",
+      "link": "/Stormfront-Expansion/Poke-Healer--Card-90",
+      "image": "https://den-cards.pokellector.com/48/Poke-Healer-.SF.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Poke-Healer-.SF.90.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "90/100",
+      "card_number": "90",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Poke-Healer-.SF.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpoke-healer-plus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230919.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Poke+Healer+%2B+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.00",
+          "link": "http://stop2shop.com/pksf-090.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Healer+%2B+-+90%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Premier Ball",
+      "title": "Premier Ball - Stormfront #91",
+      "link": "/Stormfront-Expansion/Premier-Ball-Card-91",
+      "image": "https://den-cards.pokellector.com/48/Premier-Ball.SF.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Premier-Ball.SF.91.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "91/100",
+      "card_number": "91",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Premier-Ball.SF.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpremier-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p230922.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Premier+Ball+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-091.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Premier+Ball+-+91%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Potion",
+      "title": "Potion - Stormfront #92",
+      "link": "/Stormfront-Expansion/Potion-Card-92",
+      "image": "https://den-cards.pokellector.com/48/Potion.SF.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Potion.SF.92.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "92/100",
+      "card_number": "92",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Potion.SF.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fpotion"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230921.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Potion+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Potion+-+92%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-092.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Switch",
+      "title": "Switch - Stormfront #93",
+      "link": "/Stormfront-Expansion/Switch-Card-93",
+      "image": "https://den-cards.pokellector.com/48/Switch.SF.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Switch.SF.93.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "93/100",
+      "card_number": "93",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Switch.SF.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fswitch"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p230947.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Switch+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/pksf-093.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Switch+-+93%2F100"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "94": {
+      "number": "94",
+      "name": "Cyclone Energy",
+      "title": "Cyclone Energy - Stormfront #94",
+      "link": "/Stormfront-Expansion/Cyclone-Energy-Card-94",
+      "image": "https://den-cards.pokellector.com/48/Cyclone-Energy.SF.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Cyclone-Energy.SF.94.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "94/100",
+      "card_number": "94",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Cyclone-Energy.SF.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcyclone-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p230866.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Cyclone+Energy+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cyclone+Energy+-+94%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.75",
+          "link": "http://stop2shop.com/pksf-094.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Warp Energy",
+      "title": "Warp Energy - Stormfront #95",
+      "link": "/Stormfront-Expansion/Warp-Energy-Card-95",
+      "image": "https://den-cards.pokellector.com/48/Warp-Energy.SF.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Warp-Energy.SF.95.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "95/100",
+      "card_number": "95",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Warp-Energy.SF.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fwarp-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p230957.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.66",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Warp+Energy+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Warp+Energy+-+95%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.75",
+          "link": "http://stop2shop.com/pksf-095.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "96": {
+      "number": "96",
+      "name": "Dusknoir LV. X",
+      "title": "Dusknoir LV. X - Stormfront #96",
+      "link": "/Stormfront-Expansion/Dusknoir-LV-X-Card-96",
+      "image": "https://den-cards.pokellector.com/48/Dusknoir-LV-X.SF.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Dusknoir-LV-X.SF.96.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "96/100",
+      "card_number": "96",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Dusknoir-LV-X.SF.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$40.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusknoir-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p230875.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Dusknoir+LV.+X+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.75",
+          "link": "http://stop2shop.com/pksf-096.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusknoir+LV.X+-+96%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Heatran LV. X",
+      "title": "Heatran LV. X - Stormfront #97",
+      "link": "/Stormfront-Expansion/Heatran-LV-X-Card-97",
+      "image": "https://den-cards.pokellector.com/48/Heatran-LV-X.SF.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Heatran-LV-X.SF.97.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "97/100",
+      "card_number": "97",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Heatran-LV-X.SF.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fheatran-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p230892.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Heatran+LV.+X+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.75",
+          "link": "http://stop2shop.com/pksf-097.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Heatran+LV.X+-+97%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Machamp LV. X",
+      "title": "Machamp LV. X - Stormfront #98",
+      "link": "/Stormfront-Expansion/Machamp-LV-X-Card-98",
+      "image": "https://den-cards.pokellector.com/48/Machamp-LV-X.SF.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Machamp-LV-X.SF.98.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "98/100",
+      "card_number": "98",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Machamp-LV-X.SF.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$59.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fmachamp-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p230898.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Machamp+LV.+X+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$5.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Machamp+LV.X+-+98%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$29.75",
+          "link": "http://stop2shop.com/pksf-098.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Raichu LV. X",
+      "title": "Raichu LV. X - Stormfront #99",
+      "link": "/Stormfront-Expansion/Raichu-LV-X-Card-99",
+      "image": "https://den-cards.pokellector.com/48/Raichu-LV-X.SF.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Raichu-LV-X.SF.99.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "99/100",
+      "card_number": "99",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Raichu-LV-X.SF.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$58.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fraichu-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.79",
+          "link": "http://www.trollandtoad.com/p230925.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$48.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Raichu+LV.+X+99+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.75",
+          "link": "http://stop2shop.com/pksf-099.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+LV.X+-+99%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Regigigas LV. X",
+      "title": "Regigigas LV. X - Stormfront #100",
+      "link": "/Stormfront-Expansion/Regigigas-LV-X-Card-100",
+      "image": "https://den-cards.pokellector.com/48/Regigigas-LV-X.SF.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Regigigas-LV-X.SF.100.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "100/100",
+      "card_number": "100",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Regigigas-LV-X.SF.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$64.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fregigigas-lvx"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p230928.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Regigigas+LV.+X+100+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regigigas+LV.X+-+100%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.75",
+          "link": "http://stop2shop.com/pksf-100.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Charmander",
+      "title": "Charmander - Stormfront #101",
+      "link": "/Stormfront-Expansion/Charmander-Card-101",
+      "image": "https://den-cards.pokellector.com/48/Charmander.SF.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Charmander.SF.101.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "101/100",
+      "card_number": "101",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Charmander.SF.101.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$133.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcharmander"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p230860.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$74.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Charmander+101+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmander+-+101%2F100"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.75",
+          "link": "http://stop2shop.com/pksf-101.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "102": {
+      "number": "102",
+      "name": "Charmeleon",
+      "title": "Charmeleon - Stormfront #102",
+      "link": "/Stormfront-Expansion/Charmeleon-Card-102",
+      "image": "https://den-cards.pokellector.com/48/Charmeleon.SF.102.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Charmeleon.SF.102.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "102/100",
+      "card_number": "102",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Charmeleon.SF.102.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcharmeleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p230861.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Charmeleon+102+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.75",
+          "link": "http://stop2shop.com/pksf-102.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charmeleon+-+102%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "103": {
+      "number": "103",
+      "name": "Charizard",
+      "title": "Charizard - Stormfront #103",
+      "link": "/Stormfront-Expansion/Charizard-Card-103",
+      "image": "https://den-cards.pokellector.com/48/Charizard.SF.103.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Charizard.SF.103.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "103/100",
+      "card_number": "103",
+      "total_cards": "100",
+      "image_full": "https://den-cards.pokellector.com/48/Charizard.SF.103.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$229.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fcharizard"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.00",
+          "link": "http://www.trollandtoad.com/p1756151.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$61.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Charizard+103+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$39.75",
+          "link": "http://stop2shop.com/pksf-103.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Charizard+-+103%2F100"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SH1": {
+      "number": "SH1",
+      "name": "Drifloon",
+      "title": "Drifloon - Stormfront #1",
+      "link": "/Stormfront-Expansion/Drifloon-Card-SH1",
+      "image": "https://den-cards.pokellector.com/48/Drifloon.SF.SH1.3314.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Drifloon.SF.SH1.3314.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "SH1",
+      "image_full": "https://den-cards.pokellector.com/48/Drifloon.SF.SH1.3314.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fdusknoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p230869.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Drifloon+SH1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Drifloon+-+SH1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-001.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SH2": {
+      "number": "SH2",
+      "name": "Duskull",
+      "title": "Duskull - Stormfront #2",
+      "link": "/Stormfront-Expansion/Duskull-Card-SH2",
+      "image": "https://den-cards.pokellector.com/48/Duskull.SF.SH2.3315.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Duskull.SF.SH2.3315.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "SH2",
+      "image_full": "https://den-cards.pokellector.com/48/Duskull.SF.SH2.3315.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Fempoleon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p230877.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Duskull+SH2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Duskull+-+SH2"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.25",
+          "link": "http://stop2shop.com/pksf-002.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "SH3": {
+      "number": "SH3",
+      "name": "Voltorb",
+      "title": "Voltorb - Stormfront #3",
+      "link": "/Stormfront-Expansion/Voltorb-Card-SH3",
+      "image": "https://den-cards.pokellector.com/48/Voltorb.SF.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/48/Voltorb.SF.3.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Stormfront",
+      "set_link": "/Stormfront-Expansion/",
+      "position": "SH3",
+      "image_full": "https://den-cards.pokellector.com/48/Voltorb.SF.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fstormfront%2Finfernape"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p230954.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$34.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stormfront+Voltorb+SH3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.75",
+          "link": "http://stop2shop.com/pksf-003.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+SH3"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 10:01:31"
+}

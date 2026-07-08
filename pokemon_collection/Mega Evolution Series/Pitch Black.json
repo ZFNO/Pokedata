@@ -1,0 +1,648 @@
+{
+  "title": "Pitch Black Set",
+  "link": "/Pitch-Black-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Pitch-Black.logo.432.png",
+  "symbol": "https://den-media.pokellector.com/logos/Pitch-Black.symbol.432.png",
+  "scraped": true,
+  "cards": {
+    "6": {
+      "number": "6",
+      "name": "Sinistcha",
+      "title": "Sinistcha - Pitch Black #6",
+      "link": "/Pitch-Black-Expansion/Sinistcha-Card-6",
+      "image": "https://den-cards.pokellector.com/432/Sinistcha.PBL.6.61587.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Sinistcha.PBL.6.61587.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "6/84",
+      "card_number": "6",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Sinistcha.PBL.6.61587.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sinistcha+Pitch+Black+6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Wailmer",
+      "title": "Wailmer - Pitch Black #15",
+      "link": "/Pitch-Black-Expansion/Wailmer-Card-15",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "15/84",
+      "card_number": "15",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Wailord ex",
+      "title": "Wailord ex - Pitch Black #16",
+      "link": "/Pitch-Black-Expansion/Wailord-ex-Card-16",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "16/84",
+      "card_number": "16",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Relicanth",
+      "title": "Relicanth - Pitch Black #17",
+      "link": "/Pitch-Black-Expansion/Relicanth-Card-17",
+      "image": "https://den-cards.pokellector.com/432/Relicanth.PBL.17.61593.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Relicanth.PBL.17.61593.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "17/84",
+      "card_number": "17",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Relicanth.PBL.17.61593.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$3.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Relicanth+Pitch+Black+17+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "25": {
+      "number": "25",
+      "name": "Charjabug",
+      "title": "Charjabug - Pitch Black #25",
+      "link": "/Pitch-Black-Expansion/Charjabug-Card-25",
+      "image": "https://den-cards.pokellector.com/432/Charjabug.PBL.25.61591.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Charjabug.PBL.25.61591.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "25/84",
+      "card_number": "25",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Charjabug.PBL.25.61591.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charjabug+Pitch+Black+25+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "26": {
+      "number": "26",
+      "name": "Vikavolt",
+      "title": "Vikavolt - Pitch Black #26",
+      "link": "/Pitch-Black-Expansion/Vikavolt-Card-26",
+      "image": "https://den-cards.pokellector.com/432/Vikavolt.PBL.26.61590.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Vikavolt.PBL.26.61590.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "26/84",
+      "card_number": "26",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Vikavolt.PBL.26.61590.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vikavolt+Pitch+Black+26+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "27": {
+      "number": "27",
+      "name": "Mega Zeraora ex",
+      "title": "Mega Zeraora ex - Pitch Black #27",
+      "link": "/Pitch-Black-Expansion/Mega-Zeraora-ex-Card-27",
+      "image": "https://den-cards.pokellector.com/432/Mega-Zeraora-ex.PBL.27.61609.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Mega-Zeraora-ex.PBL.27.61609.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "27/84",
+      "card_number": "27",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Mega-Zeraora-ex.PBL.27.61609.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Zeraora+ex+Pitch+Black+27+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "29": {
+      "number": "29",
+      "name": "Slowpoke",
+      "title": "Slowpoke - Pitch Black #29",
+      "link": "/Pitch-Black-Expansion/Slowpoke-Card-29",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "29/84",
+      "card_number": "29",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Slowbro",
+      "title": "Slowbro - Pitch Black #30",
+      "link": "/Pitch-Black-Expansion/Slowbro-Card-30",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "30/84",
+      "card_number": "30",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Mega Slowbro ex",
+      "title": "Mega Slowbro ex - Pitch Black #31",
+      "link": "/Pitch-Black-Expansion/Mega-Slowbro-ex-Card-31",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "31/84",
+      "card_number": "31",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "34": {
+      "number": "34",
+      "name": "Banette",
+      "title": "Banette - Pitch Black #34",
+      "link": "/Pitch-Black-Expansion/Banette-Card-34",
+      "image": "https://den-cards.pokellector.com/432/Banette.PBL.34.61588.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Banette.PBL.34.61588.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "34/84",
+      "card_number": "34",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Banette.PBL.34.61588.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Banette+Pitch+Black+34+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "36": {
+      "number": "36",
+      "name": "Litwick",
+      "title": "Litwick - Pitch Black #36",
+      "link": "/Pitch-Black-Expansion/Litwick-Card-36",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "36/84",
+      "card_number": "36",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "37": {
+      "number": "37",
+      "name": "Lampent",
+      "title": "Lampent - Pitch Black #37",
+      "link": "/Pitch-Black-Expansion/Lampent-Card-37",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "37/84",
+      "card_number": "37",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "39": {
+      "number": "39",
+      "name": "Dhelmise",
+      "title": "Dhelmise - Pitch Black #39",
+      "link": "/Pitch-Black-Expansion/Dhelmise-Card-39",
+      "image": "https://den-cards.pokellector.com/432/Dhelmise.PBL.39.61594.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Dhelmise.PBL.39.61594.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "39/84",
+      "card_number": "39",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Dhelmise.PBL.39.61594.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dhelmise+Pitch+Black+39+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Marshadow",
+      "title": "Marshadow - Pitch Black #40",
+      "link": "/Pitch-Black-Expansion/Marshadow-Card-40",
+      "image": "https://den-cards.pokellector.com/432/Marshadow.PBL.40.61610.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Marshadow.PBL.40.61610.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "40/84",
+      "card_number": "40",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Marshadow.PBL.40.61610.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Marshadow+Pitch+Black+40+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Mankey",
+      "title": "Mankey - Pitch Black #42",
+      "link": "/Pitch-Black-Expansion/Mankey-Card-42",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "42/84",
+      "card_number": "42",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "43": {
+      "number": "43",
+      "name": "Primeape",
+      "title": "Primeape - Pitch Black #43",
+      "link": "/Pitch-Black-Expansion/Primeape-Card-43",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "43/84",
+      "card_number": "43",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "49": {
+      "number": "49",
+      "name": "Mega Darkrai ex",
+      "title": "Mega Darkrai ex - Pitch Black #49",
+      "link": "/Pitch-Black-Expansion/Mega-Darkrai-ex-Card-49",
+      "image": "https://den-cards.pokellector.com/432/Mega-Darkrai-ex.PBL.49.61281.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Mega-Darkrai-ex.PBL.49.61281.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "49/84",
+      "card_number": "49",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Mega-Darkrai-ex.PBL.49.61281.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "55": {
+      "number": "55",
+      "name": "Morpeko ex",
+      "title": "Morpeko ex - Pitch Black #55",
+      "link": "/Pitch-Black-Expansion/Morpeko-ex-Card-55",
+      "image": "https://den-cards.pokellector.com/432/Morpeko-ex.PBL.55.61716.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Morpeko-ex.PBL.55.61716.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "55/84",
+      "card_number": "55",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Morpeko-ex.PBL.55.61716.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Morpeko+ex+Pitch+Black+55+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "56": {
+      "number": "56",
+      "name": "Zarude",
+      "title": "Zarude - Pitch Black #56",
+      "link": "/Pitch-Black-Expansion/Zarude-Card-56",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "56/84",
+      "card_number": "56",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "59": {
+      "number": "59",
+      "name": "Chi-Yu",
+      "title": "Chi-Yu - Pitch Black #59",
+      "link": "/Pitch-Black-Expansion/Chi-Yu-Card-59",
+      "image": "https://den-cards.pokellector.com/432/Chi-Yu.PBL.59.61595.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Chi-Yu.PBL.59.61595.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "59/84",
+      "card_number": "59",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Chi-Yu.PBL.59.61595.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chi-Yu+Pitch+Black+59+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "60": {
+      "number": "60",
+      "name": "Skarmory",
+      "title": "Skarmory - Pitch Black #60",
+      "link": "/Pitch-Black-Expansion/Skarmory-Card-60",
+      "image": "https://den-cards.pokellector.com/432/Skarmory.PBL.60.61586.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Skarmory.PBL.60.61586.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "60/84",
+      "card_number": "60",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Skarmory.PBL.60.61586.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Skarmory+Pitch+Black+60+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "65": {
+      "number": "65",
+      "name": "Mega Excadrill ex",
+      "title": "Mega Excadrill ex - Pitch Black #65",
+      "link": "/Pitch-Black-Expansion/Mega-Excadrill-ex-Card-65",
+      "image": "https://den-cards.pokellector.com/432/Mega-Excadrill-ex.PBL.65.61282.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Mega-Excadrill-ex.PBL.65.61282.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "65/84",
+      "card_number": "65",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Mega-Excadrill-ex.PBL.65.61282.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$10.05",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Excadrill+ex+Pitch+Black+65+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "70": {
+      "number": "70",
+      "name": "Silvally",
+      "title": "Silvally - Pitch Black #70",
+      "link": "/Pitch-Black-Expansion/Silvally-Card-70",
+      "image": "https://den-cards.pokellector.com/432/Silvally.PBL.70.61589.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Silvally.PBL.70.61589.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "70/84",
+      "card_number": "70",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Silvally.PBL.70.61589.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Silvally+Pitch+Black+70+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Backtrack Badge",
+      "title": "Backtrack Badge - Pitch Black #74",
+      "link": "/Pitch-Black-Expansion/Backtrack-Badge-Card-74",
+      "image": "https://den-cards.pokellector.com/432/Backtrack-Badge.PBL.74.61584.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Backtrack-Badge.PBL.74.61584.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "74/84",
+      "card_number": "74",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Backtrack-Badge.PBL.74.61584.png",
+      "prices": [
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Backtrack+Badge+Pitch+Black+74+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Fossil Quarry",
+      "title": "Fossil Quarry - Pitch Black #76",
+      "link": "/Pitch-Black-Expansion/Fossil-Quarry-Card-76",
+      "image": "https://den-cards.pokellector.com/432/Fossil-Quarry.PBL.76.61592.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Fossil-Quarry.PBL.76.61592.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "76/84",
+      "card_number": "76",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Fossil-Quarry.PBL.76.61592.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "80": {
+      "number": "80",
+      "name": "Misty's Vitality",
+      "title": "Misty's Vitality - Pitch Black #80",
+      "link": "/Pitch-Black-Expansion/Mistys-Vitality-Card-80",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "80/84",
+      "card_number": "80",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "83": {
+      "number": "83",
+      "name": "Shadowy Dark Energy",
+      "title": "Shadowy Dark Energy - Pitch Black #83",
+      "link": "/Pitch-Black-Expansion/Shadowy-Dark-Energy-Card-83",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "83/84",
+      "card_number": "83",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "84": {
+      "number": "84",
+      "name": "Voltaic Electric Energy",
+      "title": "Voltaic Electric Energy - Pitch Black #84",
+      "link": "/Pitch-Black-Expansion/Voltaic-Electric-Energy-Card-84",
+      "image": "https://den-cards.pokellector.com/432/Voltaic-Electric-Energy.PBL.84.61585.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/432/Voltaic-Electric-Energy.PBL.84.61585.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "84/84",
+      "card_number": "84",
+      "total_cards": "84",
+      "image_full": "https://den-cards.pokellector.com/432/Voltaic-Electric-Energy.PBL.84.61585.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "115": {
+      "number": "115",
+      "name": "Mega Chandelure ex",
+      "title": "Mega Chandelure ex - Pitch Black #115",
+      "link": "/Pitch-Black-Expansion/Mega-Chandelure-ex-Card-115",
+      "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "full_image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Pitch Black",
+      "set_link": "/Pitch-Black-Expansion/",
+      "position": "115/84",
+      "card_number": "115",
+      "total_cards": "84",
+      "image_full": "https://www.pokellector.com/images/card-placeholder.png",
+      "prices": [],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-07-08 20:21:52"
+}

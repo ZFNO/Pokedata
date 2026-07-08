@@ -1,0 +1,1944 @@
+{
+  "title": "Kalos Starter Set Set",
+  "link": "/Kalos-Starter-Set-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.logo.150.png",
+  "symbol": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.symbol.150.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Weedle",
+      "title": "Weedle - Kalos Starter Set #1",
+      "link": "/Kalos-Starter-Set-Expansion/Weedle-Card-1",
+      "image": "https://den-cards.pokellector.com/150/Weedle.KST.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Weedle.KST.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "1/45",
+      "card_number": "1",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Weedle.KST.1.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047502.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$23.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Weedle+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_primal_clash/weedle__1160__common/225563"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Weedle+-+1%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-01.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Pansage",
+      "title": "Pansage - Kalos Starter Set #2",
+      "link": "/Kalos-Starter-Set-Expansion/Pansage-Card-2",
+      "image": "https://den-cards.pokellector.com/150/Pansage.KST.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Pansage.KST.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "2/45",
+      "card_number": "2",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Pansage.KST.2.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047485.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Pansage+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_paradox_rift/pansage__004182__common/698474"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pansage+-+2%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-02.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Chespin",
+      "title": "Chespin - Kalos Starter Set #3",
+      "link": "/Kalos-Starter-Set-Expansion/Chespin-Card-3",
+      "image": "https://den-cards.pokellector.com/150/Chespin.KST.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Chespin.KST.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "3/45",
+      "card_number": "3",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Chespin.KST.3.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1047462.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.32",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Chespin+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-03.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/chespin_xy01_sheen_holo_promo__chespin_box_exclusive/228833"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chespin+-+3%2F39+-+HOLO"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Quilladin",
+      "title": "Quilladin - Kalos Starter Set #4",
+      "link": "/Kalos-Starter-Set-Expansion/Quilladin-Card-4",
+      "image": "https://den-cards.pokellector.com/150/Quilladin.KST.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Quilladin.KST.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "4/45",
+      "card_number": "4",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Quilladin.KST.4.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1047493.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.24",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Quilladin+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.88",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-04.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_base_set/goldeen__045202__common/624396"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Quilladin+-+4%2F39+-+HOLO"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Chesnaught",
+      "title": "Chesnaught - Kalos Starter Set #5",
+      "link": "/Kalos-Starter-Set-Expansion/Chesnaught-Card-5",
+      "image": "https://den-cards.pokellector.com/150/Chesnaught.KST.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Chesnaught.KST.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "5/45",
+      "card_number": "5",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Chesnaught.KST.5.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.80",
+          "link": "http://www.trollandtoad.com/p1047460.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.38",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Chesnaught+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.44",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-05.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_silver_tempest/chesnaught_v__015195__ultra_rare/670988"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chesnaught+-+5%2F39+-+HOLO"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Slugma",
+      "title": "Slugma - Kalos Starter Set #6",
+      "link": "/Kalos-Starter-Set-Expansion/Slugma-Card-6",
+      "image": "https://den-cards.pokellector.com/150/Slugma.KST.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Slugma.KST.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "6/45",
+      "card_number": "6",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Slugma.KST.6.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047496.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Slugma+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_team_rocket_returns/slugma__77109__common/62013"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slugma+-+6%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-06.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Pansear",
+      "title": "Pansear - Kalos Starter Set #7",
+      "link": "/Kalos-Starter-Set-Expansion/Pansear-Card-7",
+      "image": "https://den-cards.pokellector.com/150/Pansear.KST.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Pansear.KST.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "7/45",
+      "card_number": "7",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Pansear.KST.7.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047486.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.62",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Pansear+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-07.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.79",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_base_set/pansear__22146__common/153903"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pansear+-+7%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Fennekin",
+      "title": "Fennekin - Kalos Starter Set #8",
+      "link": "/Kalos-Starter-Set-Expansion/Fennekin-Card-8",
+      "image": "https://den-cards.pokellector.com/150/Fennekin.KST.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Fennekin.KST.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "8/45",
+      "card_number": "8",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Fennekin.KST.8.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047469.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Fennekin+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-08.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_fates_collide/fennekin__10124__common/476113"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fennekin+-+8%2F39+-+HOLO"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Braixen",
+      "title": "Braixen - Kalos Starter Set #9",
+      "link": "/Kalos-Starter-Set-Expansion/Braixen-Card-9",
+      "image": "https://den-cards.pokellector.com/150/Braixen.KST.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Braixen.KST.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "9/45",
+      "card_number": "9",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Braixen.KST.9.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047457.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.23",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Braixen+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_breakthrough/braixen__26162__uncommon/219253"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Braixen+-+9%2F39+-+HOLO"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.88",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-09.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Delphox",
+      "title": "Delphox - Kalos Starter Set #10",
+      "link": "/Kalos-Starter-Set-Expansion/Delphox-Card-10",
+      "image": "https://den-cards.pokellector.com/150/Delphox.KST.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Delphox.KST.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "10/45",
+      "card_number": "10",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Delphox.KST.10.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047466.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Delphox+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/delphox__1039__kalos_starter_set_exclusive/656333"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Delphox+-+10%2F39+-+HOLO"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.44",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-10.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Panpour",
+      "title": "Panpour - Kalos Starter Set #11",
+      "link": "/Kalos-Starter-Set-Expansion/Panpour-Card-11",
+      "image": "https://den-cards.pokellector.com/150/Panpour.KST.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Panpour.KST.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "11/45",
+      "card_number": "11",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Panpour.KST.11.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047487.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Panpour+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-black_and_white/panpour__33114__common__reverse_holo/58639"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Panpour+-+11%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Froakie",
+      "title": "Froakie - Kalos Starter Set #12",
+      "link": "/Kalos-Starter-Set-Expansion/Froakie-Card-12",
+      "image": "https://den-cards.pokellector.com/150/Froakie.KST.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Froakie.KST.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "12/45",
+      "card_number": "12",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Froakie.KST.12.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.95",
+          "link": "http://www.trollandtoad.com/p1047472.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Froakie+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_shrouded_fable/fraxure__045064__common/728185"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Froakie+-+12%2F39+-+HOLO"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Frogadier",
+      "title": "Frogadier - Kalos Starter Set #13",
+      "link": "/Kalos-Starter-Set-Expansion/Frogadier-Card-13",
+      "image": "https://den-cards.pokellector.com/150/Frogadier.KST.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Frogadier.KST.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "13/45",
+      "card_number": "13",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Frogadier.KST.13.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1047474.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Frogadier+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.62",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/frogadier__1339__holo/629680"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Frogadier+-+13%2F39+-+HOLO"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.88",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Greninja",
+      "title": "Greninja - Kalos Starter Set #14",
+      "link": "/Kalos-Starter-Set-Expansion/Greninja-Card-14",
+      "image": "https://den-cards.pokellector.com/150/Greninja.KST.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Greninja.KST.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "14/45",
+      "card_number": "14",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Greninja.KST.14.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1047479.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Greninja+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Greninja+-+14%2F39+-+HOLO"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.44",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-14.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_base_set/greninja__41146__holo_rare/152953"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Clauncher",
+      "title": "Clauncher - Kalos Starter Set #15",
+      "link": "/Kalos-Starter-Set-Expansion/Clauncher-Card-15",
+      "image": "https://den-cards.pokellector.com/150/Clauncher.KST.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Clauncher.KST.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "15/45",
+      "card_number": "15",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Clauncher.KST.15.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047464.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Clauncher+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_forbidden_light/clauncher__25131__common__reverse_holo/601487"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Clauncher+-+15%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Poochyena",
+      "title": "Poochyena - Kalos Starter Set #16",
+      "link": "/Kalos-Starter-Set-Expansion/Poochyena-Card-16",
+      "image": "https://den-cards.pokellector.com/150/Poochyena.KST.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Poochyena.KST.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "16/45",
+      "card_number": "16",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Poochyena.KST.16.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047491.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Poochyena+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poochyena+-+16%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-16.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/max_potion__164145__secret_rare/585223"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Mightyena",
+      "title": "Mightyena - Kalos Starter Set #17",
+      "link": "/Kalos-Starter-Set-Expansion/Mightyena-Card-17",
+      "image": "https://den-cards.pokellector.com/150/Mightyena.KST.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Mightyena.KST.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "17/45",
+      "card_number": "17",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Mightyena.KST.17.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047483.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Mightyena+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-17.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/metang__84145__uncommon/585283"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mightyena+-+17%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "18": {
+      "number": "18",
+      "name": "Inkay",
+      "title": "Inkay - Kalos Starter Set #18",
+      "link": "/Kalos-Starter-Set-Expansion/Inkay-Card-18",
+      "image": "https://den-cards.pokellector.com/150/Inkay.KST.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Inkay.KST.18.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "18/45",
+      "card_number": "18",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Inkay.KST.18.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047482.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Inkay+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_paradox_rift/vanilluxe__045182__uncommon/698620"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Inkay+-+18%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-18.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Pawniard",
+      "title": "Pawniard - Kalos Starter Set #19",
+      "link": "/Kalos-Starter-Set-Expansion/Pawniard-Card-19",
+      "image": "https://den-cards.pokellector.com/150/Pawniard.KST.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Pawniard.KST.19.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "19/45",
+      "card_number": "19",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Pawniard.KST.19.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1047488.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Pawniard+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-19.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-scarlet__violet_base_set/pawniard__132198__common/681175"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pawniard+-+19%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Bisharp",
+      "title": "Bisharp - Kalos Starter Set #20",
+      "link": "/Kalos-Starter-Set-Expansion/Bisharp-Card-20",
+      "image": "https://den-cards.pokellector.com/150/Bisharp.KST.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Bisharp.KST.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "20/45",
+      "card_number": "20",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Bisharp.KST.20.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047456.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Bisharp+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-20.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_kalos_starter_set/bisharp__2039/679978"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bisharp+-+20%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Honedge",
+      "title": "Honedge - Kalos Starter Set #21",
+      "link": "/Kalos-Starter-Set-Expansion/Honedge-Card-21",
+      "image": "https://den-cards.pokellector.com/150/Honedge.KST.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Honedge.KST.21.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "21/45",
+      "card_number": "21",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Honedge.KST.21.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p1047481.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Honedge+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-21.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_unified_minds/honedge__92236__common/617676"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Honedge+-+21%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "22": {
+      "number": "22",
+      "name": "Snubbull",
+      "title": "Snubbull - Kalos Starter Set #22",
+      "link": "/Kalos-Starter-Set-Expansion/Snubbull-Card-22",
+      "image": "https://den-cards.pokellector.com/150/Snubbull.KST.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Snubbull.KST.22.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "22/45",
+      "card_number": "22",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Snubbull.KST.22.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1047498.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Snubbull+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-22.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$29.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-skyridge/snubbull__101144__common__reverse_holo/67089"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snubbull+-+22%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "23": {
+      "number": "23",
+      "name": "Granbull",
+      "title": "Granbull - Kalos Starter Set #23",
+      "link": "/Kalos-Starter-Set-Expansion/Granbull-Card-23",
+      "image": "https://den-cards.pokellector.com/150/Granbull.KST.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Granbull.KST.23.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "23/45",
+      "card_number": "23",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Granbull.KST.23.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047478.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Granbull+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-heartgold_soulsilver/granbull__22123__rare__reverse_holo/64097"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Granbull+-+23%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-23.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "24": {
+      "number": "24",
+      "name": "Swirlix",
+      "title": "Swirlix - Kalos Starter Set #24",
+      "link": "/Kalos-Starter-Set-Expansion/Swirlix-Card-24",
+      "image": "https://den-cards.pokellector.com/150/Swirlix.KST.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Swirlix.KST.24.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "24/45",
+      "card_number": "24",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Swirlix.KST.24.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047499.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Swirlix+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_phantom_forces/swirlix__68119__common/157073"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swirlix+-+24%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-24.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "25": {
+      "number": "25",
+      "name": "Farfetch'd",
+      "title": "Farfetch'd - Kalos Starter Set #25",
+      "link": "/Kalos-Starter-Set-Expansion/Farfetchd-Card-25",
+      "image": "https://den-cards.pokellector.com/150/Farfetchd.KST.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Farfetchd.KST.25.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "25/45",
+      "card_number": "25",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Farfetchd.KST.25.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047468.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Farfetch%27d+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_hidden_fates/farfetchd__4568__uncommon__reverse_holo/620068"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Farfetch%27d+-+25%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-25.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "26": {
+      "number": "26",
+      "name": "Snorlax",
+      "title": "Snorlax - Kalos Starter Set #26",
+      "link": "/Kalos-Starter-Set-Expansion/Snorlax-Card-26",
+      "image": "https://den-cards.pokellector.com/150/Snorlax.KST.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Snorlax.KST.26.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "26/45",
+      "card_number": "26",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Snorlax.KST.26.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.19",
+          "link": "http://www.trollandtoad.com/p1047497.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Snorlax+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_fusion_strike/snorlax__206264__common/654316"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snorlax+-+26%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-26.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "27": {
+      "number": "27",
+      "name": "Miltank",
+      "title": "Miltank - Kalos Starter Set #27",
+      "link": "/Kalos-Starter-Set-Expansion/Miltank-Card-27",
+      "image": "https://den-cards.pokellector.com/150/Miltank.KST.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Miltank.KST.27.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "27/45",
+      "card_number": "27",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Miltank.KST.27.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047484.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.32",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Miltank+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_go/meltan__045078__common/664245"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Miltank+-+27%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-27.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "28": {
+      "number": "28",
+      "name": "Skitty",
+      "title": "Skitty - Kalos Starter Set #28",
+      "link": "/Kalos-Starter-Set-Expansion/Skitty-Card-28",
+      "image": "https://den-cards.pokellector.com/150/Skitty.KST.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Skitty.KST.28.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "28/45",
+      "card_number": "28",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Skitty.KST.28.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1047495.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Skitty+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/max_potion__128145__uncommon/585233"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Skitty+-+28%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-28.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "29": {
+      "number": "29",
+      "name": "Bidoof",
+      "title": "Bidoof - Kalos Starter Set #29",
+      "link": "/Kalos-Starter-Set-Expansion/Bidoof-Card-29",
+      "image": "https://den-cards.pokellector.com/150/Bidoof.KST.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Bidoof.KST.29.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "29/45",
+      "card_number": "29",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Bidoof.KST.29.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1047455.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Bidoof+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.26",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/multi_switch__129145__uncommon/585383"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bidoof+-+29%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-29.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Bunnelby",
+      "title": "Bunnelby - Kalos Starter Set #30",
+      "link": "/Kalos-Starter-Set-Expansion/Bunnelby-Card-30",
+      "image": "https://den-cards.pokellector.com/150/Bunnelby.KST.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Bunnelby.KST.30.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "30/45",
+      "card_number": "30",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Bunnelby.KST.30.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047459.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Bunnelby+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-xy_phantom_forces/bunnelby__87119__common/156193"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bunnelby+-+30%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-30.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "31": {
+      "number": "31",
+      "name": "Fletchling",
+      "title": "Fletchling - Kalos Starter Set #31",
+      "link": "/Kalos-Starter-Set-Expansion/Fletchling-Card-31",
+      "image": "https://den-cards.pokellector.com/150/Fletchling.KST.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Fletchling.KST.31.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "31/45",
+      "card_number": "31",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Fletchling.KST.31.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047471.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Fletchling+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fletchling+-+31%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-31.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/fletchling__109145__common/584543"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "32": {
+      "number": "32",
+      "name": "Furfrou",
+      "title": "Furfrou - Kalos Starter Set #32",
+      "link": "/Kalos-Starter-Set-Expansion/Furfrou-Card-32",
+      "image": "https://den-cards.pokellector.com/150/Furfrou.KST.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Furfrou.KST.32.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "32/45",
+      "card_number": "32",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Furfrou.KST.32.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1047476.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Furfrou+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-gym_challenge/fervor__124132__common__unlimited_edition/431893"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Furfrou+-+32%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-32.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "33": {
+      "number": "33",
+      "name": "Furfrou",
+      "title": "Furfrou - Kalos Starter Set #33",
+      "link": "/Kalos-Starter-Set-Expansion/Furfrou-Card-33",
+      "image": "https://den-cards.pokellector.com/150/Furfrou.KST.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Furfrou.KST.33.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "33/45",
+      "card_number": "33",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Furfrou.KST.33.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047477.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Furfrou+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/vanillite__33145__common/586293"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Furfrou+-+33%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-33.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "34": {
+      "number": "34",
+      "name": "Crushing Hammer",
+      "title": "Crushing Hammer - Kalos Starter Set #34",
+      "link": "/Kalos-Starter-Set-Expansion/Crushing-Hammer-Card-34",
+      "image": "https://den-cards.pokellector.com/150/Crushing-Hammer.KST.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Crushing-Hammer.KST.34.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "34/45",
+      "card_number": "34",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Crushing-Hammer.KST.34.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047465.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Crushing+Hammer+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-34.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/crushing_hammer_3439_mirror_reverse_holo_promo__2014_pokemon_league/679042"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Crushing+Hammer+-+34%2F39"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "League Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Poke Ball",
+      "title": "Poke Ball - Kalos Starter Set #35",
+      "link": "/Kalos-Starter-Set-Expansion/Poke-Ball-Card-35",
+      "image": "https://den-cards.pokellector.com/150/Poke-Ball.KST.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Poke-Ball.KST.35.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "35/45",
+      "card_number": "35",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Poke-Ball.KST.35.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p1047489.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Poke+Ball+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.35",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/vanilluxe__35145__rare__reverse_holo/586323"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Poke+Ball+-+35%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-35.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "36": {
+      "number": "36",
+      "name": "Pokemon Catcher",
+      "title": "Pokemon Catcher - Kalos Starter Set #36",
+      "link": "/Kalos-Starter-Set-Expansion/Pokemon-Catcher-Card-36",
+      "image": "https://den-cards.pokellector.com/150/Pokemon-Catcher.KST.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Pokemon-Catcher.KST.36.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "36/45",
+      "card_number": "36",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Pokemon-Catcher.KST.36.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1047490.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.36",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Pokemon+Catcher+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/pokemon_catcher_3639_reverse_holo_promo__2015_pokemon_league/186233"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pokemon+Catcher+-+36%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-36.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "League Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Potion",
+      "title": "Potion - Kalos Starter Set #37",
+      "link": "/Kalos-Starter-Set-Expansion/Potion-Card-37",
+      "image": "https://den-cards.pokellector.com/150/Potion.KST.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Potion.KST.37.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "37/45",
+      "card_number": "37",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Potion.KST.37.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1047492.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Potion+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-37.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/yugioh_singles-yugioh_sets-metal_raiders/paralyzing_potion__mrd137__common__1st_edition/77384"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Potion+-+37%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "38": {
+      "number": "38",
+      "name": "Switch",
+      "title": "Switch - Kalos Starter Set #38",
+      "link": "/Kalos-Starter-Set-Expansion/Switch-Card-38",
+      "image": "https://den-cards.pokellector.com/150/Switch.KST.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Switch.KST.38.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "38/45",
+      "card_number": "38",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Switch.KST.38.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1047500.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Switch+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Switch+-+38%2F39"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-38.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.26",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/multi_switch__129145__uncommon/585383"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "39": {
+      "number": "39",
+      "name": "Tierno",
+      "title": "Tierno - Kalos Starter Set #39",
+      "link": "/Kalos-Starter-Set-Expansion/Tierno-Card-39",
+      "image": "https://den-cards.pokellector.com/150/Tierno.KST.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Tierno.KST.39.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "39/45",
+      "card_number": "39",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Tierno.KST.39.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1047501.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kalos+Starter+Set+Tierno+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-39.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/mareanie__39145__uncommon/585203"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Tierno+-+39%2F39"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "40": {
+      "number": "40",
+      "name": "Grass Energy",
+      "title": "Grass Energy - Kalos Starter Set #40",
+      "link": "/Kalos-Starter-Set-Expansion/Grass-Energy-Card-40",
+      "image": "https://den-cards.pokellector.com/150/Grass-Energy.KST.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Grass-Energy.KST.40.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "40/45",
+      "card_number": "40",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Grass-Energy.KST.40.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-40.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$24.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/grass_energy__167145__secret_rare/584763"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "41": {
+      "number": "41",
+      "name": "Fire Energy",
+      "title": "Fire Energy - Kalos Starter Set #41",
+      "link": "/Kalos-Starter-Set-Expansion/Fire-Energy-Card-41",
+      "image": "https://den-cards.pokellector.com/150/Fire-Energy.KST.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Fire-Energy.KST.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "41/45",
+      "card_number": "41",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Fire-Energy.KST.41.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$8.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-expedition/energy_restore__141165__uncommon__reverse_holo/62476"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-41.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Water Energy",
+      "title": "Water Energy - Kalos Starter Set #42",
+      "link": "/Kalos-Starter-Set-Expansion/Water-Energy-Card-42",
+      "image": "https://den-cards.pokellector.com/150/Water-Energy.KST.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Water-Energy.KST.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "42/45",
+      "card_number": "42",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Water-Energy.KST.42.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.20",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_base_set/water_energy/624568"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-42.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "43": {
+      "number": "43",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - Kalos Starter Set #43",
+      "link": "/Kalos-Starter-Set-Expansion/Darkness-Energy-Card-43",
+      "image": "https://den-cards.pokellector.com/150/Darkness-Energy.KST.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Darkness-Energy.KST.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "43/45",
+      "card_number": "43",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Darkness-Energy.KST.43.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$39.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_forbidden_light/energy_recycler__143131__secret_rare/601469"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-43.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "44": {
+      "number": "44",
+      "name": "Steel Energy",
+      "title": "Steel Energy - Kalos Starter Set #44",
+      "link": "/Kalos-Starter-Set-Expansion/Steel-Energy-Card-44",
+      "image": "https://den-cards.pokellector.com/150/Steel-Energy.KST.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Steel-Energy.KST.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "44/45",
+      "card_number": "44",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Steel-Energy.KST.44.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$4.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-skyridge/retro_energy__144144__uncommon/66924"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-44.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "45": {
+      "number": "45",
+      "name": "Fairy Energy",
+      "title": "Fairy Energy - Kalos Starter Set #45",
+      "link": "/Kalos-Starter-Set-Expansion/Fairy-Energy-Card-45",
+      "image": "https://den-cards.pokellector.com/150/Fairy-Energy.KST.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/150/Fairy-Energy.KST.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Kalos Starter Set",
+      "set_link": "/Kalos-Starter-Set-Expansion/",
+      "position": "45/45",
+      "card_number": "45",
+      "total_cards": "45",
+      "image_full": "https://den-cards.pokellector.com/150/Fairy-Energy.KST.41.png",
+      "prices": [
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1047454.html"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/pok-kalos-xy-foil-45.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sun__moon_guardians_rising/energy_recycler__123145__uncommon__reverse_holo/584443"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 07:41:45"
+}

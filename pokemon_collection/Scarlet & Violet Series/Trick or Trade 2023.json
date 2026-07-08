@@ -1,0 +1,1458 @@
+{
+  "title": "Trick or Trade 2023 Set",
+  "link": "/Trick-or-Trade-2023-Collection/",
+  "logo": "https://den-media.pokellector.com/logos/Trick-or-Trade-2023-collection.3.png",
+  "symbol": null,
+  "scraped": true,
+  "cards": {
+    "16": {
+      "number": "16",
+      "name": "Phantump",
+      "title": "Phantump - Lost Origin #16",
+      "link": "/Lost-Origin-Expansion/Phantump-Card-16",
+      "image": "https://den-cards.pokellector.com/350/Phantump.SWSH10.16.49312.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Phantump.SWSH10.16.49312.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "16/196",
+      "card_number": "16",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Phantump.SWSH10.16.44677.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fphantump"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1758604.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Phantump+Lost+Origin+16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Phantump-LOR016?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Phantump.SWSH10.16.49312.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Trevenant",
+      "title": "Trevenant - Lost Origin #17",
+      "link": "/Lost-Origin-Expansion/Trevenant-Card-17",
+      "image": "https://den-cards.pokellector.com/350/Trevenant.SWSH10.17.49313.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Trevenant.SWSH10.17.49313.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "17/196",
+      "card_number": "17",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Trevenant.SWSH10.17.44678.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Ftrevenant"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1758605.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Trevenant+Lost+Origin+17+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.35",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Trevenant-LOR017?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Trevenant.SWSH10.17.49313.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Dhelmise",
+      "title": "Dhelmise - Vivid Voltage #19",
+      "link": "/Vivid-Voltage-Expansion/Dhelmise-Card-19",
+      "image": "https://den-cards.pokellector.com/299/Dhelmise.SWSH4.19.49314.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/299/Dhelmise.SWSH4.19.49314.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Vivid Voltage",
+      "set_link": "/Vivid-Voltage-Expansion/",
+      "position": "19/185",
+      "card_number": "19",
+      "total_cards": "185",
+      "image_full": "https://den-cards.pokellector.com/299/Dhelmise.SWSH0.19.35958.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh04-vivid-voltage%2Fdhelmise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1680654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dhelmise+Vivid+Voltage+19+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Dhelmise-VIV19?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/299/Dhelmise.SWSH4.19.36184.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/299/Dhelmise.SWSH4.19.49314.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Houndoom",
+      "title": "Houndoom - Scarlet & Violet #34",
+      "link": "/Scarlet-Violet-English-Expansion/Houndoom-Card-34",
+      "image": "https://den-cards.pokellector.com/363/Houndoom.SV1EN.34.49315.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/363/Houndoom.SV1EN.34.49315.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet",
+      "set_link": "/Scarlet-Violet-English-Expansion/",
+      "position": "34/198",
+      "card_number": "34",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/363/Houndoom.SV1EN.34.47104.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F487874%2Fpokemon-sv01-scarlet-and-violet-base-set-houndoom-034-198"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1775633.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndoom+Scarlet+%26+Violet+34+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Houndoom-SV1en034?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/363/Houndoom.SV1EN.34.49315.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Litwick",
+      "title": "Litwick - Lost Origin #24",
+      "link": "/Lost-Origin-Expansion/Litwick-Card-24",
+      "image": "https://den-cards.pokellector.com/350/Litwick.SWSH10.24.49316.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Litwick.SWSH10.24.49316.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "24/196",
+      "card_number": "24",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Litwick.SWSH10.24.44685.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Flitwick"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1758612.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Litwick+Lost+Origin+24+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Litwick-LOR024?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Litwick.SWSH10.24.49316.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Lampent",
+      "title": "Lampent - Lost Origin #25",
+      "link": "/Lost-Origin-Expansion/Lampent-Card-25",
+      "image": "https://den-cards.pokellector.com/350/Lampent.SWSH10.25.49317.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Lampent.SWSH10.25.49317.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "25/196",
+      "card_number": "25",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Lampent.SWSH10.25.44686.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Flampent"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1758613.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lampent+Lost+Origin+25+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Lampent-LOR025?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Lampent.SWSH10.25.49317.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Chandelure",
+      "title": "Chandelure - Lost Origin #26",
+      "link": "/Lost-Origin-Expansion/Chandelure-Card-26",
+      "image": "https://den-cards.pokellector.com/350/Chandelure.SWSH10.26.49318.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Chandelure.SWSH10.26.49318.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "26/196",
+      "card_number": "26",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Chandelure.SWSH10.26.44687.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fchandelure"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1758614.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chandelure+Lost+Origin+26+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.40",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Chandelure-V1-LOR026?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Chandelure.SWSH10.26.49318.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Pikachu",
+      "title": "Pikachu - Paldea Evolved #62",
+      "link": "/Paldea-Evolved-Expansion/Pikachu-Card-62",
+      "image": "https://den-cards.pokellector.com/367/Pikachu.PAL.62.49319.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Pikachu.PAL.62.49319.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "62/193",
+      "card_number": "62",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Pikachu.PAL.62.47863.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497473%2Fpokemon-sv02-paldea-evolved-pikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1780930.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Paldea+Evolved+62+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/367/Pikachu.PAL.62.49319.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Lycanroc",
+      "title": "Lycanroc - Vivid Voltage #95",
+      "link": "/Vivid-Voltage-Expansion/Lycanroc-Card-95",
+      "image": "https://den-cards.pokellector.com/299/Lycanroc.SWSH4.95.49320.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/299/Lycanroc.SWSH4.95.49320.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Vivid Voltage",
+      "set_link": "/Vivid-Voltage-Expansion/",
+      "position": "95/185",
+      "card_number": "95",
+      "total_cards": "185",
+      "image_full": "https://den-cards.pokellector.com/299/Lycanroc.SWSH0.95.36034.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh04-vivid-voltage%2Flycanroc"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1680730.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lycanroc+Vivid+Voltage+95+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Lycanroc-VIV95?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/299/Lycanroc.SWSH4.95.49320.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "102": {
+      "number": "102",
+      "name": "Galarian Runerigus",
+      "title": "Galarian Runerigus - Rebel Clash #102",
+      "link": "/Rebel-Clash-Expansion/Galarian-Runerigus-Card-102",
+      "image": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.49321.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.49321.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "102/192",
+      "card_number": "102",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.34511.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Fgalarian-runerigus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1664105.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Galarian+Runerigus+Rebel+Clash+102&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Galarian-Runerigus-Spreading-Spite-Mad-Hammer?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.49321.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Gastly",
+      "title": "Gastly - Lost Origin #64",
+      "link": "/Lost-Origin-Expansion/Gastly-Card-64",
+      "image": "https://den-cards.pokellector.com/350/Gastly.SWSH10.64.49322.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Gastly.SWSH10.64.49322.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "64/196",
+      "card_number": "64",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Gastly.SWSH10.64.44724.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fgastly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p1758652.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gastly+Lost+Origin+64+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Gastly-LOR064?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Gastly.SWSH10.64.49322.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Haunter",
+      "title": "Haunter - Lost Origin #65",
+      "link": "/Lost-Origin-Expansion/Haunter-Card-65",
+      "image": "https://den-cards.pokellector.com/350/Haunter.SWSH10.65.49323.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Haunter.SWSH10.65.49323.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "65/196",
+      "card_number": "65",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Haunter.SWSH10.65.44725.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fhaunter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1758653.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haunter+Lost+Origin+65+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Haunter-LOR065?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Haunter.SWSH10.65.49323.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Gengar",
+      "title": "Gengar - Lost Origin #66",
+      "link": "/Lost-Origin-Expansion/Gengar-Card-66",
+      "image": "https://den-cards.pokellector.com/350/Gengar.SWSH10.66.49324.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Gengar.SWSH10.66.49324.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "66/196",
+      "card_number": "66",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Gengar.SWSH10.66.44726.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fgengar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p1758654.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gengar+Lost+Origin+66+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Gengar-V1-LOR066?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Gengar.SWSH10.66.49324.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Duskull",
+      "title": "Duskull - Vivid Voltage #69",
+      "link": "/Vivid-Voltage-Expansion/Duskull-Card-69",
+      "image": "https://den-cards.pokellector.com/299/Duskull.SWSH4.69.49325.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/299/Duskull.SWSH4.69.49325.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Vivid Voltage",
+      "set_link": "/Vivid-Voltage-Expansion/",
+      "position": "69/185",
+      "card_number": "69",
+      "total_cards": "185",
+      "image_full": "https://den-cards.pokellector.com/299/Duskull.SWSH0.69.36008.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh04-vivid-voltage%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1680704.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duskull+Vivid+Voltage+69+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Duskull-VIV69?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/299/Duskull.SWSH4.69.49325.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Dusclops",
+      "title": "Dusclops - Vivid Voltage #70",
+      "link": "/Vivid-Voltage-Expansion/Dusclops-Card-70",
+      "image": "https://den-cards.pokellector.com/299/Dusclops.SWSH4.70.49326.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/299/Dusclops.SWSH4.70.49326.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Vivid Voltage",
+      "set_link": "/Vivid-Voltage-Expansion/",
+      "position": "70/185",
+      "card_number": "70",
+      "total_cards": "185",
+      "image_full": "https://den-cards.pokellector.com/299/Dusclops.SWSH0.70.36009.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh04-vivid-voltage%2Fdusclops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1680705.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusclops+Vivid+Voltage+70+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Dusclops-VIV70?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/299/Dusclops.SWSH4.70.49326.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Vivid Voltage #71",
+      "link": "/Vivid-Voltage-Expansion/Dusknoir-Card-71",
+      "image": "https://den-cards.pokellector.com/299/Dusknoir.SWSH4.71.49327.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/299/Dusknoir.SWSH4.71.49327.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Vivid Voltage",
+      "set_link": "/Vivid-Voltage-Expansion/",
+      "position": "71/185",
+      "card_number": "71",
+      "total_cards": "185",
+      "image_full": "https://den-cards.pokellector.com/299/Dusknoir.SWSH0.71.36010.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh04-vivid-voltage%2Fdusknoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1680706.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+Vivid+Voltage+71+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Dusknoir-VIV71?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/299/Dusknoir.SWSH4.71.49327.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Shuppet",
+      "title": "Shuppet - Scarlet & Violet #87",
+      "link": "/Scarlet-Violet-English-Expansion/Shuppet-Card-87",
+      "image": "https://den-cards.pokellector.com/363/Shuppet.SV1EN.87.49328.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/363/Shuppet.SV1EN.87.49328.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet",
+      "set_link": "/Scarlet-Violet-English-Expansion/",
+      "position": "87/198",
+      "card_number": "87",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/363/Shuppet.SV1EN.87.47149.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F487952%2Fpokemon-sv01-scarlet-and-violet-base-set-shuppet-087-198"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1775686.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shuppet+Scarlet+%26+Violet+87+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Shuppet-SVI087?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/363/Shuppet.SV1EN.87.49328.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Banette",
+      "title": "Banette - Lost Origin #73",
+      "link": "/Lost-Origin-Expansion/Banette-Card-73",
+      "image": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.49329.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.49329.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "73/196",
+      "card_number": "73",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.44733.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fbanette"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1758661.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Banette+Lost+Origin+73+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Banette-V1-LOR073?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.45015.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.49329.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Mismagius",
+      "title": "Mismagius - Paldea Evolved #88",
+      "link": "/Paldea-Evolved-Expansion/Mismagius-Card-88",
+      "image": "https://den-cards.pokellector.com/367/Mismagius.PAL.88.49330.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Mismagius.PAL.88.49330.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "88/193",
+      "card_number": "88",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Mismagius.PAL.88.47886.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497502%2Fpokemon-sv02-paldea-evolved-mismagius-088-193"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1780956.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mismagius+Paldea+Evolved+88+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/367/Mismagius.PAL.88.49330.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Sinistea",
+      "title": "Sinistea - Sword & Shield #89",
+      "link": "/English-Sword-Shield-Expansion/Sinistea-Card-89",
+      "image": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.49336.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.49336.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Sword & Shield",
+      "set_link": "/English-Sword-Shield-Expansion/",
+      "position": "89/202",
+      "card_number": "89",
+      "total_cards": "202",
+      "image_full": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.31503.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh01-sword-and-shield-base-set%2Fsinistea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p1645109.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sinistea+Sword+%26+Shield+89&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sinistea-Teatime?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.49336.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Polteageist",
+      "title": "Polteageist - Sword & Shield #90",
+      "link": "/English-Sword-Shield-Expansion/Polteageist-Card-90",
+      "image": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.49337.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.49337.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Sword & Shield",
+      "set_link": "/English-Sword-Shield-Expansion/",
+      "position": "90/202",
+      "card_number": "90",
+      "total_cards": "202",
+      "image_full": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.31504.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh01-sword-and-shield-base-set%2Fpolteageist"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1645110.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Polteageist+Sword+%26+Shield+90&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Polteageist-Teatime-Poltergeist?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.49337.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "97": {
+      "number": "97",
+      "name": "Mimikyu",
+      "title": "Mimikyu - Paldea Evolved #97",
+      "link": "/Paldea-Evolved-Expansion/Mimikyu-Card-97",
+      "image": "https://den-cards.pokellector.com/367/Mimikyu.PAL.97.49333.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Mimikyu.PAL.97.49333.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "97/193",
+      "card_number": "97",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Mimikyu.PAL.97.47895.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497512%2Fpokemon-sv02-paldea-evolved-mimikyu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1780965.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+Paldea+Evolved+97+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/367/Mimikyu.PAL.97.49333.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Marshadow",
+      "title": "Marshadow - Evolving Skies #80",
+      "link": "/Evolving-Skies-Expansion/Marshadow-Card-80",
+      "image": "https://den-cards.pokellector.com/325/Marshadow.SWSH7.80.49334.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Marshadow.SWSH7.80.49334.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "80/203",
+      "card_number": "80",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Marshadow.SWSH7.80.39948.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fmarshadow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1728568.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Marshadow+Evolving+Skies+80+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.60",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Marshadow?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/325/Marshadow.SWSH7.80.49334.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Spectrier",
+      "title": "Spectrier - Lost Origin #81",
+      "link": "/Lost-Origin-Expansion/Spectrier-Card-81",
+      "image": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.49335.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.49335.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "81/196",
+      "card_number": "81",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.44741.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fspectrier"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1758669.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Spectrier+Lost+Origin+81+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Spectrier-LOR081?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.45023.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.49335.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "104": {
+      "number": "104",
+      "name": "Greavard",
+      "title": "Greavard - Scarlet & Violet #104",
+      "link": "/Scarlet-Violet-English-Expansion/Greavard-Card-104",
+      "image": "https://den-cards.pokellector.com/363/Greavard.SV1EN.104.49338.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/363/Greavard.SV1EN.104.49338.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Scarlet & Violet",
+      "set_link": "/Scarlet-Violet-English-Expansion/",
+      "position": "104/198",
+      "card_number": "104",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/363/Greavard.SV1EN.104.47165.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F487980%2Fpokemon-sv01-scarlet-and-violet-base-set-greavard-104-198"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1775703.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Greavard+Scarlet+%26+Violet+104+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Greavard-V1-SV1en104?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/363/Greavard.SV1EN.104.49338.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "106": {
+      "number": "106",
+      "name": "Houndstone",
+      "title": "Houndstone - Scarlet & Violet #106",
+      "link": "/Scarlet-Violet-English-Expansion/Houndstone-Card-106",
+      "image": "https://den-cards.pokellector.com/363/Houndstone.SV1EN.106.49339.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/363/Houndstone.SV1EN.106.49339.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Scarlet & Violet",
+      "set_link": "/Scarlet-Violet-English-Expansion/",
+      "position": "106/198",
+      "card_number": "106",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/363/Houndstone.SV1EN.106.47166.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F487983%2Fpokemon-sv01-scarlet-and-violet-base-set-houndstone-106-198"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1775705.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndstone+Scarlet+%26+Violet+106+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Houndstone-SV1en106?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/363/Houndstone.SV1EN.106.49339.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "103": {
+      "number": "103",
+      "name": "Zubat",
+      "title": "Zubat - Silver Tempest #103",
+      "link": "/Silver-Tempest-Expansion/Zubat-Card-103",
+      "image": "https://den-cards.pokellector.com/354/Zubat.SWSH12.103.49340.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/354/Zubat.SWSH12.103.49340.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Silver Tempest",
+      "set_link": "/Silver-Tempest-Expansion/",
+      "position": "103/195",
+      "card_number": "103",
+      "total_cards": "195",
+      "image_full": "https://den-cards.pokellector.com/354/Zubat.SWSH12.103.45469.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh12-silver-tempest%2Fzubat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1763434.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zubat+Silver+Tempest+103+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Zubat-SIT103?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/354/Zubat.SWSH12.103.49340.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "131": {
+      "number": "131",
+      "name": "Murkrow",
+      "title": "Murkrow - Paldea Evolved #131",
+      "link": "/Paldea-Evolved-Expansion/Murkrow-Card-131",
+      "image": "https://den-cards.pokellector.com/367/Murkrow.PAL.131.49341.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Murkrow.PAL.131.49341.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "131/193",
+      "card_number": "131",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Murkrow.PAL.131.47926.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497592%2Fpokemon-sv02-paldea-evolved-murkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1780999.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Murkrow+Paldea+Evolved+131+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2023",
+          "image": "https://den-cards.pokellector.com/367/Murkrow.PAL.131.49341.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-27 22:45:58"
+}

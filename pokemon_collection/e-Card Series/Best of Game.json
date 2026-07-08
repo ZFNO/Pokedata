@@ -1,0 +1,252 @@
+{
+  "title": "Best of Game Set",
+  "link": "/Best-of-Game-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Best-of-Game.logo.196.png",
+  "symbol": "https://den-media.pokellector.com/logos/Best-of-Game.symbol.196.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Electabuzz",
+      "title": "Electabuzz - Best of Game #1",
+      "link": "/Best-of-Game-Expansion/Electabuzz-Card-1",
+      "image": "https://den-cards.pokellector.com/196/Electabuzz.BEST.1.12946.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Electabuzz.BEST.1.12946.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "1/9",
+      "card_number": "1",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Electabuzz.BEST.1.12946.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Hitmonchan",
+      "title": "Hitmonchan - Best of Game #2",
+      "link": "/Best-of-Game-Expansion/Hitmonchan-Card-2",
+      "image": "https://den-cards.pokellector.com/196/Hitmonchan.BEST.2.12947.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Hitmonchan.BEST.2.12947.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "2/9",
+      "card_number": "2",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Hitmonchan.BEST.2.12947.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://den-cards.pokellector.com/196/Hitmonchan.BEST.2.13947.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Professor Elm",
+      "title": "Professor Elm - Best of Game #3",
+      "link": "/Best-of-Game-Expansion/Professor-Elm-Card-3",
+      "image": "https://den-cards.pokellector.com/196/Professor-Elm.BEST.3.12948.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Professor-Elm.BEST.3.12948.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "3/9",
+      "card_number": "3",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Professor-Elm.BEST.3.12948.png",
+      "prices": [],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Rocket's Scizor",
+      "title": "Rocket's Scizor - Best of Game #4",
+      "link": "/Best-of-Game-Expansion/Rockets-Scizor-Card-4",
+      "image": "https://den-cards.pokellector.com/196/Rockets-Scizor.BEST.4.12949.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Rockets-Scizor.BEST.4.12949.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "4/9",
+      "card_number": "4",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Rockets-Scizor.BEST.4.12949.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$22.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbest-of-promos%2Frockets-scizor"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://den-cards.pokellector.com/196/Rockets-Scizor.BEST.4.13948.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Rocket's Sneasel",
+      "title": "Rocket's Sneasel - Best of Game #5",
+      "link": "/Best-of-Game-Expansion/Rockets-Sneasel-Card-5",
+      "image": "https://den-cards.pokellector.com/196/Rockets-Sneasel.BEST.5.12950.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Rockets-Sneasel.BEST.5.12950.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "5/9",
+      "card_number": "5",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Rockets-Sneasel.BEST.5.12950.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbest-of-promos%2Frockets-sneasel"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Dark Ivysaur",
+      "title": "Dark Ivysaur - Best of Game #6",
+      "link": "/Best-of-Game-Expansion/Dark-Ivysaur-Card-6",
+      "image": "https://den-cards.pokellector.com/196/Dark-Ivysaur.BEST.6.12951.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Dark-Ivysaur.BEST.6.12951.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "6/9",
+      "card_number": "6",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Dark-Ivysaur.BEST.6.12951.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$33.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbest-of-promos%2Fdark-ivysaur"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://den-cards.pokellector.com/196/Dark-Ivysaur.BEST.6.13950.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Dark Venusaur",
+      "title": "Dark Venusaur - Best of Game #7",
+      "link": "/Best-of-Game-Expansion/Dark-Venusaur-Card-7",
+      "image": "https://den-cards.pokellector.com/196/Dark-Venusaur.BEST.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Dark-Venusaur.BEST.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "7/9",
+      "card_number": "7",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Dark-Venusaur.BEST.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18,351.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fbest-of-promos%2Fdark-venusaur"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://den-cards.pokellector.com/196/Dark-Venusaur.BEST.7.13951.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Rocket's Mewtwo",
+      "title": "Rocket's Mewtwo - Best of Game #8",
+      "link": "/Best-of-Game-Expansion/Rockets-Mewtwo-Card-8",
+      "image": "https://den-cards.pokellector.com/196/Rockets-Mewtwo.BEST.8.12953.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Rockets-Mewtwo.BEST.8.12953.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "8/9",
+      "card_number": "8",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Rockets-Mewtwo.BEST.8.12953.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://den-cards.pokellector.com/196/Rockets-Mewtwo.BEST.8.13952.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Rocket's Hitmonchan",
+      "title": "Rocket's Hitmonchan - Best of Game #9",
+      "link": "/Best-of-Game-Expansion/Rockets-Hitmonchan-Card-9",
+      "image": "https://den-cards.pokellector.com/196/Rockets-Hitmonchan.BEST.9.12954.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/196/Rockets-Hitmonchan.BEST.9.12954.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Best of Game",
+      "set_link": "/Best-of-Game-Expansion/",
+      "position": "9/9",
+      "card_number": "9",
+      "total_cards": "9",
+      "image_full": "https://den-cards.pokellector.com/196/Rockets-Hitmonchan.BEST.9.12954.png",
+      "prices": [],
+      "alternate_versions": [
+        {
+          "name": "Winner",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 13:33:39"
+}

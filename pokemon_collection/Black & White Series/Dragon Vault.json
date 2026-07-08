@@ -1,0 +1,1053 @@
+{
+  "title": "Dragon Vault Set",
+  "link": "/Dragon-Vault-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Dragon-Vault.logo.8.png",
+  "symbol": "https://den-media.pokellector.com/logos/Dragon-Vault.symbol.8.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Dratini",
+      "title": "Dratini - Dragon Vault #1",
+      "link": "/Dragon-Vault-Expansion/Dratini-Card-1",
+      "image": "https://den-cards.pokellector.com/8/Dratini.DRV.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Dratini.DRV.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "1/20",
+      "card_number": "1",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Dratini.DRV.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.44",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdratini"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p819211.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dratini+Dragon+Vault+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/dratini__120/89638"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dratini+-+1%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-01.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Dratini",
+      "title": "Dratini - Dragon Vault #2",
+      "link": "/Dragon-Vault-Expansion/Dratini-Card-2",
+      "image": "https://den-cards.pokellector.com/8/Dratini.DRV.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Dratini.DRV.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "2/20",
+      "card_number": "2",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Dratini.DRV.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdratini"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.89",
+          "link": "http://www.trollandtoad.com/p819212.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dratini+Dragon+Vault+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/dratini__120/89638"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dratini+-+1%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-02.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Dragonair",
+      "title": "Dragonair - Dragon Vault #3",
+      "link": "/Dragon-Vault-Expansion/Dragonair-Card-3",
+      "image": "https://den-cards.pokellector.com/8/Dragonair.DRV.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Dragonair.DRV.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "3/20",
+      "card_number": "3",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Dragonair.DRV.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdragonair"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p819208.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dragonair+Dragon+Vault+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-03.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/accessories-sleeves_toploaders__magnetic_holders/dragon_shield_matte_art_standardsize_sleeves__mothers_day_dragon_2020__100ct/621129"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonair+-+3%2F20"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Dragonair",
+      "title": "Dragonair - Dragon Vault #4",
+      "link": "/Dragon-Vault-Expansion/Dragonair-Card-4",
+      "image": "https://den-cards.pokellector.com/8/Dragonair.DRV.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Dragonair.DRV.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "4/20",
+      "card_number": "4",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Dragonair.DRV.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdragonair"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.09",
+          "link": "http://www.trollandtoad.com/p819209.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dragonair+Dragon+Vault+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-04.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/accessories-sleeves_toploaders__magnetic_holders/dragon_shield_matte_art_standardsize_sleeves__mothers_day_dragon_2020__100ct/621129"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonair+-+4%2F20"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Dragonite",
+      "title": "Dragonite - Dragon Vault #5",
+      "link": "/Dragon-Vault-Expansion/Dragonite-Card-5",
+      "image": "https://den-cards.pokellector.com/8/Dragonite.DRV.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Dragonite.DRV.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "5/20",
+      "card_number": "5",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Dragonite.DRV.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdragonite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.09",
+          "link": "http://www.trollandtoad.com/p819210.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dragonite+Dragon+Vault+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/accessories-sleeves_toploaders__magnetic_holders/dragon_shield_matte_art_standardsize_sleeves__mothers_day_dragon_2020__100ct/621129"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dragonite+-+5%2F20+-+Cosmos+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pkdv-05.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Bagon",
+      "title": "Bagon - Dragon Vault #6",
+      "link": "/Dragon-Vault-Expansion/Bagon-Card-6",
+      "image": "https://den-cards.pokellector.com/8/Bagon.DRV.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Bagon.DRV.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "6/20",
+      "card_number": "6",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Bagon.DRV.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fbagon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p819207.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bagon+Dragon+Vault+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/bagon__620/89643"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bagon+-+6%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-06.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Shelgon",
+      "title": "Shelgon - Dragon Vault #7",
+      "link": "/Dragon-Vault-Expansion/Shelgon-Card-7",
+      "image": "https://den-cards.pokellector.com/8/Shelgon.DRV.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Shelgon.DRV.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "7/20",
+      "card_number": "7",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Shelgon.DRV.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.77",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fshelgon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p819224.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$52.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Shelgon+Dragon+Vault+7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/shelgon__720/89644"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shelgon+-+7%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-07.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Salamence",
+      "title": "Salamence - Dragon Vault #8",
+      "link": "/Dragon-Vault-Expansion/Salamence-Card-8",
+      "image": "https://den-cards.pokellector.com/8/Salamence.DRV.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Salamence.DRV.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "8/20",
+      "card_number": "8",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Salamence.DRV.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fsalamence"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p819223.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Salamence+Dragon+Vault+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$13.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/salamence_820_crosshatch_holo_promo__2014_regional_championships/679043"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Salamence+-+8%2F20+-+Cosmos+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pkdv-08.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Latias",
+      "title": "Latias - Dragon Vault #9",
+      "link": "/Dragon-Vault-Expansion/Latias-Card-9",
+      "image": "https://den-cards.pokellector.com/8/Latias.DRV.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Latias.DRV.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "9/20",
+      "card_number": "9",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Latias.DRV.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Flatias"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.79",
+          "link": "http://www.trollandtoad.com/p819220.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Latias+Dragon+Vault+9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/latias__920/89646"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latias+-+9%2F20+-+Dragon+Vault+Stamped+Mirror+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pok-promo-dv-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Stamped Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Latios",
+      "title": "Latios - Dragon Vault #10",
+      "link": "/Dragon-Vault-Expansion/Latios-Card-10",
+      "image": "https://den-cards.pokellector.com/8/Latios.DRV.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Latios.DRV.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "10/20",
+      "card_number": "10",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Latios.DRV.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Flatios"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p819221.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Latios+Dragon+Vault+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pok-promo-dv-10.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/latios__1020/89647"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Latios+-+10%2F20+-+Dragon+Vault+Stamped+Mirror+Holo"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Rayquaza",
+      "title": "Rayquaza - Dragon Vault #11",
+      "link": "/Dragon-Vault-Expansion/Rayquaza-Card-11",
+      "image": "https://den-cards.pokellector.com/8/Rayquaza.DRV.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Rayquaza.DRV.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "11/20",
+      "card_number": "11",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Rayquaza.DRV.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Frayquaza"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$13.49",
+          "link": "http://www.trollandtoad.com/p819222.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rayquaza+Dragon+Vault+11&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+-+11%2F20+-+Dragon+Vault+Stamped+Mirror+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.99",
+          "link": "http://stop2shop.com/pok-promo-dv-11.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$10.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-sword__shield_evolving_skies/rayquaza_vmax__111203__ultra_rare/649029"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Axew",
+      "title": "Axew - Dragon Vault #12",
+      "link": "/Dragon-Vault-Expansion/Axew-Card-12",
+      "image": "https://den-cards.pokellector.com/8/Axew.DRV.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Axew.DRV.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "12/20",
+      "card_number": "12",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Axew.DRV.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Faxew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p819205.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Dragon+Vault+12&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pokemon_english_promos/axew_1212_confetti_holo_promo__2012_mcdonalds_campaign/184153"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Axew+-+12%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Axew",
+      "title": "Axew - Dragon Vault #13",
+      "link": "/Dragon-Vault-Expansion/Axew-Card-13",
+      "image": "https://den-cards.pokellector.com/8/Axew.DRV.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Axew.DRV.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "13/20",
+      "card_number": "13",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Axew.DRV.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Faxew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p819206.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Axew+Dragon+Vault+13&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/axew__1320/89650"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Axew+-+13%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/pkdv-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Fraxure",
+      "title": "Fraxure - Dragon Vault #14",
+      "link": "/Dragon-Vault-Expansion/Fraxure-Card-14",
+      "image": "https://den-cards.pokellector.com/8/Fraxure.DRV.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Fraxure.DRV.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "14/20",
+      "card_number": "14",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Fraxure.DRV.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Ffraxure"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p819216.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fraxure+Dragon+Vault+14&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/fraxure__1420/89651"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fraxure+-+14%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pkdv-14.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Fraxure",
+      "title": "Fraxure - Dragon Vault #15",
+      "link": "/Dragon-Vault-Expansion/Fraxure-Card-15",
+      "image": "https://den-cards.pokellector.com/8/Fraxure.DRV.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Fraxure.DRV.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "15/20",
+      "card_number": "15",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Fraxure.DRV.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Ffraxure"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p819217.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fraxure+Dragon+Vault+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/fraxure__1520/89652"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fraxure+-+15%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pkdv-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Haxorus",
+      "title": "Haxorus - Dragon Vault #16",
+      "link": "/Dragon-Vault-Expansion/Haxorus-Card-16",
+      "image": "https://den-cards.pokellector.com/8/Haxorus.DRV.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Haxorus.DRV.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "16/20",
+      "card_number": "16",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Haxorus.DRV.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.48",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fhaxorus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p819218.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haxorus+Dragon+Vault+16&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$6.50",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/japanese_pokemon_singles-japanese_dragon_selection/haxorus__016020__1st_edition/478643"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Haxorus+-+16%2F20+-+Dragon+Vault+Stamped+Mirror+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.99",
+          "link": "http://stop2shop.com/pok-promo-dv-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Druddigon",
+      "title": "Druddigon - Dragon Vault #17",
+      "link": "/Dragon-Vault-Expansion/Druddigon-Card-17",
+      "image": "https://den-cards.pokellector.com/8/Druddigon.DRV.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Druddigon.DRV.17.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "17/20",
+      "card_number": "17",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Druddigon.DRV.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fdruddigon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p819213.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Druddigon+Dragon+Vault+17&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$5.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/druddigon__1720/89654"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Druddigon+-+17%2F20+-+Dragon+Vault+Stamped+Mirror+Holo"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.99",
+          "link": "http://stop2shop.com/pok-promo-dv-17.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Stamped Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "EXP Share",
+      "title": "EXP Share - Dragon Vault #18",
+      "link": "/Dragon-Vault-Expansion/EXP-Share-Card-18",
+      "image": "https://den-cards.pokellector.com/8/EXP-Share.DRV.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/EXP-Share.DRV.18.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "18/20",
+      "card_number": "18",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/EXP-Share.DRV.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fexp-share"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.89",
+          "link": "http://www.trollandtoad.com/p819214.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.86",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EXP+Share+Dragon+Vault+18&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/pkdv-18.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.75",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/exp_share__1820/89655"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.79",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Exp.+Share+-+18%2F20"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "First Ticket",
+      "title": "First Ticket - Dragon Vault #19",
+      "link": "/Dragon-Vault-Expansion/First-Ticket-Card-19",
+      "image": "https://den-cards.pokellector.com/8/First-Ticket.DRV.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/First-Ticket.DRV.19.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "19/20",
+      "card_number": "19",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/First-Ticket.DRV.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Ffirst-ticket"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.78",
+          "link": "http://www.trollandtoad.com/p819215.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=First+Ticket+Dragon+Vault+19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$0.93",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/first_ticket__1920/89656"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/First+Ticket+-+19%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.99",
+          "link": "http://stop2shop.com/pkdv-19.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "20": {
+      "number": "20",
+      "name": "Super Rod",
+      "title": "Super Rod - Dragon Vault #20",
+      "link": "/Dragon-Vault-Expansion/Super-Rod-Card-20",
+      "image": "https://den-cards.pokellector.com/8/Super-Rod.DRV.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Super-Rod.DRV.20.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "20/20",
+      "card_number": "20",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Super-Rod.DRV.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fsuper-rod"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$9.99",
+          "link": "http://www.trollandtoad.com/p819225.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Super+Rod+Dragon+Vault+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$15.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/bandai_dragon_ball_super-dragon_ball_super_masters-dbs_masters_decks/dragon_ball_super_card_game_dbsbe20_ultimate_deck_2022/652933"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Super+Rod+-+20%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/pkdv-20.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "21": {
+      "number": "21",
+      "name": "Kyurem",
+      "title": "Kyurem - Dragon Vault #21",
+      "link": "/Dragon-Vault-Expansion/Kyurem-Card-21",
+      "image": "https://den-cards.pokellector.com/8/Kyurem.DRV.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/8/Kyurem.DRV.21.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Vault",
+      "set_link": "/Dragon-Vault-Expansion/",
+      "position": "21/20",
+      "card_number": "21",
+      "total_cards": "20",
+      "image_full": "https://den-cards.pokellector.com/8/Kyurem.DRV.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$64.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-vault%2Fkyurem"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$43.99",
+          "link": "http://www.trollandtoad.com/p819219.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$39.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kyurem+Dragon+Vault+21&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$64.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-dragon_vault/kyurem__2120/89658"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$7.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyurem+-+21%2F20"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$24.99",
+          "link": "http://stop2shop.com/pkdv-21.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 08:17:17"
+}

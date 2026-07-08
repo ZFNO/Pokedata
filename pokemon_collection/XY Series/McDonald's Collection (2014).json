@@ -1,0 +1,358 @@
+{
+  "title": "McDonald's Collection (2014) Set",
+  "link": "/McDonalds-Collection-2014-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.logo.158.png",
+  "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.symbol.158.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Weedle",
+      "title": "Weedle - McDonald's Collection (2014) #1",
+      "link": "/McDonalds-Collection-2014-Expansion/Weedle-Card-1",
+      "image": "https://den-cards.pokellector.com/158/Weedle.MCD4.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Weedle.MCD4.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "1/12",
+      "card_number": "1",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Weedle.MCD4.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fweedle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Weedle+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Chespin",
+      "title": "Chespin - McDonald's Collection (2014) #2",
+      "link": "/McDonalds-Collection-2014-Expansion/Chespin-Card-2",
+      "image": "https://den-cards.pokellector.com/158/Chespin.MCD4.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Chespin.MCD4.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "2/12",
+      "card_number": "2",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Chespin.MCD4.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fchespin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chespin+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Fennekin",
+      "title": "Fennekin - McDonald's Collection (2014) #3",
+      "link": "/McDonalds-Collection-2014-Expansion/Fennekin-Card-3",
+      "image": "https://den-cards.pokellector.com/158/Fennekin.MCD4.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Fennekin.MCD4.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "3/12",
+      "card_number": "3",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Fennekin.MCD4.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Ffennekin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fennekin+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Froakie",
+      "title": "Froakie - McDonald's Collection (2014) #4",
+      "link": "/McDonalds-Collection-2014-Expansion/Froakie-Card-4",
+      "image": "https://den-cards.pokellector.com/158/Froakie.MCD4.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Froakie.MCD4.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "4/12",
+      "card_number": "4",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Froakie.MCD4.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.51",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Ffroakie"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Froakie+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Pikachu",
+      "title": "Pikachu - McDonald's Collection (2014) #5",
+      "link": "/McDonalds-Collection-2014-Expansion/Pikachu-Card-5",
+      "image": "https://den-cards.pokellector.com/158/Pikachu.MCD4.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Pikachu.MCD4.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "5/12",
+      "card_number": "5",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Pikachu.MCD4.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$45.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fpikachu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Inkay",
+      "title": "Inkay - McDonald's Collection (2014) #6",
+      "link": "/McDonalds-Collection-2014-Expansion/Inkay-Card-6",
+      "image": "https://den-cards.pokellector.com/158/Inkay.MCD4.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Inkay.MCD4.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "6/12",
+      "card_number": "6",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Inkay.MCD4.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Finkay"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Inkay+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Honedge",
+      "title": "Honedge - McDonald's Collection (2014) #7",
+      "link": "/McDonalds-Collection-2014-Expansion/Honedge-Card-7",
+      "image": "https://den-cards.pokellector.com/158/Honedge.MCD4.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Honedge.MCD4.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "7/12",
+      "card_number": "7",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Honedge.MCD4.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fhonedge"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Honedge+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Snubbull",
+      "title": "Snubbull - McDonald's Collection (2014) #8",
+      "link": "/McDonalds-Collection-2014-Expansion/Snubbull-Card-8",
+      "image": "https://den-cards.pokellector.com/158/Snubbull.MCD4.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Snubbull.MCD4.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "8/12",
+      "card_number": "8",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Snubbull.MCD4.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fsnubbull"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snubbull+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Swirlix",
+      "title": "Swirlix - McDonald's Collection (2014) #9",
+      "link": "/McDonalds-Collection-2014-Expansion/Swirlix-Card-9",
+      "image": "https://den-cards.pokellector.com/158/Swirlix.MCD4.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Swirlix.MCD4.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "9/12",
+      "card_number": "9",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Swirlix.MCD4.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fswirlix"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Swirlix+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Bunnelby",
+      "title": "Bunnelby - McDonald's Collection (2014) #10",
+      "link": "/McDonalds-Collection-2014-Expansion/Bunnelby-Card-10",
+      "image": "https://den-cards.pokellector.com/158/Bunnelby.MCD4.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Bunnelby.MCD4.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "10/12",
+      "card_number": "10",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Bunnelby.MCD4.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Fbunnelby"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bunnelby+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Fletchling",
+      "title": "Fletchling - McDonald's Collection (2014) #11",
+      "link": "/McDonalds-Collection-2014-Expansion/Fletchling-Card-11",
+      "image": "https://den-cards.pokellector.com/158/Fletchling.MCD4.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Fletchling.MCD4.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "11/12",
+      "card_number": "11",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Fletchling.MCD4.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Ffletchling"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fletchling+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Furfrou",
+      "title": "Furfrou - McDonald's Collection (2014) #12",
+      "link": "/McDonalds-Collection-2014-Expansion/Furfrou-Card-12",
+      "image": "https://den-cards.pokellector.com/158/Furfrou.MCD4.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/158/Furfrou.MCD4.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2014)",
+      "set_link": "/McDonalds-Collection-2014-Expansion/",
+      "position": "12/12",
+      "card_number": "12",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/158/Furfrou.MCD4.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2014%2Ffurfrou"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Furfrou+Mcdonalds+2014&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 07:36:58"
+}

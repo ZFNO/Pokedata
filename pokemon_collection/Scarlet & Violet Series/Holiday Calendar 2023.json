@@ -1,0 +1,408 @@
+{
+  "title": "Holiday Calendar 2023 Set",
+  "link": "/Holiday-Calendar-2023-Collection/",
+  "logo": "https://den-media.pokellector.com/logos/Holiday-Calendar-2023-collection.4.png",
+  "symbol": null,
+  "scraped": true,
+  "cards": {
+    "33": {
+      "number": "33",
+      "name": "Alolan Vulpix V",
+      "title": "Alolan Vulpix V - Silver Tempest #33",
+      "link": "/Silver-Tempest-Expansion/Alolan-Vulpix-V-Card-33",
+      "image": "https://den-cards.pokellector.com/354/Alolan-Vulpix-V.SWSH12.33.52356.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/354/Alolan-Vulpix-V.SWSH12.33.52356.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Silver Tempest",
+      "set_link": "/Silver-Tempest-Expansion/",
+      "position": "33/195",
+      "card_number": "33",
+      "total_cards": "195",
+      "image_full": "https://den-cards.pokellector.com/354/Alolan-Vulpix-V.SWSH12.33.45400.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.73",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh12-silver-tempest%2Falolan-vulpix-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1763514.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Alolan+Vulpix+V+Silver+Tempest+33+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.95",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V1-SIT033?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/354/Alolan-Vulpix-V.SWSH12.33.52356.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Glaceon V",
+      "title": "Glaceon V - Evolving Skies #40",
+      "link": "/Evolving-Skies-Expansion/Glaceon-V-Card-40",
+      "image": "https://den-cards.pokellector.com/325/Glaceon-V.SWSH7.40.51979.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Glaceon-V.SWSH7.40.51979.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "40/203",
+      "card_number": "40",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Glaceon-V.SWSH7.40.39909.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fglaceon-v"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.28",
+          "link": "http://www.trollandtoad.com/p1728528.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Glaceon+V+Evolving+Skies+40+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€5.89",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-V-V1-EVS040?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/325/Glaceon-V.SWSH7.40.51979.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Glaceon VMAX",
+      "title": "Glaceon VMAX - Evolving Skies #41",
+      "link": "/Evolving-Skies-Expansion/Glaceon-VMAX-Card-41",
+      "image": "https://den-cards.pokellector.com/325/Glaceon-VMAX.SWSH7.41.52353.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Glaceon-VMAX.SWSH7.41.52353.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "41/203",
+      "card_number": "41",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Glaceon-VMAX.SWSH7.41.39910.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fglaceon-vmax"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.89",
+          "link": "http://www.trollandtoad.com/p1728529.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Glaceon+VMAX+Evolving+Skies+41+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€15.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-VMAX-V1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/325/Glaceon-VMAX.SWSH7.41.52353.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Cryogonal",
+      "title": "Cryogonal - Evolving Skies #43",
+      "link": "/Evolving-Skies-Expansion/Cryogonal-Card-43",
+      "image": "https://den-cards.pokellector.com/325/Cryogonal.SWSH7.43.52352.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Cryogonal.SWSH7.43.52352.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "43/203",
+      "card_number": "43",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Cryogonal.SWSH7.43.39912.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fcryogonal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1728531.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cryogonal+Evolving+Skies+43+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Cryogonal?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/325/Cryogonal.SWSH7.43.52352.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Snom",
+      "title": "Snom - Fusion Strike #84",
+      "link": "/Fusion-Strike-Expansion/Snom-Card-84",
+      "image": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.52354.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.52354.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Fusion Strike",
+      "set_link": "/Fusion-Strike-Expansion/",
+      "position": "84/264",
+      "card_number": "84",
+      "total_cards": "264",
+      "image_full": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.40754.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh08-fusion-strike%2Fsnom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p1735336.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snom+Fusion+Strike+84+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Snom?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.52354.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Glastrier",
+      "title": "Glastrier - Lost Origin #51",
+      "link": "/Lost-Origin-Expansion/Glastrier-Card-51",
+      "image": "https://den-cards.pokellector.com/350/Glastrier.SWSH10.51.52355.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/350/Glastrier.SWSH10.51.52355.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Lost Origin",
+      "set_link": "/Lost-Origin-Expansion/",
+      "position": "51/196",
+      "card_number": "51",
+      "total_cards": "196",
+      "image_full": "https://den-cards.pokellector.com/350/Glastrier.SWSH10.51.44711.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh11-lost-origin%2Fglastrier"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1758639.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.11",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Glastrier+Lost+Origin+51+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.25",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Glastrier-LOR051?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/350/Glastrier.SWSH10.51.52355.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Pikachu",
+      "title": "Pikachu - Silver Tempest #49",
+      "link": "/Silver-Tempest-Expansion/Pikachu-Card-49",
+      "image": "https://den-cards.pokellector.com/354/Pikachu.SWSH12.49.53136.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/354/Pikachu.SWSH12.49.53136.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Silver Tempest",
+      "set_link": "/Silver-Tempest-Expansion/",
+      "position": "49/195",
+      "card_number": "49",
+      "total_cards": "195",
+      "image_full": "https://den-cards.pokellector.com/354/Pikachu.SWSH12.49.45416.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh12-silver-tempest%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1763414.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Silver+Tempest+49+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Pikachu-SIT049?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/354/Pikachu.SWSH12.49.53136.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "125": {
+      "number": "125",
+      "name": "Stantler",
+      "title": "Stantler - Astral Radiance #125",
+      "link": "/Astral-Radiance-Expansion/Stantler-Card-125",
+      "image": "https://den-cards.pokellector.com/345/Stantler.SWSH10.125.51980.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/345/Stantler.SWSH10.125.51980.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Astral Radiance",
+      "set_link": "/Astral-Radiance-Expansion/",
+      "position": "125/189",
+      "card_number": "125",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/345/Stantler.SWSH10.125.43792.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh10-astral-radiance%2Fstantler"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1750705.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Stantler+Astral+Radiance+125+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Stantler-ASR125?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Snowflake Stamp",
+          "image": "https://den-cards.pokellector.com/345/Stantler.SWSH10.125.51980.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-27 22:44:52"
+}

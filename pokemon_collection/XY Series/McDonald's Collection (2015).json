@@ -1,0 +1,298 @@
+{
+  "title": "McDonald's Collection (2015) Set",
+  "link": "/McDonalds-Collection-2015-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.logo.182.png",
+  "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.symbol.182.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Treecko",
+      "title": "Treecko - McDonald's Collection (2015) #1",
+      "link": "/McDonalds-Collection-2015-Expansion/Treecko-Card-1",
+      "image": "https://den-cards.pokellector.com/182/Treecko.MCD5.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Treecko.MCD5.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "1/12",
+      "card_number": "1",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Treecko.MCD5.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Ftreecko"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Lotad",
+      "title": "Lotad - McDonald's Collection (2015) #2",
+      "link": "/McDonalds-Collection-2015-Expansion/Lotad-Card-2",
+      "image": "https://den-cards.pokellector.com/182/Lotad.MCD5.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Lotad.MCD5.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "2/12",
+      "card_number": "2",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Lotad.MCD5.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.56",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Flotad"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Torchic",
+      "title": "Torchic - McDonald's Collection (2015) #3",
+      "link": "/McDonalds-Collection-2015-Expansion/Torchic-Card-3",
+      "image": "https://den-cards.pokellector.com/182/Torchic.MCD5.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Torchic.MCD5.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "3/12",
+      "card_number": "3",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Torchic.MCD5.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Ftorchic"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Staryu",
+      "title": "Staryu - McDonald's Collection (2015) #4",
+      "link": "/McDonalds-Collection-2015-Expansion/Staryu-Card-4",
+      "image": "https://den-cards.pokellector.com/182/Staryu.MCD5.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Staryu.MCD5.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "4/12",
+      "card_number": "4",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Staryu.MCD5.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fstaryu"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Mudkip",
+      "title": "Mudkip - McDonald's Collection (2015) #5",
+      "link": "/McDonalds-Collection-2015-Expansion/Mudkip-Card-5",
+      "image": "https://den-cards.pokellector.com/182/Mudkip.MCD5.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Mudkip.MCD5.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "5/12",
+      "card_number": "5",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Mudkip.MCD5.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fmudkip"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Pikachu",
+      "title": "Pikachu - McDonald's Collection (2015) #6",
+      "link": "/McDonalds-Collection-2015-Expansion/Pikachu-Card-6",
+      "image": "https://den-cards.pokellector.com/182/Pikachu.MCD5.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Pikachu.MCD5.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "6/12",
+      "card_number": "6",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Pikachu.MCD5.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fpikachu"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Electrike",
+      "title": "Electrike - McDonald's Collection (2015) #7",
+      "link": "/McDonalds-Collection-2015-Expansion/Electrike-Card-7",
+      "image": "https://den-cards.pokellector.com/182/Electrike.MCD5.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Electrike.MCD5.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "7/12",
+      "card_number": "7",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Electrike.MCD5.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Felectrike"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Rhyhorn",
+      "title": "Rhyhorn - McDonald's Collection (2015) #8",
+      "link": "/McDonalds-Collection-2015-Expansion/Rhyhorn-Card-8",
+      "image": "https://den-cards.pokellector.com/182/Rhyhorn.MCD5.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Rhyhorn.MCD5.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "8/12",
+      "card_number": "8",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Rhyhorn.MCD5.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Frhyhorn"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Meditite",
+      "title": "Meditite - McDonald's Collection (2015) #9",
+      "link": "/McDonalds-Collection-2015-Expansion/Meditite-Card-9",
+      "image": "https://den-cards.pokellector.com/182/Meditite.MCD5.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Meditite.MCD5.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "9/12",
+      "card_number": "9",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Meditite.MCD5.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fmeditite"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Marill",
+      "title": "Marill - McDonald's Collection (2015) #10",
+      "link": "/McDonalds-Collection-2015-Expansion/Marill-Card-10",
+      "image": "https://den-cards.pokellector.com/182/Marill.MCD5.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Marill.MCD5.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "10/12",
+      "card_number": "10",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Marill.MCD5.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fmarill"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Zigzagoon",
+      "title": "Zigzagoon - McDonald's Collection (2015) #11",
+      "link": "/McDonalds-Collection-2015-Expansion/Zigzagoon-Card-11",
+      "image": "https://den-cards.pokellector.com/182/Zigzagoon.MCD5.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Zigzagoon.MCD5.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "11/12",
+      "card_number": "11",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Zigzagoon.MCD5.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fzigzagoon"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Skitty",
+      "title": "Skitty - McDonald's Collection (2015) #12",
+      "link": "/McDonalds-Collection-2015-Expansion/Skitty-Card-12",
+      "image": "https://den-cards.pokellector.com/182/Skitty.MCD5.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/182/Skitty.MCD5.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Collection (2015)",
+      "set_link": "/McDonalds-Collection-2015-Expansion/",
+      "position": "12/12",
+      "card_number": "12",
+      "total_cards": "12",
+      "image_full": "https://den-cards.pokellector.com/182/Skitty.MCD5.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.37",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fmcdonalds-promos-2015%2Fskitty"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 06:10:44"
+}

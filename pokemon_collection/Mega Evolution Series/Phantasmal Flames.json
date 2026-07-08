@@ -1,0 +1,4368 @@
+{
+  "title": "Phantasmal Flames Set",
+  "link": "/Phantasmal-Flames-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Phantasmal-Flames.logo.424.png",
+  "symbol": "https://den-media.pokellector.com/logos/Phantasmal-Flames.symbol.424.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Oddish",
+      "title": "Oddish - Phantasmal Flames #1",
+      "link": "/Phantasmal-Flames-Expansion/Oddish-Card-1",
+      "image": "https://den-cards.pokellector.com/424/Oddish.PFL.1.59606.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Oddish.PFL.1.59606.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "1/94",
+      "card_number": "1",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Oddish.PFL.1.59606.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662205%2Fpokemon-me02-phantasmal-flames-oddish"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oddish+Phantasmal+Flames+1+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Gloom",
+      "title": "Gloom - Phantasmal Flames #2",
+      "link": "/Phantasmal-Flames-Expansion/Gloom-Card-2",
+      "image": "https://den-cards.pokellector.com/424/Gloom.PFL.2.59607.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Gloom.PFL.2.59607.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "2/94",
+      "card_number": "2",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Gloom.PFL.2.59607.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662164%2Fpokemon-me02-phantasmal-flames-gloom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gloom+Phantasmal+Flames+2+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Vileplume",
+      "title": "Vileplume - Phantasmal Flames #3",
+      "link": "/Phantasmal-Flames-Expansion/Vileplume-Card-3",
+      "image": "https://den-cards.pokellector.com/424/Vileplume.PFL.3.59608.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Vileplume.PFL.3.59608.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "3/94",
+      "card_number": "3",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Vileplume.PFL.3.59608.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662238%2Fpokemon-me02-phantasmal-flames-vileplume"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vileplume+Phantasmal+Flames+3+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Mega Heracross ex",
+      "title": "Mega Heracross ex - Phantasmal Flames #4",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Heracross-ex-Card-4",
+      "image": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.4.59609.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.4.59609.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "4/94",
+      "card_number": "4",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.4.59609.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662186%2Fpokemon-me02-phantasmal-flames-mega-heracross-ex-004-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Heracross+ex+Phantasmal+Flames+4+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Lotad",
+      "title": "Lotad - Phantasmal Flames #5",
+      "link": "/Phantasmal-Flames-Expansion/Lotad-Card-5",
+      "image": "https://den-cards.pokellector.com/424/Lotad.PFL.5.59610.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Lotad.PFL.5.59610.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "5/94",
+      "card_number": "5",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Lotad.PFL.5.59610.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662178%2Fpokemon-me02-phantasmal-flames-lotad"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lotad+Phantasmal+Flames+5+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Lombre",
+      "title": "Lombre - Phantasmal Flames #6",
+      "link": "/Phantasmal-Flames-Expansion/Lombre-Card-6",
+      "image": "https://den-cards.pokellector.com/424/Lombre.PFL.6.59611.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Lombre.PFL.6.59611.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "6/94",
+      "card_number": "6",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Lombre.PFL.6.59611.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662177%2Fpokemon-me02-phantasmal-flames-lombre"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lombre+Phantasmal+Flames+6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Ludicolo",
+      "title": "Ludicolo - Phantasmal Flames #7",
+      "link": "/Phantasmal-Flames-Expansion/Ludicolo-Card-7",
+      "image": "https://den-cards.pokellector.com/424/Ludicolo.PFL.7.59612.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ludicolo.PFL.7.59612.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "7/94",
+      "card_number": "7",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ludicolo.PFL.7.59612.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662179%2Fpokemon-me02-phantasmal-flames-ludicolo-007-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ludicolo+Phantasmal+Flames+7+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Genesect",
+      "title": "Genesect - Phantasmal Flames #8",
+      "link": "/Phantasmal-Flames-Expansion/Genesect-Card-8",
+      "image": "https://den-cards.pokellector.com/424/Genesect.PFL.8.59613.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Genesect.PFL.8.59613.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "8/94",
+      "card_number": "8",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Genesect.PFL.8.59613.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662161%2Fpokemon-me02-phantasmal-flames-genesect"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Genesect+Phantasmal+Flames+8+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Nymble",
+      "title": "Nymble - Phantasmal Flames #9",
+      "link": "/Phantasmal-Flames-Expansion/Nymble-Card-9",
+      "image": "https://den-cards.pokellector.com/424/Nymble.PFL.9.59614.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Nymble.PFL.9.59614.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "9/94",
+      "card_number": "9",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Nymble.PFL.9.59614.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662203%2Fpokemon-me02-phantasmal-flames-nymble-009-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Nymble+Phantasmal+Flames+9+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Lokix",
+      "title": "Lokix - Phantasmal Flames #10",
+      "link": "/Phantasmal-Flames-Expansion/Lokix-Card-10",
+      "image": "https://den-cards.pokellector.com/424/Lokix.PFL.10.59615.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Lokix.PFL.10.59615.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "10/94",
+      "card_number": "10",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Lokix.PFL.10.59615.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662176%2Fpokemon-me02-phantasmal-flames-lokix"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lokix+Phantasmal+Flames+10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Charmander",
+      "title": "Charmander - Phantasmal Flames #11",
+      "link": "/Phantasmal-Flames-Expansion/Charmander-Card-11",
+      "image": "https://den-cards.pokellector.com/424/Charmander.PFL.11.59616.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Charmander.PFL.11.59616.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "11/94",
+      "card_number": "11",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Charmander.PFL.11.59616.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662143%2Fpokemon-me02-phantasmal-flames-charmander"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charmander+Phantasmal+Flames+11+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Charmeleon",
+      "title": "Charmeleon - Phantasmal Flames #12",
+      "link": "/Phantasmal-Flames-Expansion/Charmeleon-Card-12",
+      "image": "https://den-cards.pokellector.com/424/Charmeleon.PFL.12.59617.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Charmeleon.PFL.12.59617.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "12/94",
+      "card_number": "12",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Charmeleon.PFL.12.59617.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662144%2Fpokemon-me02-phantasmal-flames-charmeleon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charmeleon+Phantasmal+Flames+12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Mega Charizard X ex",
+      "title": "Mega Charizard X ex - Phantasmal Flames #13",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Charizard-X-ex-Card-13",
+      "image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.13.59618.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.13.59618.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "13/94",
+      "card_number": "13",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.13.59618.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662182%2Fpokemon-me02-phantasmal-flames-mega-charizard-x-ex-013-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Charizard+X+ex+Phantasmal+Flames+13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Moltres",
+      "title": "Moltres - Phantasmal Flames #14",
+      "link": "/Phantasmal-Flames-Expansion/Moltres-Card-14",
+      "image": "https://den-cards.pokellector.com/424/Moltres.PFL.14.59619.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Moltres.PFL.14.59619.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "14/94",
+      "card_number": "14",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Moltres.PFL.14.59619.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662201%2Fpokemon-me02-phantasmal-flames-moltres"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Moltres+Phantasmal+Flames+14+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Darumaka",
+      "title": "Darumaka - Phantasmal Flames #15",
+      "link": "/Phantasmal-Flames-Expansion/Darumaka-Card-15",
+      "image": "https://den-cards.pokellector.com/424/Darumaka.PFL.15.59620.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Darumaka.PFL.15.59620.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "15/94",
+      "card_number": "15",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Darumaka.PFL.15.59620.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662147%2Fpokemon-me02-phantasmal-flames-darumaka"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darumaka+Phantasmal+Flames+15+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Darmanitan",
+      "title": "Darmanitan - Phantasmal Flames #16",
+      "link": "/Phantasmal-Flames-Expansion/Darmanitan-Card-16",
+      "image": "https://den-cards.pokellector.com/424/Darmanitan.PFL.16.59621.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Darmanitan.PFL.16.59621.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "16/94",
+      "card_number": "16",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Darmanitan.PFL.16.59621.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662146%2Fpokemon-me02-phantasmal-flames-darmanitan"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darmanitan+Phantasmal+Flames+16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Reshiram",
+      "title": "Reshiram - Phantasmal Flames #17",
+      "link": "/Phantasmal-Flames-Expansion/Reshiram-Card-17",
+      "image": "https://den-cards.pokellector.com/424/Reshiram.PFL.17.59622.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Reshiram.PFL.17.59622.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "17/94",
+      "card_number": "17",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Reshiram.PFL.17.59622.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662219%2Fpokemon-me02-phantasmal-flames-reshiram"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Reshiram+Phantasmal+Flames+17+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Oricorio ex",
+      "title": "Oricorio ex - Phantasmal Flames #18",
+      "link": "/Phantasmal-Flames-Expansion/Oricorio-ex-Card-18",
+      "image": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.18.59623.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.18.59623.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "18/94",
+      "card_number": "18",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.18.59623.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662206%2Fpokemon-me02-phantasmal-flames-oricorio-ex-018-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oricorio+ex+Phantasmal+Flames+18+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Charcadet",
+      "title": "Charcadet - Phantasmal Flames #19",
+      "link": "/Phantasmal-Flames-Expansion/Charcadet-Card-19",
+      "image": "https://den-cards.pokellector.com/424/Charcadet.PFL.19.59624.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Charcadet.PFL.19.59624.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "19/94",
+      "card_number": "19",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Charcadet.PFL.19.59624.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662142%2Fpokemon-me02-phantasmal-flames-charcadet"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Charcadet+Phantasmal+Flames+19+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Ceruledge",
+      "title": "Ceruledge - Phantasmal Flames #20",
+      "link": "/Phantasmal-Flames-Expansion/Ceruledge-Card-20",
+      "image": "https://den-cards.pokellector.com/424/Ceruledge.PFL.20.59625.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ceruledge.PFL.20.59625.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "20/94",
+      "card_number": "20",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ceruledge.PFL.20.59625.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662141%2Fpokemon-me02-phantasmal-flames-ceruledge"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ceruledge+Phantasmal+Flames+20+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Seel",
+      "title": "Seel - Phantasmal Flames #21",
+      "link": "/Phantasmal-Flames-Expansion/Seel-Card-21",
+      "image": "https://den-cards.pokellector.com/424/Seel.PFL.21.59626.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Seel.PFL.21.59626.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "21/94",
+      "card_number": "21",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Seel.PFL.21.59626.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662226%2Fpokemon-me02-phantasmal-flames-seel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Seel+Phantasmal+Flames+21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Dewgong",
+      "title": "Dewgong - Phantasmal Flames #22",
+      "link": "/Phantasmal-Flames-Expansion/Dewgong-Card-22",
+      "image": "https://den-cards.pokellector.com/424/Dewgong.PFL.22.59627.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dewgong.PFL.22.59627.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "22/94",
+      "card_number": "22",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dewgong.PFL.22.59627.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662151%2Fpokemon-me02-phantasmal-flames-dewgong-022-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dewgong+Phantasmal+Flames+22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Swinub",
+      "title": "Swinub - Phantasmal Flames #23",
+      "link": "/Phantasmal-Flames-Expansion/Swinub-Card-23",
+      "image": "https://den-cards.pokellector.com/424/Swinub.PFL.23.59628.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Swinub.PFL.23.59628.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "23/94",
+      "card_number": "23",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Swinub.PFL.23.59628.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662230%2Fpokemon-me02-phantasmal-flames-swinub"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Swinub+Phantasmal+Flames+23+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Piloswine",
+      "title": "Piloswine - Phantasmal Flames #24",
+      "link": "/Phantasmal-Flames-Expansion/Piloswine-Card-24",
+      "image": "https://den-cards.pokellector.com/424/Piloswine.PFL.24.59629.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Piloswine.PFL.24.59629.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "24/94",
+      "card_number": "24",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Piloswine.PFL.24.59629.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662213%2Fpokemon-me02-phantasmal-flames-piloswine"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piloswine+Phantasmal+Flames+24+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Mamoswine",
+      "title": "Mamoswine - Phantasmal Flames #25",
+      "link": "/Phantasmal-Flames-Expansion/Mamoswine-Card-25",
+      "image": "https://den-cards.pokellector.com/424/Mamoswine.PFL.25.59630.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mamoswine.PFL.25.59630.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "25/94",
+      "card_number": "25",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mamoswine.PFL.25.59630.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662181%2Fpokemon-me02-phantasmal-flames-mamoswine"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mamoswine+Phantasmal+Flames+25+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Suicune",
+      "title": "Suicune - Phantasmal Flames #26",
+      "link": "/Phantasmal-Flames-Expansion/Suicune-Card-26",
+      "image": "https://den-cards.pokellector.com/424/Suicune.PFL.26.59631.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Suicune.PFL.26.59631.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "26/94",
+      "card_number": "26",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Suicune.PFL.26.59631.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662229%2Fpokemon-me02-phantasmal-flames-suicune"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Suicune+Phantasmal+Flames+26+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Piplup",
+      "title": "Piplup - Phantasmal Flames #27",
+      "link": "/Phantasmal-Flames-Expansion/Piplup-Card-27",
+      "image": "https://den-cards.pokellector.com/424/Piplup.PFL.27.59632.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Piplup.PFL.27.59632.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "27/94",
+      "card_number": "27",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Piplup.PFL.27.59632.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662214%2Fpokemon-me02-phantasmal-flames-piplup-027-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piplup+Phantasmal+Flames+27+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Prinplup",
+      "title": "Prinplup - Phantasmal Flames #28",
+      "link": "/Phantasmal-Flames-Expansion/Prinplup-Card-28",
+      "image": "https://den-cards.pokellector.com/424/Prinplup.PFL.28.59633.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Prinplup.PFL.28.59633.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "28/94",
+      "card_number": "28",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Prinplup.PFL.28.59633.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662216%2Fpokemon-me02-phantasmal-flames-prinplup"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Prinplup+Phantasmal+Flames+28+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Rotom ex",
+      "title": "Rotom ex - Phantasmal Flames #29",
+      "link": "/Phantasmal-Flames-Expansion/Rotom-ex-Card-29",
+      "image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.29.59634.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.29.59634.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "29/94",
+      "card_number": "29",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.29.59634.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.08",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662220%2Fpokemon-me02-phantasmal-flames-rotom-ex-029-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rotom+ex+Phantasmal+Flames+29+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "30": {
+      "number": "30",
+      "name": "Yamper",
+      "title": "Yamper - Phantasmal Flames #30",
+      "link": "/Phantasmal-Flames-Expansion/Yamper-Card-30",
+      "image": "https://den-cards.pokellector.com/424/Yamper.PFL.30.59635.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Yamper.PFL.30.59635.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "30/94",
+      "card_number": "30",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Yamper.PFL.30.59635.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662242%2Fpokemon-me02-phantasmal-flames-yamper-030-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Yamper+Phantasmal+Flames+30+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Boltund",
+      "title": "Boltund - Phantasmal Flames #31",
+      "link": "/Phantasmal-Flames-Expansion/Boltund-Card-31",
+      "image": "https://den-cards.pokellector.com/424/Boltund.PFL.31.59636.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Boltund.PFL.31.59636.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "31/94",
+      "card_number": "31",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Boltund.PFL.31.59636.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662134%2Fpokemon-me02-phantasmal-flames-boltund"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Boltund+Phantasmal+Flames+31+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Pawmi",
+      "title": "Pawmi - Phantasmal Flames #32",
+      "link": "/Phantasmal-Flames-Expansion/Pawmi-Card-32",
+      "image": "https://den-cards.pokellector.com/424/Pawmi.PFL.32.59637.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Pawmi.PFL.32.59637.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "32/94",
+      "card_number": "32",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Pawmi.PFL.32.59637.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662210%2Fpokemon-me02-phantasmal-flames-pawmi"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pawmi+Phantasmal+Flames+32+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Pawmo",
+      "title": "Pawmo - Phantasmal Flames #33",
+      "link": "/Phantasmal-Flames-Expansion/Pawmo-Card-33",
+      "image": "https://den-cards.pokellector.com/424/Pawmo.PFL.33.59638.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Pawmo.PFL.33.59638.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "33/94",
+      "card_number": "33",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Pawmo.PFL.33.59638.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662211%2Fpokemon-me02-phantasmal-flames-pawmo"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pawmo+Phantasmal+Flames+33+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Pawmot",
+      "title": "Pawmot - Phantasmal Flames #34",
+      "link": "/Phantasmal-Flames-Expansion/Pawmot-Card-34",
+      "image": "https://den-cards.pokellector.com/424/Pawmot.PFL.34.59639.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Pawmot.PFL.34.59639.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "34/94",
+      "card_number": "34",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Pawmot.PFL.34.59639.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662212%2Fpokemon-me02-phantasmal-flames-pawmot"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pawmot+Phantasmal+Flames+34+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Misdreavus",
+      "title": "Misdreavus - Phantasmal Flames #35",
+      "link": "/Phantasmal-Flames-Expansion/Misdreavus-Card-35",
+      "image": "https://den-cards.pokellector.com/424/Misdreavus.PFL.35.59640.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Misdreavus.PFL.35.59640.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "35/94",
+      "card_number": "35",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Misdreavus.PFL.35.59640.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662198%2Fpokemon-me02-phantasmal-flames-misdreavus"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Misdreavus+Phantasmal+Flames+35+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Mismagius ex",
+      "title": "Mismagius ex - Phantasmal Flames #36",
+      "link": "/Phantasmal-Flames-Expansion/Mismagius-ex-Card-36",
+      "image": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.36.59641.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.36.59641.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "36/94",
+      "card_number": "36",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.36.59641.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662199%2Fpokemon-me02-phantasmal-flames-mismagius-ex-036-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mismagius+ex+Phantasmal+Flames+36+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "37": {
+      "number": "37",
+      "name": "Snubbull",
+      "title": "Snubbull - Phantasmal Flames #37",
+      "link": "/Phantasmal-Flames-Expansion/Snubbull-Card-37",
+      "image": "https://den-cards.pokellector.com/424/Snubbull.PFL.37.59642.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Snubbull.PFL.37.59642.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "37/94",
+      "card_number": "37",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Snubbull.PFL.37.59642.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662228%2Fpokemon-me02-phantasmal-flames-snubbull"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Snubbull+Phantasmal+Flames+37+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Granbull",
+      "title": "Granbull - Phantasmal Flames #38",
+      "link": "/Phantasmal-Flames-Expansion/Granbull-Card-38",
+      "image": "https://den-cards.pokellector.com/424/Granbull.PFL.38.59643.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Granbull.PFL.38.59643.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "38/94",
+      "card_number": "38",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Granbull.PFL.38.59643.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662165%2Fpokemon-me02-phantasmal-flames-granbull"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Granbull+Phantasmal+Flames+38+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Cresselia",
+      "title": "Cresselia - Phantasmal Flames #39",
+      "link": "/Phantasmal-Flames-Expansion/Cresselia-Card-39",
+      "image": "https://den-cards.pokellector.com/424/Cresselia.PFL.39.59644.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Cresselia.PFL.39.59644.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "39/94",
+      "card_number": "39",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Cresselia.PFL.39.59644.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662145%2Fpokemon-me02-phantasmal-flames-cresselia"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cresselia+Phantasmal+Flames+39+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Meloetta",
+      "title": "Meloetta - Phantasmal Flames #40",
+      "link": "/Phantasmal-Flames-Expansion/Meloetta-Card-40",
+      "image": "https://den-cards.pokellector.com/424/Meloetta.PFL.40.59645.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Meloetta.PFL.40.59645.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "40/94",
+      "card_number": "40",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Meloetta.PFL.40.59645.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662194%2Fpokemon-me02-phantasmal-flames-meloetta"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meloetta+Phantasmal+Flames+40+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Mega Diancie ex",
+      "title": "Mega Diancie ex - Phantasmal Flames #41",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Diancie-ex-Card-41",
+      "image": "https://den-cards.pokellector.com/424/Mega-Diancie-ex.PFL.41.59646.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Diancie-ex.PFL.41.59646.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "41/94",
+      "card_number": "41",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Diancie-ex.PFL.41.59646.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660379%2Fpokemon-me02-phantasmal-flames-mega-diancie-ex"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Diancie+ex+Phantasmal+Flames+41+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Mimikyu",
+      "title": "Mimikyu - Phantasmal Flames #42",
+      "link": "/Phantasmal-Flames-Expansion/Mimikyu-Card-42",
+      "image": "https://den-cards.pokellector.com/424/Mimikyu.PFL.42.59647.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mimikyu.PFL.42.59647.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "42/94",
+      "card_number": "42",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mimikyu.PFL.42.59647.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662197%2Fpokemon-me02-phantasmal-flames-mimikyu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+Phantasmal+Flames+42+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Milcery",
+      "title": "Milcery - Phantasmal Flames #43",
+      "link": "/Phantasmal-Flames-Expansion/Milcery-Card-43",
+      "image": "https://den-cards.pokellector.com/424/Milcery.PFL.43.59648.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Milcery.PFL.43.59648.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "43/94",
+      "card_number": "43",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Milcery.PFL.43.59648.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662196%2Fpokemon-me02-phantasmal-flames-milcery"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Milcery+Phantasmal+Flames+43+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Alcremie",
+      "title": "Alcremie - Phantasmal Flames #44",
+      "link": "/Phantasmal-Flames-Expansion/Alcremie-Card-44",
+      "image": "https://den-cards.pokellector.com/424/Alcremie.PFL.44.59649.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Alcremie.PFL.44.59649.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "44/94",
+      "card_number": "44",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Alcremie.PFL.44.59649.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660384%2Fpokemon-me02-phantasmal-flames-alcremie"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Alcremie+Phantasmal+Flames+44+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Zacian",
+      "title": "Zacian - Phantasmal Flames #45",
+      "link": "/Phantasmal-Flames-Expansion/Zacian-Card-45",
+      "image": "https://den-cards.pokellector.com/424/Zacian.PFL.45.59650.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Zacian.PFL.45.59650.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "45/94",
+      "card_number": "45",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Zacian.PFL.45.59650.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662244%2Fpokemon-me02-phantasmal-flames-zacian-045-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zacian+Phantasmal+Flames+45+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Bramblin",
+      "title": "Bramblin - Phantasmal Flames #46",
+      "link": "/Phantasmal-Flames-Expansion/Bramblin-Card-46",
+      "image": "https://den-cards.pokellector.com/424/Bramblin.PFL.46.59651.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Bramblin.PFL.46.59651.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "46/94",
+      "card_number": "46",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Bramblin.PFL.46.59651.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662136%2Fpokemon-me02-phantasmal-flames-bramblin"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bramblin+Phantasmal+Flames+46+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Brambleghast",
+      "title": "Brambleghast - Phantasmal Flames #47",
+      "link": "/Phantasmal-Flames-Expansion/Brambleghast-Card-47",
+      "image": "https://den-cards.pokellector.com/424/Brambleghast.PFL.47.59652.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Brambleghast.PFL.47.59652.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "47/94",
+      "card_number": "47",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Brambleghast.PFL.47.59652.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662135%2Fpokemon-me02-phantasmal-flames-brambleghast"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Brambleghast+Phantasmal+Flames+47+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Paldean Tauros",
+      "title": "Paldean Tauros - Phantasmal Flames #48",
+      "link": "/Phantasmal-Flames-Expansion/Paldean-Tauros-Card-48",
+      "image": "https://den-cards.pokellector.com/424/Paldean-Tauros.PFL.48.59653.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Paldean-Tauros.PFL.48.59653.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "48/94",
+      "card_number": "48",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Paldean-Tauros.PFL.48.59653.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662208%2Fpokemon-me02-phantasmal-flames-paldean-tauros"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Paldean+Tauros+Phantasmal+Flames+48+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Gligar",
+      "title": "Gligar - Phantasmal Flames #49",
+      "link": "/Phantasmal-Flames-Expansion/Gligar-Card-49",
+      "image": "https://den-cards.pokellector.com/424/Gligar.PFL.49.59654.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Gligar.PFL.49.59654.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "49/94",
+      "card_number": "49",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Gligar.PFL.49.59654.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662162%2Fpokemon-me02-phantasmal-flames-gligar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gligar+Phantasmal+Flames+49+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Gliscor",
+      "title": "Gliscor - Phantasmal Flames #50",
+      "link": "/Phantasmal-Flames-Expansion/Gliscor-Card-50",
+      "image": "https://den-cards.pokellector.com/424/Gliscor.PFL.50.59655.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Gliscor.PFL.50.59655.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "50/94",
+      "card_number": "50",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Gliscor.PFL.50.59655.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662163%2Fpokemon-me02-phantasmal-flames-gliscor"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gliscor+Phantasmal+Flames+50+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Trapinch",
+      "title": "Trapinch - Phantasmal Flames #51",
+      "link": "/Phantasmal-Flames-Expansion/Trapinch-Card-51",
+      "image": "https://den-cards.pokellector.com/424/Trapinch.PFL.51.59656.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Trapinch.PFL.51.59656.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "51/94",
+      "card_number": "51",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Trapinch.PFL.51.59656.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662236%2Fpokemon-me02-phantasmal-flames-trapinch"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Trapinch+Phantasmal+Flames+51+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Vibrava",
+      "title": "Vibrava - Phantasmal Flames #52",
+      "link": "/Phantasmal-Flames-Expansion/Vibrava-Card-52",
+      "image": "https://den-cards.pokellector.com/424/Vibrava.PFL.52.59657.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Vibrava.PFL.52.59657.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "52/94",
+      "card_number": "52",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Vibrava.PFL.52.59657.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662237%2Fpokemon-me02-phantasmal-flames-vibrava"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Vibrava+Phantasmal+Flames+52+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Flygon",
+      "title": "Flygon - Phantasmal Flames #53",
+      "link": "/Phantasmal-Flames-Expansion/Flygon-Card-53",
+      "image": "https://den-cards.pokellector.com/424/Flygon.PFL.53.59658.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Flygon.PFL.53.59658.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "53/94",
+      "card_number": "53",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Flygon.PFL.53.59658.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662159%2Fpokemon-me02-phantasmal-flames-flygon-053-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flygon+Phantasmal+Flames+53+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Gastly",
+      "title": "Gastly - Phantasmal Flames #54",
+      "link": "/Phantasmal-Flames-Expansion/Gastly-Card-54",
+      "image": "https://den-cards.pokellector.com/424/Gastly.PFL.54.59659.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Gastly.PFL.54.59659.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "54/94",
+      "card_number": "54",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Gastly.PFL.54.59659.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660495%2Fpokemon-me02-phantasmal-flames-gastly"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gastly+Phantasmal+Flames+54+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Haunter",
+      "title": "Haunter - Phantasmal Flames #55",
+      "link": "/Phantasmal-Flames-Expansion/Haunter-Card-55",
+      "image": "https://den-cards.pokellector.com/424/Haunter.PFL.55.59660.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Haunter.PFL.55.59660.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "55/94",
+      "card_number": "55",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Haunter.PFL.55.59660.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660408%2Fpokemon-me02-phantasmal-flames-haunter-055-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haunter+Phantasmal+Flames+55+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Mega Gengar ex",
+      "title": "Mega Gengar ex - Phantasmal Flames #56",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Gengar-ex-Card-56",
+      "image": "https://den-cards.pokellector.com/424/Mega-Gengar-ex.PFL.56.59661.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Gengar-ex.PFL.56.59661.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "56/94",
+      "card_number": "56",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Gengar-ex.PFL.56.59661.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660380%2Fpokemon-me02-phantasmal-flames-mega-gengar-ex"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Gengar+ex+Phantasmal+Flames+56+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "57": {
+      "number": "57",
+      "name": "Murkrow",
+      "title": "Murkrow - Phantasmal Flames #57",
+      "link": "/Phantasmal-Flames-Expansion/Murkrow-Card-57",
+      "image": "https://den-cards.pokellector.com/424/Murkrow.PFL.57.59662.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Murkrow.PFL.57.59662.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "57/94",
+      "card_number": "57",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Murkrow.PFL.57.59662.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662202%2Fpokemon-me02-phantasmal-flames-murkrow"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Murkrow+Phantasmal+Flames+57+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Honchkrow",
+      "title": "Honchkrow - Phantasmal Flames #58",
+      "link": "/Phantasmal-Flames-Expansion/Honchkrow-Card-58",
+      "image": "https://den-cards.pokellector.com/424/Honchkrow.PFL.58.59663.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Honchkrow.PFL.58.59663.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "58/94",
+      "card_number": "58",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Honchkrow.PFL.58.59663.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662169%2Fpokemon-me02-phantasmal-flames-honchkrow"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Honchkrow+Phantasmal+Flames+58+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Sableye",
+      "title": "Sableye - Phantasmal Flames #59",
+      "link": "/Phantasmal-Flames-Expansion/Sableye-Card-59",
+      "image": "https://den-cards.pokellector.com/424/Sableye.PFL.59.59664.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Sableye.PFL.59.59664.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "59/94",
+      "card_number": "59",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Sableye.PFL.59.59664.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660412%2Fpokemon-me02-phantasmal-flames-sableye"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sableye+Phantasmal+Flames+59+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Carvanha",
+      "title": "Carvanha - Phantasmal Flames #60",
+      "link": "/Phantasmal-Flames-Expansion/Carvanha-Card-60",
+      "image": "https://den-cards.pokellector.com/424/Carvanha.PFL.60.59665.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Carvanha.PFL.60.59665.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "60/94",
+      "card_number": "60",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Carvanha.PFL.60.59665.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662140%2Fpokemon-me02-phantasmal-flames-carvanha"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Carvanha+Phantasmal+Flames+60+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Mega Sharpedo ex",
+      "title": "Mega Sharpedo ex - Phantasmal Flames #61",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Sharpedo-ex-Card-61",
+      "image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.61.59666.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.61.59666.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "61/94",
+      "card_number": "61",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.61.59666.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662191%2Fpokemon-me02-phantasmal-flames-mega-sharpedo-ex-061-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.89",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Sharpedo+ex+Phantasmal+Flames+61+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "62": {
+      "number": "62",
+      "name": "Seviper",
+      "title": "Seviper - Phantasmal Flames #62",
+      "link": "/Phantasmal-Flames-Expansion/Seviper-Card-62",
+      "image": "https://den-cards.pokellector.com/424/Seviper.PFL.62.59667.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Seviper.PFL.62.59667.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "62/94",
+      "card_number": "62",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Seviper.PFL.62.59667.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660413%2Fpokemon-me02-phantasmal-flames-seviper"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Seviper+Phantasmal+Flames+62+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Absol",
+      "title": "Absol - Phantasmal Flames #63",
+      "link": "/Phantasmal-Flames-Expansion/Absol-Card-63",
+      "image": "https://den-cards.pokellector.com/424/Absol.PFL.63.59668.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Absol.PFL.63.59668.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "63/94",
+      "card_number": "63",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Absol.PFL.63.59668.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662125%2Fpokemon-me02-phantasmal-flames-absol"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Absol+Phantasmal+Flames+63+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Sandile",
+      "title": "Sandile - Phantasmal Flames #64",
+      "link": "/Phantasmal-Flames-Expansion/Sandile-Card-64",
+      "image": "https://den-cards.pokellector.com/424/Sandile.PFL.64.59669.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Sandile.PFL.64.59669.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "64/94",
+      "card_number": "64",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Sandile.PFL.64.59669.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662225%2Fpokemon-me02-phantasmal-flames-sandile"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sandile+Phantasmal+Flames+64+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Krokorok",
+      "title": "Krokorok - Phantasmal Flames #65",
+      "link": "/Phantasmal-Flames-Expansion/Krokorok-Card-65",
+      "image": "https://den-cards.pokellector.com/424/Krokorok.PFL.65.59670.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Krokorok.PFL.65.59670.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "65/94",
+      "card_number": "65",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Krokorok.PFL.65.59670.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662173%2Fpokemon-me02-phantasmal-flames-krokorok"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Krokorok+Phantasmal+Flames+65+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Krookodile",
+      "title": "Krookodile - Phantasmal Flames #66",
+      "link": "/Phantasmal-Flames-Expansion/Krookodile-Card-66",
+      "image": "https://den-cards.pokellector.com/424/Krookodile.PFL.66.59671.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Krookodile.PFL.66.59671.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "66/94",
+      "card_number": "66",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Krookodile.PFL.66.59671.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662174%2Fpokemon-me02-phantasmal-flames-krookodile"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Krookodile+Phantasmal+Flames+66+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Toxel",
+      "title": "Toxel - Phantasmal Flames #67",
+      "link": "/Phantasmal-Flames-Expansion/Toxel-Card-67",
+      "image": "https://den-cards.pokellector.com/424/Toxel.PFL.67.59672.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Toxel.PFL.67.59672.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "67/94",
+      "card_number": "67",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Toxel.PFL.67.59672.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660411%2Fpokemon-me02-phantasmal-flames-toxel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Toxel+Phantasmal+Flames+67+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Toxtricity",
+      "title": "Toxtricity - Phantasmal Flames #68",
+      "link": "/Phantasmal-Flames-Expansion/Toxtricity-Card-68",
+      "image": "https://den-cards.pokellector.com/424/Toxtricity.PFL.68.59673.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Toxtricity.PFL.68.59673.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "68/94",
+      "card_number": "68",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Toxtricity.PFL.68.59673.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660409%2Fpokemon-me02-phantasmal-flames-toxtricity"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Toxtricity+Phantasmal+Flames+68+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Eternatus",
+      "title": "Eternatus - Phantasmal Flames #69",
+      "link": "/Phantasmal-Flames-Expansion/Eternatus-Card-69",
+      "image": "https://den-cards.pokellector.com/424/Eternatus.PFL.69.59674.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Eternatus.PFL.69.59674.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "69/94",
+      "card_number": "69",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Eternatus.PFL.69.59674.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660406%2Fpokemon-me02-phantasmal-flames-eternatus"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Eternatus+Phantasmal+Flames+69+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Empoleon ex",
+      "title": "Empoleon ex - Phantasmal Flames #70",
+      "link": "/Phantasmal-Flames-Expansion/Empoleon-ex-Card-70",
+      "image": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.70.59675.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.70.59675.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "70/94",
+      "card_number": "70",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.70.59675.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662155%2Fpokemon-me02-phantasmal-flames-empoleon-ex-070-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Empoleon+ex+Phantasmal+Flames+70+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "71": {
+      "number": "71",
+      "name": "Bronzor",
+      "title": "Bronzor - Phantasmal Flames #71",
+      "link": "/Phantasmal-Flames-Expansion/Bronzor-Card-71",
+      "image": "https://den-cards.pokellector.com/424/Bronzor.PFL.71.59676.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Bronzor.PFL.71.59676.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "71/94",
+      "card_number": "71",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Bronzor.PFL.71.59676.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662138%2Fpokemon-me02-phantasmal-flames-bronzor"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bronzor+Phantasmal+Flames+71+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Bronzong",
+      "title": "Bronzong - Phantasmal Flames #72",
+      "link": "/Phantasmal-Flames-Expansion/Bronzong-Card-72",
+      "image": "https://den-cards.pokellector.com/424/Bronzong.PFL.72.59677.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Bronzong.PFL.72.59677.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "72/94",
+      "card_number": "72",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Bronzong.PFL.72.59677.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662137%2Fpokemon-me02-phantasmal-flames-bronzong"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Bronzong+Phantasmal+Flames+72+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Togedemaru",
+      "title": "Togedemaru - Phantasmal Flames #73",
+      "link": "/Phantasmal-Flames-Expansion/Togedemaru-Card-73",
+      "image": "https://den-cards.pokellector.com/424/Togedemaru.PFL.73.59678.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Togedemaru.PFL.73.59678.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "73/94",
+      "card_number": "73",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Togedemaru.PFL.73.59678.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662232%2Fpokemon-me02-phantasmal-flames-togedemaru-073-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Togedemaru+Phantasmal+Flames+73+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Duraludon",
+      "title": "Duraludon - Phantasmal Flames #74",
+      "link": "/Phantasmal-Flames-Expansion/Duraludon-Card-74",
+      "image": "https://den-cards.pokellector.com/424/Duraludon.PFL.74.59679.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Duraludon.PFL.74.59679.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "74/94",
+      "card_number": "74",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Duraludon.PFL.74.59679.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662154%2Fpokemon-me02-phantasmal-flames-duraludon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duraludon+Phantasmal+Flames+74+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Archaludon",
+      "title": "Archaludon - Phantasmal Flames #75",
+      "link": "/Phantasmal-Flames-Expansion/Archaludon-Card-75",
+      "image": "https://den-cards.pokellector.com/424/Archaludon.PFL.75.59680.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Archaludon.PFL.75.59680.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "75/94",
+      "card_number": "75",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Archaludon.PFL.75.59680.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662129%2Fpokemon-me02-phantasmal-flames-archaludon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Archaludon+Phantasmal+Flames+75+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - Phantasmal Flames #76",
+      "link": "/Phantasmal-Flames-Expansion/Jigglypuff-Card-76",
+      "image": "https://den-cards.pokellector.com/424/Jigglypuff.PFL.76.59681.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Jigglypuff.PFL.76.59681.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "76/94",
+      "card_number": "76",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Jigglypuff.PFL.76.59681.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662171%2Fpokemon-me02-phantasmal-flames-jigglypuff"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jigglypuff+Phantasmal+Flames+76+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Wigglytuff",
+      "title": "Wigglytuff - Phantasmal Flames #77",
+      "link": "/Phantasmal-Flames-Expansion/Wigglytuff-Card-77",
+      "image": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.77.59682.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.77.59682.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "77/94",
+      "card_number": "77",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.77.59682.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662239%2Fpokemon-me02-phantasmal-flames-wigglytuff-077-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Wigglytuff+Phantasmal+Flames+77+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Aipom",
+      "title": "Aipom - Phantasmal Flames #78",
+      "link": "/Phantasmal-Flames-Expansion/Aipom-Card-78",
+      "image": "https://den-cards.pokellector.com/424/Aipom.PFL.78.59683.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Aipom.PFL.78.59683.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "78/94",
+      "card_number": "78",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Aipom.PFL.78.59683.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662126%2Fpokemon-me02-phantasmal-flames-aipom"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Aipom+Phantasmal+Flames+78+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Ambipom",
+      "title": "Ambipom - Phantasmal Flames #79",
+      "link": "/Phantasmal-Flames-Expansion/Ambipom-Card-79",
+      "image": "https://den-cards.pokellector.com/424/Ambipom.PFL.79.59684.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ambipom.PFL.79.59684.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "79/94",
+      "card_number": "79",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ambipom.PFL.79.59684.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662127%2Fpokemon-me02-phantasmal-flames-ambipom-079-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ambipom+Phantasmal+Flames+79+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Smeargle",
+      "title": "Smeargle - Phantasmal Flames #80",
+      "link": "/Phantasmal-Flames-Expansion/Smeargle-Card-80",
+      "image": "https://den-cards.pokellector.com/424/Smeargle.PFL.80.59685.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Smeargle.PFL.80.59685.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "80/94",
+      "card_number": "80",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Smeargle.PFL.80.59685.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662227%2Fpokemon-me02-phantasmal-flames-smeargle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Smeargle+Phantasmal+Flames+80+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Zigzagoon",
+      "title": "Zigzagoon - Phantasmal Flames #81",
+      "link": "/Phantasmal-Flames-Expansion/Zigzagoon-Card-81",
+      "image": "https://den-cards.pokellector.com/424/Zigzagoon.PFL.81.59686.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Zigzagoon.PFL.81.59686.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "81/94",
+      "card_number": "81",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Zigzagoon.PFL.81.59686.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662246%2Fpokemon-me02-phantasmal-flames-zigzagoon"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zigzagoon+Phantasmal+Flames+81+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Linoone",
+      "title": "Linoone - Phantasmal Flames #82",
+      "link": "/Phantasmal-Flames-Expansion/Linoone-Card-82",
+      "image": "https://den-cards.pokellector.com/424/Linoone.PFL.82.59687.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Linoone.PFL.82.59687.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "82/94",
+      "card_number": "82",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Linoone.PFL.82.59687.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662175%2Fpokemon-me02-phantasmal-flames-linoone"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Linoone+Phantasmal+Flames+82+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Buneary",
+      "title": "Buneary - Phantasmal Flames #83",
+      "link": "/Phantasmal-Flames-Expansion/Buneary-Card-83",
+      "image": "https://den-cards.pokellector.com/424/Buneary.PFL.83.59688.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Buneary.PFL.83.59688.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "83/94",
+      "card_number": "83",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Buneary.PFL.83.59688.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662139%2Fpokemon-me02-phantasmal-flames-buneary"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Buneary+Phantasmal+Flames+83+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Mega Lopunny ex",
+      "title": "Mega Lopunny ex - Phantasmal Flames #84",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Lopunny-ex-Card-84",
+      "image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.84.59689.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.84.59689.png",
+      "details_scraped": true,
+      "rarity": "Double Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "84/94",
+      "card_number": "84",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.84.59689.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662188%2Fpokemon-me02-phantasmal-flames-mega-lopunny-ex-084-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Lopunny+ex+Phantasmal+Flames+84+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "85": {
+      "number": "85",
+      "name": "Battle Cage",
+      "title": "Battle Cage - Phantasmal Flames #85",
+      "link": "/Phantasmal-Flames-Expansion/Battle-Cage-Card-85",
+      "image": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.85.59690.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.85.59690.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "85/94",
+      "card_number": "85",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.85.59690.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662130%2Fpokemon-me02-phantasmal-flames-battle-cage-085-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Battle+Cage+Phantasmal+Flames+85+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Blowtorch",
+      "title": "Blowtorch - Phantasmal Flames #86",
+      "link": "/Phantasmal-Flames-Expansion/Blowtorch-Card-86",
+      "image": "https://den-cards.pokellector.com/424/Blowtorch.PFL.86.59691.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Blowtorch.PFL.86.59691.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "86/94",
+      "card_number": "86",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Blowtorch.PFL.86.59691.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662132%2Fpokemon-me02-phantasmal-flames-blowtorch-086-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Blowtorch+Phantasmal+Flames+86+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Dawn",
+      "title": "Dawn - Phantasmal Flames #87",
+      "link": "/Phantasmal-Flames-Expansion/Dawn-Card-87",
+      "image": "https://den-cards.pokellector.com/424/Dawn.PFL.87.59692.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dawn.PFL.87.59692.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "87/94",
+      "card_number": "87",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dawn.PFL.87.59692.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660414%2Fpokemon-me02-phantasmal-flames-dawn"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dawn+Phantasmal+Flames+87+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Dizzying Valley",
+      "title": "Dizzying Valley - Phantasmal Flames #88",
+      "link": "/Phantasmal-Flames-Expansion/Dizzying-Valley-Card-88",
+      "image": "https://den-cards.pokellector.com/424/Dizzying-Valley.PFL.88.59693.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dizzying-Valley.PFL.88.59693.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "88/94",
+      "card_number": "88",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dizzying-Valley.PFL.88.59693.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662153%2Fpokemon-me02-phantasmal-flames-dizzying-valley"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dizzying+Valley+Phantasmal+Flames+88+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Firebreather",
+      "title": "Firebreather - Phantasmal Flames #89",
+      "link": "/Phantasmal-Flames-Expansion/Firebreather-Card-89",
+      "image": "https://den-cards.pokellector.com/424/Firebreather.PFL.89.59694.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Firebreather.PFL.89.59694.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "89/94",
+      "card_number": "89",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Firebreather.PFL.89.59694.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662157%2Fpokemon-me02-phantasmal-flames-firebreather-089-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Firebreather+Phantasmal+Flames+89+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Grimsley's Move",
+      "title": "Grimsley's Move - Phantasmal Flames #90",
+      "link": "/Phantasmal-Flames-Expansion/Grimsleys-Move-Card-90",
+      "image": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.90.59695.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.90.59695.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "90/94",
+      "card_number": "90",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.90.59695.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660418%2Fpokemon-me02-phantasmal-flames-grimsleys-move"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grimsley%27s+Move+Phantasmal+Flames+90+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Jumbo Ice Cream",
+      "title": "Jumbo Ice Cream - Phantasmal Flames #91",
+      "link": "/Phantasmal-Flames-Expansion/Jumbo-Ice-Cream-Card-91",
+      "image": "https://den-cards.pokellector.com/424/Jumbo-Ice-Cream.PFL.91.59696.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Jumbo-Ice-Cream.PFL.91.59696.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "91/94",
+      "card_number": "91",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Jumbo-Ice-Cream.PFL.91.59696.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662172%2Fpokemon-me02-phantasmal-flames-jumbo-ice-cream"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Jumbo+Ice+Cream+Phantasmal+Flames+91+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "92": {
+      "number": "92",
+      "name": "Punk Helmet",
+      "title": "Punk Helmet - Phantasmal Flames #92",
+      "link": "/Phantasmal-Flames-Expansion/Punk-Helmet-Card-92",
+      "image": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.92.59697.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.92.59697.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "92/94",
+      "card_number": "92",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.92.59697.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660419%2Fpokemon-me02-phantasmal-flames-punk-helmet"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Punk+Helmet+Phantasmal+Flames+92+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Sacred Charm",
+      "title": "Sacred Charm - Phantasmal Flames #93",
+      "link": "/Phantasmal-Flames-Expansion/Sacred-Charm-Card-93",
+      "image": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.93.59698.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.93.59698.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "93/94",
+      "card_number": "93",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.93.59698.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662223%2Fpokemon-me02-phantasmal-flames-sacred-charm-093-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sacred+Charm+Phantasmal+Flames+93+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "94": {
+      "number": "94",
+      "name": "Wondrous Patch",
+      "title": "Wondrous Patch - Phantasmal Flames #94",
+      "link": "/Phantasmal-Flames-Expansion/Wondrous-Patch-Card-94",
+      "image": "https://den-cards.pokellector.com/424/Wondrous-Patch.PFL.94.59699.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Wondrous-Patch.PFL.94.59699.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "94/94",
+      "card_number": "94",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Wondrous-Patch.PFL.94.59699.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662241%2Fpokemon-me02-phantasmal-flames-wondrous-patch"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Wondrous+Patch+Phantasmal+Flames+94+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Ludicolo",
+      "title": "Ludicolo - Phantasmal Flames #95",
+      "link": "/Phantasmal-Flames-Expansion/Ludicolo-Card-95",
+      "image": "https://den-cards.pokellector.com/424/Ludicolo.PFL.95.59700.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ludicolo.PFL.95.59700.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "95/94",
+      "card_number": "95",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ludicolo.PFL.95.59700.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662180%2Fpokemon-me02-phantasmal-flames-ludicolo-095-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ludicolo+Phantasmal+Flames+95+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Nymble",
+      "title": "Nymble - Phantasmal Flames #96",
+      "link": "/Phantasmal-Flames-Expansion/Nymble-Card-96",
+      "image": "https://den-cards.pokellector.com/424/Nymble.PFL.96.59701.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Nymble.PFL.96.59701.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "96/94",
+      "card_number": "96",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Nymble.PFL.96.59701.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662204%2Fpokemon-me02-phantasmal-flames-nymble-096-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Nymble+Phantasmal+Flames+96+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Dewgong",
+      "title": "Dewgong - Phantasmal Flames #97",
+      "link": "/Phantasmal-Flames-Expansion/Dewgong-Card-97",
+      "image": "https://den-cards.pokellector.com/424/Dewgong.PFL.97.59702.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dewgong.PFL.97.59702.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "97/94",
+      "card_number": "97",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dewgong.PFL.97.59702.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662152%2Fpokemon-me02-phantasmal-flames-dewgong-097-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dewgong+Phantasmal+Flames+97+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Piplup",
+      "title": "Piplup - Phantasmal Flames #98",
+      "link": "/Phantasmal-Flames-Expansion/Piplup-Card-98",
+      "image": "https://den-cards.pokellector.com/424/Piplup.PFL.98.59703.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Piplup.PFL.98.59703.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "98/94",
+      "card_number": "98",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Piplup.PFL.98.59703.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662215%2Fpokemon-me02-phantasmal-flames-piplup-098-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Piplup+Phantasmal+Flames+98+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Yamper",
+      "title": "Yamper - Phantasmal Flames #99",
+      "link": "/Phantasmal-Flames-Expansion/Yamper-Card-99",
+      "image": "https://den-cards.pokellector.com/424/Yamper.PFL.99.59704.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Yamper.PFL.99.59704.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "99/94",
+      "card_number": "99",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Yamper.PFL.99.59704.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662243%2Fpokemon-me02-phantasmal-flames-yamper-099-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Yamper+Phantasmal+Flames+99+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Zacian",
+      "title": "Zacian - Phantasmal Flames #100",
+      "link": "/Phantasmal-Flames-Expansion/Zacian-Card-100",
+      "image": "https://den-cards.pokellector.com/424/Zacian.PFL.100.59705.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Zacian.PFL.100.59705.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "100/94",
+      "card_number": "100",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Zacian.PFL.100.59705.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662245%2Fpokemon-me02-phantasmal-flames-zacian-100-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zacian+Phantasmal+Flames+100+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Flygon",
+      "title": "Flygon - Phantasmal Flames #101",
+      "link": "/Phantasmal-Flames-Expansion/Flygon-Card-101",
+      "image": "https://den-cards.pokellector.com/424/Flygon.PFL.101.59706.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Flygon.PFL.101.59706.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "101/94",
+      "card_number": "101",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Flygon.PFL.101.59706.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662160%2Fpokemon-me02-phantasmal-flames-flygon-101-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flygon+Phantasmal+Flames+101+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "102": {
+      "number": "102",
+      "name": "Paldean Wooper",
+      "title": "Paldean Wooper - Phantasmal Flames #102",
+      "link": "/Phantasmal-Flames-Expansion/Paldean-Wooper-Card-102",
+      "image": "https://den-cards.pokellector.com/424/Paldean-Wooper.PFL.102.59707.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Paldean-Wooper.PFL.102.59707.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "102/94",
+      "card_number": "102",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Paldean-Wooper.PFL.102.59707.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662209%2Fpokemon-me02-phantasmal-flames-paldean-wooper"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Paldean+Wooper+Phantasmal+Flames+102+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "103": {
+      "number": "103",
+      "name": "Toxtricity",
+      "title": "Toxtricity - Phantasmal Flames #103",
+      "link": "/Phantasmal-Flames-Expansion/Toxtricity-Card-103",
+      "image": "https://den-cards.pokellector.com/424/Toxtricity.PFL.103.59708.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Toxtricity.PFL.103.59708.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "103/94",
+      "card_number": "103",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Toxtricity.PFL.103.59708.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662235%2Fpokemon-me02-phantasmal-flames-toxtricity-103-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Toxtricity+Phantasmal+Flames+103+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "104": {
+      "number": "104",
+      "name": "Togedemaru",
+      "title": "Togedemaru - Phantasmal Flames #104",
+      "link": "/Phantasmal-Flames-Expansion/Togedemaru-Card-104",
+      "image": "https://den-cards.pokellector.com/424/Togedemaru.PFL.104.59709.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Togedemaru.PFL.104.59709.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "104/94",
+      "card_number": "104",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Togedemaru.PFL.104.59709.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662233%2Fpokemon-me02-phantasmal-flames-togedemaru-104-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Togedemaru+Phantasmal+Flames+104+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "105": {
+      "number": "105",
+      "name": "Wigglytuff",
+      "title": "Wigglytuff - Phantasmal Flames #105",
+      "link": "/Phantasmal-Flames-Expansion/Wigglytuff-Card-105",
+      "image": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.105.59710.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.105.59710.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "105/94",
+      "card_number": "105",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Wigglytuff.PFL.105.59710.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662240%2Fpokemon-me02-phantasmal-flames-wigglytuff-105-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Wigglytuff+Phantasmal+Flames+105+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "106": {
+      "number": "106",
+      "name": "Meowth",
+      "title": "Meowth - Phantasmal Flames #106",
+      "link": "/Phantasmal-Flames-Expansion/Meowth-Card-106",
+      "image": "https://den-cards.pokellector.com/424/Meowth.PFL.106.59711.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Meowth.PFL.106.59711.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "106/94",
+      "card_number": "106",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Meowth.PFL.106.59711.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.88",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662195%2Fpokemon-me02-phantasmal-flames-meowth"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Meowth+Phantasmal+Flames+106+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "107": {
+      "number": "107",
+      "name": "Ambipom",
+      "title": "Ambipom - Phantasmal Flames #107",
+      "link": "/Phantasmal-Flames-Expansion/Ambipom-Card-107",
+      "image": "https://den-cards.pokellector.com/424/Ambipom.PFL.107.59712.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ambipom.PFL.107.59712.png",
+      "details_scraped": true,
+      "rarity": "Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "107/94",
+      "card_number": "107",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ambipom.PFL.107.59712.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.38",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662128%2Fpokemon-me02-phantasmal-flames-ambipom-107-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ambipom+Phantasmal+Flames+107+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "108": {
+      "number": "108",
+      "name": "Mega Heracross ex",
+      "title": "Mega Heracross ex - Phantasmal Flames #108",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Heracross-ex-Card-108",
+      "image": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.108.59713.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.108.59713.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "108/94",
+      "card_number": "108",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Heracross-ex.PFL.108.59713.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662187%2Fpokemon-me02-phantasmal-flames-mega-heracross-ex-108-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Heracross+ex+Phantasmal+Flames+108+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "109": {
+      "number": "109",
+      "name": "Mega Charizard X ex",
+      "title": "Mega Charizard X ex - Phantasmal Flames #109",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Charizard-X-ex-Card-109",
+      "image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.109.59714.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.109.59714.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "109/94",
+      "card_number": "109",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.109.59714.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662183%2Fpokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$43.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Charizard+X+ex+Phantasmal+Flames+109+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "110": {
+      "number": "110",
+      "name": "Oricorio ex",
+      "title": "Oricorio ex - Phantasmal Flames #110",
+      "link": "/Phantasmal-Flames-Expansion/Oricorio-ex-Card-110",
+      "image": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.110.59715.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.110.59715.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "110/94",
+      "card_number": "110",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Oricorio-ex.PFL.110.59715.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662207%2Fpokemon-me02-phantasmal-flames-oricorio-ex-110-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Oricorio+ex+Phantasmal+Flames+110+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "111": {
+      "number": "111",
+      "name": "Rotom ex",
+      "title": "Rotom ex - Phantasmal Flames #111",
+      "link": "/Phantasmal-Flames-Expansion/Rotom-ex-Card-111",
+      "image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.111.59716.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.111.59716.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "111/94",
+      "card_number": "111",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.111.59716.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662221%2Fpokemon-me02-phantasmal-flames-rotom-ex-111-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rotom+ex+Phantasmal+Flames+111+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "112": {
+      "number": "112",
+      "name": "Mismagius ex",
+      "title": "Mismagius ex - Phantasmal Flames #112",
+      "link": "/Phantasmal-Flames-Expansion/Mismagius-ex-Card-112",
+      "image": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.112.59717.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.112.59717.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "112/94",
+      "card_number": "112",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mismagius-ex.PFL.112.59717.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662200%2Fpokemon-me02-phantasmal-flames-mismagius-ex-112-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mismagius+ex+Phantasmal+Flames+112+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "113": {
+      "number": "113",
+      "name": "Mega Sharpedo ex",
+      "title": "Mega Sharpedo ex - Phantasmal Flames #113",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Sharpedo-ex-Card-113",
+      "image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.113.59718.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.113.59718.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "113/94",
+      "card_number": "113",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.113.59718.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662192%2Fpokemon-me02-phantasmal-flames-mega-sharpedo-ex-113-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Sharpedo+ex+Phantasmal+Flames+113+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "114": {
+      "number": "114",
+      "name": "Empoleon ex",
+      "title": "Empoleon ex - Phantasmal Flames #114",
+      "link": "/Phantasmal-Flames-Expansion/Empoleon-ex-Card-114",
+      "image": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.114.59719.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.114.59719.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "114/94",
+      "card_number": "114",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Empoleon-ex.PFL.114.59719.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662156%2Fpokemon-me02-phantasmal-flames-empoleon-ex-114-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Empoleon+ex+Phantasmal+Flames+114+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "115": {
+      "number": "115",
+      "name": "Mega Lopunny ex",
+      "title": "Mega Lopunny ex - Phantasmal Flames #115",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Lopunny-ex-Card-115",
+      "image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.115.59720.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.115.59720.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "115/94",
+      "card_number": "115",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.115.59720.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662189%2Fpokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Lopunny+ex+Phantasmal+Flames+115+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "116": {
+      "number": "116",
+      "name": "Battle Cage",
+      "title": "Battle Cage - Phantasmal Flames #116",
+      "link": "/Phantasmal-Flames-Expansion/Battle-Cage-Card-116",
+      "image": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.116.59721.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.116.59721.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "116/94",
+      "card_number": "116",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Battle-Cage.PFL.116.59721.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662131%2Fpokemon-me02-phantasmal-flames-battle-cage-116-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Battle+Cage+Phantasmal+Flames+116+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "117": {
+      "number": "117",
+      "name": "Blowtorch",
+      "title": "Blowtorch - Phantasmal Flames #117",
+      "link": "/Phantasmal-Flames-Expansion/Blowtorch-Card-117",
+      "image": "https://den-cards.pokellector.com/424/Blowtorch.PFL.117.59722.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Blowtorch.PFL.117.59722.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "117/94",
+      "card_number": "117",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Blowtorch.PFL.117.59722.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662133%2Fpokemon-me02-phantasmal-flames-blowtorch-117-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Blowtorch+Phantasmal+Flames+117+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "118": {
+      "number": "118",
+      "name": "Dawn",
+      "title": "Dawn - Phantasmal Flames #118",
+      "link": "/Phantasmal-Flames-Expansion/Dawn-Card-118",
+      "image": "https://den-cards.pokellector.com/424/Dawn.PFL.118.59723.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dawn.PFL.118.59723.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "118/94",
+      "card_number": "118",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dawn.PFL.118.59723.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662149%2Fpokemon-me02-phantasmal-flames-dawn-118-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dawn+Phantasmal+Flames+118+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "119": {
+      "number": "119",
+      "name": "Firebreather",
+      "title": "Firebreather - Phantasmal Flames #119",
+      "link": "/Phantasmal-Flames-Expansion/Firebreather-Card-119",
+      "image": "https://den-cards.pokellector.com/424/Firebreather.PFL.119.59724.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Firebreather.PFL.119.59724.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "119/94",
+      "card_number": "119",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Firebreather.PFL.119.59724.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662158%2Fpokemon-me02-phantasmal-flames-firebreather-119-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Firebreather+Phantasmal+Flames+119+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "120": {
+      "number": "120",
+      "name": "Grimsley's Move",
+      "title": "Grimsley's Move - Phantasmal Flames #120",
+      "link": "/Phantasmal-Flames-Expansion/Grimsleys-Move-Card-120",
+      "image": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.120.59725.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.120.59725.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "120/94",
+      "card_number": "120",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Grimsleys-Move.PFL.120.59725.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662167%2Fpokemon-me02-phantasmal-flames-grimsleys-move-120-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Grimsley%27s+Move+Phantasmal+Flames+120+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "121": {
+      "number": "121",
+      "name": "Punk Helmet",
+      "title": "Punk Helmet - Phantasmal Flames #121",
+      "link": "/Phantasmal-Flames-Expansion/Punk-Helmet-Card-121",
+      "image": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.121.59726.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.121.59726.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "121/94",
+      "card_number": "121",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Punk-Helmet.PFL.121.59726.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662218%2Fpokemon-me02-phantasmal-flames-punk-helmet-121-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Punk+Helmet+Phantasmal+Flames+121+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "122": {
+      "number": "122",
+      "name": "Sacred Charm",
+      "title": "Sacred Charm - Phantasmal Flames #122",
+      "link": "/Phantasmal-Flames-Expansion/Sacred-Charm-Card-122",
+      "image": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.122.59727.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.122.59727.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "122/94",
+      "card_number": "122",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Sacred-Charm.PFL.122.59727.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662224%2Fpokemon-me02-phantasmal-flames-sacred-charm-122-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sacred+Charm+Phantasmal+Flames+122+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "123": {
+      "number": "123",
+      "name": "Switch",
+      "title": "Switch - Phantasmal Flames #123",
+      "link": "/Phantasmal-Flames-Expansion/Switch-Card-123",
+      "image": "https://den-cards.pokellector.com/424/Switch.PFL.123.59728.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Switch.PFL.123.59728.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "123/94",
+      "card_number": "123",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Switch.PFL.123.59728.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662231%2Fpokemon-me02-phantasmal-flames-switch"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Switch+Phantasmal+Flames+123+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "124": {
+      "number": "124",
+      "name": "Ignition Energy",
+      "title": "Ignition Energy - Phantasmal Flames #124",
+      "link": "/Phantasmal-Flames-Expansion/Ignition-Energy-Card-124",
+      "image": "https://den-cards.pokellector.com/424/Ignition-Energy.PFL.124.59729.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Ignition-Energy.PFL.124.59729.png",
+      "details_scraped": true,
+      "rarity": "Ultra Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "124/94",
+      "card_number": "124",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Ignition-Energy.PFL.124.59729.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662170%2Fpokemon-me02-phantasmal-flames-ignition-energy"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Ignition+Energy+Phantasmal+Flames+124+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "125": {
+      "number": "125",
+      "name": "Mega Charizard X ex",
+      "title": "Mega Charizard X ex - Phantasmal Flames #125",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Charizard-X-ex-Card-125",
+      "image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.125.59730.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.125.59730.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "125/94",
+      "card_number": "125",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.125.59730.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$759.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662184%2Fpokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$789.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Charizard+X+ex+Phantasmal+Flames+125+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "126": {
+      "number": "126",
+      "name": "Rotom ex",
+      "title": "Rotom ex - Phantasmal Flames #126",
+      "link": "/Phantasmal-Flames-Expansion/Rotom-ex-Card-126",
+      "image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.126.59731.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.126.59731.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "126/94",
+      "card_number": "126",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Rotom-ex.PFL.126.59731.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662222%2Fpokemon-me02-phantasmal-flames-rotom-ex-126-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Rotom+ex+Phantasmal+Flames+126+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "127": {
+      "number": "127",
+      "name": "Mega Sharpedo ex",
+      "title": "Mega Sharpedo ex - Phantasmal Flames #127",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Sharpedo-ex-Card-127",
+      "image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.127.59732.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.127.59732.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "127/94",
+      "card_number": "127",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Sharpedo-ex.PFL.127.59732.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$26.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662193%2Fpokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$32.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Sharpedo+ex+Phantasmal+Flames+127+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "128": {
+      "number": "128",
+      "name": "Mega Lopunny ex",
+      "title": "Mega Lopunny ex - Phantasmal Flames #128",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Lopunny-ex-Card-128",
+      "image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.128.59733.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.128.59733.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "128/94",
+      "card_number": "128",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Lopunny-ex.PFL.128.59733.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$17.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662190%2Fpokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Lopunny+ex+Phantasmal+Flames+128+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "129": {
+      "number": "129",
+      "name": "Dawn",
+      "title": "Dawn - Phantasmal Flames #129",
+      "link": "/Phantasmal-Flames-Expansion/Dawn-Card-129",
+      "image": "https://den-cards.pokellector.com/424/Dawn.PFL.129.59734.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Dawn.PFL.129.59734.png",
+      "details_scraped": true,
+      "rarity": "Special Illustration Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "129/94",
+      "card_number": "129",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Dawn.PFL.129.59734.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$31.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662150%2Fpokemon-me02-phantasmal-flames-dawn-129-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$35.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dawn+Phantasmal+Flames+129+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "130": {
+      "number": "130",
+      "name": "Mega Charizard X ex",
+      "title": "Mega Charizard X ex - Phantasmal Flames #130",
+      "link": "/Phantasmal-Flames-Expansion/Mega-Charizard-X-ex-Card-130",
+      "image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.130.59735.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.130.59735.png",
+      "details_scraped": true,
+      "rarity": "Mega Hyper Rare",
+      "set_name": "Phantasmal Flames",
+      "set_link": "/Phantasmal-Flames-Expansion/",
+      "position": "130/94",
+      "card_number": "130",
+      "total_cards": "94",
+      "image_full": "https://den-cards.pokellector.com/424/Mega-Charizard-X-ex.PFL.130.59735.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$335.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F662185%2Fpokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$99.15",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mega+Charizard+X+ex+Phantasmal+Flames+130+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-27 21:02:13"
+}

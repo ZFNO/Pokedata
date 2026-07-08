@@ -1,0 +1,1456 @@
+{
+  "title": "Trick or Trade Set",
+  "link": "/Trick-or-Trade-Collection/",
+  "logo": "https://den-media.pokellector.com/logos/Trick-or-Trade-collection.2.png",
+  "symbol": null,
+  "scraped": true,
+  "cards": {
+    "16": {
+      "number": "16",
+      "name": "Phantump",
+      "title": "Phantump - Fusion Strike #16",
+      "link": "/Fusion-Strike-Expansion/Phantump-Card-16",
+      "image": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.44915.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.44915.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Fusion Strike",
+      "set_link": "/Fusion-Strike-Expansion/",
+      "position": "16/264",
+      "card_number": "16",
+      "total_cards": "264",
+      "image_full": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.40688.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh08-fusion-strike%2Fphantump"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1735268.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Phantump+Fusion+Strike+16+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.45",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Phantump?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.44915.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Trevenant",
+      "title": "Trevenant - Rebel Clash #15",
+      "link": "/Rebel-Clash-Expansion/Trevenant-Card-15",
+      "image": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.44916.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.44916.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "15/192",
+      "card_number": "15",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.34445.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Ftrevenant"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1664119.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Trevenant+Rebel+Clash+15&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Trevenant-Seed-Bomb-Shadow-Cage?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.44916.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Litwick",
+      "title": "Litwick - Rebel Clash #31",
+      "link": "/Rebel-Clash-Expansion/Litwick-Card-31",
+      "image": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.44917.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.44917.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "31/192",
+      "card_number": "31",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.34457.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Flitwick"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p1664050.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Litwick+Rebel+Clash+31&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.01",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Litwick-Scorch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.44917.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Lampent",
+      "title": "Lampent - Rebel Clash #32",
+      "link": "/Rebel-Clash-Expansion/Lampent-Card-32",
+      "image": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.44918.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.44918.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "32/192",
+      "card_number": "32",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.34333.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Flampent"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1664148.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lampent+Rebel+Clash+32&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Lampent-Reignite?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.44918.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Chandelure",
+      "title": "Chandelure - Rebel Clash #33",
+      "link": "/Rebel-Clash-Expansion/Chandelure-Card-33",
+      "image": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.44919.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.44919.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Rebel Clash",
+      "set_link": "/Rebel-Clash-Expansion/",
+      "position": "33/192",
+      "card_number": "33",
+      "total_cards": "192",
+      "image_full": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.34458.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh02-rebel-clash%2Fchandelure"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1664076.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chandelure+Rebel+Clash+33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Chandelure-Mirage-Flare?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.44919.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Pikachu",
+      "title": "Pikachu - Evolving Skies #49",
+      "link": "/Evolving-Skies-Expansion/Pikachu-Card-49",
+      "image": "https://den-cards.pokellector.com/325/Pikachu.SWSH7.49.44920.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Pikachu.SWSH7.49.44920.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "49/203",
+      "card_number": "49",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Pikachu.SWSH7.49.39918.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1728537.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Evolving+Skies+49+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pikachu?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/325/Pikachu.SWSH7.49.44920.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Cubone",
+      "title": "Cubone - Battle Styles #69",
+      "link": "/Battle-Styles-Expansion/Cubone-Card-69",
+      "image": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.44921.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.44921.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Battle Styles",
+      "set_link": "/Battle-Styles-Expansion/",
+      "position": "69/163",
+      "card_number": "69",
+      "total_cards": "163",
+      "image_full": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.37593.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh05-battle-styles%2Fcubone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.25",
+          "link": "http://www.trollandtoad.com/p1702253.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cubone+Battle+Styles+69+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.44921.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Gastly",
+      "title": "Gastly - Chilling Reign #55",
+      "link": "/Chilling-Reign-Expansion/Gastly-Card-55",
+      "image": "https://den-cards.pokellector.com/320/Gastly.CRE.55.44922.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Gastly.CRE.55.44922.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "55/198",
+      "card_number": "55",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Gastly.CRE.55.39055.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fgastly"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1719331.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gastly+Chilling+Reign+55+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/320/Gastly.CRE.55.44922.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Mewtwo",
+      "title": "Mewtwo - Brilliant Stars #56",
+      "link": "/Brilliant-Stars-Expansion/Mewtwo-Card-56",
+      "image": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.44925.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.44925.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars",
+      "set_link": "/Brilliant-Stars-Expansion/",
+      "position": "56/172",
+      "card_number": "56",
+      "total_cards": "172",
+      "image_full": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.42761.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars%2Fmewtwo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1744270.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mewtwo+Brilliant+Stars+56+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Mewtwo-V1-BRS056?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Stamped Promo",
+          "image": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.43226.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.44925.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Gengar",
+      "title": "Gengar - Chilling Reign #57",
+      "link": "/Chilling-Reign-Expansion/Gengar-Card-57",
+      "image": "https://den-cards.pokellector.com/320/Gengar.CRE.57.44924.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Gengar.CRE.57.44924.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "57/198",
+      "card_number": "57",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Gengar.CRE.57.39057.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fgengar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p1719333.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gengar+Chilling+Reign+57+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/320/Gengar.CRE.57.44924.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Misdreavus",
+      "title": "Misdreavus - Astral Radiance #58",
+      "link": "/Astral-Radiance-Expansion/Misdreavus-Card-58",
+      "image": "https://den-cards.pokellector.com/345/Misdreavus.SWSH10.58.44926.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/345/Misdreavus.SWSH10.58.44926.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Astral Radiance",
+      "set_link": "/Astral-Radiance-Expansion/",
+      "position": "58/189",
+      "card_number": "58",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/345/Misdreavus.SWSH10.58.43726.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh10-astral-radiance%2Fmisdreavus"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1750688.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Misdreavus+Astral+Radiance+58+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Misdreavus-ASR058?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/345/Misdreavus.SWSH10.58.44926.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Mismagius",
+      "title": "Mismagius - Astral Radiance #59",
+      "link": "/Astral-Radiance-Expansion/Mismagius-Card-59",
+      "image": "https://den-cards.pokellector.com/345/Mismagius.SWSH10.59.44927.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/345/Mismagius.SWSH10.59.44927.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Astral Radiance",
+      "set_link": "/Astral-Radiance-Expansion/",
+      "position": "59/189",
+      "card_number": "59",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/345/Mismagius.SWSH10.59.43727.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh10-astral-radiance%2Fmismagius"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1750802.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mismagius+Astral+Radiance+59+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Mismagius-ASR059?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/345/Mismagius.SWSH10.59.44927.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Duskull",
+      "title": "Duskull - Brilliant Stars #60",
+      "link": "/Brilliant-Stars-Expansion/Duskull-Card-60",
+      "image": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.44928.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.44928.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Brilliant Stars",
+      "set_link": "/Brilliant-Stars-Expansion/",
+      "position": "60/172",
+      "card_number": "60",
+      "total_cards": "172",
+      "image_full": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.42765.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1744274.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Duskull+Brilliant+Stars+60+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Duskull-BRS060?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.44928.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Dusclops",
+      "title": "Dusclops - Brilliant Stars #61",
+      "link": "/Brilliant-Stars-Expansion/Dusclops-Card-61",
+      "image": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.44929.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.44929.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Brilliant Stars",
+      "set_link": "/Brilliant-Stars-Expansion/",
+      "position": "61/172",
+      "card_number": "61",
+      "total_cards": "172",
+      "image_full": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.42766.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars%2Fdusclops"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1744275.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusclops+Brilliant+Stars+61+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Dusclops-BRS061?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.44929.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Dusknoir",
+      "title": "Dusknoir - Brilliant Stars #62",
+      "link": "/Brilliant-Stars-Expansion/Dusknoir-Card-62",
+      "image": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.44930.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.44930.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Brilliant Stars",
+      "set_link": "/Brilliant-Stars-Expansion/",
+      "position": "62/172",
+      "card_number": "62",
+      "total_cards": "172",
+      "image_full": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.42767.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh09-brilliant-stars%2Fdusknoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1744276.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Dusknoir+Brilliant+Stars+62+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Dusknoir-BRS062?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.44930.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Pumpkaboo",
+      "title": "Pumpkaboo - Evolving Skies #76",
+      "link": "/Evolving-Skies-Expansion/Pumpkaboo-Card-76",
+      "image": "https://den-cards.pokellector.com/325/Pumpkaboo.SWSH7.76.44931.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Pumpkaboo.SWSH7.76.44931.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "76/203",
+      "card_number": "76",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Pumpkaboo.SWSH7.76.39944.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fpumpkaboo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1728564.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pumpkaboo+Evolving+Skies+76+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pumpkaboo-EVS076?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/325/Pumpkaboo.SWSH7.76.44931.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Gourgeist",
+      "title": "Gourgeist - Evolving Skies #77",
+      "link": "/Evolving-Skies-Expansion/Gourgeist-Card-77",
+      "image": "https://den-cards.pokellector.com/325/Gourgeist.SWSH7.77.44932.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/325/Gourgeist.SWSH7.77.44932.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Evolving Skies",
+      "set_link": "/Evolving-Skies-Expansion/",
+      "position": "77/203",
+      "card_number": "77",
+      "total_cards": "203",
+      "image_full": "https://den-cards.pokellector.com/325/Gourgeist.SWSH7.77.39945.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh07-evolving-skies%2Fgourgeist"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1728565.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gourgeist+Evolving+Skies+77+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gourgeist-EVS077?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/325/Gourgeist.SWSH7.77.44932.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Mimikyu",
+      "title": "Mimikyu - Darkness Ablaze #81",
+      "link": "/Darkness-Ablaze-Expansion/Mimikyu-Card-81",
+      "image": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.44933.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.44933.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "81/189",
+      "card_number": "81",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.35190.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fmimikyu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1670379.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+Darkness+Ablaze+81+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.03",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Mimikyu-DAA81?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cosmos Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Holo",
+          "image": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.42553.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.44933.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Sinistea",
+      "title": "Sinistea - Darkness Ablaze #82",
+      "link": "/Darkness-Ablaze-Expansion/Sinistea-Card-82",
+      "image": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.44934.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.44934.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "82/189",
+      "card_number": "82",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.35191.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fsinistea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1670380.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sinistea+Darkness+Ablaze+82+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Sinistea-Furtive-Drop?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.44934.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Polteageist",
+      "title": "Polteageist - Darkness Ablaze #83",
+      "link": "/Darkness-Ablaze-Expansion/Polteageist-Card-83",
+      "image": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.44935.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.44935.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "83/189",
+      "card_number": "83",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.35192.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fpolteageist"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1670381.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Polteageist+Darkness+Ablaze+83+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Polteageist-Mad-Party?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Thank You Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.44935.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Hatenna",
+      "title": "Hatenna - Champion's Path #18",
+      "link": "/Champions-Path-Expansion/Hatenna-Card-18",
+      "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.44936.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.44936.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Champion's Path",
+      "set_link": "/Champions-Path-Expansion/",
+      "position": "18/73",
+      "card_number": "18",
+      "total_cards": "73",
+      "image_full": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fchampions-path%2Fhatenna"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hatenna+Champion%27s+Path+18+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hatenna-CPA18?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35806.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.44936.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Zarude",
+      "title": "Hattrem - Chilling Reign #19",
+      "link": "/Chilling-Reign-Expansion/Hattrem-Card-19",
+      "image": "https://den-cards.pokellector.com/320/Hattrem.CRE.19.44937.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Hattrem.CRE.19.44937.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "19/198",
+      "card_number": "19",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Zarude.CRE.19.39023.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fzarude"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1719295.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.94",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zarude+Chilling+Reign+19+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Hatterene",
+      "title": "Hatterene - Chilling Reign #73",
+      "link": "/Chilling-Reign-Expansion/Hatterene-Card-73",
+      "image": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.44938.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.44938.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Chilling Reign",
+      "set_link": "/Chilling-Reign-Expansion/",
+      "position": "73/198",
+      "card_number": "73",
+      "total_cards": "198",
+      "image_full": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.39071.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh06-chilling-reign%2Fhatterene"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p1719349.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Hatterene+Chilling+Reign+73+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.44938.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Zubat",
+      "title": "Zubat - Battle Styles #89",
+      "link": "/Battle-Styles-Expansion/Zubat-Card-89",
+      "image": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.44939.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.44939.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Battle Styles",
+      "set_link": "/Battle-Styles-Expansion/",
+      "position": "89/163",
+      "card_number": "89",
+      "total_cards": "163",
+      "image_full": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.37608.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh05-battle-styles%2Fzubat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1702273.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Zubat+Battle+Styles+89+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.44939.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "102": {
+      "number": "102",
+      "name": "Spinarak",
+      "title": "Spinarak - Darkness Ablaze #102",
+      "link": "/Darkness-Ablaze-Expansion/Spinarak-Card-102",
+      "image": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.44940.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.44940.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "102/189",
+      "card_number": "102",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.35210.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fspinarak"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1670400.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Spinarak+Darkness+Ablaze+102+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Spinarak-DAA102?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.44940.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "103": {
+      "number": "103",
+      "name": "Nickit",
+      "title": "Nickit - Astral Radiance #103",
+      "link": "/Astral-Radiance-Expansion/Nickit-Card-103",
+      "image": "https://den-cards.pokellector.com/345/Nickit.SWSH10.103.44944.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/345/Nickit.SWSH10.103.44944.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Astral Radiance",
+      "set_link": "/Astral-Radiance-Expansion/",
+      "position": "103/189",
+      "card_number": "103",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/345/Nickit.SWSH10.103.43770.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh10-astral-radiance%2Fnickit"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1750698.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Nickit+Astral+Radiance+103+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Nickit-ASR103?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/345/Nickit.SWSH10.103.44944.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "93": {
+      "number": "93",
+      "name": "Murkrow",
+      "title": "Murkrow - Battle Styles #93",
+      "link": "/Battle-Styles-Expansion/Murkrow-Card-93",
+      "image": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.44942.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.44942.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Battle Styles",
+      "set_link": "/Battle-Styles-Expansion/",
+      "position": "93/163",
+      "card_number": "93",
+      "total_cards": "163",
+      "image_full": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.37612.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh05-battle-styles%2Fmurkrow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1702277.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Murkrow+Battle+Styles+93+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.44942.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "105": {
+      "number": "105",
+      "name": "Darkrai",
+      "title": "Darkrai - Darkness Ablaze #105",
+      "link": "/Darkness-Ablaze-Expansion/Darkrai-Card-105",
+      "image": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.44943.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.44943.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Darkness Ablaze",
+      "set_link": "/Darkness-Ablaze-Expansion/",
+      "position": "105/189",
+      "card_number": "105",
+      "total_cards": "189",
+      "image_full": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.35213.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fswsh03-darkness-ablaze%2Fdarkrai"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1670403.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+Darkness+Ablaze+105+-complete+-playset+-set+-lot+-digital+-%22reverse+holo%22&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Darkrai-V2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade",
+          "image": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.44943.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cosmos Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 00:46:49"
+}

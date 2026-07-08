@@ -1,0 +1,760 @@
+{
+  "title": "POP Series 5 Set",
+  "link": "/POP-Series-5-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/POP-Series-5.logo.102.png",
+  "symbol": "https://den-media.pokellector.com/logos/POP-Series-5.symbol.102.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Ho-Oh",
+      "title": "Ho-Oh - POP Series 5 #1",
+      "link": "/POP-Series-5-Expansion/Ho-Oh-Card-1",
+      "image": "https://den-cards.pokellector.com/102/Ho-Oh.POP5.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Ho-Oh.POP5.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "1/17",
+      "card_number": "1",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Ho-Oh.POP5.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fho-oh"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p202870.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.51",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Ho-Oh+1+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$150.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_3/hooh_ex__1717__holo_rare/614292"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-1.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Lugia",
+      "title": "Lugia - POP Series 5 #2",
+      "link": "/POP-Series-5-Expansion/Lugia-Card-2",
+      "image": "https://den-cards.pokellector.com/102/Lugia.POP5.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Lugia.POP5.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "2/17",
+      "card_number": "2",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Lugia.POP5.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$96.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Flugia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$61.99",
+          "link": "http://www.trollandtoad.com/p202871.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Lugia+2+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$94.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/lugia__217__nonholo_rare/65619"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-2.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Mew  (delta species)",
+      "title": "Mew  (delta species) - POP Series 5 #3",
+      "link": "/POP-Series-5-Expansion/Mew-delta-species-Card-3",
+      "image": "https://den-cards.pokellector.com/102/Mew-.POP5.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Mew-.POP5.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "3/17",
+      "card_number": "3",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Mew-.POP5.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$350.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fmew-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$149.99",
+          "link": "http://www.trollandtoad.com/p298077.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$71.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Mew++%28delta+species%29+3+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.59",
+          "link": "http://stop2shop.com/foil-pop5-3.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Double Rainbow Energy",
+      "title": "Double Rainbow Energy - POP Series 5 #4",
+      "link": "/POP-Series-5-Expansion/Double-Rainbow-Energy-Card-4",
+      "image": "https://den-cards.pokellector.com/102/Double-Rainbow-Energy.POP5.4.6443.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Double-Rainbow-Energy.POP5.4.6443.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "4/17",
+      "card_number": "4",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Double-Rainbow-Energy.POP5.4.6443.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$22.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fdouble-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$26.29",
+          "link": "http://www.trollandtoad.com/p202873.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Double+Rainbow+Energy+4+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-4.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$27.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/double_rainbow_energy__417__rare/65621"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Charmeleon  (delta species)",
+      "title": "Charmeleon  (delta species) - POP Series 5 #5",
+      "link": "/POP-Series-5-Expansion/Charmeleon-delta-species-Card-5",
+      "image": "https://den-cards.pokellector.com/102/Charmeleon-delta-species.POP5.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Charmeleon-delta-species.POP5.5.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "5/17",
+      "card_number": "5",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Charmeleon-delta-species.POP5.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$69.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fcharmeleon-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$37.99",
+          "link": "http://www.trollandtoad.com/p202874.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Charmeleon++%28delta+species%29+5+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_crystal_guardians/charmeleon_delta_species__30100__uncommon/58921"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-5.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Bill's Maintenance",
+      "title": "Bill's Maintenance - POP Series 5 #6",
+      "link": "/POP-Series-5-Expansion/Bills-Maintenance-Card-6",
+      "image": "https://den-cards.pokellector.com/102/Bills-Maintenance.POP5.6.6445.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Bills-Maintenance.POP5.6.6445.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "6/17",
+      "card_number": "6",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Bills-Maintenance.POP5.6.6445.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fbills-maintenance"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p202875.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.27",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Bill%27s+Maintenance+6+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/bills_maintenance__617__uncommon/65623"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-6.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Rare Candy",
+      "title": "Rare Candy - POP Series 5 #7",
+      "link": "/POP-Series-5-Expansion/Rare-Candy-Card-7",
+      "image": "https://den-cards.pokellector.com/102/Rare-Candy.POP5.7.6446.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Rare-Candy.POP5.7.6446.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "7/17",
+      "card_number": "7",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Rare-Candy.POP5.7.6446.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Frare-candy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.09",
+          "link": "http://www.trollandtoad.com/p202876.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Rare+Candy+7+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-7.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$7.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/rare_candy__717__uncommon/65624"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Boost Energy",
+      "title": "Boost Energy - POP Series 5 #8",
+      "link": "/POP-Series-5-Expansion/Boost-Energy-Card-8",
+      "image": "https://den-cards.pokellector.com/102/Boost-Energy.POP5.8.6447.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Boost-Energy.POP5.8.6447.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "8/17",
+      "card_number": "8",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Boost-Energy.POP5.8.6447.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fboost-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.89",
+          "link": "http://www.trollandtoad.com/p202877.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.93",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Boost+Energy+8+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/boost_energy__817__uncommon/65625"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-8.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Î´ Rainbow Energy",
+      "title": "Î´ Rainbow Energy - POP Series 5 #9",
+      "link": "/POP-Series-5-Expansion/-Rainbow-Energy-Card-9",
+      "image": "https://den-cards.pokellector.com/102/-Rainbow-Energy.POP5.9.6448.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/-Rainbow-Energy.POP5.9.6448.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "9/17",
+      "card_number": "9",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/-Rainbow-Energy.POP5.9.6448.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fdelta-species-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p202878.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$27.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/double_rainbow_energy__417__rare/65621"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-9.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Charmander  (delta species)",
+      "title": "Charmander  (delta species) - POP Series 5 #10",
+      "link": "/POP-Series-5-Expansion/Charmander-delta-species-Card-10",
+      "image": "https://den-cards.pokellector.com/102/Charmander-delta-species.POP5.10.6449.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Charmander-delta-species.POP5.10.6449.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "10/17",
+      "card_number": "10",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Charmander-delta-species.POP5.10.6449.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fcharmander-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p202879.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Charmander++%28delta+species%29+10+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-10.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$2.99",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_crystal_guardians/charmander_delta_species__49100__common/58948"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Meowth  (delta species)",
+      "title": "Meowth  (delta species) - POP Series 5 #11",
+      "link": "/POP-Series-5-Expansion/Meowth-delta-species-Card-11",
+      "image": "https://den-cards.pokellector.com/102/Meowth-delta-species.POP5.11.6450.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Meowth-delta-species.POP5.11.6450.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "11/17",
+      "card_number": "11",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Meowth-delta-species.POP5.11.6450.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fmeowth-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p202880.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Meowth++%28delta+species%29+11+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-11.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Pikachu",
+      "title": "Pikachu - POP Series 5 #12",
+      "link": "/POP-Series-5-Expansion/Pikachu-Card-12",
+      "image": "https://den-cards.pokellector.com/102/Pikachu.POP5.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Pikachu.POP5.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "12/17",
+      "card_number": "12",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Pikachu.POP5.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$200.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$27.99",
+          "link": "http://www.trollandtoad.com/p202881.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$49.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Pikachu+12+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$26.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/pikachu__1217__common/65629"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.47",
+          "link": "http://stop2shop.com/foil-pop5-12.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Pikachu Delta Species",
+      "title": "Pikachu Delta Species - POP Series 5 #13",
+      "link": "/POP-Series-5-Expansion/Pikachu-Delta-Species-Card-13",
+      "image": "https://den-cards.pokellector.com/102/Pikachu-Delta-Species.POP5.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Pikachu-Delta-Species.POP5.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "13/17",
+      "card_number": "13",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Pikachu-Delta-Species.POP5.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$35.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fpikachu-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p202882.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Pikachu+Delta+Species+13+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-13.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Pelipper  (delta species)",
+      "title": "Pelipper  (delta species) - POP Series 5 #14",
+      "link": "/POP-Series-5-Expansion/Pelipper-delta-species-Card-14",
+      "image": "https://den-cards.pokellector.com/102/Pelipper-.POP5.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Pelipper-.POP5.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "14/17",
+      "card_number": "14",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Pelipper-.POP5.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fpelipper-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p298079.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Pelipper++%28delta+species%29+14+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$15.07",
+          "link": "http://stop2shop.com/foil-pop5-14.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$1.25",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_crystal_guardians/pelipper_delta_species__26100__rare/59131"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Zangoose  (delta species)",
+      "title": "Zangoose  (delta species) - POP Series 5 #15",
+      "link": "/POP-Series-5-Expansion/Zangoose-delta-species-Card-15",
+      "image": "https://den-cards.pokellector.com/102/Zangoose-delta-species.POP5.15.6454.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Zangoose-delta-species.POP5.15.6454.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "15/17",
+      "card_number": "15",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Zangoose-delta-species.POP5.15.6454.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fzangoose-delta-species"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p202884.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Zangoose++%28delta+species%29+15+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$3.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-pop_series_promos_5/delta_species_rainbow_energy__917__uncommon/65626"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-15.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Espeon *",
+      "title": "Espeon * - POP Series 5 #16",
+      "link": "/POP-Series-5-Expansion/Espeon--Card-16",
+      "image": "https://den-cards.pokellector.com/102/Espeon-.POP5.16.6455.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Espeon-.POP5.16.6455.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "16/17",
+      "card_number": "16",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Espeon-.POP5.16.6455.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$55,000.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fespeon-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3,099.99",
+          "link": "http://www.trollandtoad.com/p202885.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3,349.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Espeon+%2A+16+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$9.49",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-ex_sandstorm/espeon__16100__rare/61291"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-16.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "17": {
+      "number": "17",
+      "name": "Umbreon *",
+      "title": "Umbreon * - POP Series 5 #17",
+      "link": "/POP-Series-5-Expansion/Umbreon--Card-17",
+      "image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.6456.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.6456.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "POP Series 5",
+      "set_link": "/POP-Series-5-Expansion/",
+      "position": "17/17",
+      "card_number": "17",
+      "total_cards": "17",
+      "image_full": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.6456.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$47.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fpop-series-5%2Fumbreon-star"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3,299.99",
+          "link": "http://www.trollandtoad.com/p202886.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2,375.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=POP+Series+5+Umbreon+%2A+17+-oversized+-jumbo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.99",
+          "link": "http://stop2shop.com/foil-pop5-17.html"
+        },
+        {
+          "vendor": "Collector's Cache",
+          "price": "$65.00",
+          "link": "http://collectorscache.crystalcommerce.com/catalog/pokemon_singles-celebrations_25th_anniversary_set/shining_umbreon_star__1717__ultra_rare/653294"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.40597.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-28 09:54:38"
+}

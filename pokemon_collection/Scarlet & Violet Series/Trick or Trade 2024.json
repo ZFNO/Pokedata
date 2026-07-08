@@ -1,0 +1,1281 @@
+{
+  "title": "Trick or Trade 2024 Set",
+  "link": "/Trick-or-Trade-2024-Collection/",
+  "logo": "https://den-media.pokellector.com/logos/Trick-or-Trade-2024-collection.6.png",
+  "symbol": null,
+  "scraped": true,
+  "cards": {
+    "12": {
+      "number": "12",
+      "name": "Sprigatito",
+      "title": "Sprigatito - Paldea Evolved #12",
+      "link": "/Paldea-Evolved-Expansion/Sprigatito-Card-12",
+      "image": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.54056.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.54056.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "12/193",
+      "card_number": "12",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.47818.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497423%2Fpokemon-sv02-paldea-evolved-sprigatito-012-193"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1780880.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sprigatito+Paldea+Evolved+12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.54056.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Pokemon Horizons Promo",
+          "image": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.54601.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Trevenant",
+      "title": "Trevenant - Twilight Masquerade #13",
+      "link": "/Twilight-Masquerade-Expansion/Trevenant-Card-13",
+      "image": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.54055.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.54055.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "13/167",
+      "card_number": "13",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.53170.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550057%2Fpokemon-sv06-twilight-masquerade-trevenant"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1807393.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Trevenant+Twilight+Masquerade+13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.54055.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Poltchageist",
+      "title": "Poltchageist - Twilight Masquerade #21",
+      "link": "/Twilight-Masquerade-Expansion/Poltchageist-Card-21",
+      "image": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.54057.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.54057.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "21/167",
+      "card_number": "21",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.53178.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550065%2Fpokemon-sv06-twilight-masquerade-poltchageist-021-167"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1807401.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Poltchageist+Twilight+Masquerade+21+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.54057.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Sinistcha",
+      "title": "Sinistcha - Twilight Masquerade #22",
+      "link": "/Twilight-Masquerade-Expansion/Sinistcha-Card-22",
+      "image": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.54058.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.54058.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "22/167",
+      "card_number": "22",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.53179.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550066%2Fpokemon-sv06-twilight-masquerade-sinistcha"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1807402.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sinistcha+Twilight+Masquerade+22+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Stamped Promo",
+          "image": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.53363.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.54058.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Teal Mask Ogerpon",
+      "title": "Teal Mask Ogerpon - Twilight Masquerade #24",
+      "link": "/Twilight-Masquerade-Expansion/Teal-Mask-Ogerpon-Card-24",
+      "image": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.54059.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.54059.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "24/167",
+      "card_number": "24",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.52755.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550068%2Fpokemon-sv06-twilight-masquerade-teal-mask-ogerpon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1807404.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Teal+Mask+Ogerpon+Twilight+Masquerade+24+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "GameStop Promo",
+          "image": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.53156.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "EB Games Promo",
+          "image": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.53157.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.54059.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Litwick",
+      "title": "Litwick - Twilight Masquerade #36",
+      "link": "/Twilight-Masquerade-Expansion/Litwick-Card-36",
+      "image": "https://den-cards.pokellector.com/392/Litwick.TWM.36.54060.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Litwick.TWM.36.54060.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "36/167",
+      "card_number": "36",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Litwick.TWM.36.53191.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550080%2Fpokemon-sv06-twilight-masquerade-litwick"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1807416.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Litwick+Twilight+Masquerade+36+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Litwick.TWM.36.54060.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Mimikyu",
+      "title": "Mimikyu - Paldean Fates #37",
+      "link": "/Paldean-Fates-Expansion/Mimikyu-Card-37",
+      "image": "https://den-cards.pokellector.com/384/Mimikyu.PAF.37.54069.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/384/Mimikyu.PAF.37.54069.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Paldean Fates",
+      "set_link": "/Paldean-Fates-Expansion/",
+      "position": "37/91",
+      "card_number": "37",
+      "total_cards": "91",
+      "image_full": "https://den-cards.pokellector.com/384/Mimikyu.PAF.37.52017.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534183%2Fpokemon-sv-paldean-fates-mimikyu-037-091"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Mimikyu+Paldean+Fates+37+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/384/Mimikyu.PAF.37.54069.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Chandelure",
+      "title": "Chandelure - Twilight Masquerade #38",
+      "link": "/Twilight-Masquerade-Expansion/Chandelure-Card-38",
+      "image": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.54062.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.54062.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "38/167",
+      "card_number": "38",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.53193.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550082%2Fpokemon-sv06-twilight-masquerade-chandelure"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1807418.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Chandelure+Twilight+Masquerade+38+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.54062.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Fuecoco",
+      "title": "Fuecoco - Paradox Rift #23",
+      "link": "/Paradox-Rift-Expansion/Fuecoco-Card-23",
+      "image": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.54063.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.54063.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paradox Rift",
+      "set_link": "/Paradox-Rift-Expansion/",
+      "position": "23/182",
+      "card_number": "23",
+      "total_cards": "182",
+      "image_full": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.50312.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F523630%2Fpokemon-sv04-paradox-rift-fuecoco"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1789789.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fuecoco+Paradox+Rift+23+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.54063.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Quaxly",
+      "title": "Quaxly - Paldea Evolved #50",
+      "link": "/Paldea-Evolved-Expansion/Quaxly-Card-50",
+      "image": "https://den-cards.pokellector.com/367/Quaxly.PAL.50.54064.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/367/Quaxly.PAL.50.54064.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldea Evolved",
+      "set_link": "/Paldea-Evolved-Expansion/",
+      "position": "50/193",
+      "card_number": "50",
+      "total_cards": "193",
+      "image_full": "https://den-cards.pokellector.com/367/Quaxly.PAL.50.47852.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F497461%2Fpokemon-sv02-paldea-evolved-quaxly-050-193"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1780918.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Quaxly+Paldea+Evolved+50+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/367/Quaxly.PAL.50.54064.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Pikachu",
+      "title": "Pikachu - Paldean Fates #18",
+      "link": "/Paldean-Fates-Expansion/Pikachu-Card-18",
+      "image": "https://den-cards.pokellector.com/384/Pikachu.PAF.18.54065.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/384/Pikachu.PAF.18.54065.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldean Fates",
+      "set_link": "/Paldean-Fates-Expansion/",
+      "position": "18/91",
+      "card_number": "18",
+      "total_cards": "91",
+      "image_full": "https://den-cards.pokellector.com/384/Pikachu.PAF.18.51998.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534163%2Fpokemon-sv-paldean-fates-pikachu-018-091"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+Paldean+Fates+18+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/384/Pikachu.PAF.18.54065.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "111": {
+      "number": "111",
+      "name": "Okidogi",
+      "title": "Okidogi - Twilight Masquerade #111",
+      "link": "/Twilight-Masquerade-Expansion/Okidogi-Card-111",
+      "image": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.54066.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.54066.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "111/167",
+      "card_number": "111",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.53264.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550155%2Fpokemon-sv06-twilight-masquerade-okidogi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1807491.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Okidogi+Twilight+Masquerade+111+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.54066.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Scream Tail",
+      "title": "Scream Tail - Temporal Forces #77",
+      "link": "/Temporal-Forces-Expansion/Scream-Tail-Card-77",
+      "image": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.54072.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.54072.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Temporal Forces",
+      "set_link": "/Temporal-Forces-Expansion/",
+      "position": "77/162",
+      "card_number": "77",
+      "total_cards": "162",
+      "image_full": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.52488.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F542821%2Fpokemon-sv05-temporal-forces-scream-tail"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1804572.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Scream+Tail+Temporal+Forces+77+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.54072.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Flutter Mane",
+      "title": "Flutter Mane - Temporal Forces #78",
+      "link": "/Temporal-Forces-Expansion/Flutter-Mane-Card-78",
+      "image": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.54073.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.54073.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Temporal Forces",
+      "set_link": "/Temporal-Forces-Expansion/",
+      "position": "78/162",
+      "card_number": "78",
+      "total_cards": "162",
+      "image_full": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.52489.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F542822%2Fpokemon-sv05-temporal-forces-flutter-mane"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1804573.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flutter+Mane+Temporal+Forces+78+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.54073.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Greavard",
+      "title": "Greavard - Paldean Fates #42",
+      "link": "/Paldean-Fates-Expansion/Greavard-Card-42",
+      "image": "https://den-cards.pokellector.com/384/Greavard.PAF.42.54070.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/384/Greavard.PAF.42.54070.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Paldean Fates",
+      "set_link": "/Paldean-Fates-Expansion/",
+      "position": "42/91",
+      "card_number": "42",
+      "total_cards": "91",
+      "image_full": "https://den-cards.pokellector.com/384/Greavard.PAF.42.52022.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534188%2Fpokemon-sv-paldean-fates-greavard"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Greavard+Paldean+Fates+42+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/384/Greavard.PAF.42.54070.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Houndstone",
+      "title": "Houndstone - Paldean Fates #43",
+      "link": "/Paldean-Fates-Expansion/Houndstone-Card-43",
+      "image": "https://den-cards.pokellector.com/384/Houndstone.PAF.43.54071.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/384/Houndstone.PAF.43.54071.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Paldean Fates",
+      "set_link": "/Paldean-Fates-Expansion/",
+      "position": "43/91",
+      "card_number": "43",
+      "total_cards": "91",
+      "image_full": "https://den-cards.pokellector.com/384/Houndstone.PAF.43.52023.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534190%2Fpokemon-sv-paldean-fates-houndstone-043-091"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.70",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndstone+Paldean+Fates+43+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/384/Houndstone.PAF.43.54071.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "95": {
+      "number": "95",
+      "name": "Munkidori",
+      "title": "Munkidori - Twilight Masquerade #95",
+      "link": "/Twilight-Masquerade-Expansion/Munkidori-Card-95",
+      "image": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.54074.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.54074.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "95/167",
+      "card_number": "95",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.53248.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550139%2Fpokemon-sv06-twilight-masquerade-munkidori"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.75",
+          "link": "http://www.trollandtoad.com/p1807475.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Munkidori+Twilight+Masquerade+95+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.54074.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "96": {
+      "number": "96",
+      "name": "Fezandipiti",
+      "title": "Fezandipiti - Twilight Masquerade #96",
+      "link": "/Twilight-Masquerade-Expansion/Fezandipiti-Card-96",
+      "image": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.54075.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.54075.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Twilight Masquerade",
+      "set_link": "/Twilight-Masquerade-Expansion/",
+      "position": "96/167",
+      "card_number": "96",
+      "total_cards": "167",
+      "image_full": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.53249.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550140%2Fpokemon-sv06-twilight-masquerade-fezandipiti"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1807476.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fezandipiti+Twilight+Masquerade+96+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.54075.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "102": {
+      "number": "102",
+      "name": "Gastly",
+      "title": "Gastly - Temporal Forces #102",
+      "link": "/Temporal-Forces-Expansion/Gastly-Card-102",
+      "image": "https://den-cards.pokellector.com/383/Gastly.TEM.102.54076.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/383/Gastly.TEM.102.54076.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Temporal Forces",
+      "set_link": "/Temporal-Forces-Expansion/",
+      "position": "102/162",
+      "card_number": "102",
+      "total_cards": "162",
+      "image_full": "https://den-cards.pokellector.com/383/Gastly.TEM.102.52513.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F542846%2Fpokemon-sv05-temporal-forces-gastly-102-162"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1804597.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gastly+Temporal+Forces+102+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/383/Gastly.TEM.102.54076.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "103": {
+      "number": "103",
+      "name": "Haunter",
+      "title": "Haunter - Temporal Forces #103",
+      "link": "/Temporal-Forces-Expansion/Haunter-Card-103",
+      "image": "https://den-cards.pokellector.com/383/Haunter.TEM.103.54077.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/383/Haunter.TEM.103.54077.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Temporal Forces",
+      "set_link": "/Temporal-Forces-Expansion/",
+      "position": "103/162",
+      "card_number": "103",
+      "total_cards": "162",
+      "image_full": "https://den-cards.pokellector.com/383/Haunter.TEM.103.52514.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F542847%2Fpokemon-sv05-temporal-forces-haunter"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1804598.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Haunter+Temporal+Forces+103+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/383/Haunter.TEM.103.54077.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Gengar",
+      "title": "Gengar - Paldean Fates #57",
+      "link": "/Paldean-Fates-Expansion/Gengar-Card-57",
+      "image": "https://den-cards.pokellector.com/384/Gengar.PAF.57.54078.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/384/Gengar.PAF.57.54078.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Paldean Fates",
+      "set_link": "/Paldean-Fates-Expansion/",
+      "position": "57/91",
+      "card_number": "57",
+      "total_cards": "91",
+      "image_full": "https://den-cards.pokellector.com/384/Gengar.PAF.57.52037.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534419%2Fpokemon-sv-paldean-fates-gengar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Gengar+Paldean+Fates+57+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/384/Gengar.PAF.57.54078.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "130": {
+      "number": "130",
+      "name": "Umbreon",
+      "title": "Umbreon - Obsidian Flames #130",
+      "link": "/Obsidian-Flames-Expansion/Umbreon-Card-130",
+      "image": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.54079.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.54079.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Obsidian Flames",
+      "set_link": "/Obsidian-Flames-Expansion/",
+      "position": "130/197",
+      "card_number": "130",
+      "total_cards": "197",
+      "image_full": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.48934.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509888%2Fpokemon-sv03-obsidian-flames-umbreon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p1784040.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Umbreon+Obsidian+Flames+130+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Umbreon-OBF130?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "GameStop Promo",
+          "image": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.49232.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "EB Games Promo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.54079.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "131": {
+      "number": "131",
+      "name": "Houndour",
+      "title": "Houndour - Obsidian Flames #131",
+      "link": "/Obsidian-Flames-Expansion/Houndour-Card-131",
+      "image": "https://den-cards.pokellector.com/373/Houndour.OBF.131.54080.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/373/Houndour.OBF.131.54080.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Obsidian Flames",
+      "set_link": "/Obsidian-Flames-Expansion/",
+      "position": "131/197",
+      "card_number": "131",
+      "total_cards": "197",
+      "image_full": "https://den-cards.pokellector.com/373/Houndour.OBF.131.48935.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509890%2Fpokemon-sv03-obsidian-flames-houndour-131-197"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p1784041.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndour+Obsidian+Flames+131+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.03",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Houndour-V1-OBF131?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/373/Houndour.OBF.131.54080.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "133": {
+      "number": "133",
+      "name": "Houndoom",
+      "title": "Houndoom - Obsidian Flames #133",
+      "link": "/Obsidian-Flames-Expansion/Houndoom-Card-133",
+      "image": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.54081.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.54081.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Obsidian Flames",
+      "set_link": "/Obsidian-Flames-Expansion/",
+      "position": "133/197",
+      "card_number": "133",
+      "total_cards": "197",
+      "image_full": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.48937.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509893%2Fpokemon-sv03-obsidian-flames-houndoom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1784043.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Houndoom+Obsidian+Flames+133+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Houndoom-OBF133?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.54081.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "136": {
+      "number": "136",
+      "name": "Darkrai",
+      "title": "Darkrai - Obsidian Flames #136",
+      "link": "/Obsidian-Flames-Expansion/Darkrai-Card-136",
+      "image": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.54082.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.54082.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Obsidian Flames",
+      "set_link": "/Obsidian-Flames-Expansion/",
+      "position": "136/197",
+      "card_number": "136",
+      "total_cards": "197",
+      "image_full": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.48940.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509900%2Fpokemon-sv03-obsidian-flames-darkrai"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p1784046.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Darkrai+Obsidian+Flames+136+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Darkrai-OBF136?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.54082.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Galaxy Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "139": {
+      "number": "139",
+      "name": "Iron Jugulis",
+      "title": "Iron Jugulis - Temporal Forces #139",
+      "link": "/Temporal-Forces-Expansion/Iron-Jugulis-Card-139",
+      "image": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.54083.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.54083.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Temporal Forces",
+      "set_link": "/Temporal-Forces-Expansion/",
+      "position": "139/162",
+      "card_number": "139",
+      "total_cards": "162",
+      "image_full": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.52550.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F542883%2Fpokemon-sv05-temporal-forces-iron-jugulis"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p1804634.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Iron+Jugulis+Temporal+Forces+139+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Trick or Trade 2024",
+          "image": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.54083.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  "scraped_date": "2026-03-27 22:07:04"
+}

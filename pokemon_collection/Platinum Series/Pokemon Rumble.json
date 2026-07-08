@@ -1,0 +1,554 @@
+{
+  "title": "Pokemon Rumble Set",
+  "link": "/Pokemon-Rumble-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Pokemon-Rumble.logo.52.png",
+  "symbol": "https://den-media.pokellector.com/logos/Pokemon-Rumble.symbol.52.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Venusaur",
+      "title": "Venusaur - Pokemon Rumble #1",
+      "link": "/Pokemon-Rumble-Expansion/Venusaur-Card-1",
+      "image": "https://den-cards.pokellector.com/52/Venusaur.RUM.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Venusaur.RUM.1.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "1/16",
+      "card_number": "1",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Venusaur.RUM.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fvenusaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$62.49",
+          "link": "http://www.trollandtoad.com/p307194.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$55.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Venusaur&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Cherrim",
+      "title": "Cherrim - Pokemon Rumble #2",
+      "link": "/Pokemon-Rumble-Expansion/Cherrim-Card-2",
+      "image": "https://den-cards.pokellector.com/52/Cherrim.RUM.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Cherrim.RUM.2.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "2/16",
+      "card_number": "2",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Cherrim.RUM.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$54.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fcherrim"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p307193.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Cherrim&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Ninetales",
+      "title": "Ninetales - Pokemon Rumble #3",
+      "link": "/Pokemon-Rumble-Expansion/Ninetales-Card-3",
+      "image": "https://den-cards.pokellector.com/52/Ninetales.RUM.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Ninetales.RUM.3.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "3/16",
+      "card_number": "3",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Ninetales.RUM.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fninetales"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$39.99",
+          "link": "http://www.trollandtoad.com/p307179.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$50.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Ninetales&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Heatran",
+      "title": "Heatran - Pokemon Rumble #4",
+      "link": "/Pokemon-Rumble-Expansion/Heatran-Card-4",
+      "image": "https://den-cards.pokellector.com/52/Heatran.RUM.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Heatran.RUM.4.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "4/16",
+      "card_number": "4",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Heatran.RUM.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$55.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fheatran"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p307183.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Heatran&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Starmie",
+      "title": "Starmie - Pokemon Rumble #5",
+      "link": "/Pokemon-Rumble-Expansion/Starmie-Card-5",
+      "image": "https://den-cards.pokellector.com/52/Starmie.RUM.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Starmie.RUM.5.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "5/16",
+      "card_number": "5",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Starmie.RUM.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$83.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fstarmie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p307184.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Starmie&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Gyarados",
+      "title": "Gyarados - Pokemon Rumble #6",
+      "link": "/Pokemon-Rumble-Expansion/Gyarados-Card-6",
+      "image": "https://den-cards.pokellector.com/52/Gyarados.RUM.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Gyarados.RUM.6.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "6/16",
+      "card_number": "6",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Gyarados.RUM.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$269.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fgyarados"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$54.99",
+          "link": "http://www.trollandtoad.com/p307180.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Gyarados&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Pikachu",
+      "title": "Pikachu - Pokemon Rumble #7",
+      "link": "/Pokemon-Rumble-Expansion/Pikachu-Card-7",
+      "image": "https://den-cards.pokellector.com/52/Pikachu.RUM.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Pikachu.RUM.7.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "7/16",
+      "card_number": "7",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Pikachu.RUM.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$494.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$169.99",
+          "link": "http://www.trollandtoad.com/p307181.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$74.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Pikachu&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Zapdos",
+      "title": "Zapdos - Pokemon Rumble #8",
+      "link": "/Pokemon-Rumble-Expansion/Zapdos-Card-8",
+      "image": "https://den-cards.pokellector.com/52/Zapdos.RUM.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Zapdos.RUM.8.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "8/16",
+      "card_number": "8",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Zapdos.RUM.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fzapdos"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$38.99",
+          "link": "http://www.trollandtoad.com/p307182.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Zapdos&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Mewtwo",
+      "title": "Mewtwo - Pokemon Rumble #9",
+      "link": "/Pokemon-Rumble-Expansion/Mewtwo-Card-9",
+      "image": "https://den-cards.pokellector.com/52/Mewtwo.RUM.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Mewtwo.RUM.9.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "9/16",
+      "card_number": "9",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Mewtwo.RUM.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$339.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fmewtwo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p307185.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$59.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Mewtwo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Mew",
+      "title": "Mew - Pokemon Rumble #10",
+      "link": "/Pokemon-Rumble-Expansion/Mew-Card-10",
+      "image": "https://den-cards.pokellector.com/52/Mew.RUM.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Mew.RUM.10.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "10/16",
+      "card_number": "10",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Mew.RUM.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$499.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fmew"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$84.99",
+          "link": "http://www.trollandtoad.com/p307186.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$78.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Mew&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Diglett",
+      "title": "Diglett - Pokemon Rumble #11",
+      "link": "/Pokemon-Rumble-Expansion/Diglett-Card-11",
+      "image": "https://den-cards.pokellector.com/52/Diglett.RUM.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Diglett.RUM.11.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "11/16",
+      "card_number": "11",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Diglett.RUM.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$96.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fdiglett"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$24.99",
+          "link": "http://www.trollandtoad.com/p307187.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$24.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Diglett&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Lucario",
+      "title": "Lucario - Pokemon Rumble #12",
+      "link": "/Pokemon-Rumble-Expansion/Lucario-Card-12",
+      "image": "https://den-cards.pokellector.com/52/Lucario.RUM.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Lucario.RUM.12.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "12/16",
+      "card_number": "12",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Lucario.RUM.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$299.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Flucario"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$94.99",
+          "link": "http://www.trollandtoad.com/p307188.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$31.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Lucario&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Skuntank",
+      "title": "Skuntank - Pokemon Rumble #13",
+      "link": "/Pokemon-Rumble-Expansion/Skuntank-Card-13",
+      "image": "https://den-cards.pokellector.com/52/Skuntank.RUM.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Skuntank.RUM.13.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "13/16",
+      "card_number": "13",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Skuntank.RUM.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$48.88",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fskuntank"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$19.99",
+          "link": "http://www.trollandtoad.com/p307189.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Skuntank&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Bastiodon",
+      "title": "Bastiodon - Pokemon Rumble #14",
+      "link": "/Pokemon-Rumble-Expansion/Bastiodon-Card-14",
+      "image": "https://den-cards.pokellector.com/52/Bastiodon.RUM.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Bastiodon.RUM.14.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "14/16",
+      "card_number": "14",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Bastiodon.RUM.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$66.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fbastiodon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.49",
+          "link": "http://www.trollandtoad.com/p307190.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Bastiodon&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Rattata",
+      "title": "Rattata - Pokemon Rumble #15",
+      "link": "/Pokemon-Rumble-Expansion/Rattata-Card-15",
+      "image": "https://den-cards.pokellector.com/52/Rattata.RUM.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Rattata.RUM.15.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "15/16",
+      "card_number": "15",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Rattata.RUM.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$88.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Frattata"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p307191.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$54.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Rattata&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "16": {
+      "number": "16",
+      "name": "Bibarel",
+      "title": "Bibarel - Pokemon Rumble #16",
+      "link": "/Pokemon-Rumble-Expansion/Bibarel-Card-16",
+      "image": "https://den-cards.pokellector.com/52/Bibarel.RUM.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/52/Bibarel.RUM.16.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Pokemon Rumble",
+      "set_link": "/Pokemon-Rumble-Expansion/",
+      "position": "16/16",
+      "card_number": "16",
+      "total_cards": "16",
+      "image_full": "https://den-cards.pokellector.com/52/Bibarel.RUM.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$66.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Frumble%2Fbibarel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.99",
+          "link": "http://www.trollandtoad.com/p307192.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$18.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+rumble+Bibarel&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 09:35:13"
+}

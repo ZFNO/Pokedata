@@ -1,0 +1,5383 @@
+{
+  "title": "EX Emerald Set",
+  "link": "/EX-Emerald-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Emerald.logo.60.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Emerald.symbol.60.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Blaziken",
+      "title": "Blaziken - EX Emerald #1",
+      "link": "/EX-Emerald-Expansion/Blaziken-Card-1",
+      "image": "https://den-cards.pokellector.com/60/Blaziken.EM.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Blaziken.EM.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "1/106",
+      "card_number": "1",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Blaziken.EM.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$52.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fblaziken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$18.59",
+          "link": "http://www.trollandtoad.com/p165249.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Blaziken+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blaziken+-+1%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.59",
+          "link": "http://stop2shop.com/emerald-001.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Deoxys",
+      "title": "Deoxys - EX Emerald #2",
+      "link": "/EX-Emerald-Expansion/Deoxys-Card-2",
+      "image": "https://den-cards.pokellector.com/60/Deoxys.EM.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Deoxys.EM.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "2/106",
+      "card_number": "2",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Deoxys.EM.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$75.96",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdeoxys-speed-forme"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.99",
+          "link": "http://www.trollandtoad.com/p165298.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Deoxys+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Deoxys+%28Speed%29+-+2%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.39",
+          "link": "http://stop2shop.com/emerald-002.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Exploud",
+      "title": "Exploud - EX Emerald #3",
+      "link": "/EX-Emerald-Expansion/Exploud-Card-3",
+      "image": "https://den-cards.pokellector.com/60/Exploud.EM.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Exploud.EM.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "3/106",
+      "card_number": "3",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Exploud.EM.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fexploud"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.99",
+          "link": "http://www.trollandtoad.com/p165337.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Exploud+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Exploud+-+3%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-003.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Gardevoir",
+      "title": "Gardevoir - EX Emerald #4",
+      "link": "/EX-Emerald-Expansion/Gardevoir-Card-4",
+      "image": "https://den-cards.pokellector.com/60/Gardevoir.EM.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Gardevoir.EM.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "4/106",
+      "card_number": "4",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Gardevoir.EM.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$37.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgardevoir"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.49",
+          "link": "http://www.trollandtoad.com/p165348.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Gardevoir+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gardevoir+-+4%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-004.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Groudon",
+      "title": "Groudon - EX Emerald #5",
+      "link": "/EX-Emerald-Expansion/Groudon-Card-5",
+      "image": "https://den-cards.pokellector.com/60/Groudon.EM.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Groudon.EM.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "5/106",
+      "card_number": "5",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Groudon.EM.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$34.36",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgroudon-05"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$21.69",
+          "link": "http://www.trollandtoad.com/p165359.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Groudon+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+-+5%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/emerald-005.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Kyogre",
+      "title": "Kyogre - EX Emerald #6",
+      "link": "/EX-Emerald-Expansion/Kyogre-Card-6",
+      "image": "https://den-cards.pokellector.com/60/Kyogre.EM.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Kyogre.EM.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "6/106",
+      "card_number": "6",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Kyogre.EM.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$52.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fkyogre-06"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$34.99",
+          "link": "http://www.trollandtoad.com/p165390.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.76",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Kyogre+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-006.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+-+15%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Manectric",
+      "title": "Manectric - EX Emerald #7",
+      "link": "/EX-Emerald-Expansion/Manectric-Card-7",
+      "image": "https://den-cards.pokellector.com/60/Manectric.EM.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Manectric.EM.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "7/106",
+      "card_number": "7",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Manectric.EM.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmanectric-07"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p165433.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Manectric+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Manectric+-+7%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-007.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Milotic",
+      "title": "Milotic - EX Emerald #8",
+      "link": "/EX-Emerald-Expansion/Milotic-Card-8",
+      "image": "https://den-cards.pokellector.com/60/Milotic.EM.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Milotic.EM.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "8/106",
+      "card_number": "8",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Milotic.EM.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmilotic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.49",
+          "link": "http://www.trollandtoad.com/p165451.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.57",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Milotic+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Milotic+-+8%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.59",
+          "link": "http://stop2shop.com/emerald-008.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Rayquaza",
+      "title": "Rayquaza - EX Emerald #9",
+      "link": "/EX-Emerald-Expansion/Rayquaza-Card-9",
+      "image": "https://den-cards.pokellector.com/60/Rayquaza.EM.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Rayquaza.EM.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "9/106",
+      "card_number": "9",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Rayquaza.EM.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Frayquaza"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$64.99",
+          "link": "http://www.trollandtoad.com/p165538.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$42.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Rayquaza+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.59",
+          "link": "http://stop2shop.com/emerald-009.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rayquaza+-+9%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Sceptile",
+      "title": "Sceptile - EX Emerald #10",
+      "link": "/EX-Emerald-Expansion/Sceptile-Card-10",
+      "image": "https://den-cards.pokellector.com/60/Sceptile.EM.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Sceptile.EM.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "10/106",
+      "card_number": "10",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Sceptile.EM.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$16.63",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fsceptile"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$15.09",
+          "link": "http://www.trollandtoad.com/p165553.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Sceptile+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sceptile+-+10%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/emerald-010.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Swampert",
+      "title": "Swampert - EX Emerald #11",
+      "link": "/EX-Emerald-Expansion/Swampert-Card-11",
+      "image": "https://den-cards.pokellector.com/60/Swampert.EM.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Swampert.EM.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "11/106",
+      "card_number": "11",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Swampert.EM.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$75.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fswampert"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$34.99",
+          "link": "http://www.trollandtoad.com/p165605.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Swampert+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swampert+-+11%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-011.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Chimecho",
+      "title": "Chimecho - EX Emerald #12",
+      "link": "/EX-Emerald-Expansion/Chimecho-Card-12",
+      "image": "https://den-cards.pokellector.com/60/Chimecho.EM.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Chimecho.EM.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "12/106",
+      "card_number": "12",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Chimecho.EM.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fchimecho"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p165274.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Chimecho+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-012.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Chimecho+-+12%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Glalie",
+      "title": "Glalie - EX Emerald #13",
+      "link": "/EX-Emerald-Expansion/Glalie-Card-13",
+      "image": "https://den-cards.pokellector.com/60/Glalie.EM.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Glalie.EM.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "13/106",
+      "card_number": "13",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Glalie.EM.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.43",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fglalie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165352.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Glalie+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-013.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Glalie+-+13%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Groudon",
+      "title": "Groudon - EX Emerald #14",
+      "link": "/EX-Emerald-Expansion/Groudon-Card-14",
+      "image": "https://den-cards.pokellector.com/60/Groudon.EM.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Groudon.EM.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "14/106",
+      "card_number": "14",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Groudon.EM.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgroudon-14"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.09",
+          "link": "http://www.trollandtoad.com/p165358.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Groudon+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.95",
+          "link": "http://stop2shop.com/emerald-014.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Groudon+-+14%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Kyogre",
+      "title": "Kyogre - EX Emerald #15",
+      "link": "/EX-Emerald-Expansion/Kyogre-Card-15",
+      "image": "https://den-cards.pokellector.com/60/Kyogre.EM.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Kyogre.EM.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "15/106",
+      "card_number": "15",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Kyogre.EM.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.88",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fkyogre-15"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p165391.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.19",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Kyogre+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kyogre+-+15%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.79",
+          "link": "http://stop2shop.com/emerald-015.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Manectric",
+      "title": "Manectric - EX Emerald #16",
+      "link": "/EX-Emerald-Expansion/Manectric-Card-16",
+      "image": "https://den-cards.pokellector.com/60/Manectric.EM.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Manectric.EM.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "16/106",
+      "card_number": "16",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Manectric.EM.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmanectric-16"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p165431.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.34",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Manectric+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-016.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Manectric+-+16%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Nosepass",
+      "title": "Nosepass - EX Emerald #17",
+      "link": "/EX-Emerald-Expansion/Nosepass-Card-17",
+      "image": "https://den-cards.pokellector.com/60/Nosepass.EM.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Nosepass.EM.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "17/106",
+      "card_number": "17",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Nosepass.EM.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fnosepass"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p165477.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.96",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Nosepass+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Nosepass+-+17%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-017.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Relicanth",
+      "title": "Relicanth - EX Emerald #18",
+      "link": "/EX-Emerald-Expansion/Relicanth-Card-18",
+      "image": "https://den-cards.pokellector.com/60/Relicanth.EM.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Relicanth.EM.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "18/106",
+      "card_number": "18",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Relicanth.EM.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Frelicanth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p165543.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.72",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Relicanth+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-018.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Relicanth+-+18%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Rhydon",
+      "title": "Rhydon - EX Emerald #19",
+      "link": "/EX-Emerald-Expansion/Rhydon-Card-19",
+      "image": "https://den-cards.pokellector.com/60/Rhydon.EM.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Rhydon.EM.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "19/106",
+      "card_number": "19",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Rhydon.EM.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Frhydon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p165544.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Rhydon+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-019.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rhydon+-+19%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Seviper",
+      "title": "Seviper - EX Emerald #20",
+      "link": "/EX-Emerald-Expansion/Seviper-Card-20",
+      "image": "https://den-cards.pokellector.com/60/Seviper.EM.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Seviper.EM.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "20/106",
+      "card_number": "20",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Seviper.EM.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fseviper"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p165563.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Seviper+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Seviper+-+20%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-020.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Zangoose",
+      "title": "Zangoose - EX Emerald #21",
+      "link": "/EX-Emerald-Expansion/Zangoose-Card-21",
+      "image": "https://den-cards.pokellector.com/60/Zangoose.EM.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Zangoose.EM.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "21/106",
+      "card_number": "21",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Zangoose.EM.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.54",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fzangoose"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p165653.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Zangoose+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zangoose+-+21%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-021.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Breloom",
+      "title": "Breloom - EX Emerald #22",
+      "link": "/EX-Emerald-Expansion/Breloom-Card-22",
+      "image": "https://den-cards.pokellector.com/60/Breloom.EM.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Breloom.EM.22.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "22/106",
+      "card_number": "22",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Breloom.EM.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fbreloom"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p165251.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Breloom+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-022.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Breloom+-+22%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Camerupt",
+      "title": "Camerupt - EX Emerald #23",
+      "link": "/EX-Emerald-Expansion/Camerupt-Card-23",
+      "image": "https://den-cards.pokellector.com/60/Camerupt.EM.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Camerupt.EM.23.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "23/106",
+      "card_number": "23",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Camerupt.EM.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fcamerupt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165262.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Camerupt+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Camerupt+-+23%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-023.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Claydol",
+      "title": "Claydol - EX Emerald #24",
+      "link": "/EX-Emerald-Expansion/Claydol-Card-24",
+      "image": "https://den-cards.pokellector.com/60/Claydol.EM.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Claydol.EM.24.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "24/106",
+      "card_number": "24",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Claydol.EM.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fclaydol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p165276.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Claydol+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Claydol+-+24%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-024.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Combusken",
+      "title": "Combusken - EX Emerald #25",
+      "link": "/EX-Emerald-Expansion/Combusken-Card-25",
+      "image": "https://den-cards.pokellector.com/60/Combusken.EM.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Combusken.EM.25.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "25/106",
+      "card_number": "25",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Combusken.EM.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fcombusken"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165281.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Combusken+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Combusken+-+25%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-025.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Dodrio",
+      "title": "Dodrio - EX Emerald #26",
+      "link": "/EX-Emerald-Expansion/Dodrio-Card-26",
+      "image": "https://den-cards.pokellector.com/60/Dodrio.EM.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Dodrio.EM.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "26/106",
+      "card_number": "26",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Dodrio.EM.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.76",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdodrio"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p165303.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Dodrio+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dodrio+-+26%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-026.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Electrode",
+      "title": "Electrode - EX Emerald #27",
+      "link": "/EX-Emerald-Expansion/Electrode-Card-27",
+      "image": "https://den-cards.pokellector.com/60/Electrode.EM.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Electrode.EM.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "27/106",
+      "card_number": "27",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Electrode.EM.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Felectrode"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.96",
+          "link": "http://www.trollandtoad.com/p165328.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Electrode+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrode+-+27%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-027.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Grovyle",
+      "title": "Grovyle - EX Emerald #28",
+      "link": "/EX-Emerald-Expansion/Grovyle-Card-28",
+      "image": "https://den-cards.pokellector.com/60/Grovyle.EM.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Grovyle.EM.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "28/106",
+      "card_number": "28",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Grovyle.EM.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgrovyle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p165360.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Grovyle+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-028.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grovyle+-+28%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Grumpig",
+      "title": "Grumpig - EX Emerald #29",
+      "link": "/EX-Emerald-Expansion/Grumpig-Card-29",
+      "image": "https://den-cards.pokellector.com/60/Grumpig.EM.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Grumpig.EM.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "29/106",
+      "card_number": "29",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Grumpig.EM.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgrumpig-29"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p165363.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Grumpig+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-029.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grumpig+-+29%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Grumpig",
+      "title": "Grumpig - EX Emerald #30",
+      "link": "/EX-Emerald-Expansion/Grumpig-Card-30",
+      "image": "https://den-cards.pokellector.com/60/Grumpig.EM.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Grumpig.EM.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "30/106",
+      "card_number": "30",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Grumpig.EM.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgrumpig-30"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p165364.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.92",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Grumpig+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grumpig+-+30%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-030.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Hariyama",
+      "title": "Hariyama - EX Emerald #31",
+      "link": "/EX-Emerald-Expansion/Hariyama-Card-31",
+      "image": "https://den-cards.pokellector.com/60/Hariyama.EM.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Hariyama.EM.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "31/106",
+      "card_number": "31",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Hariyama.EM.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.67",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fhariyama"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165369.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.84",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Hariyama+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Hariyama+-+31%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-031.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Illumise",
+      "title": "Illumise - EX Emerald #32",
+      "link": "/EX-Emerald-Expansion/Illumise-Card-32",
+      "image": "https://den-cards.pokellector.com/60/Illumise.EM.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Illumise.EM.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "32/106",
+      "card_number": "32",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Illumise.EM.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fillumise"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.89",
+          "link": "http://www.trollandtoad.com/p165374.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.46",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Illumise+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Illumise+-+32%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-032.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Kirlia",
+      "title": "Kirlia - EX Emerald #33",
+      "link": "/EX-Emerald-Expansion/Kirlia-Card-33",
+      "image": "https://den-cards.pokellector.com/60/Kirlia.EM.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Kirlia.EM.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "33/106",
+      "card_number": "33",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Kirlia.EM.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fkirlia"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p165386.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Kirlia+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Kirlia+-+33%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-033.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Linoone",
+      "title": "Linoone - EX Emerald #34",
+      "link": "/EX-Emerald-Expansion/Linoone-Card-34",
+      "image": "https://den-cards.pokellector.com/60/Linoone.EM.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Linoone.EM.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "34/106",
+      "card_number": "34",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Linoone.EM.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Flinoone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p165404.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.71",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Linoone+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Linoone+-+34%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-034.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Loudred",
+      "title": "Loudred - EX Emerald #35",
+      "link": "/EX-Emerald-Expansion/Loudred-Card-35",
+      "image": "https://den-cards.pokellector.com/60/Loudred.EM.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Loudred.EM.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "35/106",
+      "card_number": "35",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Loudred.EM.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Floudred"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.28",
+          "link": "http://www.trollandtoad.com/p165414.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Loudred+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Loudred+-+35%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.89",
+          "link": "http://stop2shop.com/emerald-035.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Marshtomp",
+      "title": "Marshtomp - EX Emerald #36",
+      "link": "/EX-Emerald-Expansion/Marshtomp-Card-36",
+      "image": "https://den-cards.pokellector.com/60/Marshtomp.EM.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Marshtomp.EM.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "36/106",
+      "card_number": "36",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Marshtomp.EM.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmarshtomp"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p165438.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Marshtomp+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-036.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Marshtomp+-+36%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Minun",
+      "title": "Minun - EX Emerald #37",
+      "link": "/EX-Emerald-Expansion/Minun-Card-37",
+      "image": "https://den-cards.pokellector.com/60/Minun.EM.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Minun.EM.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "37/106",
+      "card_number": "37",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Minun.EM.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fminun"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p165453.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.22",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Minun+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Minun+-+37%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-037.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Ninetales",
+      "title": "Ninetales - EX Emerald #38",
+      "link": "/EX-Emerald-Expansion/Ninetales-Card-38",
+      "image": "https://den-cards.pokellector.com/60/Ninetales.EM.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Ninetales.EM.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "38/106",
+      "card_number": "38",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Ninetales.EM.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fninetales"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.39",
+          "link": "http://www.trollandtoad.com/p165475.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$9.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Ninetales+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ninetales+-+38%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-038.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Plusle",
+      "title": "Plusle - EX Emerald #39",
+      "link": "/EX-Emerald-Expansion/Plusle-Card-39",
+      "image": "https://den-cards.pokellector.com/60/Plusle.EM.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Plusle.EM.39.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "39/106",
+      "card_number": "39",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Plusle.EM.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fplusle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p165506.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Plusle+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-039.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Plusle+-+39%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Swalot",
+      "title": "Swalot - EX Emerald #40",
+      "link": "/EX-Emerald-Expansion/Swalot-Card-40",
+      "image": "https://den-cards.pokellector.com/60/Swalot.EM.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Swalot.EM.40.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "40/106",
+      "card_number": "40",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Swalot.EM.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fswalot"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p165604.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Swalot+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swalot+-+40%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-040.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Swellow",
+      "title": "Swellow - EX Emerald #41",
+      "link": "/EX-Emerald-Expansion/Swellow-Card-41",
+      "image": "https://den-cards.pokellector.com/60/Swellow.EM.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Swellow.EM.41.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "41/106",
+      "card_number": "41",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Swellow.EM.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fswellow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p165606.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Swellow+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swellow+-+41%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-041.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Volbeat",
+      "title": "Volbeat - EX Emerald #42",
+      "link": "/EX-Emerald-Expansion/Volbeat-Card-42",
+      "image": "https://den-cards.pokellector.com/60/Volbeat.EM.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Volbeat.EM.42.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "42/106",
+      "card_number": "42",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Volbeat.EM.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fvolbeat"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p165627.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Volbeat+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Volbeat+-+42%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.49",
+          "link": "http://stop2shop.com/emerald-042.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Baltoy",
+      "title": "Baltoy - EX Emerald #43",
+      "link": "/EX-Emerald-Expansion/Baltoy-Card-43",
+      "image": "https://den-cards.pokellector.com/60/Baltoy.EM.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Baltoy.EM.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "43/106",
+      "card_number": "43",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Baltoy.EM.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fbaltoy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165239.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.82",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Baltoy+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Baltoy+-+43%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-043.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Cacnea",
+      "title": "Cacnea - EX Emerald #44",
+      "link": "/EX-Emerald-Expansion/Cacnea-Card-44",
+      "image": "https://den-cards.pokellector.com/60/Cacnea.EM.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Cacnea.EM.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "44/106",
+      "card_number": "44",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Cacnea.EM.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fcacnea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165257.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Cacnea+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-044.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cacnea+-+44%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Doduo",
+      "title": "Doduo - EX Emerald #45",
+      "link": "/EX-Emerald-Expansion/Doduo-Card-45",
+      "image": "https://den-cards.pokellector.com/60/Doduo.EM.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Doduo.EM.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "45/106",
+      "card_number": "45",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Doduo.EM.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdoduo"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165304.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Doduo+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Doduo+-+45%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-045.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Duskull",
+      "title": "Duskull - EX Emerald #46",
+      "link": "/EX-Emerald-Expansion/Duskull-Card-46",
+      "image": "https://den-cards.pokellector.com/60/Duskull.EM.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Duskull.EM.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "46/106",
+      "card_number": "46",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Duskull.EM.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fduskull"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p165316.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Duskull+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-046.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Duskull+-+46%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Electrike",
+      "title": "Electrike - EX Emerald #47",
+      "link": "/EX-Emerald-Expansion/Electrike-Card-47",
+      "image": "https://den-cards.pokellector.com/60/Electrike.EM.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Electrike.EM.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "47/106",
+      "card_number": "47",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Electrike.EM.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Felectrike-47"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p165323.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Electrike+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrike+-+47%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-047.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Electrike",
+      "title": "Electrike - EX Emerald #48",
+      "link": "/EX-Emerald-Expansion/Electrike-Card-48",
+      "image": "https://den-cards.pokellector.com/60/Electrike.EM.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Electrike.EM.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "48/106",
+      "card_number": "48",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Electrike.EM.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Felectrike-48"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.86",
+          "link": "http://www.trollandtoad.com/p165326.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Electrike+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Electrike+-+48%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-048.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Feebas",
+      "title": "Feebas - EX Emerald #49",
+      "link": "/EX-Emerald-Expansion/Feebas-Card-49",
+      "image": "https://den-cards.pokellector.com/60/Feebas.EM.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Feebas.EM.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "49/106",
+      "card_number": "49",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Feebas.EM.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ffeebas-49"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165343.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.87",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Feebas+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Feebas+-+49%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-049.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Feebas",
+      "title": "Feebas - EX Emerald #50",
+      "link": "/EX-Emerald-Expansion/Feebas-Card-50",
+      "image": "https://den-cards.pokellector.com/60/Feebas.EM.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Feebas.EM.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "50/106",
+      "card_number": "50",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Feebas.EM.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ffeebas-50"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165344.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Feebas+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Feebas+-+50%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-050.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Gulpin",
+      "title": "Gulpin - EX Emerald #51",
+      "link": "/EX-Emerald-Expansion/Gulpin-Card-51",
+      "image": "https://den-cards.pokellector.com/60/Gulpin.EM.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Gulpin.EM.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "51/106",
+      "card_number": "51",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Gulpin.EM.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgulpin"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p165366.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Gulpin+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Gulpin+-+51%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-051.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Larvitar",
+      "title": "Larvitar - EX Emerald #52",
+      "link": "/EX-Emerald-Expansion/Larvitar-Card-52",
+      "image": "https://den-cards.pokellector.com/60/Larvitar.EM.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Larvitar.EM.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "52/106",
+      "card_number": "52",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Larvitar.EM.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Flarvitar"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165396.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Larvitar+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-052.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Larvitar+-+52%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Luvdisc",
+      "title": "Luvdisc - EX Emerald #53",
+      "link": "/EX-Emerald-Expansion/Luvdisc-Card-53",
+      "image": "https://den-cards.pokellector.com/60/Luvdisc.EM.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Luvdisc.EM.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "53/106",
+      "card_number": "53",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Luvdisc.EM.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.36",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fluvdisc"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165421.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Luvdisc+53+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Luvdisc+-+53%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-053.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Makuhita",
+      "title": "Makuhita - EX Emerald #54",
+      "link": "/EX-Emerald-Expansion/Makuhita-Card-54",
+      "image": "https://den-cards.pokellector.com/60/Makuhita.EM.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Makuhita.EM.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "54/106",
+      "card_number": "54",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Makuhita.EM.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmakuhita"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165429.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Makuhita+54+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Makuhita+-+54%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-054.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Meditite",
+      "title": "Meditite - EX Emerald #55",
+      "link": "/EX-Emerald-Expansion/Meditite-Card-55",
+      "image": "https://den-cards.pokellector.com/60/Meditite.EM.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Meditite.EM.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "55/106",
+      "card_number": "55",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Meditite.EM.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmeditite"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165443.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Meditite+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-055.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meditite+-+55%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Mudkip",
+      "title": "Mudkip - EX Emerald #56",
+      "link": "/EX-Emerald-Expansion/Mudkip-Card-56",
+      "image": "https://den-cards.pokellector.com/60/Mudkip.EM.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Mudkip.EM.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "56/106",
+      "card_number": "56",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Mudkip.EM.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmudkip"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.97",
+          "link": "http://www.trollandtoad.com/p165460.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.09",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Mudkip+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mudkip+-+56%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-056.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Numel",
+      "title": "Numel - EX Emerald #57",
+      "link": "/EX-Emerald-Expansion/Numel-Card-57",
+      "image": "https://den-cards.pokellector.com/60/Numel.EM.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Numel.EM.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "57/106",
+      "card_number": "57",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Numel.EM.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fnumel-57"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165480.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Numel+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-057.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Numel+-+57%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Numel",
+      "title": "Numel - EX Emerald #58",
+      "link": "/EX-Emerald-Expansion/Numel-Card-58",
+      "image": "https://den-cards.pokellector.com/60/Numel.EM.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Numel.EM.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "58/106",
+      "card_number": "58",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Numel.EM.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fnumel-58"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165481.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Numel+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-058.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Numel+-+58%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Pichu",
+      "title": "Pichu - EX Emerald #59",
+      "link": "/EX-Emerald-Expansion/Pichu-Card-59",
+      "image": "https://den-cards.pokellector.com/60/Pichu.EM.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Pichu.EM.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "59/106",
+      "card_number": "59",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Pichu.EM.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.94",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fpichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.99",
+          "link": "http://www.trollandtoad.com/p165499.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Pichu+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pichu+-+59%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-059.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Pikachu",
+      "title": "Pikachu - EX Emerald #60",
+      "link": "/EX-Emerald-Expansion/Pikachu-Card-60",
+      "image": "https://den-cards.pokellector.com/60/Pikachu.EM.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Pikachu.EM.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "60/106",
+      "card_number": "60",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Pikachu.EM.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.39",
+          "link": "http://www.trollandtoad.com/p165503.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Pikachu+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.69",
+          "link": "http://stop2shop.com/emerald-060.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+60%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Ralts",
+      "title": "Ralts - EX Emerald #61",
+      "link": "/EX-Emerald-Expansion/Ralts-Card-61",
+      "image": "https://den-cards.pokellector.com/60/Ralts.EM.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Ralts.EM.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "61/106",
+      "card_number": "61",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Ralts.EM.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.59",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fralts"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165529.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Ralts+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Ralts+-+61%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-061.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Rhyhorn",
+      "title": "Rhyhorn - EX Emerald #62",
+      "link": "/EX-Emerald-Expansion/Rhyhorn-Card-62",
+      "image": "https://den-cards.pokellector.com/60/Rhyhorn.EM.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Rhyhorn.EM.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "62/106",
+      "card_number": "62",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Rhyhorn.EM.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Frhyhorn"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165545.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Rhyhorn+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-062.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rhyhorn+-+62%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Shroomish",
+      "title": "Shroomish - EX Emerald #63",
+      "link": "/EX-Emerald-Expansion/Shroomish-Card-63",
+      "image": "https://den-cards.pokellector.com/60/Shroomish.EM.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Shroomish.EM.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "63/106",
+      "card_number": "63",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Shroomish.EM.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fshroomish"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.39",
+          "link": "http://www.trollandtoad.com/p165571.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Shroomish+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Shroomish+-+63%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-063.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Snorunt",
+      "title": "Snorunt - EX Emerald #64",
+      "link": "/EX-Emerald-Expansion/Snorunt-Card-64",
+      "image": "https://den-cards.pokellector.com/60/Snorunt.EM.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Snorunt.EM.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "64/106",
+      "card_number": "64",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Snorunt.EM.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fsnorunt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165585.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Snorunt+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Snorunt+-+64%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-064.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Spoink",
+      "title": "Spoink - EX Emerald #65",
+      "link": "/EX-Emerald-Expansion/Spoink-Card-65",
+      "image": "https://den-cards.pokellector.com/60/Spoink.EM.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Spoink.EM.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "65/106",
+      "card_number": "65",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Spoink.EM.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fspoink-65"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165591.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Spoink+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-065.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+65%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Spoink",
+      "title": "Spoink - EX Emerald #66",
+      "link": "/EX-Emerald-Expansion/Spoink-Card-66",
+      "image": "https://den-cards.pokellector.com/60/Spoink.EM.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Spoink.EM.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "66/106",
+      "card_number": "66",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Spoink.EM.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fspoink-66"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165592.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Spoink+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Spoink+-+66%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-066.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Swablu",
+      "title": "Swablu - EX Emerald #67",
+      "link": "/EX-Emerald-Expansion/Swablu-Card-67",
+      "image": "https://den-cards.pokellector.com/60/Swablu.EM.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Swablu.EM.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "67/106",
+      "card_number": "67",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Swablu.EM.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fswablu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p165602.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Swablu+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-067.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swablu+-+67%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Taillow",
+      "title": "Taillow - EX Emerald #68",
+      "link": "/EX-Emerald-Expansion/Taillow-Card-68",
+      "image": "https://den-cards.pokellector.com/60/Taillow.EM.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Taillow.EM.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "68/106",
+      "card_number": "68",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Taillow.EM.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ftaillow"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165610.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.85",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Taillow+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-068.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Taillow+-+68%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Torchic",
+      "title": "Torchic - EX Emerald #69",
+      "link": "/EX-Emerald-Expansion/Torchic-Card-69",
+      "image": "https://den-cards.pokellector.com/60/Torchic.EM.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Torchic.EM.69.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "69/106",
+      "card_number": "69",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Torchic.EM.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ftorchic"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165614.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.37",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Torchic+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Torchic+-+69%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-069.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Treecko",
+      "title": "Treecko - EX Emerald #70",
+      "link": "/EX-Emerald-Expansion/Treecko-Card-70",
+      "image": "https://den-cards.pokellector.com/60/Treecko.EM.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Treecko.EM.70.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "70/106",
+      "card_number": "70",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Treecko.EM.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ftreecko"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165616.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Treecko+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-070.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Treecko+-+70%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Voltorb",
+      "title": "Voltorb - EX Emerald #71",
+      "link": "/EX-Emerald-Expansion/Voltorb-Card-71",
+      "image": "https://den-cards.pokellector.com/60/Voltorb.EM.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Voltorb.EM.71.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "71/106",
+      "card_number": "71",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Voltorb.EM.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fvoltorb"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165629.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Voltorb+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Voltorb+-+71%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-071.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Vulpix",
+      "title": "Vulpix - EX Emerald #72",
+      "link": "/EX-Emerald-Expansion/Vulpix-Card-72",
+      "image": "https://den-cards.pokellector.com/60/Vulpix.EM.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Vulpix.EM.72.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "72/106",
+      "card_number": "72",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Vulpix.EM.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fvulpix"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p165632.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.86",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Vulpix+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Vulpix+-+72%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-072.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Whismur",
+      "title": "Whismur - EX Emerald #73",
+      "link": "/EX-Emerald-Expansion/Whismur-Card-73",
+      "image": "https://den-cards.pokellector.com/60/Whismur.EM.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Whismur.EM.73.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "73/106",
+      "card_number": "73",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Whismur.EM.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fwhismur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165643.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.90",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Whismur+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Whismur+-+73%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-073.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Zigzagoon",
+      "title": "Zigzagoon - EX Emerald #74",
+      "link": "/EX-Emerald-Expansion/Zigzagoon-Card-74",
+      "image": "https://den-cards.pokellector.com/60/Zigzagoon.EM.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Zigzagoon.EM.74.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "74/106",
+      "card_number": "74",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Zigzagoon.EM.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fzigzagoon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p165655.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.55",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Zigzagoon+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Zigzagoon+-+74%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-074.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Battle Frontier",
+      "title": "Battle Frontier - EX Emerald #75",
+      "link": "/EX-Emerald-Expansion/Battle-Frontier-Card-75",
+      "image": "https://den-cards.pokellector.com/60/Battle-Frontier.EM.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Battle-Frontier.EM.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "75/106",
+      "card_number": "75",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Battle-Frontier.EM.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fbattle-frontier"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.89",
+          "link": "http://www.trollandtoad.com/p165242.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.56",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Battle+Frontier+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.79",
+          "link": "http://stop2shop.com/emerald-075.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Battle+Frontier+-+75%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Double Full Heal",
+      "title": "Double Full Heal - EX Emerald #76",
+      "link": "/EX-Emerald-Expansion/Double-Full-Heal-Card-76",
+      "image": "https://den-cards.pokellector.com/60/Double-Full-Heal.EM.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Double-Full-Heal.EM.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "76/106",
+      "card_number": "76",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Double-Full-Heal.EM.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdouble-full-heal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p165307.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.33",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Double+Full+Heal+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Full+Heal+-+76%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/emerald-076.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Lanette's Net Search",
+      "title": "Lanette's Net Search - EX Emerald #77",
+      "link": "/EX-Emerald-Expansion/Lanettes-Net-Search-Card-77",
+      "image": "https://den-cards.pokellector.com/60/Lanettes-Net-Search.EM.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Lanettes-Net-Search.EM.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "77/106",
+      "card_number": "77",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Lanettes-Net-Search.EM.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Flanettes-net-search"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p165395.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Lanette%27s+Net+Search+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.75",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lanette%27s+Net+Search+-+77%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/emerald-077.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Lum Berry",
+      "title": "Lum Berry - EX Emerald #78",
+      "link": "/EX-Emerald-Expansion/Lum-Berry-Card-78",
+      "image": "https://den-cards.pokellector.com/60/Lum-Berry.EM.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Lum-Berry.EM.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "78/106",
+      "card_number": "78",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Lum-Berry.EM.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Flum-berry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.08",
+          "link": "http://www.trollandtoad.com/p165418.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Lum+Berry+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-078.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lum+Berry+-+78%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Mr. Stone's Project",
+      "title": "Mr. Stone's Project - EX Emerald #79",
+      "link": "/EX-Emerald-Expansion/Mr-Stones-Project-Card-79",
+      "image": "https://den-cards.pokellector.com/60/Mr-Stones-Project.EM.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Mr-Stones-Project.EM.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "79/106",
+      "card_number": "79",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Mr-Stones-Project.EM.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.86",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmr-stones-project"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p165458.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.62",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Mr.+Stone%27s+Project+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Mr.+Stone%27s+Project+-+79%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.39",
+          "link": "http://stop2shop.com/emerald-079.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Oran Berry",
+      "title": "Oran Berry - EX Emerald #80",
+      "link": "/EX-Emerald-Expansion/Oran-Berry-Card-80",
+      "image": "https://den-cards.pokellector.com/60/Oran-Berry.EM.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Oran-Berry.EM.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "80/106",
+      "card_number": "80",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Oran-Berry.EM.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Foran-berry"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165490.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Oran+Berry+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-080.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Oran+Berry+-+80%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Pokenav",
+      "title": "Pokenav - EX Emerald #81",
+      "link": "/EX-Emerald-Expansion/Pokenav-Card-81",
+      "image": "https://den-cards.pokellector.com/60/Pokenav.EM.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Pokenav.EM.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "81/106",
+      "card_number": "81",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Pokenav.EM.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fpokenav"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p165511.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.74",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Pokenav+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.79",
+          "link": "http://stop2shop.com/emerald-081.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pokenav+-+81%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Professor Birch",
+      "title": "Professor Birch - EX Emerald #82",
+      "link": "/EX-Emerald-Expansion/Professor-Birch-Card-82",
+      "image": "https://den-cards.pokellector.com/60/Professor-Birch.EM.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Professor-Birch.EM.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "82/106",
+      "card_number": "82",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Professor-Birch.EM.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fprofessor-birch"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p165522.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Professor+Birch+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.49",
+          "link": "http://stop2shop.com/emerald-082.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Professor+Birch+-+82%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Rare Candy",
+      "title": "Rare Candy - EX Emerald #83",
+      "link": "/EX-Emerald-Expansion/Rare-Candy-Card-83",
+      "image": "https://den-cards.pokellector.com/60/Rare-Candy.EM.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Rare-Candy.EM.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "83/106",
+      "card_number": "83",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Rare-Candy.EM.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.57",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Frare-candy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.99",
+          "link": "http://www.trollandtoad.com/p165532.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$13.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Rare+Candy+83+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Rare+Candy+-+83%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/emerald-083.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Scott",
+      "title": "Scott - EX Emerald #84",
+      "link": "/EX-Emerald-Expansion/Scott-Card-84",
+      "image": "https://den-cards.pokellector.com/60/Scott.EM.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Scott.EM.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "84/106",
+      "card_number": "84",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Scott.EM.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fscott"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.09",
+          "link": "http://www.trollandtoad.com/p165554.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Scott+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Scott+-+84%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.49",
+          "link": "http://stop2shop.com/emerald-084.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Wally's Training",
+      "title": "Wally's Training - EX Emerald #85",
+      "link": "/EX-Emerald-Expansion/Wallys-Training-Card-85",
+      "image": "https://den-cards.pokellector.com/60/Wallys-Training.EM.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Wallys-Training.EM.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "85/106",
+      "card_number": "85",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Wallys-Training.EM.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fwallys-training"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.98",
+          "link": "http://www.trollandtoad.com/p165636.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.81",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Wally%27s+Training+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.59",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Wally%27s+Training+-+85%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/emerald-085.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Darkness Energy",
+      "title": "Darkness Energy - EX Emerald #86",
+      "link": "/EX-Emerald-Expansion/Darkness-Energy-Card-86",
+      "image": "https://den-cards.pokellector.com/60/Darkness-Energy.EM.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Darkness-Energy.EM.86.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "86/106",
+      "card_number": "86",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Darkness-Energy.EM.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdarkness-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p165289.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Darkness+Energy+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Darkness+Energy+-+86%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.79",
+          "link": "http://stop2shop.com/emerald-086.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Double Rainbow Energy",
+      "title": "Double Rainbow Energy - EX Emerald #87",
+      "link": "/EX-Emerald-Expansion/Double-Rainbow-Energy-Card-87",
+      "image": "https://den-cards.pokellector.com/60/Double-Rainbow-Energy.EM.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Double-Rainbow-Energy.EM.87.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "87/106",
+      "card_number": "87",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Double-Rainbow-Energy.EM.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdouble-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.79",
+          "link": "http://www.trollandtoad.com/p165309.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.29",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Double+Rainbow+Energy+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Rainbow+Energy+-+87%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/emerald-087.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Metal Energy",
+      "title": "Metal Energy - EX Emerald #88",
+      "link": "/EX-Emerald-Expansion/Metal-Energy-Card-88",
+      "image": "https://den-cards.pokellector.com/60/Metal-Energy.EM.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Metal-Energy.EM.88.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "88/106",
+      "card_number": "88",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Metal-Energy.EM.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmetal-energy-special"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p165446.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Metal+Energy+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.79",
+          "link": "http://stop2shop.com/emerald-088.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Metal+Energy+-+88%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Multi Energy",
+      "title": "Multi Energy - EX Emerald #89",
+      "link": "/EX-Emerald-Expansion/Multi-Energy-Card-89",
+      "image": "https://den-cards.pokellector.com/60/Multi-Energy.EM.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Multi-Energy.EM.89.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "89/106",
+      "card_number": "89",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Multi-Energy.EM.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmulti-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p165462.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Multi+Energy+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.49",
+          "link": "http://stop2shop.com/emerald-089.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Multi+Energy+-+89%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "90": {
+      "number": "90",
+      "name": "Altaria ex",
+      "title": "Altaria ex - EX Emerald #90",
+      "link": "/EX-Emerald-Expansion/Altaria-ex-Card-90",
+      "image": "https://den-cards.pokellector.com/60/Altaria-ex.EM.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Altaria-ex.EM.90.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "90/106",
+      "card_number": "90",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Altaria-ex.EM.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$169.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Faltaria-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p165224.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$39.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Altaria+ex+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.99",
+          "link": "http://stop2shop.com/emerald-090.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$11.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Altaria+ex+-+90%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "91": {
+      "number": "91",
+      "name": "Cacturne ex",
+      "title": "Cacturne ex - EX Emerald #91",
+      "link": "/EX-Emerald-Expansion/Cacturne-ex-Card-91",
+      "image": "https://den-cards.pokellector.com/60/Cacturne-ex.EM.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Cacturne-ex.EM.91.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "91/106",
+      "card_number": "91",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Cacturne-ex.EM.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$59.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fcacturne-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$64.99",
+          "link": "http://www.trollandtoad.com/p165261.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Cacturne+ex+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.99",
+          "link": "http://stop2shop.com/emerald-091.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cacturne+ex+-+91%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Camerupt ex",
+      "title": "Camerupt ex - EX Emerald #92",
+      "link": "/EX-Emerald-Expansion/Camerupt-ex-Card-92",
+      "image": "https://den-cards.pokellector.com/60/Camerupt-ex.EM.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Camerupt-ex.EM.92.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "92/106",
+      "card_number": "92",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Camerupt-ex.EM.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fcamerupt-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$69.99",
+          "link": "http://www.trollandtoad.com/p165264.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Camerupt+ex+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Camerupt+ex+-+92%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.99",
+          "link": "http://stop2shop.com/emerald-092.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Deoxys ex",
+      "title": "Deoxys ex - EX Emerald #93",
+      "link": "/EX-Emerald-Expansion/Deoxys-ex-Card-93",
+      "image": "https://den-cards.pokellector.com/60/Deoxys-ex.EM.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Deoxys-ex.EM.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "93/106",
+      "card_number": "93",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Deoxys-ex.EM.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$104.80",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdeoxys-ex-speed-forme"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$198.99",
+          "link": "http://www.trollandtoad.com/p165296.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$349.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Deoxys+ex+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$49.99",
+          "link": "http://stop2shop.com/emerald-093.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$15.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Deoxys+ex+%28Speed%29+-+93%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Dusclops ex",
+      "title": "Dusclops ex - EX Emerald #94",
+      "link": "/EX-Emerald-Expansion/Dusclops-ex-Card-94",
+      "image": "https://den-cards.pokellector.com/60/Dusclops-ex.EM.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Dusclops-ex.EM.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "94/106",
+      "card_number": "94",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Dusclops-ex.EM.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$98.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fdusclops-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$86.99",
+          "link": "http://www.trollandtoad.com/p165315.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Dusclops+ex+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dusclops+ex+-+94%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.99",
+          "link": "http://stop2shop.com/emerald-094.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Medicham ex",
+      "title": "Medicham ex - EX Emerald #95",
+      "link": "/EX-Emerald-Expansion/Medicham-ex-Card-95",
+      "image": "https://den-cards.pokellector.com/60/Medicham-ex.EM.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Medicham-ex.EM.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "95/106",
+      "card_number": "95",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Medicham-ex.EM.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$38.54",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmedicham-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$79.99",
+          "link": "http://www.trollandtoad.com/p165442.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.12",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Medicham+ex+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$47.99",
+          "link": "http://stop2shop.com/emerald-095.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Medicham+ex+-+95%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Milotic ex",
+      "title": "Milotic ex - EX Emerald #96",
+      "link": "/EX-Emerald-Expansion/Milotic-ex-Card-96",
+      "image": "https://den-cards.pokellector.com/60/Milotic-ex.EM.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Milotic-ex.EM.96.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "96/106",
+      "card_number": "96",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Milotic-ex.EM.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$200.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fmilotic-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$259.99",
+          "link": "http://www.trollandtoad.com/p165452.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$89.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Milotic+ex+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$19.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Milotic+ex+-+96%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$47.99",
+          "link": "http://stop2shop.com/emerald-096.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Raichu ex",
+      "title": "Raichu ex - EX Emerald #97",
+      "link": "/EX-Emerald-Expansion/Raichu-ex-Card-97",
+      "image": "https://den-cards.pokellector.com/60/Raichu-ex.EM.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Raichu-ex.EM.97.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "97/106",
+      "card_number": "97",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Raichu-ex.EM.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$112.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fraichu-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$124.99",
+          "link": "http://www.trollandtoad.com/p165527.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$27.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Raichu+ex+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$15.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+ex+-+97%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$21.99",
+          "link": "http://stop2shop.com/emerald-097.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "98": {
+      "number": "98",
+      "name": "Regice ex",
+      "title": "Regice ex - EX Emerald #98",
+      "link": "/EX-Emerald-Expansion/Regice-ex-Card-98",
+      "image": "https://den-cards.pokellector.com/60/Regice-ex.EM.98.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Regice-ex.EM.98.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "98/106",
+      "card_number": "98",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Regice-ex.EM.98.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$290.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fregice-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$134.99",
+          "link": "http://www.trollandtoad.com/p165540.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$40.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Regice+ex+98+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$37.99",
+          "link": "http://stop2shop.com/emerald-098.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$15.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regice+ex+-+98%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "99": {
+      "number": "99",
+      "name": "Regirock ex",
+      "title": "Regirock ex - EX Emerald #99",
+      "link": "/EX-Emerald-Expansion/Regirock-ex-Card-99",
+      "image": "https://den-cards.pokellector.com/60/Regirock-ex.EM.99.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Regirock-ex.EM.99.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "99/106",
+      "card_number": "99",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Regirock-ex.EM.99.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$115.13",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fregirock-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$100.19",
+          "link": "http://www.trollandtoad.com/p165541.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$29.98",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Regirock+ex+99+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$37.99",
+          "link": "http://stop2shop.com/emerald-099.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$18.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Regirock+ex+-+99%2F106"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "100": {
+      "number": "100",
+      "name": "Registeel ex",
+      "title": "Registeel ex - EX Emerald #100",
+      "link": "/EX-Emerald-Expansion/Registeel-ex-Card-100",
+      "image": "https://den-cards.pokellector.com/60/Registeel-ex.EM.100.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Registeel-ex.EM.100.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "100/106",
+      "card_number": "100",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Registeel-ex.EM.100.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$69.69",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fregisteel-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$87.99",
+          "link": "http://www.trollandtoad.com/p165542.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$30.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Registeel+ex+100+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Registeel+ex+-+100%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$37.99",
+          "link": "http://stop2shop.com/emerald-100.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "101": {
+      "number": "101",
+      "name": "Grass Energy",
+      "title": "Grass Energy - EX Emerald #101",
+      "link": "/EX-Emerald-Expansion/Grass-Energy-Card-101",
+      "image": "https://den-cards.pokellector.com/60/Grass-Energy.EM.101.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Grass-Energy.EM.101.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "101/106",
+      "card_number": "101",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Grass-Energy.EM.101.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fgrass-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$12.99",
+          "link": "http://www.trollandtoad.com/p165356.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Grass+Energy+101+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Grass+Energy+-+101%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/emerald-101.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "102": {
+      "number": "102",
+      "name": "Fire Energy",
+      "title": "Fire Energy - EX Emerald #102",
+      "link": "/EX-Emerald-Expansion/Fire-Energy-Card-102",
+      "image": "https://den-cards.pokellector.com/60/Fire-Energy.EM.102.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Fire-Energy.EM.102.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "102/106",
+      "card_number": "102",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Fire-Energy.EM.102.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.68",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ffire-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$23.49",
+          "link": "http://www.trollandtoad.com/p165346.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Fire+Energy+102+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fire+Energy+-+102%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/emerald-102.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "103": {
+      "number": "103",
+      "name": "Water Energy",
+      "title": "Water Energy - EX Emerald #103",
+      "link": "/EX-Emerald-Expansion/Water-Energy-Card-103",
+      "image": "https://den-cards.pokellector.com/60/Water-Energy.EM.103.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Water-Energy.EM.103.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "103/106",
+      "card_number": "103",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Water-Energy.EM.103.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$12.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fwater-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$17.95",
+          "link": "http://www.trollandtoad.com/p165638.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.21",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Water+Energy+103+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/emerald-103.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Water+Energy+-+103%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "104": {
+      "number": "104",
+      "name": "Lightning Energy",
+      "title": "Lightning Energy - EX Emerald #104",
+      "link": "/EX-Emerald-Expansion/Lightning-Energy-Card-104",
+      "image": "https://den-cards.pokellector.com/60/Lightning-Energy.EM.104.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Lightning-Energy.EM.104.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "104/106",
+      "card_number": "104",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Lightning-Energy.EM.104.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Flightning-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.99",
+          "link": "http://www.trollandtoad.com/p165401.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Lightning+Energy+104+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/emerald-104.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Lightning+Energy+-+104%2F106"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "105": {
+      "number": "105",
+      "name": "Psychic Energy",
+      "title": "Psychic Energy - EX Emerald #105",
+      "link": "/EX-Emerald-Expansion/Psychic-Energy-Card-105",
+      "image": "https://den-cards.pokellector.com/60/Psychic-Energy.EM.105.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Psychic-Energy.EM.105.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "105/106",
+      "card_number": "105",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Psychic-Energy.EM.105.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Fpsychic-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$16.69",
+          "link": "http://www.trollandtoad.com/p165523.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Psychic+Energy+105+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$3.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Psychic+Energy+-+105%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.99",
+          "link": "http://stop2shop.com/emerald-105.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "106": {
+      "number": "106",
+      "name": "Fighting Energy",
+      "title": "Fighting Energy - EX Emerald #106",
+      "link": "/EX-Emerald-Expansion/Fighting-Energy-Card-106",
+      "image": "https://den-cards.pokellector.com/60/Fighting-Energy.EM.106.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Fighting-Energy.EM.106.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "106/106",
+      "card_number": "106",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Fighting-Energy.EM.106.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ffighting-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.99",
+          "link": "http://www.trollandtoad.com/p165345.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.68",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Fighting+Energy+106+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Fighting+Energy+-+106%2F106"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.99",
+          "link": "http://stop2shop.com/emerald-106.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "107": {
+      "number": "107",
+      "name": "Farfetch'd",
+      "title": "Farfetch'd - EX Emerald #107",
+      "link": "/EX-Emerald-Expansion/Farfetchd-Card-107",
+      "image": "https://den-cards.pokellector.com/60/Farfetchd.EM.107.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/60/Farfetchd.EM.107.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Emerald",
+      "set_link": "/EX-Emerald-Expansion/",
+      "position": "107/106",
+      "card_number": "107",
+      "total_cards": "106",
+      "image_full": "https://den-cards.pokellector.com/60/Farfetchd.EM.107.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$63.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Femerald%2Ffarfetchd-secret-rare"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$38.49",
+          "link": "http://www.trollandtoad.com/p165339.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.45",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Emerald+Farfetch%27d+107+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$8.99",
+          "link": "http://stop2shop.com/emerald-107.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Farfetch%27d+-+107%2F106"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 12:55:39"
+}

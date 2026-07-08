@@ -1,0 +1,445 @@
+{
+  "title": "McDonald's Match Battle 2023 Set",
+  "link": "/McDonalds-2023-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.logo.372.png",
+  "symbol": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.symbol.372.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Sprigatito",
+      "title": "Sprigatito - McDonald's Match Battle 2023 #1",
+      "link": "/McDonalds-2023-Expansion/Sprigatito-Card-1",
+      "image": "https://den-cards.pokellector.com/372/Sprigatito.M23EN.1.49024.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Sprigatito.M23EN.1.49024.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "1/15",
+      "card_number": "1",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Sprigatito.M23EN.1.49024.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516512%2Fpokemon-mcdonalds-promos-2023-sprigatito"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.79",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sprigatito+McDonald%27s+Match+Battle+2023+1+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "2": {
+      "number": "2",
+      "name": "Fuecoco",
+      "title": "Fuecoco - McDonald's Match Battle 2023 #2",
+      "link": "/McDonalds-2023-Expansion/Fuecoco-Card-2",
+      "image": "https://den-cards.pokellector.com/372/Fuecoco.M23EN.2.47684.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Fuecoco.M23EN.2.47684.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "2/15",
+      "card_number": "2",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Fuecoco.M23EN.2.47684.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516513%2Fpokemon-mcdonalds-promos-2023-fuecoco"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.42",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Fuecoco+McDonald%27s+Match+Battle+2023+2+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "3": {
+      "number": "3",
+      "name": "Quaxly",
+      "title": "Quaxly - McDonald's Match Battle 2023 #3",
+      "link": "/McDonalds-2023-Expansion/Quaxly-Card-3",
+      "image": "https://den-cards.pokellector.com/372/Quaxly.M23EN.3.49025.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Quaxly.M23EN.3.49025.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "3/15",
+      "card_number": "3",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Quaxly.M23EN.3.49025.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.45",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516514%2Fpokemon-mcdonalds-promos-2023-quaxly"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.14",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Quaxly+McDonald%27s+Match+Battle+2023+3+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "4": {
+      "number": "4",
+      "name": "Cetoddle",
+      "title": "Cetoddle - McDonald's Match Battle 2023 #4",
+      "link": "/McDonalds-2023-Expansion/Cetoddle-Card-4",
+      "image": "https://den-cards.pokellector.com/372/Cetoddle.M23EN.4.49026.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Cetoddle.M23EN.4.49026.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "4/15",
+      "card_number": "4",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Cetoddle.M23EN.4.49026.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516515%2Fpokemon-mcdonalds-promos-2023-cetoddle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cetoddle+McDonald%27s+Match+Battle+2023+4+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "5": {
+      "number": "5",
+      "name": "Cetitan",
+      "title": "Cetitan - McDonald's Match Battle 2023 #5",
+      "link": "/McDonalds-2023-Expansion/Cetitan-Card-5",
+      "image": "https://den-cards.pokellector.com/372/Cetitan.M23EN.5.49027.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Cetitan.M23EN.5.49027.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "5/15",
+      "card_number": "5",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Cetitan.M23EN.5.49027.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516516%2Fpokemon-mcdonalds-promos-2023-cetitan"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.87",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cetitan+McDonald%27s+Match+Battle+2023+5+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "6": {
+      "number": "6",
+      "name": "Pikachu",
+      "title": "Pikachu - McDonald's Match Battle 2023 #6",
+      "link": "/McDonalds-2023-Expansion/Pikachu-Card-6",
+      "image": "https://den-cards.pokellector.com/372/Pikachu.M23EN.6.49028.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Pikachu.M23EN.6.49028.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "6/15",
+      "card_number": "6",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Pikachu.M23EN.6.49028.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516517%2Fpokemon-mcdonalds-promos-2023-pikachu"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.93",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pikachu+McDonald%27s+Match+Battle+2023+6+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "7": {
+      "number": "7",
+      "name": "Pawmi",
+      "title": "Pawmi - McDonald's Match Battle 2023 #7",
+      "link": "/McDonalds-2023-Expansion/Pawmi-Card-7",
+      "image": "https://den-cards.pokellector.com/372/Pawmi.M23EN.7.49029.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Pawmi.M23EN.7.49029.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "7/15",
+      "card_number": "7",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Pawmi.M23EN.7.49029.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516518%2Fpokemon-mcdonalds-promos-2023-pawmi"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Pawmi+McDonald%27s+Match+Battle+2023+7+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Kilowattrel",
+      "title": "Kilowattrel - McDonald's Match Battle 2023 #8",
+      "link": "/McDonalds-2023-Expansion/Kilowattrel-Card-8",
+      "image": "https://den-cards.pokellector.com/372/Kilowattrel.M23EN.8.47683.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Kilowattrel.M23EN.8.47683.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "8/15",
+      "card_number": "8",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Kilowattrel.M23EN.8.47683.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516519%2Fpokemon-mcdonalds-promos-2023-kilowattrel"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.28",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kilowattrel+McDonald%27s+Match+Battle+2023+8+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "9": {
+      "number": "9",
+      "name": "Flittle",
+      "title": "Flittle - McDonald's Match Battle 2023 #9",
+      "link": "/McDonalds-2023-Expansion/Flittle-Card-9",
+      "image": "https://den-cards.pokellector.com/372/Flittle.M23EN.9.49030.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Flittle.M23EN.9.49030.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "9/15",
+      "card_number": "9",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Flittle.M23EN.9.49030.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516520%2Fpokemon-mcdonalds-promos-2023-flittle"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Flittle+McDonald%27s+Match+Battle+2023+9+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "10": {
+      "number": "10",
+      "name": "Sandaconda",
+      "title": "Sandaconda - McDonald's Match Battle 2023 #10",
+      "link": "/McDonalds-2023-Expansion/Sandaconda-Card-10",
+      "image": "https://den-cards.pokellector.com/372/Sandaconda.M23EN.10.47682.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Sandaconda.M23EN.10.47682.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "10/15",
+      "card_number": "10",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Sandaconda.M23EN.10.47682.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516521%2Fpokemon-mcdonalds-promos-2023-sandaconda"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Sandaconda+McDonald%27s+Match+Battle+2023+10+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "11": {
+      "number": "11",
+      "name": "Klawf",
+      "title": "Klawf - McDonald's Match Battle 2023 #11",
+      "link": "/McDonalds-2023-Expansion/Klawf-Card-11",
+      "image": "https://den-cards.pokellector.com/372/Klawf.M23EN.11.49031.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Klawf.M23EN.11.49031.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "11/15",
+      "card_number": "11",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Klawf.M23EN.11.49031.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.19",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516522%2Fpokemon-mcdonalds-promos-2023-klawf"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.44",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Klawf+McDonald%27s+Match+Battle+2023+11+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Blissey",
+      "title": "Blissey - McDonald's Match Battle 2023 #12",
+      "link": "/McDonalds-2023-Expansion/Blissey-Card-12",
+      "image": "https://den-cards.pokellector.com/372/Blissey.M23EN.12.47681.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Blissey.M23EN.12.47681.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "12/15",
+      "card_number": "12",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Blissey.M23EN.12.47681.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516523%2Fpokemon-mcdonalds-promos-2023-blissey"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Blissey+McDonald%27s+Match+Battle+2023+12+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "13": {
+      "number": "13",
+      "name": "Tandemaus",
+      "title": "Tandemaus - McDonald's Match Battle 2023 #13",
+      "link": "/McDonalds-2023-Expansion/Tandemaus-Card-13",
+      "image": "https://den-cards.pokellector.com/372/Tandemaus.M23EN.13.49032.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Tandemaus.M23EN.13.49032.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "13/15",
+      "card_number": "13",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Tandemaus.M23EN.13.49032.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516524%2Fpokemon-mcdonalds-promos-2023-tandemaus"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Tandemaus+McDonald%27s+Match+Battle+2023+13+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "14": {
+      "number": "14",
+      "name": "Cyclizar",
+      "title": "Cyclizar - McDonald's Match Battle 2023 #14",
+      "link": "/McDonalds-2023-Expansion/Cyclizar-Card-14",
+      "image": "https://den-cards.pokellector.com/372/Cyclizar.M23EN.14.49033.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Cyclizar.M23EN.14.49033.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "14/15",
+      "card_number": "14",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Cyclizar.M23EN.14.49033.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516525%2Fpokemon-mcdonalds-promos-2023-cyclizar"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.67",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Cyclizar+McDonald%27s+Match+Battle+2023+14+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "15": {
+      "number": "15",
+      "name": "Kirlia",
+      "title": "Kirlia - McDonald's Match Battle 2023 #15",
+      "link": "/McDonalds-2023-Expansion/Kirlia-Card-15",
+      "image": "https://den-cards.pokellector.com/372/Kirlia.M23EN.15.49034.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/372/Kirlia.M23EN.15.49034.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "McDonald's Match Battle 2023",
+      "set_link": "/McDonalds-2023-Expansion/",
+      "position": "15/15",
+      "card_number": "15",
+      "total_cards": "15",
+      "image_full": "https://den-cards.pokellector.com/372/Kirlia.M23EN.15.49034.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516526%2Fpokemon-mcdonalds-promos-2023-kirlia"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.82",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=Kirlia+McDonald%27s+Match+Battle+2023+15+-complete+-playset+-set+-lot+-digital+-PTCGO&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-27 22:46:25"
+}

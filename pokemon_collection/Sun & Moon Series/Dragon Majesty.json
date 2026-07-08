@@ -1,0 +1,2695 @@
+{
+  "title": "Dragon Majesty Set",
+  "link": "/Dragon-Majesty-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/Dragon-Majesty.logo.257.png",
+  "symbol": "https://den-media.pokellector.com/logos/Dragon-Majesty.symbol.257.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Charmander",
+      "title": "Charmander - Dragon Majesty #1",
+      "link": "/Dragon-Majesty-Expansion/Charmander-Card-1",
+      "image": "https://den-cards.pokellector.com/257/Charmander.DRM.1.23541.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Charmander.DRM.1.23541.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "1/70",
+      "card_number": "1",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Charmander.DRM.1.23541.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcharmander"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charmander-Fire-Fang?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Charmeleon",
+      "title": "Charmeleon - Dragon Majesty #2",
+      "link": "/Dragon-Majesty-Expansion/Charmeleon-Card-2",
+      "image": "https://den-cards.pokellector.com/257/Charmeleon.DRM.2.23542.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Charmeleon.DRM.2.23542.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "2/70",
+      "card_number": "2",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Charmeleon.DRM.2.23542.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcharmeleon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charmeleon-Flamethrower?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Charizard",
+      "title": "Charizard - Dragon Majesty #3",
+      "link": "/Dragon-Majesty-Expansion/Charizard-Card-3",
+      "image": "https://den-cards.pokellector.com/257/Charizard.DRM.3.22610.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Charizard.DRM.3.22610.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "3/70",
+      "card_number": "3",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Charizard.DRM.3.22610.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcharizard"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€6.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charizard-Fiery-Blast?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Cracked Ice Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Non Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Torchic",
+      "title": "Torchic - Dragon Majesty #4",
+      "link": "/Dragon-Majesty-Expansion/Torchic-Card-4",
+      "image": "https://den-cards.pokellector.com/257/Torchic.DRM.4.23543.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Torchic.DRM.4.23543.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "4/70",
+      "card_number": "4",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Torchic.DRM.4.23543.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ftorchic"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Torchic-Singe?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Combusken",
+      "title": "Combusken - Dragon Majesty #5",
+      "link": "/Dragon-Majesty-Expansion/Combusken-Card-5",
+      "image": "https://den-cards.pokellector.com/257/Combusken.DRM.5.23544.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Combusken.DRM.5.23544.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "5/70",
+      "card_number": "5",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Combusken.DRM.5.23544.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcombusken"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Combusken-Lunge?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Blaziken",
+      "title": "Blaziken - Dragon Majesty #6",
+      "link": "/Dragon-Majesty-Expansion/Blaziken-Card-6",
+      "image": "https://den-cards.pokellector.com/257/Blaziken.DRM.6.23545.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Blaziken.DRM.6.23545.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "6/70",
+      "card_number": "6",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Blaziken.DRM.6.23545.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.91",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fblaziken"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaziken-Fire-Stream?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Victini Prism Star",
+      "title": "Victini Prism Star - Dragon Majesty #7",
+      "link": "/Dragon-Majesty-Expansion/Victini-Prism-Star-Card-7",
+      "image": "https://den-cards.pokellector.com/257/Victini-Prism-Star.DRM.7.23546.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Victini-Prism-Star.DRM.7.23546.png",
+      "details_scraped": true,
+      "rarity": "Prism Star",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "7/70",
+      "card_number": "7",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Victini-Prism-Star.DRM.7.23546.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.87",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fvictini-prism-star"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.98",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Victini-Infinity-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "8": {
+      "number": "8",
+      "name": "Darumaka",
+      "title": "Darumaka - Dragon Majesty #8",
+      "link": "/Dragon-Majesty-Expansion/Darumaka-Card-8",
+      "image": "https://den-cards.pokellector.com/257/Darumaka.DRM.8.23547.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Darumaka.DRM.8.23547.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "8/70",
+      "card_number": "8",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Darumaka.DRM.8.23547.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdarumaka"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Darumaka-Damage-Rush?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Darmanitan",
+      "title": "Darmanitan - Dragon Majesty #9",
+      "link": "/Dragon-Majesty-Expansion/Darmanitan-Card-9",
+      "image": "https://den-cards.pokellector.com/257/Darmanitan.DRM.9.23548.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Darmanitan.DRM.9.23548.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "9/70",
+      "card_number": "9",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Darmanitan.DRM.9.23548.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdarmanitan"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Darmanitan-Heat-Assist-Darmassault?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Heatmor",
+      "title": "Heatmor - Dragon Majesty #10",
+      "link": "/Dragon-Majesty-Expansion/Heatmor-Card-10",
+      "image": "https://den-cards.pokellector.com/257/Heatmor.DRM.10.23549.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Heatmor.DRM.10.23549.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "10/70",
+      "card_number": "10",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Heatmor.DRM.10.23549.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fheatmor"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Heatmor-Super-Singe-Blackening-Breath?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Reshiram GX",
+      "title": "Reshiram GX - Dragon Majesty #11",
+      "link": "/Dragon-Majesty-Expansion/Reshiram-GX-Card-11",
+      "image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.11.23189.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.11.23189.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "11/70",
+      "card_number": "11",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.11.23189.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Freshiram-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-Flame-Charge-Scorching-Pillar?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "12": {
+      "number": "12",
+      "name": "Litten",
+      "title": "Litten - Dragon Majesty #12",
+      "link": "/Dragon-Majesty-Expansion/Litten-Card-12",
+      "image": "https://den-cards.pokellector.com/257/Litten.DRM.12.23550.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Litten.DRM.12.23550.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "12/70",
+      "card_number": "12",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Litten.DRM.12.23550.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Flitten"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Litten-Fury-Swipes?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Salandit",
+      "title": "Salandit - Dragon Majesty #13",
+      "link": "/Dragon-Majesty-Expansion/Salandit-Card-13",
+      "image": "https://den-cards.pokellector.com/257/Salandit.DRM.13.23551.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Salandit.DRM.13.23551.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "13/70",
+      "card_number": "13",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Salandit.DRM.13.23551.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fsalandit"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salandit-Call-For-Family-Dig-Claws?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Salazzle",
+      "title": "Salazzle - Dragon Majesty #14",
+      "link": "/Dragon-Majesty-Expansion/Salazzle-Card-14",
+      "image": "https://den-cards.pokellector.com/257/Salazzle.DRM.14.23552.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Salazzle.DRM.14.23552.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "14/70",
+      "card_number": "14",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Salazzle.DRM.14.23552.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fsalazzle"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salazzle-Flame-Circle-Flamethrower?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Horsea",
+      "title": "Horsea - Dragon Majesty #15",
+      "link": "/Dragon-Majesty-Expansion/Horsea-Card-15",
+      "image": "https://den-cards.pokellector.com/257/Horsea.DRM.15.23553.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Horsea.DRM.15.23553.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "15/70",
+      "card_number": "15",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Horsea.DRM.15.23553.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fhorsea-15"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Horsea-Splatter?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Horsea",
+      "title": "Horsea - Dragon Majesty #16",
+      "link": "/Dragon-Majesty-Expansion/Horsea-Card-16",
+      "image": "https://den-cards.pokellector.com/257/Horsea.DRM.16.23554.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Horsea.DRM.16.23554.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "16/70",
+      "card_number": "16",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Horsea.DRM.16.23554.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fhorsea-16"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Horsea-Hydro-Pump?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Seadra",
+      "title": "Seadra - Dragon Majesty #17",
+      "link": "/Dragon-Majesty-Expansion/Seadra-Card-17",
+      "image": "https://den-cards.pokellector.com/257/Seadra.DRM.17.23555.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Seadra.DRM.17.23555.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "17/70",
+      "card_number": "17",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Seadra.DRM.17.23555.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fseadra"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Seadra-Hydro-Pump?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Kingdra GX",
+      "title": "Kingdra GX - Dragon Majesty #18",
+      "link": "/Dragon-Majesty-Expansion/Kingdra-GX-Card-18",
+      "image": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.18.23556.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.18.23556.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "18/70",
+      "card_number": "18",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.18.23556.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fkingdra-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-Hydro-Pump-Reverse-Thrust?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "19": {
+      "number": "19",
+      "name": "Magikarp",
+      "title": "Magikarp - Dragon Majesty #19",
+      "link": "/Dragon-Majesty-Expansion/Magikarp-Card-19",
+      "image": "https://den-cards.pokellector.com/257/Magikarp.DRM.19.23557.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Magikarp.DRM.19.23557.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "19/70",
+      "card_number": "19",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Magikarp.DRM.19.23557.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fmagikarp"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Magikarp-Water-Splash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Gyarados",
+      "title": "Gyarados - Dragon Majesty #20",
+      "link": "/Dragon-Majesty-Expansion/Gyarados-Card-20",
+      "image": "https://den-cards.pokellector.com/257/Gyarados.DRM.20.23558.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Gyarados.DRM.20.23558.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "20/70",
+      "card_number": "20",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Gyarados.DRM.20.23558.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fgyarados"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.15",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Gyarados-Wild-Tail?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Lapras",
+      "title": "Lapras - Dragon Majesty #21",
+      "link": "/Dragon-Majesty-Expansion/Lapras-Card-21",
+      "image": "https://den-cards.pokellector.com/257/Lapras.DRM.21.23559.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Lapras.DRM.21.23559.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "21/70",
+      "card_number": "21",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Lapras.DRM.21.23559.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Flapras"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Lapras-Aqua-Bullet-Hydro-Pump?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Totodile",
+      "title": "Totodile - Dragon Majesty #22",
+      "link": "/Dragon-Majesty-Expansion/Totodile-Card-22",
+      "image": "https://den-cards.pokellector.com/257/Totodile.DRM.22.23560.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Totodile.DRM.22.23560.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "22/70",
+      "card_number": "22",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Totodile.DRM.22.23560.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.04",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ftotodile"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Totodile-Leer-Fury-Swipes?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Croconaw",
+      "title": "Croconaw - Dragon Majesty #23",
+      "link": "/Dragon-Majesty-Expansion/Croconaw-Card-23",
+      "image": "https://den-cards.pokellector.com/257/Croconaw.DRM.23.23561.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Croconaw.DRM.23.23561.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "23/70",
+      "card_number": "23",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Croconaw.DRM.23.23561.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.07",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcroconaw"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Croconaw-Tackle-Sweep-Away?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Feraligatr",
+      "title": "Feraligatr - Dragon Majesty #24",
+      "link": "/Dragon-Majesty-Expansion/Feraligatr-Card-24",
+      "image": "https://den-cards.pokellector.com/257/Feraligatr.DRM.24.23190.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Feraligatr.DRM.24.23190.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "24/70",
+      "card_number": "24",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Feraligatr.DRM.24.23190.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fferaligatr"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.08",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Feraligatr-Riptide?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Wooper",
+      "title": "Wooper - Dragon Majesty #25",
+      "link": "/Dragon-Majesty-Expansion/Wooper-Card-25",
+      "image": "https://den-cards.pokellector.com/257/Wooper.DRM.25.23562.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Wooper.DRM.25.23562.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "25/70",
+      "card_number": "25",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Wooper.DRM.25.23562.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.78",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fwooper"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wooper-Ram-Rain-Splash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Quagsire",
+      "title": "Quagsire - Dragon Majesty #26",
+      "link": "/Dragon-Majesty-Expansion/Quagsire-Card-26",
+      "image": "https://den-cards.pokellector.com/257/Quagsire.DRM.26.23191.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Quagsire.DRM.26.23191.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "26/70",
+      "card_number": "26",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Quagsire.DRM.26.23191.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.54",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fquagsire"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Quagsire-Hydro-Pump?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Corsola",
+      "title": "Corsola - Dragon Majesty #27",
+      "link": "/Dragon-Majesty-Expansion/Corsola-Card-27",
+      "image": "https://den-cards.pokellector.com/257/Corsola.DRM.27.23563.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Corsola.DRM.27.23563.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "27/70",
+      "card_number": "27",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Corsola.DRM.27.23563.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fcorsola"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Corsola-Bubble-Jet?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Feebas",
+      "title": "Feebas - Dragon Majesty #28",
+      "link": "/Dragon-Majesty-Expansion/Feebas-Card-28",
+      "image": "https://den-cards.pokellector.com/257/Feebas.DRM.28.23564.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Feebas.DRM.28.23564.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "28/70",
+      "card_number": "28",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Feebas.DRM.28.23564.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ffeebas"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Feebas-Rain-Splash?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Milotic",
+      "title": "Milotic - Dragon Majesty #29",
+      "link": "/Dragon-Majesty-Expansion/Milotic-Card-29",
+      "image": "https://den-cards.pokellector.com/257/Milotic.DRM.29.23565.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Milotic.DRM.29.23565.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "29/70",
+      "card_number": "29",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Milotic.DRM.29.23565.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fmilotic"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Milotic-Aurora-Wave-Aqua-Split?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Phione",
+      "title": "Phione - Dragon Majesty #30",
+      "link": "/Dragon-Majesty-Expansion/Phione-Card-30",
+      "image": "https://den-cards.pokellector.com/257/Phione.DRM.30.23586.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Phione.DRM.30.23586.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "30/70",
+      "card_number": "30",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Phione.DRM.30.23586.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fphione"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Phione-Water-Pulse?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Wishiwashi",
+      "title": "Wishiwashi - Dragon Majesty #31",
+      "link": "/Dragon-Majesty-Expansion/Wishiwashi-Card-31",
+      "image": "https://den-cards.pokellector.com/257/Wishiwashi.DRM.31.23587.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Wishiwashi.DRM.31.23587.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "31/70",
+      "card_number": "31",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Wishiwashi.DRM.31.23587.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fwishiwashi"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wishiwashi-Water-Gun?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Trapinch",
+      "title": "Trapinch - Dragon Majesty #32",
+      "link": "/Dragon-Majesty-Expansion/Trapinch-Card-32",
+      "image": "https://den-cards.pokellector.com/257/Trapinch.DRM.32.23566.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Trapinch.DRM.32.23566.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "32/70",
+      "card_number": "32",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Trapinch.DRM.32.23566.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.03",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ftrapinch"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Trapinch-Tremor?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Hydreigon",
+      "title": "Hydreigon - Dragon Majesty #33",
+      "link": "/Dragon-Majesty-Expansion/Hydreigon-Card-33",
+      "image": "https://den-cards.pokellector.com/257/Hydreigon.DRM.33.23567.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Hydreigon.DRM.33.23567.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "33/70",
+      "card_number": "33",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Hydreigon.DRM.33.23567.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fhydreigon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.05",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Hydreigon-Dark-Destruction?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Dratini",
+      "title": "Dratini - Dragon Majesty #34",
+      "link": "/Dragon-Majesty-Expansion/Dratini-Card-34",
+      "image": "https://den-cards.pokellector.com/257/Dratini.DRM.34.23568.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dratini.DRM.34.23568.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "34/70",
+      "card_number": "34",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dratini.DRM.34.23568.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.06",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdratini-34"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dratini-Wrap?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Dratini",
+      "title": "Dratini - Dragon Majesty #35",
+      "link": "/Dragon-Majesty-Expansion/Dratini-Card-35",
+      "image": "https://den-cards.pokellector.com/257/Dratini.DRM.35.23569.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dratini.DRM.35.23569.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "35/70",
+      "card_number": "35",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dratini.DRM.35.23569.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdratini-35"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dratini-Tail-Whap?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Dragonair",
+      "title": "Dragonair - Dragon Majesty #36",
+      "link": "/Dragon-Majesty-Expansion/Dragonair-Card-36",
+      "image": "https://den-cards.pokellector.com/257/Dragonair.DRM.36.23570.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dragonair.DRM.36.23570.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "36/70",
+      "card_number": "36",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dragonair.DRM.36.23570.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdragonair"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonair-Dragon-Tail-Waterfall?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Dragonite GX",
+      "title": "Dragonite GX - Dragon Majesty #37",
+      "link": "/Dragon-Majesty-Expansion/Dragonite-GX-Card-37",
+      "image": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.37.22611.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.37.22611.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "37/70",
+      "card_number": "37",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.37.22611.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$15.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdragonite-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.89",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-Dragon-Claw-Giga-Impact?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "38": {
+      "number": "38",
+      "name": "Vibrava",
+      "title": "Vibrava - Dragon Majesty #38",
+      "link": "/Dragon-Majesty-Expansion/Vibrava-Card-38",
+      "image": "https://den-cards.pokellector.com/257/Vibrava.DRM.38.23571.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Vibrava.DRM.38.23571.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "38/70",
+      "card_number": "38",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Vibrava.DRM.38.23571.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fvibrava"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Vibrava-Sonic-Edge?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Flygon",
+      "title": "Flygon - Dragon Majesty #39",
+      "link": "/Dragon-Majesty-Expansion/Flygon-Card-39",
+      "image": "https://den-cards.pokellector.com/257/Flygon.DRM.39.23149.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Flygon.DRM.39.23149.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "39/70",
+      "card_number": "39",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Flygon.DRM.39.23149.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fflygon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Flygon-Sand-Tomb?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Altaria",
+      "title": "Altaria - Dragon Majesty #40",
+      "link": "/Dragon-Majesty-Expansion/Altaria-Card-40",
+      "image": "https://den-cards.pokellector.com/257/Altaria.DRM.40.23572.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Altaria.DRM.40.23572.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "40/70",
+      "card_number": "40",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Altaria.DRM.40.23572.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Faltaria"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.08",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-Pierce?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "40a Alternate Art",
+          "image": "https://den-cards.pokellector.com/257/Altaria.DRM.40.23713.thumb.png",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Altaria GX",
+      "title": "Altaria GX - Dragon Majesty #41",
+      "link": "/Dragon-Majesty-Expansion/Altaria-GX-Card-41",
+      "image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.41.23192.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.41.23192.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "41/70",
+      "card_number": "41",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.41.23192.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Faltaria-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€1.49",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-Bright-Tone-Sonic-Edge?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "42": {
+      "number": "42",
+      "name": "Bagon",
+      "title": "Bagon - Dragon Majesty #42",
+      "link": "/Dragon-Majesty-Expansion/Bagon-Card-42",
+      "image": "https://den-cards.pokellector.com/257/Bagon.DRM.42.23573.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Bagon.DRM.42.23573.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "42/70",
+      "card_number": "42",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Bagon.DRM.42.23573.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fbagon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Bagon-Risky-Kick-Dragon-Eye?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Shelgon",
+      "title": "Shelgon - Dragon Majesty #43",
+      "link": "/Dragon-Majesty-Expansion/Shelgon-Card-43",
+      "image": "https://den-cards.pokellector.com/257/Shelgon.DRM.43.23574.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Shelgon.DRM.43.23574.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "43/70",
+      "card_number": "43",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Shelgon.DRM.43.23574.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.46",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fshelgon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Shelgon-Rollout?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Salamence GX",
+      "title": "Salamence GX - Dragon Majesty #44",
+      "link": "/Dragon-Majesty-Expansion/Salamence-GX-Card-44",
+      "image": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.44.23575.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.44.23575.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "44/70",
+      "card_number": "44",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.44.23575.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.62",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fsalamence-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.35",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salamence-GX-Bright-Flame?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "45": {
+      "number": "45",
+      "name": "Druddigon",
+      "title": "Druddigon - Dragon Majesty #45",
+      "link": "/Dragon-Majesty-Expansion/Druddigon-Card-45",
+      "image": "https://den-cards.pokellector.com/257/Druddigon.DRM.45.23588.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Druddigon.DRM.45.23588.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "45/70",
+      "card_number": "45",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Druddigon.DRM.45.23588.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdruddigon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Druddigon-Dragon-Claw?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Zekrom",
+      "title": "Zekrom - Dragon Majesty #46",
+      "link": "/Dragon-Majesty-Expansion/Zekrom-Card-46",
+      "image": "https://den-cards.pokellector.com/257/Zekrom.DRM.46.23148.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Zekrom.DRM.46.23148.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "46/70",
+      "card_number": "46",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Zekrom.DRM.46.23148.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fzekrom"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.20",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zekrom-Shred-Bolt-Strike?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Kyurem",
+      "title": "Kyurem - Dragon Majesty #47",
+      "link": "/Dragon-Majesty-Expansion/Kyurem-Card-47",
+      "image": "https://den-cards.pokellector.com/257/Kyurem.DRM.47.23193.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Kyurem.DRM.47.23193.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "47/70",
+      "card_number": "47",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Kyurem.DRM.47.23193.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fkyurem"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.13",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kyurem-Outrage-Frost-Spear?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "White Kyurem GX",
+      "title": "White Kyurem GX - Dragon Majesty #48",
+      "link": "/Dragon-Majesty-Expansion/White-Kyurem-GX-Card-48",
+      "image": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.48.23576.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.48.23576.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "48/70",
+      "card_number": "48",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.48.23576.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fwhite-kyurem-gx"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€3.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/White-Kyurem-GX-Shred-Enraged-Blade?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "49": {
+      "number": "49",
+      "name": "Zygarde",
+      "title": "Zygarde - Dragon Majesty #49",
+      "link": "/Dragon-Majesty-Expansion/Zygarde-Card-49",
+      "image": "https://den-cards.pokellector.com/257/Zygarde.DRM.49.23577.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Zygarde.DRM.49.23577.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "49/70",
+      "card_number": "49",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Zygarde.DRM.49.23577.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fzygarde"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zygarde-Rumble-Enraged-Blade?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Turtonator",
+      "title": "Turtonator - Dragon Majesty #50",
+      "link": "/Dragon-Majesty-Expansion/Turtonator-Card-50",
+      "image": "https://den-cards.pokellector.com/257/Turtonator.DRM.50.23194.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Turtonator.DRM.50.23194.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "50/70",
+      "card_number": "50",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Turtonator.DRM.50.23194.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fturtonator"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Turtonator-Explosive-Jet-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Drampa",
+      "title": "Drampa - Dragon Majesty #51",
+      "link": "/Dragon-Majesty-Expansion/Drampa-Card-51",
+      "image": "https://den-cards.pokellector.com/257/Drampa.DRM.51.23578.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Drampa.DRM.51.23578.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "51/70",
+      "card_number": "51",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Drampa.DRM.51.23578.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.05",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdrampa"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Drampa-Dragons-Wisdom-Hyper-Voice?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Jangmo-o",
+      "title": "Jangmo-o - Dragon Majesty #52",
+      "link": "/Dragon-Majesty-Expansion/Jangmo-o-Card-52",
+      "image": "https://den-cards.pokellector.com/257/Jangmo-o.DRM.52.23579.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Jangmo-o.DRM.52.23579.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "52/70",
+      "card_number": "52",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Jangmo-o.DRM.52.23579.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.01",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fjangmo-o"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Jangmo-o-Rigidify-Dragon-Claw?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://den-cards.pokellector.com/257/Jangmo-o.DRM.52.23983.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Hakamo-o",
+      "title": "Hakamo-o - Dragon Majesty #53",
+      "link": "/Dragon-Majesty-Expansion/Hakamo-o-Card-53",
+      "image": "https://den-cards.pokellector.com/257/Hakamo-o.DRM.53.23580.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Hakamo-o.DRM.53.23580.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "53/70",
+      "card_number": "53",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Hakamo-o.DRM.53.23580.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fhakamo-o"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Hakamo-o-Guard-Press-Dragon-Claw?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Kommo-o",
+      "title": "Kommo-o - Dragon Majesty #54",
+      "link": "/Dragon-Majesty-Expansion/Kommo-o-Card-54",
+      "image": "https://den-cards.pokellector.com/257/Kommo-o.DRM.54.23581.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Kommo-o.DRM.54.23581.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "54/70",
+      "card_number": "54",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Kommo-o.DRM.54.23581.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fkommo-o"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.10",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kommo-o-Guard-Press-Enraged-Uppercut?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Kangaskhan",
+      "title": "Kangaskhan - Dragon Majesty #55",
+      "link": "/Dragon-Majesty-Expansion/Kangaskhan-Card-55",
+      "image": "https://den-cards.pokellector.com/257/Kangaskhan.DRM.55.23582.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Kangaskhan.DRM.55.23582.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "55/70",
+      "card_number": "55",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Kangaskhan.DRM.55.23582.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fkangaskhan"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kangaskhan-Fetch-Headbutt-One-Two-Punch?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Swablu",
+      "title": "Swablu - Dragon Majesty #56",
+      "link": "/Dragon-Majesty-Expansion/Swablu-Card-56",
+      "image": "https://den-cards.pokellector.com/257/Swablu.DRM.56.23583.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Swablu.DRM.56.23583.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "56/70",
+      "card_number": "56",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Swablu.DRM.56.23583.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.02",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fswablu-56"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Swablu-Collect-Peck?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Swablu",
+      "title": "Swablu - Dragon Majesty #57",
+      "link": "/Dragon-Majesty-Expansion/Swablu-Card-57",
+      "image": "https://den-cards.pokellector.com/257/Swablu.DRM.57.23591.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Swablu.DRM.57.23591.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "57/70",
+      "card_number": "57",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Swablu.DRM.57.23591.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.21",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fswablu-57"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Swablu-Sing?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Blaine's Last Stand",
+      "title": "Blaine's Last Stand - Dragon Majesty #58",
+      "link": "/Dragon-Majesty-Expansion/Blaines-Last-Stand-Card-58",
+      "image": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.58.23589.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.58.23589.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "58/70",
+      "card_number": "58",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.58.23589.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fblaines-last-stand"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.04",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaines-Last-Stand?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Dragon Talon",
+      "title": "Dragon Talon - Dragon Majesty #59",
+      "link": "/Dragon-Majesty-Expansion/Dragon-Talon-Card-59",
+      "image": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.59.23590.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.59.23590.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "59/70",
+      "card_number": "59",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.59.23590.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdragon-talon"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragon-Talon?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Fiery Flint",
+      "title": "Fiery Flint - Dragon Majesty #60",
+      "link": "/Dragon-Majesty-Expansion/Fiery-Flint-Card-60",
+      "image": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.60.23195.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.60.23195.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "60/70",
+      "card_number": "60",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.60.23195.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.29",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ffiery-flint"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.19",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Fiery-Flint-V-3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "League Promo",
+          "image": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.60.34780.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Lance Prism Star",
+      "title": "Lance Prism Star - Dragon Majesty #61",
+      "link": "/Dragon-Majesty-Expansion/Lance-Prism-Star-Card-61",
+      "image": "https://den-cards.pokellector.com/257/Lance-Prism-Star.DRM.61.23584.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Lance-Prism-Star.DRM.61.23584.png",
+      "details_scraped": true,
+      "rarity": "Prism Star",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "61/70",
+      "card_number": "61",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Lance-Prism-Star.DRM.61.23584.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Flance-prism-star"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.30",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Lance-?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "62": {
+      "number": "62",
+      "name": "Switch Raft",
+      "title": "Switch Raft - Dragon Majesty #62",
+      "link": "/Dragon-Majesty-Expansion/Switch-Raft-Card-62",
+      "image": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.62.23585.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.62.23585.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "62/70",
+      "card_number": "62",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.62.23585.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fswitch-raft"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Switch-Raft-V-1?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Wela Volcano Park",
+      "title": "Wela Volcano Park - Dragon Majesty #63",
+      "link": "/Dragon-Majesty-Expansion/Wela-Volcano-Park-Card-63",
+      "image": "https://den-cards.pokellector.com/257/Wela-Volcano-Park.DRM.63.23196.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Wela-Volcano-Park.DRM.63.23196.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "63/70",
+      "card_number": "63",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Wela-Volcano-Park.DRM.63.23196.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fwela-volcano-park"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wela-Volcano-Park?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Zinnia",
+      "title": "Zinnia - Dragon Majesty #64",
+      "link": "/Dragon-Majesty-Expansion/Zinnia-Card-64",
+      "image": "https://den-cards.pokellector.com/257/Zinnia.DRM.64.23197.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Zinnia.DRM.64.23197.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "64/70",
+      "card_number": "64",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Zinnia.DRM.64.23197.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.18",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fzinnia"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.02",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zinnia?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Reshiram GX",
+      "title": "Reshiram GX - Dragon Majesty #65",
+      "link": "/Dragon-Majesty-Expansion/Reshiram-GX-Card-65",
+      "image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.65.23592.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.65.23592.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "65/70",
+      "card_number": "65",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.65.23592.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$24.81",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Freshiram-gx-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€7.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-Flame-Charge-Scorching-Pillar-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "66": {
+      "number": "66",
+      "name": "Kingdra GX",
+      "title": "Kingdra GX - Dragon Majesty #66",
+      "link": "/Dragon-Majesty-Expansion/Kingdra-GX-Card-66",
+      "image": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.66.23593.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.66.23593.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "66/70",
+      "card_number": "66",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.66.23593.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fkingdra-gx-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€2.40",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-Hydro-Pump-Reverse-Thrust-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "67": {
+      "number": "67",
+      "name": "Dragonite GX",
+      "title": "Dragonite GX - Dragon Majesty #67",
+      "link": "/Dragon-Majesty-Expansion/Dragonite-GX-Card-67",
+      "image": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.67.23594.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.67.23594.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "67/70",
+      "card_number": "67",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.67.23594.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$50.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdragonite-gx-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€12.49",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-Dragon-Claw-Giga-Impact-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "68": {
+      "number": "68",
+      "name": "Altaria GX",
+      "title": "Altaria GX - Dragon Majesty #68",
+      "link": "/Dragon-Majesty-Expansion/Altaria-GX-Card-68",
+      "image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.68.23595.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.68.23595.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "68/70",
+      "card_number": "68",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.68.23595.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.46",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Faltaria-gx-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€6.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-Bright-Tone-Sonic-Edge-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "69": {
+      "number": "69",
+      "name": "Blaine’s Last Stand",
+      "title": "Blaine’s Last Stand - Dragon Majesty #69",
+      "link": "/Dragon-Majesty-Expansion/Blaines-Last-Stand-Card-69",
+      "image": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.69.23596.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.69.23596.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "69/70",
+      "card_number": "69",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.69.23596.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fblaines-last-stand-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€8.99",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaines-Last-Stand-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Zinnia",
+      "title": "Zinnia - Dragon Majesty #70",
+      "link": "/Dragon-Majesty-Expansion/Zinnia-Card-70",
+      "image": "https://den-cards.pokellector.com/257/Zinnia.DRM.70.23597.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Zinnia.DRM.70.23597.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "70/70",
+      "card_number": "70",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Zinnia.DRM.70.23597.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$51.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fzinnia-full-art"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€0.50",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-Pierce-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "71": {
+      "number": "71",
+      "name": "Reshiram GX",
+      "title": "Reshiram GX - Dragon Majesty #71",
+      "link": "/Dragon-Majesty-Expansion/Reshiram-GX-Card-71",
+      "image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.71.23598.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.71.23598.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "71/70",
+      "card_number": "71",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.71.23598.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$54.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Freshiram-gx-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€21.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-Flame-Charge-Scorching-Pillar-V-3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "72": {
+      "number": "72",
+      "name": "Altaria GX",
+      "title": "Altaria GX - Dragon Majesty #72",
+      "link": "/Dragon-Majesty-Expansion/Altaria-GX-Card-72",
+      "image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.72.23599.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.72.23599.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "72/70",
+      "card_number": "72",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.72.23599.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$32.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Faltaria-gx-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€10.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-Bright-Tone-Sonic-Edge-V-3?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "73": {
+      "number": "73",
+      "name": "Salamence GX",
+      "title": "Salamence GX - Dragon Majesty #73",
+      "link": "/Dragon-Majesty-Expansion/Salamence-GX-Card-73",
+      "image": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.73.23600.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.73.23600.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "73/70",
+      "card_number": "73",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.73.23600.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$37.49",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fsalamence-gx-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€17.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salamence-GX-Bright-Flame-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "74": {
+      "number": "74",
+      "name": "White Kyurem GX",
+      "title": "White Kyurem GX - Dragon Majesty #74",
+      "link": "/Dragon-Majesty-Expansion/White-Kyurem-GX-Card-74",
+      "image": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.74.23601.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.74.23601.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "74/70",
+      "card_number": "74",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.74.23601.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.98",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fwhite-kyurem-gx-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€15.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/White-Kyurem-GX-Shred-Enraged-Blade-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "75": {
+      "number": "75",
+      "name": "Dragon Talon",
+      "title": "Dragon Talon - Dragon Majesty #75",
+      "link": "/Dragon-Majesty-Expansion/Dragon-Talon-Card-75",
+      "image": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.75.23602.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.75.23602.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "75/70",
+      "card_number": "75",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.75.23602.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.84",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fdragon-talon-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€15.49",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragon-Talon-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "76": {
+      "number": "76",
+      "name": "Fiery Flint",
+      "title": "Fiery Flint - Dragon Majesty #76",
+      "link": "/Dragon-Majesty-Expansion/Fiery-Flint-Card-76",
+      "image": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.76.23603.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.76.23603.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "76/70",
+      "card_number": "76",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.76.23603.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$9.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Ffiery-flint-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€5.00",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Fiery-Flint-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "77": {
+      "number": "77",
+      "name": "Switch Raft",
+      "title": "Switch Raft - Dragon Majesty #77",
+      "link": "/Dragon-Majesty-Expansion/Switch-Raft-Card-77",
+      "image": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.77.23604.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.77.23604.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "77/70",
+      "card_number": "77",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.77.23604.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$7.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fswitch-raft-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€14.89",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Switch-Raft-V-2?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "78": {
+      "number": "78",
+      "name": "Ultra Necrozma GX",
+      "title": "Ultra Necrozma GX - Dragon Majesty #78",
+      "link": "/Dragon-Majesty-Expansion/Ultra-Necrozma-GX-Card-78",
+      "image": "https://den-cards.pokellector.com/257/Ultra-Necrozma-GX.DRM.78.23437.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/257/Ultra-Necrozma-GX.DRM.78.23437.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "Dragon Majesty",
+      "set_link": "/Dragon-Majesty-Expansion/",
+      "position": "78/70",
+      "card_number": "78",
+      "total_cards": "70",
+      "image_full": "https://den-cards.pokellector.com/257/Ultra-Necrozma-GX.DRM.78.23437.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$95.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fdragon-majesty%2Fultra-necrozma-gx-secret"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "€49.90",
+          "link": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Ultra-Necrozma-GX-Photon-Geyser?referrer=MakazuCo&utm_source=pokellector&utm_medium=text&utm_campaign=card_prices"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 05:01:37"
+}

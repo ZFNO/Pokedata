@@ -1,0 +1,4902 @@
+{
+  "title": "EX Team Magma vs Team Aqua Set",
+  "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+  "logo": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.logo.55.png",
+  "symbol": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.symbol.55.png",
+  "scraped": true,
+  "cards": {
+    "1": {
+      "number": "1",
+      "name": "Team Aqua's Cacturne",
+      "title": "Team Aqua's Cacturne - EX Team Magma vs Team Aqua #1",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Cacturne-Card-1",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Cacturne.MA.1.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Cacturne.MA.1.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "1/95",
+      "card_number": "1",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Cacturne.MA.1.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$19.89",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-cacturne"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.19",
+          "link": "http://www.trollandtoad.com/p1121892.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Cacturne+1+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.89",
+          "link": "http://stop2shop.com/team-ma-1.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Cacturne+-+1%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "2": {
+      "number": "2",
+      "name": "Team Aqua's Crawdaunt",
+      "title": "Team Aqua's Crawdaunt - EX Team Magma vs Team Aqua #2",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Crawdaunt-Card-2",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.2.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.2.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "2/95",
+      "card_number": "2",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.2.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$11.36",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-crawdaunt-2"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p1121901.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Crawdaunt+2+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$1.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Crawdaunt+-+2%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.27",
+          "link": "http://stop2shop.com/team-ma-2.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "3": {
+      "number": "3",
+      "name": "Team Aqua's Kyogre",
+      "title": "Team Aqua's Kyogre - EX Team Magma vs Team Aqua #3",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Kyogre-Card-3",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Kyogre.MA.3.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Kyogre.MA.3.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "3/95",
+      "card_number": "3",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Kyogre.MA.3.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$49.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-kyogre"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p304929.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$25.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Kyogre+3+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$14.72",
+          "link": "http://stop2shop.com/team-ma-3.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Kyogre+-+3%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "4": {
+      "number": "4",
+      "name": "Team Aqua's Manectric",
+      "title": "Team Aqua's Manectric - EX Team Magma vs Team Aqua #4",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Manectric-Card-4",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.4.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.4.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "4/95",
+      "card_number": "4",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.4.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$25.22",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-manectric-4"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$10.99",
+          "link": "http://www.trollandtoad.com/p1121908.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$17.48",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Manectric+4+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.81",
+          "link": "http://stop2shop.com/team-ma-4.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Manectric+-+4%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "5": {
+      "number": "5",
+      "name": "Team Aqua's Sharpedo",
+      "title": "Team Aqua's Sharpedo - EX Team Magma vs Team Aqua #5",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Sharpedo-Card-5",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.5.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.5.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "5/95",
+      "card_number": "5",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.5.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$52.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-sharpedo-5"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$14.09",
+          "link": "http://www.trollandtoad.com/p1121917.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$15.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Sharpedo+5+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$9.70",
+          "link": "http://stop2shop.com/team-ma-5.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sharpedo+-+18%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "6": {
+      "number": "6",
+      "name": "Team Aqua's Walrein",
+      "title": "Team Aqua's Walrein - EX Team Magma vs Team Aqua #6",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Walrein-Card-6",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Walrein.MA.6.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Walrein.MA.6.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "6/95",
+      "card_number": "6",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Walrein.MA.6.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$4.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-walrein"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.79",
+          "link": "http://www.trollandtoad.com/p168810.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Walrein+6+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Walrein+-+6%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.44",
+          "link": "http://stop2shop.com/team-ma-6.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "7": {
+      "number": "7",
+      "name": "Team Magma's Aggron",
+      "title": "Team Magma's Aggron - EX Team Magma vs Team Aqua #7",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Aggron-Card-7",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Aggron.MA.7.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Aggron.MA.7.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "7/95",
+      "card_number": "7",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Aggron.MA.7.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$10.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-aggron"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p168832.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.26",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Aggron+7+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Aggron+-+7%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.49",
+          "link": "http://stop2shop.com/team-ma-7.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "8": {
+      "number": "8",
+      "name": "Team Magma's Claydol",
+      "title": "Team Magma's Claydol - EX Team Magma vs Team Aqua #8",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Claydol-Card-8",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.8.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.8.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "8/95",
+      "card_number": "8",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.8.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$18.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-claydol-8"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.19",
+          "link": "http://www.trollandtoad.com/p1121935.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Claydol+8+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Claydol+-+8%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$6.53",
+          "link": "http://stop2shop.com/team-ma-8.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "9": {
+      "number": "9",
+      "name": "Team Magma's Groudon",
+      "title": "Team Magma's Groudon - EX Team Magma vs Team Aqua #9",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Groudon-Card-9",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "9/95",
+      "card_number": "9",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$84.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-groudon"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$32.99",
+          "link": "http://www.trollandtoad.com/p1121936.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Groudon+9+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$4.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Groudon+-+9%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$17.47",
+          "link": "http://stop2shop.com/team-ma-9.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        },
+        {
+          "name": "Celebrations Promo",
+          "image": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.40594.thumb.png",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "10": {
+      "number": "10",
+      "name": "Team Magma's Houndoom",
+      "title": "Team Magma's Houndoom - EX Team Magma vs Team Aqua #10",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Houndoom-Card-10",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.10.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.10.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "10/95",
+      "card_number": "10",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.10.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$77.17",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-houndoom-10"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$38.99",
+          "link": "http://www.trollandtoad.com/p1121937.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Houndoom+10+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Houndoom+-+10%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$13.21",
+          "link": "http://stop2shop.com/team-ma-10.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "11": {
+      "number": "11",
+      "name": "Team Magma's Rhydon",
+      "title": "Team Magma's Rhydon - EX Team Magma vs Team Aqua #11",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Rhydon-Card-11",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.11.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.11.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "11/95",
+      "card_number": "11",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.11.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$20.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-rhydon-11"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$7.59",
+          "link": "http://www.trollandtoad.com/p1121949.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Rhydon+11+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$7.47",
+          "link": "http://stop2shop.com/team-ma-11.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Rhydon+-+11%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "12": {
+      "number": "12",
+      "name": "Team Magma's Torkoal",
+      "title": "Team Magma's Torkoal - EX Team Magma vs Team Aqua #12",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Torkoal-Card-12",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Torkoal.MA.12.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Torkoal.MA.12.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "12/95",
+      "card_number": "12",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Torkoal.MA.12.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$30.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-torkoal"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$11.99",
+          "link": "http://www.trollandtoad.com/p1121954.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Torkoal+12+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.51",
+          "link": "http://stop2shop.com/team-ma-12.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Torkoal+-+12%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "13": {
+      "number": "13",
+      "name": "Raichu",
+      "title": "Raichu - EX Team Magma vs Team Aqua #13",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Raichu-Card-13",
+      "image": "https://den-cards.pokellector.com/55/Raichu.MA.13.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Raichu.MA.13.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "13/95",
+      "card_number": "13",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Raichu.MA.13.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.82",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fraichu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.39",
+          "link": "http://www.trollandtoad.com/p168772.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Raichu+13+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raichu+-+13%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.30",
+          "link": "http://stop2shop.com/team-ma-13.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "14": {
+      "number": "14",
+      "name": "Team Aqua's Crawdaunt",
+      "title": "Team Aqua's Crawdaunt - EX Team Magma vs Team Aqua #14",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Crawdaunt-Card-14",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.14.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.14.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "14/95",
+      "card_number": "14",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Crawdaunt.MA.14.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.16",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-crawdaunt-14"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p168812.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.47",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Crawdaunt+14+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.74",
+          "link": "http://stop2shop.com/team-ma-14.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Crawdaunt+-+14%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "15": {
+      "number": "15",
+      "name": "Team Aqua's Mightyena",
+      "title": "Team Aqua's Mightyena - EX Team Magma vs Team Aqua #15",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Mightyena-Card-15",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.15.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.15.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "15/95",
+      "card_number": "15",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.15.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-mightyena-15"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.18",
+          "link": "http://www.trollandtoad.com/p168815.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$21.84",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Mightyena+15+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Mightyena+-+15%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.55",
+          "link": "http://stop2shop.com/team-ma-15.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "16": {
+      "number": "16",
+      "name": "Team Aqua's Sealeo",
+      "title": "Team Aqua's Sealeo - EX Team Magma vs Team Aqua #16",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Sealeo-Card-16",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.16.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.16.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "16/95",
+      "card_number": "16",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.16.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-sealeo-16"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p168816.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.93",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Sealeo+16+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sealeo+-+16%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.94",
+          "link": "http://stop2shop.com/team-ma-16.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "17": {
+      "number": "17",
+      "name": "Team Aqua's Seviper",
+      "title": "Team Aqua's Seviper - EX Team Magma vs Team Aqua #17",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Seviper-Card-17",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Seviper.MA.17.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Seviper.MA.17.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "17/95",
+      "card_number": "17",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Seviper.MA.17.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.97",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-seviper"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p168807.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.83",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Seviper+17+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.87",
+          "link": "http://stop2shop.com/team-ma-17.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Seviper+-+17%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "18": {
+      "number": "18",
+      "name": "Team Aqua's Sharpedo",
+      "title": "Team Aqua's Sharpedo - EX Team Magma vs Team Aqua #18",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Sharpedo-Card-18",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.18.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.18.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "18/95",
+      "card_number": "18",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Sharpedo.MA.18.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-sharpedo-18"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.59",
+          "link": "http://www.trollandtoad.com/p168801.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Sharpedo+18+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sharpedo+-+18%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.00",
+          "link": "http://stop2shop.com/team-ma-18.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "19": {
+      "number": "19",
+      "name": "Team Magma's Camerupt",
+      "title": "Team Magma's Camerupt - EX Team Magma vs Team Aqua #19",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Camerupt-Card-19",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Camerupt.MA.19.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Camerupt.MA.19.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "19/95",
+      "card_number": "19",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Camerupt.MA.19.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-camerupt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p168853.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Camerupt+19+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.92",
+          "link": "http://stop2shop.com/team-ma-19.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Camerupt+-+19%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "20": {
+      "number": "20",
+      "name": "Team Magma's Lairon",
+      "title": "Team Magma's Lairon - EX Team Magma vs Team Aqua #20",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Lairon-Card-20",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.20.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.20.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "20/95",
+      "card_number": "20",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.20.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.71",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-lairon-20"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.39",
+          "link": "http://www.trollandtoad.com/p168856.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Lairon+20+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.27",
+          "link": "http://stop2shop.com/team-ma-20.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Lairon+-+20%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "21": {
+      "number": "21",
+      "name": "Team Magma's Mightyena",
+      "title": "Team Magma's Mightyena - EX Team Magma vs Team Aqua #21",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Mightyena-Card-21",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.21.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.21.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "21/95",
+      "card_number": "21",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.21.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-mightyena-21"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.69",
+          "link": "http://www.trollandtoad.com/p168829.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Mightyena+21+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Mightyena+-+21%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.64",
+          "link": "http://stop2shop.com/team-ma-21.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "22": {
+      "number": "22",
+      "name": "Team Magma's Rhydon",
+      "title": "Team Magma's Rhydon - EX Team Magma vs Team Aqua #22",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Rhydon-Card-22",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.22.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.22.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "22/95",
+      "card_number": "22",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Rhydon.MA.22.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-rhydon-22"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p168830.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.62",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Rhydon+22+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Rhydon+-+22%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.02",
+          "link": "http://stop2shop.com/team-ma-22.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "23": {
+      "number": "23",
+      "name": "Team Magma's Zangoose",
+      "title": "Team Magma's Zangoose - EX Team Magma vs Team Aqua #23",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Zangoose-Card-23",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Zangoose.MA.23.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Zangoose.MA.23.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "23/95",
+      "card_number": "23",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Zangoose.MA.23.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.15",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-zangoose"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.19",
+          "link": "http://www.trollandtoad.com/p168863.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.01",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Zangoose+23+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.92",
+          "link": "http://stop2shop.com/team-ma-23.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Zangoose+-+23%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "24": {
+      "number": "24",
+      "name": "Team Aqua's Cacnea",
+      "title": "Team Aqua's Cacnea - EX Team Magma vs Team Aqua #24",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Cacnea-Card-24",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Cacnea.MA.24.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Cacnea.MA.24.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "24/95",
+      "card_number": "24",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Cacnea.MA.24.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.81",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-cacnea"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p168809.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.18",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Cacnea+24+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Cacnea+-+24%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$3.92",
+          "link": "http://stop2shop.com/team-ma-24.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "25": {
+      "number": "25",
+      "name": "Team Aqua's Carvanha",
+      "title": "Team Aqua's Carvanha - EX Team Magma vs Team Aqua #25",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Carvanha-Card-25",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.25.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.25.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "25/95",
+      "card_number": "25",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.25.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.76",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-carvanha-25"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p1121893.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Carvanha+25+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.80",
+          "link": "http://stop2shop.com/team-ma-25.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Carvanha+-+25%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "26": {
+      "number": "26",
+      "name": "Team Aqua's Corphish",
+      "title": "Team Aqua's Corphish - EX Team Magma vs Team Aqua #26",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Corphish-Card-26",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.26.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.26.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "26/95",
+      "card_number": "26",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.26.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-corphish-26"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p168803.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Corphish+26+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Corphish+-+26%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.82",
+          "link": "http://stop2shop.com/team-ma-26.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "27": {
+      "number": "27",
+      "name": "Team Aqua's Electrike",
+      "title": "Team Aqua's Electrike - EX Team Magma vs Team Aqua #27",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Electrike-Card-27",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.27.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.27.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "27/95",
+      "card_number": "27",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.27.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-electrike-27"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p168799.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.80",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Electrike+27+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Electrike+-+27%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.50",
+          "link": "http://stop2shop.com/team-ma-27.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "28": {
+      "number": "28",
+      "name": "Team Aqua's Lanturn",
+      "title": "Team Aqua's Lanturn - EX Team Magma vs Team Aqua #28",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Lanturn-Card-28",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Lanturn.MA.28.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Lanturn.MA.28.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "28/95",
+      "card_number": "28",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Lanturn.MA.28.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.33",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-lanturn"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168814.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.07",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Lanturn+28+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Lanturn+-+28%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.38",
+          "link": "http://stop2shop.com/team-ma-28.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "29": {
+      "number": "29",
+      "name": "Team Aqua's Manectric",
+      "title": "Team Aqua's Manectric - EX Team Magma vs Team Aqua #29",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Manectric-Card-29",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.29.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.29.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "29/95",
+      "card_number": "29",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Manectric.MA.29.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-manectric-29"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.29",
+          "link": "http://www.trollandtoad.com/p168800.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.58",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Manectric+29+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.09",
+          "link": "http://stop2shop.com/team-ma-29.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Manectric+-+29%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "30": {
+      "number": "30",
+      "name": "Team Aqua's Mightyena",
+      "title": "Team Aqua's Mightyena - EX Team Magma vs Team Aqua #30",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Mightyena-Card-30",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.30.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.30.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "30/95",
+      "card_number": "30",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Mightyena.MA.30.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-mightyena-30"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168824.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.65",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Mightyena+30+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/team-ma-30.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Mightyena+-+30%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "31": {
+      "number": "31",
+      "name": "Team Aqua's Sealeo",
+      "title": "Team Aqua's Sealeo - EX Team Magma vs Team Aqua #31",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Sealeo-Card-31",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.31.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.31.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "31/95",
+      "card_number": "31",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Sealeo.MA.31.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-sealeo-31"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168806.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Sealeo+31+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Sealeo+-+31%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/team-ma-31.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "32": {
+      "number": "32",
+      "name": "Team Magma's Baltoy",
+      "title": "Team Magma's Baltoy - EX Team Magma vs Team Aqua #32",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Baltoy-Card-32",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.32.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.32.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "32/95",
+      "card_number": "32",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.32.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-baltoy-32"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p1121930.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.95",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Baltoy+32+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Baltoy+-+32%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/team-ma-32.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "33": {
+      "number": "33",
+      "name": "Team Magma's Claydol",
+      "title": "Team Magma's Claydol - EX Team Magma vs Team Aqua #33",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Claydol-Card-33",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.33.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.33.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "33/95",
+      "card_number": "33",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Claydol.MA.33.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-claydol-33"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168842.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.20",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Claydol+33+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/team-ma-33.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Claydol+-+33%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "34": {
+      "number": "34",
+      "name": "Team Magma's Houndoom",
+      "title": "Team Magma's Houndoom - EX Team Magma vs Team Aqua #34",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Houndoom-Card-34",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.34.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.34.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "34/95",
+      "card_number": "34",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Houndoom.MA.34.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.24",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-houndoom-34"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p168855.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Houndoom+34+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Houndoom+-+34%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.71",
+          "link": "http://stop2shop.com/team-ma-34.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "35": {
+      "number": "35",
+      "name": "Team Magma's Houndour",
+      "title": "Team Magma's Houndour - EX Team Magma vs Team Aqua #35",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Houndour-Card-35",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.35.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.35.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "35/95",
+      "card_number": "35",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.35.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-houndour-35"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.79",
+          "link": "http://www.trollandtoad.com/p168848.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Houndour+35+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Houndour+-+35%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.82",
+          "link": "http://stop2shop.com/team-ma-35.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "36": {
+      "number": "36",
+      "name": "Team Magma's Lairon",
+      "title": "Team Magma's Lairon - EX Team Magma vs Team Aqua #36",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Lairon-Card-36",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.36.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.36.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "36/95",
+      "card_number": "36",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Lairon.MA.36.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-lairon-36"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168849.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Lairon+36+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Lairon+-+36%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/team-ma-36.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "37": {
+      "number": "37",
+      "name": "Team Magma's Mightyena",
+      "title": "Team Magma's Mightyena - EX Team Magma vs Team Aqua #37",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Mightyena-Card-37",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.37.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.37.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "37/95",
+      "card_number": "37",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Mightyena.MA.37.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.75",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-mightyena-37"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.39",
+          "link": "http://www.trollandtoad.com/p1121945.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Mightyena+37+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Mightyena+-+37%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.94",
+          "link": "http://stop2shop.com/team-ma-37.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "38": {
+      "number": "38",
+      "name": "Team Magma's Rhyhorn",
+      "title": "Team Magma's Rhyhorn - EX Team Magma vs Team Aqua #38",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Rhyhorn-Card-38",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.38.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.38.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "38/95",
+      "card_number": "38",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.38.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-rhyhorn-38"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p168846.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.02",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Rhyhorn+38+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Rhyhorn+-+38%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.43",
+          "link": "http://stop2shop.com/team-ma-38.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "39": {
+      "number": "39",
+      "name": "Bulbasaur",
+      "title": "Bulbasaur - EX Team Magma vs Team Aqua #39",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Bulbasaur-Card-39",
+      "image": "https://den-cards.pokellector.com/55/Bulbasaur.MA.39.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Bulbasaur.MA.39.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "39/95",
+      "card_number": "39",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Bulbasaur.MA.39.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$20.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fbulbasaur"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.99",
+          "link": "http://www.trollandtoad.com/p168754.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$11.88",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Bulbasaur+39+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.35",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Bulbasaur+-+39%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.20",
+          "link": "http://stop2shop.com/team-ma-39.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "40": {
+      "number": "40",
+      "name": "Cubone",
+      "title": "Cubone - EX Team Magma vs Team Aqua #40",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Cubone-Card-40",
+      "image": "https://den-cards.pokellector.com/55/Cubone.MA.40.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Cubone.MA.40.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "40/95",
+      "card_number": "40",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Cubone.MA.40.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$44.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fcubone"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p168756.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$7.73",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Cubone+40+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Cubone+-+40%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.29",
+          "link": "http://stop2shop.com/team-ma-40.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "41": {
+      "number": "41",
+      "name": "Jigglypuff",
+      "title": "Jigglypuff - EX Team Magma vs Team Aqua #41",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Jigglypuff-Card-41",
+      "image": "https://den-cards.pokellector.com/55/Jigglypuff.MA.41.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Jigglypuff.MA.41.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "41/95",
+      "card_number": "41",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Jigglypuff.MA.41.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$5.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fjigglypuff"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p168761.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.06",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Jigglypuff+41+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jigglypuff+-+41%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.87",
+          "link": "http://stop2shop.com/team-ma-41.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "42": {
+      "number": "42",
+      "name": "Meowth",
+      "title": "Meowth - EX Team Magma vs Team Aqua #42",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Meowth-Card-42",
+      "image": "https://den-cards.pokellector.com/55/Meowth.MA.42.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Meowth.MA.42.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "42/95",
+      "card_number": "42",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Meowth.MA.42.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.30",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fmeowth"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p168766.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Meowth+42+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.63",
+          "link": "http://stop2shop.com/team-ma-42.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Meowth+-+42%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "43": {
+      "number": "43",
+      "name": "Pikachu",
+      "title": "Pikachu - EX Team Magma vs Team Aqua #43",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Pikachu-Card-43",
+      "image": "https://den-cards.pokellector.com/55/Pikachu.MA.43.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Pikachu.MA.43.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "43/95",
+      "card_number": "43",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Pikachu.MA.43.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$13.93",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fpikachu"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.99",
+          "link": "http://www.trollandtoad.com/p168770.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Pikachu+43+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Pikachu+-+43%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.67",
+          "link": "http://stop2shop.com/team-ma-43.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "44": {
+      "number": "44",
+      "name": "Psyduck",
+      "title": "Psyduck - EX Team Magma vs Team Aqua #44",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Psyduck-Card-44",
+      "image": "https://den-cards.pokellector.com/55/Psyduck.MA.44.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Psyduck.MA.44.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "44/95",
+      "card_number": "44",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Psyduck.MA.44.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$38.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fpsyduck"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.59",
+          "link": "http://www.trollandtoad.com/p168771.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Psyduck+44+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.67",
+          "link": "http://stop2shop.com/team-ma-44.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Psyduck+-+44%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "45": {
+      "number": "45",
+      "name": "Slowpoke",
+      "title": "Slowpoke - EX Team Magma vs Team Aqua #45",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Slowpoke-Card-45",
+      "image": "https://den-cards.pokellector.com/55/Slowpoke.MA.45.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Slowpoke.MA.45.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "45/95",
+      "card_number": "45",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Slowpoke.MA.45.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.79",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fslowpoke"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.49",
+          "link": "http://www.trollandtoad.com/p168786.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.59",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Slowpoke+45+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Slowpoke+-+45%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.19",
+          "link": "http://stop2shop.com/team-ma-45.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "46": {
+      "number": "46",
+      "name": "Squirtle",
+      "title": "Squirtle - EX Team Magma vs Team Aqua #46",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Squirtle-Card-46",
+      "image": "https://den-cards.pokellector.com/55/Squirtle.MA.46.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Squirtle.MA.46.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "46/95",
+      "card_number": "46",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Squirtle.MA.46.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$28.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fsquirtle"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$8.39",
+          "link": "http://www.trollandtoad.com/p168787.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$14.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Squirtle+46+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Squirtle+-+46%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$5.91",
+          "link": "http://stop2shop.com/team-ma-46.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "47": {
+      "number": "47",
+      "name": "Team Aqua's Carvanha",
+      "title": "Team Aqua's Carvanha - EX Team Magma vs Team Aqua #47",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Carvanha-Card-47",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.47.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.47.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "47/95",
+      "card_number": "47",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.47.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.34",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-carvanha-47"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p168818.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Carvanha+47+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/team-ma-47.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Carvanha+-+47%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "48": {
+      "number": "48",
+      "name": "Team Aqua's Carvanha",
+      "title": "Team Aqua's Carvanha - EX Team Magma vs Team Aqua #48",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Carvanha-Card-48",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.48.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.48.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "48/95",
+      "card_number": "48",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Carvanha.MA.48.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-carvanha-48"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168828.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Carvanha+48+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Carvanha+-+48%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.17",
+          "link": "http://stop2shop.com/team-ma-48.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "49": {
+      "number": "49",
+      "name": "Team Aqua's Chinchou",
+      "title": "Team Aqua's Chinchou - EX Team Magma vs Team Aqua #49",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Chinchou-Card-49",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Chinchou.MA.49.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Chinchou.MA.49.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "49/95",
+      "card_number": "49",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Chinchou.MA.49.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.09",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-chinchou"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168811.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Chinchou+49+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Chinchou+-+49%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/team-ma-49.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "50": {
+      "number": "50",
+      "name": "Team Aqua's Corphish",
+      "title": "Team Aqua's Corphish - EX Team Magma vs Team Aqua #50",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Corphish-Card-50",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.50.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.50.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "50/95",
+      "card_number": "50",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.50.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.27",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-corphish-50"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p168820.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.16",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Corphish+50+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.38",
+          "link": "http://stop2shop.com/team-ma-50.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Corphish+-+50%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "51": {
+      "number": "51",
+      "name": "Team Aqua's Corphish",
+      "title": "Team Aqua's Corphish - EX Team Magma vs Team Aqua #51",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Corphish-Card-51",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.51.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.51.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "51/95",
+      "card_number": "51",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Corphish.MA.51.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.40",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-corphish-51"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168821.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.87",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Corphish+51+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Corphish+-+51%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.26",
+          "link": "http://stop2shop.com/team-ma-51.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "52": {
+      "number": "52",
+      "name": "Team Aqua's Electrike",
+      "title": "Team Aqua's Electrike - EX Team Magma vs Team Aqua #52",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Electrike-Card-52",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.52.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.52.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "52/95",
+      "card_number": "52",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.52.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.39",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-electrike-52"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p168822.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Electrike+52+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.19",
+          "link": "http://stop2shop.com/team-ma-52.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Electrike+-+52%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "53": {
+      "number": "53",
+      "name": "Team Aqua's Electrike",
+      "title": "Team Aqua's Electrike - EX Team Magma vs Team Aqua #53",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Electrike-Card-53",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.53.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.53.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "53/95",
+      "card_number": "53",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Electrike.MA.53.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-electrike-53"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.69",
+          "link": "http://www.trollandtoad.com/p168823.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.50",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Electrike+53+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/team-ma-53.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Electrike+-+53%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "54": {
+      "number": "54",
+      "name": "Team Aqua's Poochyena",
+      "title": "Team Aqua's Poochyena - EX Team Magma vs Team Aqua #54",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Poochyena-Card-54",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.54.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.54.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "54/95",
+      "card_number": "54",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.54.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-poochyena-54"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168825.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.92",
+          "link": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Poochyena+54+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Poochyena+-+54%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.28",
+          "link": "http://stop2shop.com/team-ma-54.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "55": {
+      "number": "55",
+      "name": "Team Aqua's Poochyena",
+      "title": "Team Aqua's Poochyena - EX Team Magma vs Team Aqua #55",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Poochyena-Card-55",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.55.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.55.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "55/95",
+      "card_number": "55",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Poochyena.MA.55.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.92",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-poochyena-55"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168805.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.77",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Poochyena+55+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.53",
+          "link": "http://stop2shop.com/team-ma-55.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Poochyena+-+55%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "56": {
+      "number": "56",
+      "name": "Team Aqua's Spheal",
+      "title": "Team Aqua's Spheal - EX Team Magma vs Team Aqua #56",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Spheal-Card-56",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.56.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.56.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "56/95",
+      "card_number": "56",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.56.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.26",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-spheal-56"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168827.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Spheal+56+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Spheal+-+56%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/team-ma-56.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "57": {
+      "number": "57",
+      "name": "Team Aqua's Spheal",
+      "title": "Team Aqua's Spheal - EX Team Magma vs Team Aqua #57",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aquas-Spheal-Card-57",
+      "image": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.57.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.57.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "57/95",
+      "card_number": "57",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aquas-Spheal.MA.57.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aquas-spheal-57"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.29",
+          "link": "http://www.trollandtoad.com/p168802.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua%27s+Spheal+57+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.52",
+          "link": "http://stop2shop.com/team-ma-57.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua%27s+Spheal+-+57%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "58": {
+      "number": "58",
+      "name": "Team Magma's Aron",
+      "title": "Team Magma's Aron - EX Team Magma vs Team Aqua #58",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Aron-Card-58",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.58.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.58.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "58/95",
+      "card_number": "58",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.58.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.10",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-aron-58"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p168852.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.69",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Aron+58+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Aron+-+58%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.22",
+          "link": "http://stop2shop.com/team-ma-58.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "59": {
+      "number": "59",
+      "name": "Team Magma's Aron",
+      "title": "Team Magma's Aron - EX Team Magma vs Team Aqua #59",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Aron-Card-59",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.59.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.59.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "59/95",
+      "card_number": "59",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Aron.MA.59.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-aron-59"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168833.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.62",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Aron+59+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Aron+-+59%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.33",
+          "link": "http://stop2shop.com/team-ma-59.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "60": {
+      "number": "60",
+      "name": "Team Magma's Baltoy",
+      "title": "Team Magma's Baltoy - EX Team Magma vs Team Aqua #60",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Baltoy-Card-60",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.60.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.60.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "60/95",
+      "card_number": "60",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.60.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.14",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-baltoy-60"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p168834.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Baltoy+60+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Baltoy+-+60%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.16",
+          "link": "http://stop2shop.com/team-ma-60.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "61": {
+      "number": "61",
+      "name": "Team Magma's Baltoy",
+      "title": "Team Magma's Baltoy - EX Team Magma vs Team Aqua #61",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Baltoy-Card-61",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.61.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.61.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "61/95",
+      "card_number": "61",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Baltoy.MA.61.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-baltoy-61"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168847.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Baltoy+61+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Baltoy+-+61%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.30",
+          "link": "http://stop2shop.com/team-ma-61.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "62": {
+      "number": "62",
+      "name": "Team Magma's Houndour",
+      "title": "Team Magma's Houndour - EX Team Magma vs Team Aqua #62",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Houndour-Card-62",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.62.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.62.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "62/95",
+      "card_number": "62",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.62.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.25",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-houndour-62"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168835.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.35",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Houndour+62+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Houndour+-+62%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.25",
+          "link": "http://stop2shop.com/team-ma-62.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "63": {
+      "number": "63",
+      "name": "Team Magma's Houndour",
+      "title": "Team Magma's Houndour - EX Team Magma vs Team Aqua #63",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Houndour-Card-63",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.63.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.63.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "63/95",
+      "card_number": "63",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Houndour.MA.63.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-houndour-63"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.99",
+          "link": "http://www.trollandtoad.com/p168836.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Houndour+63+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.36",
+          "link": "http://stop2shop.com/team-ma-63.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Houndour+-+63%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "64": {
+      "number": "64",
+      "name": "Team Magma's Numel",
+      "title": "Team Magma's Numel - EX Team Magma vs Team Aqua #64",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Numel-Card-64",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Numel.MA.64.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Numel.MA.64.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "64/95",
+      "card_number": "64",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Numel.MA.64.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.79",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-numel"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168838.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.39",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Numel+64+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.40",
+          "link": "http://stop2shop.com/team-ma-64.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Numel+-+64%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "65": {
+      "number": "65",
+      "name": "Team Magma's Poochyena",
+      "title": "Team Magma's Poochyena - EX Team Magma vs Team Aqua #65",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Poochyena-Card-65",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.65.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.65.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "65/95",
+      "card_number": "65",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.65.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-poochyena-65"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168839.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.54",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Poochyena+65+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/team-ma-65.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Poochyena+-+65%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "66": {
+      "number": "66",
+      "name": "Team Magma's Poochyena",
+      "title": "Team Magma's Poochyena - EX Team Magma vs Team Aqua #66",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Poochyena-Card-66",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.66.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.66.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "66/95",
+      "card_number": "66",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Poochyena.MA.66.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.76",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-poochyena-66"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p168845.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Poochyena+66+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Poochyena+-+66%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/team-ma-66.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "67": {
+      "number": "67",
+      "name": "Team Magma's Rhyhorn",
+      "title": "Team Magma's Rhyhorn - EX Team Magma vs Team Aqua #67",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Rhyhorn-Card-67",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.67.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.67.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "67/95",
+      "card_number": "67",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.67.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.47",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-rhyhorn-67"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168840.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$5.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Rhyhorn+67+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Rhyhorn+-+67%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.46",
+          "link": "http://stop2shop.com/team-ma-67.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "68": {
+      "number": "68",
+      "name": "Team Magma's Rhyhorn",
+      "title": "Team Magma's Rhyhorn - EX Team Magma vs Team Aqua #68",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magmas-Rhyhorn-Card-68",
+      "image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.68.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.68.png",
+      "details_scraped": true,
+      "rarity": "Common",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "68/95",
+      "card_number": "68",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magmas-Rhyhorn.MA.68.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.20",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magmas-rhyhorn-68"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p168857.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.31",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma%27s+Rhyhorn+68+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma%27s+Rhyhorn+-+68%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.19",
+          "link": "http://stop2shop.com/team-ma-68.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "69": {
+      "number": "69",
+      "name": "Team Aqua Schemer",
+      "title": "Team Aqua Schemer - EX Team Magma vs Team Aqua #69",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Schemer-Card-69",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Schemer.MA.69.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Schemer.MA.69.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "69/95",
+      "card_number": "69",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Schemer.MA.69.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.11",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-schemer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168808.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Schemer+69+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Schemer+-+69%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.18",
+          "link": "http://stop2shop.com/team-ma-69.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "70": {
+      "number": "70",
+      "name": "Team Magma Schemer",
+      "title": "Team Magma Schemer - EX Team Magma vs Team Aqua #70",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Schemer-Card-70",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Schemer.MA.70.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Schemer.MA.70.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "70/95",
+      "card_number": "70",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Schemer.MA.70.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.12",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-schemer"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.35",
+          "link": "http://www.trollandtoad.com/p168841.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma+Schemer+70+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Schemer+-+70%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/team-ma-70.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "71": {
+      "number": "71",
+      "name": "Archie",
+      "title": "Archie - EX Team Magma vs Team Aqua #71",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Archie-Card-71",
+      "image": "https://den-cards.pokellector.com/55/Archie.MA.71.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Archie.MA.71.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "71/95",
+      "card_number": "71",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Archie.MA.71.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$2.28",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Farchie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$5.49",
+          "link": "http://www.trollandtoad.com/p1121870.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.60",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Archie+71+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Archie+-+71%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.21",
+          "link": "http://stop2shop.com/team-ma-71.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "72": {
+      "number": "72",
+      "name": "Dual Ball",
+      "title": "Dual Ball - EX Team Magma vs Team Aqua #72",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Dual-Ball-Card-72",
+      "image": "https://den-cards.pokellector.com/55/Dual-Ball.MA.72.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Dual-Ball.MA.72.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "72/95",
+      "card_number": "72",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Dual-Ball.MA.72.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.66",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fdual-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.99",
+          "link": "http://www.trollandtoad.com/p1121874.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.10",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Dual+Ball+72+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.34",
+          "link": "http://stop2shop.com/team-ma-72.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Dual+Ball+-+72%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "73": {
+      "number": "73",
+      "name": "Maxie",
+      "title": "Maxie - EX Team Magma vs Team Aqua #73",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Maxie-Card-73",
+      "image": "https://den-cards.pokellector.com/55/Maxie.MA.73.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Maxie.MA.73.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "73/95",
+      "card_number": "73",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Maxie.MA.73.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.23",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fmaxie"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$3.59",
+          "link": "http://www.trollandtoad.com/p1121877.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$10.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Maxie+73+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.16",
+          "link": "http://stop2shop.com/team-ma-73.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Maxie+-+73%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "74": {
+      "number": "74",
+      "name": "Strength Charm",
+      "title": "Strength Charm - EX Team Magma vs Team Aqua #74",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Strength-Charm-Card-74",
+      "image": "https://den-cards.pokellector.com/55/Strength-Charm.MA.74.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Strength-Charm.MA.74.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "74/95",
+      "card_number": "74",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Strength-Charm.MA.74.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.95",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fstrength-charm"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p168788.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.40",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Strength+Charm+74+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Strength+Charm+-+74%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.65",
+          "link": "http://stop2shop.com/team-ma-74.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "75": {
+      "number": "75",
+      "name": "Team Aqua Ball",
+      "title": "Team Aqua Ball - EX Team Magma vs Team Aqua #75",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Ball-Card-75",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Ball.MA.75.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Ball.MA.75.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "75/95",
+      "card_number": "75",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Ball.MA.75.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.41",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168793.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$6.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Ball+75+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.37",
+          "link": "http://stop2shop.com/team-ma-75.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Ball+-+75%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "76": {
+      "number": "76",
+      "name": "Team Aqua Belt",
+      "title": "Team Aqua Belt - EX Team Magma vs Team Aqua #76",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Belt-Card-76",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Belt.MA.76.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Belt.MA.76.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "76/95",
+      "card_number": "76",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Belt.MA.76.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.55",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-belt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p168794.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Belt+76+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Belt+-+76%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.51",
+          "link": "http://stop2shop.com/team-ma-76.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "77": {
+      "number": "77",
+      "name": "Team Aqua Conspirator",
+      "title": "Team Aqua Conspirator - EX Team Magma vs Team Aqua #77",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Conspirator-Card-77",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Conspirator.MA.77.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Conspirator.MA.77.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "77/95",
+      "card_number": "77",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Conspirator.MA.77.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.31",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-conspirator"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.49",
+          "link": "http://www.trollandtoad.com/p168795.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.54",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Conspirator+77+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Conspirator+-+77%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.23",
+          "link": "http://stop2shop.com/team-ma-77.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "78": {
+      "number": "78",
+      "name": "Team Aqua Hideout",
+      "title": "Team Aqua Hideout - EX Team Magma vs Team Aqua #78",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Hideout-Card-78",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Hideout.MA.78.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Hideout.MA.78.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "78/95",
+      "card_number": "78",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Hideout.MA.78.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.60",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-hideout"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.79",
+          "link": "http://www.trollandtoad.com/p168798.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.03",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Hideout+78+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.39",
+          "link": "http://stop2shop.com/team-ma-78.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Hideout+-+78%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "79": {
+      "number": "79",
+      "name": "Team Aqua Technical Machine 01",
+      "title": "Team Aqua Technical Machine 01 - EX Team Magma vs Team Aqua #79",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Aqua-Technical-Machine-01-Card-79",
+      "image": "https://den-cards.pokellector.com/55/Team-Aqua-Technical-Machine-01.MA.79.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Aqua-Technical-Machine-01.MA.79.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "79/95",
+      "card_number": "79",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Aqua-Technical-Machine-01.MA.79.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.70",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-aqua-technical-machine-01"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p168796.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.52",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Aqua+Technical+Machine+01+79+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Aqua+Technical+Machine+01+-+79%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.43",
+          "link": "http://stop2shop.com/team-ma-79.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "80": {
+      "number": "80",
+      "name": "Team Magma Ball",
+      "title": "Team Magma Ball - EX Team Magma vs Team Aqua #80",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Ball-Card-80",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Ball.MA.80.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Ball.MA.80.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "80/95",
+      "card_number": "80",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Ball.MA.80.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-ball"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.89",
+          "link": "http://www.trollandtoad.com/p168859.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$1.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma+Ball+80+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.42",
+          "link": "http://stop2shop.com/team-ma-80.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Ball+-+80%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "81": {
+      "number": "81",
+      "name": "Team Magma Belt",
+      "title": "Team Magma Belt - EX Team Magma vs Team Aqua #81",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Belt-Card-81",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Belt.MA.81.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Belt.MA.81.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "81/95",
+      "card_number": "81",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Belt.MA.81.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.83",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-belt"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.09",
+          "link": "http://www.trollandtoad.com/p168860.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$3.41",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma+Belt+81+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.73",
+          "link": "http://stop2shop.com/team-ma-81.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Belt+-+81%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "82": {
+      "number": "82",
+      "name": "Team Magma Conspirator",
+      "title": "Team Magma Conspirator - EX Team Magma vs Team Aqua #82",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Conspirator-Card-82",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Conspirator.MA.82.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Conspirator.MA.82.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "82/95",
+      "card_number": "82",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Conspirator.MA.82.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-conspirator"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.79",
+          "link": "http://www.trollandtoad.com/p168861.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.25",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma+Conspirator+82+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.45",
+          "link": "http://stop2shop.com/team-ma-82.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.25",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Conspirator+-+82%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "83": {
+      "number": "83",
+      "name": "Team Magma Hideout",
+      "title": "Team Magma Hideout - EX Team Magma vs Team Aqua #83",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Hideout-Card-83",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Hideout.MA.83.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Hideout.MA.83.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "83/95",
+      "card_number": "83",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Hideout.MA.83.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.35",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-hideout"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$0.59",
+          "link": "http://www.trollandtoad.com/p168862.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$0.40",
+          "link": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575033375&toolid=10001&campid=5337432569&customid=&mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DEX+Team+Magma+vs+Team+Aqua+Team+Magma+Hideout+83+-jumbo+-oversize+-promo%26_ddo%3D1%26_ipg%3D5%26_pgn%3D1%26_sop%3D13"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Hideout+-+83%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.44",
+          "link": "http://stop2shop.com/team-ma-83.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "84": {
+      "number": "84",
+      "name": "Team Magma Technical Machine 01",
+      "title": "Team Magma Technical Machine 01 - EX Team Magma vs Team Aqua #84",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Team-Magma-Technical-Machine-01-Card-84",
+      "image": "https://den-cards.pokellector.com/55/Team-Magma-Machine.MA.84.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Team-Magma-Machine.MA.84.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "84/95",
+      "card_number": "84",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Team-Magma-Machine.MA.84.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$1.42",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fteam-magma-technical-machine-01"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$2.49",
+          "link": "http://www.trollandtoad.com/p168831.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$2.08",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Team+Magma+Technical+Machine+01+84+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Team+Magma+Technical+Machine+01+-+84%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.58",
+          "link": "http://stop2shop.com/team-ma-84.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "85": {
+      "number": "85",
+      "name": "Warp Point",
+      "title": "Warp Point - EX Team Magma vs Team Aqua #85",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Warp-Point-Card-85",
+      "image": "https://den-cards.pokellector.com/55/Warp-Point.MA.85.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Warp-Point.MA.85.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "85/95",
+      "card_number": "85",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Warp-Point.MA.85.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$0.90",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fwarp-point"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.19",
+          "link": "http://www.trollandtoad.com/p168866.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$26.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Warp+Point+85+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Warp+Point+-+85%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$0.24",
+          "link": "http://stop2shop.com/team-ma-85.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "86": {
+      "number": "86",
+      "name": "Aqua Energy",
+      "title": "Aqua Energy - EX Team Magma vs Team Aqua #86",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Aqua-Energy-Card-86",
+      "image": "https://den-cards.pokellector.com/55/Aqua-Energy.MA.86.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Aqua-Energy.MA.86.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "86/95",
+      "card_number": "86",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Aqua-Energy.MA.86.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$3.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Faqua-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$1.49",
+          "link": "http://www.trollandtoad.com/p168748.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$8.17",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Aqua+Energy+86+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Aqua+Energy+-+86%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$1.04",
+          "link": "http://stop2shop.com/team-ma-86.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "87": {
+      "number": "87",
+      "name": "Magma Energy",
+      "title": "Magma Energy - EX Team Magma vs Team Aqua #87",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Magma-Energy-Card-87",
+      "image": "https://den-cards.pokellector.com/55/Magma-Energy.MA.87.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Magma-Energy.MA.87.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "87/95",
+      "card_number": "87",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Magma-Energy.MA.87.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$8.52",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fmagma-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$4.99",
+          "link": "http://www.trollandtoad.com/p168764.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$4.49",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Magma+Energy+87+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$0.49",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Magma+Energy+-+87%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$2.39",
+          "link": "http://stop2shop.com/team-ma-87.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "88": {
+      "number": "88",
+      "name": "Double Rainbow Energy",
+      "title": "Double Rainbow Energy - EX Team Magma vs Team Aqua #88",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Double-Rainbow-Energy-Card-88",
+      "image": "https://den-cards.pokellector.com/55/Double-Rainbow-Energy.MA.88.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Double-Rainbow-Energy.MA.88.png",
+      "details_scraped": true,
+      "rarity": "Uncommon",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "88/95",
+      "card_number": "88",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Double-Rainbow-Energy.MA.88.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$6.50",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fdouble-rainbow-energy"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$6.79",
+          "link": "http://www.trollandtoad.com/p168758.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$20.97",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Double+Rainbow+Energy+88+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$4.42",
+          "link": "http://stop2shop.com/team-ma-88.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$2.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Double+Rainbow+Energy+-+88%2F95"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "89": {
+      "number": "89",
+      "name": "Blaziken EX",
+      "title": "Blaziken EX - EX Team Magma vs Team Aqua #89",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Blaziken-EX-Card-89",
+      "image": "https://den-cards.pokellector.com/55/Blaziken-EX.MA.89.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Blaziken-EX.MA.89.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "89/95",
+      "card_number": "89",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Blaziken-EX.MA.89.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$120.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fblaziken-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$174.99",
+          "link": "http://www.trollandtoad.com/p168751.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$80.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Blaziken+EX+89+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$14.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Blaziken+ex+-+89%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$112.20",
+          "link": "http://stop2shop.com/team-ma-89.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "90": {
+      "number": "90",
+      "name": "Cradily ex",
+      "title": "Cradily ex - EX Team Magma vs Team Aqua #90",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Cradily-ex-Card-90",
+      "image": "https://den-cards.pokellector.com/55/Cardily-EX.MA.90.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Cardily-EX.MA.90.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "90/95",
+      "card_number": "90",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Cardily-EX.MA.90.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$75.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fcradily-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$54.99",
+          "link": "http://www.trollandtoad.com/p168755.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$19.75",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Cradily+ex+90+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$25.01",
+          "link": "http://stop2shop.com/team-ma-90.html"
+        }
+      ],
+      "alternate_versions": [
+        {
+          "name": "Reverse Holo",
+          "image": "https://www.pokellector.com/images/card-placeholder-small.jpg",
+          "link": null,
+          "title": null
+        }
+      ]
+    },
+    "91": {
+      "number": "91",
+      "name": "Entei EX",
+      "title": "Entei EX - EX Team Magma vs Team Aqua #91",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Entei-EX-Card-91",
+      "image": "https://den-cards.pokellector.com/55/Entei-EX.MA.91.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Entei-EX.MA.91.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "91/95",
+      "card_number": "91",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Entei-EX.MA.91.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$300.00",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fentei-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$179.99",
+          "link": "http://www.trollandtoad.com/p168760.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$69.99",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Entei+EX+91+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$13.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Entei+ex+-+91%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$110.42",
+          "link": "http://stop2shop.com/team-ma-91.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "92": {
+      "number": "92",
+      "name": "Raikou EX",
+      "title": "Raikou EX - EX Team Magma vs Team Aqua #92",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Raikou-EX-Card-92",
+      "image": "https://den-cards.pokellector.com/55/Raikou-EX.MA.92.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Raikou-EX.MA.92.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "92/95",
+      "card_number": "92",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Raikou-EX.MA.92.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$103.85",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fraikou-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$44.99",
+          "link": "http://www.trollandtoad.com/p1734096.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$44.30",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Raikou+EX+92+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$104.25",
+          "link": "http://stop2shop.com/team-ma-92.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$12.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Raikou+ex+-+92%2F95"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "93": {
+      "number": "93",
+      "name": "Sceptile EX",
+      "title": "Sceptile EX - EX Team Magma vs Team Aqua #93",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Sceptile-EX-Card-93",
+      "image": "https://den-cards.pokellector.com/55/Sceptile-EX.MA.93.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Sceptile-EX.MA.93.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "93/95",
+      "card_number": "93",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Sceptile-EX.MA.93.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$199.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fsceptile-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$139.99",
+          "link": "http://www.trollandtoad.com/p168785.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$99.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Sceptile+EX+93+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$16.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Sceptile+ex+-+93%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$55.53",
+          "link": "http://stop2shop.com/team-ma-93.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "94": {
+      "number": "94",
+      "name": "Suicune EX",
+      "title": "Suicune EX - EX Team Magma vs Team Aqua #94",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Suicune-EX-Card-94",
+      "image": "https://den-cards.pokellector.com/55/Suicune-EX.MA.94.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Suicune-EX.MA.94.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "94/95",
+      "card_number": "94",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Suicune-EX.MA.94.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$379.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fsuicune-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$264.99",
+          "link": "http://www.trollandtoad.com/p168789.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$49.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Suicune+EX+94+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$133.81",
+          "link": "http://stop2shop.com/team-ma-94.html"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$23.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Suicune+ex+-+94%2F95"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "95": {
+      "number": "95",
+      "name": "Swampert EX",
+      "title": "Swampert EX - EX Team Magma vs Team Aqua #95",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Swampert-EX-Card-95",
+      "image": "https://den-cards.pokellector.com/55/Swampert-EX.MA.95.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Swampert-EX.MA.95.png",
+      "details_scraped": true,
+      "rarity": "Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "95/95",
+      "card_number": "95",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Swampert-EX.MA.95.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$179.65",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fswampert-ex"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$109.99",
+          "link": "http://www.trollandtoad.com/p168790.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$34.50",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Swampert+EX+95+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$8.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Swampert+ex+-+95%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$68.37",
+          "link": "http://stop2shop.com/team-ma-95.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "96": {
+      "number": "96",
+      "name": "Absol",
+      "title": "Absol - EX Team Magma vs Team Aqua #96",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Absol-Card-96",
+      "image": "https://den-cards.pokellector.com/55/Absol.MA.96.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Absol.MA.96.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "96/95",
+      "card_number": "96",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Absol.MA.96.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$114.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fabsol"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$130.99",
+          "link": "http://www.trollandtoad.com/p168747.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$80.00",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Absol+96+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$9.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Absol+-+96%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$89.09",
+          "link": "http://stop2shop.com/team-ma-96.html"
+        }
+      ],
+      "alternate_versions": []
+    },
+    "97": {
+      "number": "97",
+      "name": "Jirachi",
+      "title": "Jirachi - EX Team Magma vs Team Aqua #97",
+      "link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/Jirachi-Card-97",
+      "image": "https://den-cards.pokellector.com/55/Jirachi.MA.97.thumb.png",
+      "full_image": "https://den-cards.pokellector.com/55/Jirachi.MA.97.png",
+      "details_scraped": true,
+      "rarity": "Secret Rare",
+      "set_name": "EX Team Magma vs Team Aqua",
+      "set_link": "/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+      "position": "97/95",
+      "card_number": "97",
+      "total_cards": "95",
+      "image_full": "https://den-cards.pokellector.com/55/Jirachi.MA.97.png",
+      "prices": [
+        {
+          "vendor": "TCG Player",
+          "price": "$149.99",
+          "link": "https://partner.tcgplayer.com/c/2698352/1830156/21018?u=https%3A%2F%2Fstore.tcgplayer.com%2Fpokemon%2Fteam-magma-vs-team-aqua%2Fjirachi"
+        },
+        {
+          "vendor": "Troll & Toad",
+          "price": "$66.49",
+          "link": "http://www.trollandtoad.com/p168762.html"
+        },
+        {
+          "vendor": "eBay",
+          "price": "$55.91",
+          "link": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=EX+Team+Magma+vs+Team+Aqua+Jirachi+97+-jumbo+-oversize+-promo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337432989&customid=&toolid=10001&mkevt=1"
+        },
+        {
+          "vendor": "Cool Stuff Inc",
+          "price": "$6.99",
+          "link": "http://www.coolstuffinc.com/p/Pokemon/Jirachi+-+97%2F95"
+        },
+        {
+          "vendor": "Unknown",
+          "price": "$37.83",
+          "link": "http://stop2shop.com/team-ma-97.html"
+        }
+      ],
+      "alternate_versions": []
+    }
+  },
+  "scraped_date": "2026-03-28 13:12:04"
+}
